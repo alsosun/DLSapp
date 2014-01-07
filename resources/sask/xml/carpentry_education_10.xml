@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-198409_1</pdf>
+  <banner>career/Construction_and_carpentry_10_20_30.png</banner>
+  <dark_colour>#a24c3d</dark_colour>
+  <light_colour>#ecdbd8</light_colour>
+  <goals>paa/construction_carpentry_aimsgoals.htm</goals>
+  <teaching>paa/construction_carpentry_teaching.htm</teaching>
+  <curriculum_name>Construction and Carpentry 10, 20, 30</curriculum_name>
+  <classification_id>construction and carpentry 10 20 30</classification_id>
+  <module_overview_chart>https://www.edonline.sk.ca/bbcswebdav/xid-198409_1#page=17</module_overview_chart>
+  <outcomes>
+    <goal_section collapsable="true">
+      <goal_heading>Construction and Carpentry 10</goal_heading>
+      <outcome>
+        <identifier>Module 1</identifier>
+        <outcome_text labeled="true">Demonstrate safe work habits and an attitude of working safely with tools around others to prevent unintentional injuries.</outcome_text>
+        <outcome_note>Note: While a single safety module has been included, safety must be the primary focus for students each day.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Demonstrate an attitude of working safely for the benefit of self and others.</p>
+          </indicator>
+          <indicator>
+            <p>Integrate high standards of safety practice into personal work habits including use of personal protective equipment (PPE).</p>
+          </indicator>
+          <indicator>
+            <p>Act consistently to focus on personal tasks while maintaining a consciousness of others working in proximity.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze shop and workplace situations to identify hazards and seek solutions.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss and assess fire and injury procedures in the shop and/or worksite.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 2</identifier>
+        <outcome_text labeled="true">Demonstrate an understanding of tree growth and lumber production.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate the structure and growth of common lumber trees including concepts such as pith, heartwood, and annual rings.</p>
+          </indicator>
+          <indicator>
+            <p>Classify common woods as softwoods or hardwoods and consider whether open- or closed-grained.</p>
+          </indicator>
+          <indicator>
+            <p>Represent the path of dimensional lumber from falling a tree to retail sales in a lumber yard.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and identify common wood defects such as warp, check, cup, and bow.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and discuss the effects of moisture on dimensional lumber.</p>
+          </indicator>
+          <indicator>
+            <p>Assess current logging practices in Saskatchewan and Canada, and express an opinion about the sustainability of the wood product industry.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 3</identifier>
+        <outcome_text labeled="true">Demonstrate an understanding of how a variety of wood products are manufactured.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Compare the manufacturing processes and categories for various engineered structural wood panels (i.e. plywood, oriented strand board, and composite panels).</p>
+          </indicator>
+          <indicator>
+            <p>Classify the common uses of non-structural panels such as hardwood, plywood, medium density fibreboard (MDF), hardboard, and particleboard.</p>
+          </indicator>
+          <indicator>
+            <p>Summarize the advantages of glued-laminated timber (glulam) over conventional timber beams.</p>
+          </indicator>
+          <indicator>
+            <p>Justify the use of wood I-joists and floor trusses over traditional joists in residential construction.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 4</identifier>
+        <outcome_text labeled="true">Demonstrate the calculation of material usage to arrive at a project cost.</outcome_text>
+        <outcome_note>Note: Work in this module supports outcomes WA10.4 and WA10.5 of grade 10 Workplace and Apprenticeship Math.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Describe the difference between the nominal size and the actual size of lumber.</p>
+          </indicator>
+          <indicator>
+            <p>Utilize the appropriate formula to calculate the number of board feet in a given project.</p>
+          </indicator>
+          <indicator>
+            <p>Calculate the cost of a project given a material list and the cost of the lumber and hardware.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 6</identifier>
+        <outcome_text labeled="true">Demonstrate proficiency and accuracy when measuring materials.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate accurate measurement to 1/16” or 1-2 millimeters with a pocket tape measure.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how to draw a line parallel to a board’s side with a combination square.</p>
+          </indicator>
+          <indicator>
+            <p>Calculate area, perimeter, and volume using simple formulas and a tape measure.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how to draw a line at 90 and 45 degrees using a framing square.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how to check for level and plumb using a carpenter’s level.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate a number of other measurement devices (e.g., plumb bob, sliding T-bevel, tramel points, dividers).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 7</identifier>
+        <outcome_text labeled="true">Demonstrate proficiency with a variety of hand tools to accomplish cutting, shaping, smoothing, and boring of wood.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the hand tools in the shop and describe their function.</p>
+          </indicator>
+          <indicator>
+            <p>Assess a task and identify the hand tools best suited to accomplishing the task.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the correct technique when provided a hand tool.</p>
+          </indicator>
+          <indicator>
+            <p>Describe safety precautions for each hand tool used in the class including correct PPE.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 8A</identifier>
+        <outcome_text labeled="true">Develop proficiency using a variety of portable power tools.</outcome_text>
+        <outcome_note>Note: The tools listed in Modules 8A and 8B can be interchanged depending on individual capability and equipment availability to complete a project.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Demonstrate the correct use of a jigsaw including cutting curves and replacing the blade.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the proper use of a drill including selecting and changing bits, batteries, and bit direction.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the proper use of a router including changing a bit, setting the depth, and identifying a number of common bits and their cuts (e.g., rabbet, dado, cove, flush trim).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the proper technique for marking stock and using a biscuit joiner including adjusting for the size of biscuit.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 9A</identifier>
+        <outcome_text labeled="true">Develop proficiency with operating a variety of stationary power tools.</outcome_text>
+        <outcome_note>Note: The tools listed in Modules 9A and 9B can be interchanged depending on individual capability and equipment availability to complete a project.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Demonstrate the safe use of a tablesaw and/or radial arm saw including setting the fence, setting the depth of cut, and selecting and installing the correct blade.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the safe use of a mitresaw including adjusting the angle of the cut and changing the blade.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the proper use of a bandsaw to make straight and irregular cuts as well as select and install the correct blade.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the proper use of a drill press including how to adjust the depth of the hole, the tilt of the table, and the speed of the bit.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 10</identifier>
+        <outcome_text labeled="true">Develop proficiency in using fasteners and adhesives effectively.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify a number of types of nails, screws, and bolts, and determine the characteristics of each to select the best fasteners for the given task.</p>
+          </indicator>
+          <indicator>
+            <p>Identify a number of solid and hollow wall anchors to determine the appropriate one for the given task.</p>
+          </indicator>
+          <indicator>
+            <p>Identify a number of connectors and hangers to determine the appropriate one for the given task.</p>
+          </indicator>
+          <indicator>
+            <p>Identify some common glues and mastics to determine the appropriate product for a given task.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 11A</identifier>
+        <outcome_text labeled="true">Demonstrate basic woodworking skills to complete a simple project.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the needed tools, skills, timelines, and safety practices associated with a given project.</p>
+          </indicator>
+          <indicator>
+            <p>Transpose measurements from a plan to material.</p>
+          </indicator>
+          <indicator>
+            <p>Cut lumber and/or sheet material.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate safe and efficient use of required tools.</p>
+          </indicator>
+          <indicator>
+            <p>Assemble using the appropriate joinery and/or fasteners.</p>
+          </indicator>
+          <indicator>
+            <p>Apply a finish to the project (if required).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 12</identifier>
+        <outcome_text labeled="true">Investigate a variety of different methods and products to select an appropriate project finish.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate and explain the advantages and disadvantages of oil-based and water-based as well as transparent and semi- transparent products.</p>
+          </indicator>
+          <indicator>
+            <p>Choose the appropriate product for finishing a project (e.g., shellac, paint, stain, oil, wax).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and create a plan for prepping the wood to the proper degree before applying a finish.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the proper technique for applying and cleaning up the finish.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 13</identifier>
+        <outcome_text labeled="true">Explore and evaluate the career development and occupation opportunities in the field of construction and carpentry in Saskatchewan, Canada, and globally, including post-secondary education programs.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify specific examples of occupational skills and occupations required in the construction trades.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate programs offered by the Saskatchewan Apprenticeship and Trade Certification Commission and technical institutes in carpentry.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate job opportunities in the construction trades.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 99A</identifier>
+        <outcome_text>The Extended Study module is designed to provide schools and teachers with an opportunity to meet current and future demands not provided for in current modules in the Construction and Carpentry curriculum.</outcome_text>
+        <outcome_note>Note: The Extended Study module may be used only once in each 100 hour course. In the Student Data System, record 99A for the first Extended Study module offered in the course series, and, if needed, 99B for the second and 99C for the third.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Module Overview: Evolving societal and personal needs, advances in technology, and demands to solve current problems require a flexible curriculum that can accommodate new ways and means to support learning in the future. The Extended Study module is designed to provide schools and teachers with an opportunity to meet current and future demands not provided for in current modules in the Construction and Carpentry curriculum. This flexibility allows a school or teacher to design one new module per credit to complement or extend the study of the core and optional modules to meet the specific needs of students or the community. The Extended Study module is designed to extend the content of the pure courses and to offer survey course modules beyond the scope of the available selection of the Construction and Carpentry modules. The list of possibilities for topics of study or projects for an extended study is as varied as the imagination of those using the module. The optional Extended Study Module guidelines should be used to strengthen the knowledge, skills, and processes advocated in the Construction and Carpentry curriculum. For more information on the guidelines for the Extended Study module, see the Practical and Applied Arts Handbook.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

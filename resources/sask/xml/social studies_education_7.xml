@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181940_1</pdf>
+  <banner>social/SS7.png</banner>
+  <dark_colour>#8f3b67</dark_colour>
+  <light_colour>#e9d8e1</light_colour>
+  <goals>social/socialstudies7-9aimsgoals.htm</goals>
+  <teaching>social/socialstudies7teaching.htm</teaching>
+  <curriculum_name>Social Studies 7</curriculum_name>
+  <classification_id>social studies 7</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Interactions and Interdependence of Nations</goal_heading>
+      <outcome>
+        <identifier>IN7.1</identifier>
+        <outcome_text>Investigate examples of conflict, cooperation, and interdependence between Canada and circumpolar and Pacific Rim countries.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine the mission, goals, and structure of an organization whose mandate is national or international co-operation (e.g., United Nations, NORAD, NAFTA, APEC, Organization of American States, Association of Southeast Asian Nations, Western Aboriginal Development Alliance).</p>
+          </indicator>
+          <indicator>
+            <p>Critique the influence of an organization with a mandate for national or international co-operation in terms of its contributions toward conflict, cooperation, self-reliance, and interdependence.</p>
+          </indicator>
+          <indicator>
+            <p>Diagnose reasons for a current or historical conflict involving Canada and a circumpolar or Pacific Rim country.</p>
+          </indicator>
+          <indicator>
+            <p>Create an inventory illustrating the interdependence of Canada and circumpolar and Pacific Rim countries.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IN7.2</identifier>
+        <outcome_text>Examine the effects of globalization on the lives of people in Canada and in circumpolar and Pacific Rim countries.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the countries of origin of people, or of personal objects or tools (e.g., clothing, foods, friends, classmates, teachers, electronic equipment, favourite websites).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the international links of a Saskatchewan business.</p>
+          </indicator>
+          <indicator>
+            <p>Define globalization, and identify examples of globalization in the local community.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the economic impact of globalization in relation to the effects on the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Articulate and interpret the main arguments for and against globalization.</p>
+          </indicator>
+          <indicator>
+            <p>Conduct an inquiry to determine the effects of globalization on the local community.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IN7.3</identifier>
+        <outcome_text>Analyze the relationship of technology to globalization.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify technological connections that exist in the student’s life, and classify them as local, national, or international.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the risks and benefits related to various technologies.</p>
+          </indicator>
+          <indicator>
+            <p>Develop an argument that addresses the impact of technology and globalization on societies.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Dynamic Relationships</goal_heading>
+      <outcome>
+        <identifier>DR7.1</identifier>
+        <outcome_text>Analyze and use various types of maps (that provide differing perspectives and information for differing purposes) in order to situate current issues in Canada, and in a selection of Pacific Rim and northern circumpolar countries.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Locate the continents and significant physical features (e.g., landforms, water bodies, climatic zones, vegetation zones) on a world map.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the major population clusters in Canada, and in a selection of Pacific Rim and northern circumpolar countries and locate them on a map.</p>
+          </indicator>
+          <indicator>
+            <p>Locate and identify Treaty territories on a map of Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Examine maps of various projections and scales (e.g., Mercator, Peters, circumpolar, plate tectonics) in order to determine the characteristics and application of each map.</p>
+          </indicator>
+          <indicator>
+            <p>Examine and propose the advantages, limitations, and potential uses of a variety of types of maps (e.g., Mercator, Peters, circumpolar, plate tectonics).</p>
+          </indicator>
+          <indicator>
+            <p>Describe the nature of the physical, political, and population geography of Pacific and northern Canada, and of a selection of Pacific Rim and circumpolar countries using data from various maps, charts, and graphs.</p>
+          </indicator>
+          <indicator>
+            <p>Construct generalizations about the nature of the physical, political, and population geography in Pacific and northern Canada, and in a selection of Pacific Rim and circumpolar countries.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR7.2</identifier>
+        <outcome_text>Appraise the impact of human habitation on the natural environment in Canada, and in a selection of Pacific Rim and northern circumpolar countries.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the influence of physical features such as water bodies, topography, and natural resources on the location of people in Pacific and northern Canada (including the traditional homelands of indigenous peoples) and in a selection of Pacific Rim and circumpolar countries.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the effects of humans and their technology on the natural environment in Canada, and in a selection of Pacific Rim and circumpolar countries, including the consequences for indigenous peoples who inhabit those regions (e.g., over harvesting of salmon fishery, increased incidence of severe weather, influence of logging industry on the natural world and ecosystems, effects of deforestation and coral removal, and efforts to reclaim shorelines and restore the natural barriers).</p>
+          </indicator>
+          <indicator>
+            <p>Explore situations where changes in the environment, induced naturally or by humans, have resulted in the relocation of peoples in Canada, and in a selection of Pacific Rim and circumpolar countries, including indigenous peoples who inhabit those regions. Explain the reasons for the relocation and its consequences.</p>
+          </indicator>
+          <indicator>
+            <p>Trace examples of current effects of climate change on the movement of peoples (e.g., melting of the polar icecap and greater accessibility to the North-West Passage and the oil underneath) and hypothesize about the potential effects of climate change on the movement of peoples in the future.</p>
+          </indicator>
+          <indicator>
+            <p>Explore the Treaty relationship and the values and beliefs associated with sharing the land.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR7.3</identifier>
+        <outcome_text>Analyze the relationship between current and historical events and the physical and social environments in Pacific and northern Canada and in a selection of Pacific Rim and circumpolar countries.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Relate current issues to location by using physical maps, political maps, and population maps of Canada, and a selection of Pacific Rim and circumpolar countries in order to understand the role of geography in shaping political events (e.g., sovereignty over the North-West Passage, Western intervention in other countries, political alliances, adoption of a system of government) and economic activity (e.g., economic alliances, trading partners, exploitation of resources, impact of the reserve system on First Nations populations) in Canada, and a selection of Pacific Rim and circumpolar countries.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the effects of natural or human catastrophes on affected populations, and, by extension, on the history of human habitation of the region.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the influence of contact with another culture on the Aboriginal peoples of Canada, circumpolar countries, and a selection of Pacific Rim countries (e.g., the influence of Europeans on the indigenous peoples of Canada, Mexico, and Australia).</p>
+          </indicator>
+          <indicator>
+            <p>Assess the effects of relocations and deportations of affected groups in Canada, and in circumpolar and Pacific Rim countries (e.g., the Acadian deportation, the treatment of European immigrants during WWI, the internment of Japanese-Canadians in WW2, First Nations children in Canada and Australia abducted from their homes to attend residential schools).</p>
+          </indicator>
+          <indicator>
+            <p>Conduct an inquiry synthesizing the link between historical events, population dynamics, and environment.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate relationships within and among select circumpolar and Pacific Rim countries to determine reasons for current political and economic relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Debate the positions of circumpolar and Pacific Rim countries with respect to climate change.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Power and Authority</goal_heading>
+      <outcome>
+        <identifier>PA7.1</identifier>
+        <outcome_text>Compare the sources of power for individuals, nations, and regions in a selection of Pacific Rim and circumpolar countries.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe the source of power (resources, numbers, organization) and forms of power (force, authority, influence) used by individuals in a position of leadership in the local community or a local organization.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the sources of power, including organization, resources (technological, human, and military), and numbers, evidenced in the exercise of power by an individual, organization, or nation as described in a current events article.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the sources of power held by the First Nations and the Europeans respectively in the negotiations of the treaty which governs the local area.</p>
+          </indicator>
+          <indicator>
+            <p>Identify examples of the use of co-operation balance and harmony as a sources of power used to effect change in the local, provincial, national, or international community (e.g., service organizations, trade unions, First Nations and Métis organizations, co-operative movements, advocacy groups).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the sources of power of a national leader of a Pacific Rim or circumpolar country.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA7.2</identifier>
+        <outcome_text>Investigate the structures and processes of democratic government in Canada.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Survey the principles of democracy as defined by family, school, and community members, and synthesize into a definition of democracy.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the responsibilities of municipal, provincial or territorial, and federal and First Nations governments in Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the roles of the elected representatives in the local (reeve, mayor, councillor), provincial or territorial (member of the legislative assembly), federal (member of parliament), First Nations (councillor, chief) system of government and Métis governance structures.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the federal, provincial or territorial, or local election processes in Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Chart the structures of Canadian government at the local, provincial, and national levels.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA7.3</identifier>
+        <outcome_text>Compare the strengths and weaknesses of oligarchy, dictatorship, and democracy as systems of government.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine the systems of government of circumpolar or Pacific Rim countries which are not democracies (e.g., China, North Korea, Vietnam, Fiji).</p>
+          </indicator>
+          <indicator>
+            <p>Contrast the systems of government of the non-democracies in circumpolar and Pacific Rim countries with Canada’s system of government.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the criteria by which countries are described as dictatorships, oligarchies, or democracies.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the strengths and weaknesses of democracy, oligarchy, and dictatorship as systems of government.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Resources and Wealth</goal_heading>
+      <outcome>
+        <identifier>RW7.1</identifier>
+        <outcome_text>Explain the role of barter, trade, and sharing in traditional economies in Canada and the circumpolar and Pacific Rim countries.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Role play the practices of barter, trade, and sharing used to obtain goods and services.</p>
+          </indicator>
+          <indicator>
+            <p>Describe examples of barter, trade, and sharing in the local community.</p>
+          </indicator>
+          <indicator>
+            <p>Present the experiences of Elders and senior citizens in the local community regarding barter, sharing, and trade.</p>
+          </indicator>
+          <indicator>
+            <p>Question whether economies based on barter, trade, and sharing are sustainable.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RW7.2</identifier>
+        <outcome_text>Investigate the influence of resources upon economic conditions of peoples in circumpolar and Pacific Rim countries.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Formulate a definition of a natural resource, and differentiate between renewable and non-renewable resources.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the locations of natural resources of circumpolar and Pacific Rim countries using appropriate maps, and analyse the impact of the resources on local communities.</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate between primary, secondary, and tertiary industry.</p>
+          </indicator>
+          <indicator>
+            <p>Correlate the presence of resources and industries to the gross national product of circumpolar and Pacific Rim countries.</p>
+          </indicator>
+          <indicator>
+            <p>Draw conclusions about the standard of living of people in Pacific Rim and circumpolar countries using material wealth measures (gross national product, gross domestic product) and non-material measures (the quality of life index, happiness index).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RW7.3</identifier>
+        <outcome_text>Assess the ecological stewardship of economies of Canada and the circumpolar and Pacific Rim countries.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research and illustrate the origins and current meanings of the words “steward” and “stewardship”.</p>
+          </indicator>
+          <indicator>
+            <p>Define the word “sustainable”, and discriminate between the concepts of sustainable and unsustainable as they apply to resources and industry.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the sustainability of the economies of a selection of circumpolar and Pacific Rim countries, and propose practices which might increase the level of sustainability.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181771_1</pdf>
+  <banner>career/careereducation9.gif</banner>
+  <dark_colour>#a24c3d</dark_colour>
+  <light_colour>#ecdbd8</light_colour>
+  <goals>career/careereducation7-9aimsgoals.htm</goals>
+  <teaching>career/careereducation6-9teaching.htm</teaching>
+  <curriculum_name>Career Education 9</curriculum_name>
+  <classification_id>career education 9</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Change and Growth (CG)</goal_heading>
+      <goal>Goal: All students will develop career management competencies through an exploration of personal change and growth</goal>
+      <outcome>
+        <identifier>CG9.1</identifier>
+        <outcome_text>Plan for, demonstrate, and document improvements of one’s own capacity for building a positive self-image.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe and analyze how individual characteristics such as interests, gifts, skills, values, level of physical fitness, beliefs, and attitudes contribute to achieving personal, social, educational, and professional goals</p>
+          </indicator>
+          <indicator>
+            <p>Assess one’s own personal characteristics and apply those that contribute positively to achievement of personal goals</p>
+          </indicator>
+          <indicator>
+            <p>Document improvements in one’s self-image from the last number of years which contribute positively to one’s life and work</p>
+          </indicator>
+          <indicator>
+            <p>Integrate personal skills such as time management, problem solving, stress management, and life/work balance into one’s life</p>
+          </indicator>
+          <indicator>
+            <p>Practise helping in situations one feels comfortable with and wishes to contribute in relationships with others</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CG9.2</identifier>
+        <outcome_text>Appraise one’s own abilities to respond positively to change and growth.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Define stress and identify sources of stress in one’s life</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the impact of stress caused by change in one’s life</p>
+          </indicator>
+          <indicator>
+            <p>Apply stress management techniques such as changing one’s environment, changing one’s response to stressors, and accessing support systems</p>
+          </indicator>
+          <indicator>
+            <p>Identify opportunities arising from changes in one’s life</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Connections to Community (CC)</goal_heading>
+      <goal>Goal: All students will explore the connection between learning and work pathways and their connections to community.</goal>
+      <outcome>
+        <identifier>CC9.1</identifier>
+        <outcome_text>Utilize career information to construct an organized plan of career building which reflects an attitude and expectation of lifelong learning.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and explain how skills, knowledge, and attitudes acquired in academic, artistic, and technical/practical programs may contribute to achieving personal and professional goals</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how education and training interests relate to various options regarding post-secondary programs, workplace training, and/or entry into the workforce</p>
+          </indicator>
+          <indicator>
+            <p>Conduct research using digital resources into the requirements of a variety of work roles and work environments and determine how one’s transferable skills, knowledge, and attitudes can fulfill the requirements</p>
+          </indicator>
+          <indicator>
+            <p>Review graduation requirements and plan high school course selection which support and reflect one’s life goals</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC9.2</identifier>
+        <outcome_text>Analyze and express one’s own understanding of how societal and economic needs influence the nature of paid and unpaid work.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Utilize career information resources such as occupation classification systems, labour market information, mass media, and Internet-based information delivery systems to analyze the realities and requirements of various work roles</p>
+          </indicator>
+          <indicator>
+            <p>Determine, according to one’s gifts and interests, the advantages and disadvantages of various work alternatives (e.g., full-time or part-time employment, contracting, consulting, entrepreneurship)</p>
+          </indicator>
+          <indicator>
+            <p>Investigate social, demographic, technological, occupational, and industrial trends affecting work and learning and identify their potential impact on oneself, now and in the future</p>
+          </indicator>
+          <indicator>
+            <p>Assess the importance of various types of work for oneself through real or simulated work experience (e.g., TOKW, The Be Real Game)</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Life and Work Plan (LW)</goal_heading>
+      <goal>Goal: All students will engage in inquiry to construct a personal life and work plan.</goal>
+      <outcome>
+        <identifier>LW9.1</identifier>
+        <outcome_text>Assess one’s own abilities to seek, obtain, and/or create work through researching successful strategies and applying them to one's own life.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Acknowledge one’s personal set of skills, knowledge, and attitudes that contribute to seek, obtain, create, and maintain work</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the skills, knowledge, and attitudes in preparing personal career documentation (e.g., résumés, proposals, portfolios, cover letters, interviews)</p>
+          </indicator>
+          <indicator>
+            <p>Explore strategies for identifying work opportunities (e.g., newspapers, websites, help wanted signs, word of mouth)</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>LW9.2</identifier>
+        <outcome_text>Use acquired knowledge to create a plan for life and work based on one’s preferred future.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate and plan the steps required for transition to secondary school as well as post-secondary education and/or training programs</p>
+          </indicator>
+          <indicator>
+            <p>Create and engage in scenarios supportive of one’s values and goals</p>
+          </indicator>
+          <indicator>
+            <p>Acknowledge and analyze factors that influence or impact one’s life and work plans (e.g., socioeconomic status, culture, values, physical fitness, work choices, work habits, gender bias and stereotyping)</p>
+          </indicator>
+          <indicator>
+            <p>Develop plans to pursue one’s preferred future</p>
+          </indicator>
+          <indicator>
+            <p>Determine whether or not it is necessary to modify and/or create new life/work scenarios and adjust one’s short-term action plans</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-197984_1</pdf>
+  <banner>arts/AEK.png</banner>
+  <dark_colour>#0e6bb6</dark_colour>
+  <light_colour>#e7f0f8</light_colour>
+  <goals>kindergarten/arts_aimsgoals_k.htm</goals>
+  <curriculum_name>Arts Education K</curriculum_name>
+  <classification_id>kindergarten</classification_id>
+  <classification_entry>arts_education</classification_entry>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Creative/Productive (CP)</goal_heading>
+      <outcome>
+        <identifier>CPK.1</identifier>
+        <outcome_text>Express ideas through exploration of the elements of dance including: action, body, dynamics, relationships, space.</outcome_text>
+        <indicators id="CPK.1">
+          <indicator>
+            <p>Use movement to respond to stimuli from diverse sources such as stories, poems, observations, visual images, music, sounds, or objects.</p>
+          </indicator>
+          <indicator>
+            <p>Ask questions related to the stimuli to contribute to a dance-making inquiry process (e.g., How does grass move when the wind blows?).</p>
+          </indicator>
+          <indicator>
+            <p>Apply personal experience and imagination to express ideas in dance.</p>
+          </indicator>
+          <indicator>
+            <p>Share dance ideas and movement responses with other children.</p>
+          </indicator>
+          <indicator>
+            <p>Move to external beats and rhythms (e.g., round dance, jigging).</p>
+          </indicator>
+          <indicator>
+            <p>Describe choices made when creating (e.g., fast or slow, roll or hop).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate what own body can do by exploring a variety of whole body and body part movements to express ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Repeat expressive movements and patterns created by self and others.</p>
+          </indicator>
+          <indicator>
+            <p>Use different kinds of locomotor (travelling) and non-locomotor (non-travelling) actions (e.g., roll, jump, hop, turn, and pause) to express ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Use a variety of dynamic qualities such as quickly and softly in dance compositions.</p>
+          </indicator>
+          <indicator>
+            <p>Recall that the dance space is called general space and that personal space is each child’s “bubble” or self-space.</p>
+          </indicator>
+          <indicator>
+            <p>Move freely and safely in general space while maintaining self-space (not contacting).</p>
+          </indicator>
+          <indicator>
+            <p>Explore different movement relationships (e.g., leading, following, near, far, over, under, in front, behind) with the teacher and other dancers.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CPK.2</identifier>
+        <outcome_text>Explore a variety of drama strategies including: role, imaging, parallel play, journeys, meetings.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use sources such as stories, poems, observations, visual images, music, sounds, or objects to initiate drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that dramas are fictional situations.</p>
+          </indicator>
+          <indicator>
+            <p>Contribute to the choice of topic ideas for the drama.</p>
+          </indicator>
+          <indicator>
+            <p>Ask questions to contribute to inquiry on a drama topic (e.g., What might happen to animals if winter did not come this year? What if a messenger came to tell us that a giant was seen outside the town?).</p>
+          </indicator>
+          <indicator>
+            <p>Listen to others and work co-operatively in dramatic contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Explore ideas in dramatic contexts and during reflection, drawing on own life experience.</p>
+          </indicator>
+          <indicator>
+            <p>Use imagination during, and when reflecting on, the drama experience.</p>
+          </indicator>
+          <indicator>
+            <p>Assume roles willingly in contextual drama.</p>
+          </indicator>
+          <indicator>
+            <p>Listen quietly during imaging activities and become aware of thoughts and feelings that cannot be seen.</p>
+          </indicator>
+          <indicator>
+            <p>Focus attention on own work, while respecting others, during parallel play and imaginary journeys.</p>
+          </indicator>
+          <indicator>
+            <p>Contribute ideas during fictional meetings and other dramatic situations.</p>
+          </indicator>
+          <indicator>
+            <p>Retell events and ideas that arise during the drama process.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CPK.3</identifier>
+        <outcome_text>Create sound compositions exploring the elements of music including: repeating patterns, beat (e.g., clapping and stepping, and counting), response to fast/slow paces, high/low sounds, loud/soft sounds, sounds with distinct tone colours/timbres.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use sources such as stories, poems, observations, visual images, music, sounds, or objects to inspire music making.</p>
+          </indicator>
+          <indicator>
+            <p>Observe sounds in a variety of settings, both natural (e.g., birds, animals, insects, wind, trees, water) and constructed (e.g., machinery, human-made objects in rural, urban, and reserve environments), and apply listening skills to own work.</p>
+          </indicator>
+          <indicator>
+            <p>Use own words to describe elemental characteristics of sounds (e.g., high/low and soft/loud) from a variety of settings and from own compositions.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss how musicians and scientists use their senses to observe the world (e.g., listening to sound characteristics and patterns) and apply this understanding to own work.</p>
+          </indicator>
+          <indicator>
+            <p>Create and imitate sounds by experimenting with the voice and instruments.</p>
+          </indicator>
+          <indicator>
+            <p>Experiment with a variety of simple found objects and selected instruments, both pitched and unpitched.</p>
+          </indicator>
+          <indicator>
+            <p>Create sounds to convey particular patterns, images, or expressive qualities.</p>
+          </indicator>
+          <indicator>
+            <p>Describe basic decisions made in creating music expressions (e.g., sounds to be used in the piece, loud parts, soft parts, order of sounds).</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between own speaking voice and singing voice.</p>
+          </indicator>
+          <indicator>
+            <p>Begin to develop the ability to match pitch.</p>
+          </indicator>
+          <indicator>
+            <p>Clap, play, and move to beats and rhythmic patterns (e.g., in nursery rhymes, music, teaching stories, and legends).</p>
+          </indicator>
+          <indicator>
+            <p>Contribute to inquiry about elements of music (e.g., What sounds can we combine to make different patterns/rhythms?).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate awareness of patterns of high/low and loud/soft sounds in own speech and music.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and use sounds and instruments with distinctly different tone colours/timbres (e.g., triangle versus tambourine).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CPK.4</identifier>
+        <outcome_text>Create art works that express own observations and ideas about the world.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify different lines, colours, textures, shapes, forms, and patterns in surroundings and art works, and apply this understanding in own work.</p>
+          </indicator>
+          <indicator>
+            <p>Use diverse sources such as stories, poems, observations, visual images, music, sounds, or objects as inspiration for art making.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss how artists and scientists use their senses to observe and record characteristics of plants, animals, and humans in the environment (e.g., observing nature, sounds, movement, and visual details).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize the difference between the natural and built environments.</p>
+          </indicator>
+          <indicator>
+            <p>Ask questions about own environment to contribute to inquiry through visual art (e.g., Why do birds have different coloured feathers? How can we use these art materials to make interesting birds? Do some birds have special meaning in some cultures? How can we use feathers in our art? Are there some feathers that we cannot use, and why?).</p>
+          </indicator>
+          <indicator>
+            <p>Select from a variety of art materials, tools, and paper size when creating a visual art expression (e.g., found objects, digital cameras, household items, wire).</p>
+          </indicator>
+          <indicator>
+            <p>Observe and identify details of the physical appearance of plants, animals, people, and objects, and create visual representations.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate co-ordination and development of skills in the use of simple visual art tools and materials.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss choices made in creating art works.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and identify the concepts of big and small.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and identify top, bottom, front, back, and sides.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and identify objects from different viewpoints (e.g., near, far, high, low) and describe what is seen.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Critical/Responsive (CR)</goal_heading>
+      <outcome>
+        <identifier>CRK.1</identifier>
+        <outcome_text>Respond to arts expressions verbally and non-verbally (e.g., through movement or drawing).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Ask questions and describe thoughts and feelings evoked by arts expressions in a variety of ways (e.g., respond through movement, drawing, talking, clapping, or sound compositions).</p>
+          </indicator>
+          <indicator>
+            <p>Tell stories, recall prior experiences, and make personal and imaginative connections to arts expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate curiosity when viewing and responding to dances, dramatic presentations, music, and visual art expressions (e.g., contemporary, historical, cultural, and popular).</p>
+          </indicator>
+          <indicator>
+            <p>Use senses and discuss observations about the effects of various arts expressions (e.g., music that is calming, dance that is lively, drama that shows emotions, visual art that looks peaceful).</p>
+          </indicator>
+          <indicator>
+            <p>Show interest in knowing more about arts expressions and artists.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and respond to a range of arts expressions, incorporating age-appropriate discussion of arts elements and principles (e.g., lines and colours in picture book illustrations, rhythm or dynamics of a song, use of space in a dance, variety of roles in a drama).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Cultural/Historical (CH)</goal_heading>
+      <outcome>
+        <identifier>CHK.1</identifier>
+        <outcome_text>Investigate arts expressions found in own homes and school community in relation to own lives.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe arts expressions found in homes and community (e.g., music, heritage dances, puppet theatre, design of functional objects such as goalie masks, teapots, and running shoes).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate awareness that artists use different kinds of materials, tools, instruments, and technology.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate various kinds of artists working in own community (e.g., musicians, visual artists, filmmakers).</p>
+          </indicator>
+          <indicator>
+            <p>Collect, discuss, and document stories, images, ideas, and/or emotions in response to the work of artists in own community (e.g., collect photos, music, and objects to create a class display about local arts and artists).</p>
+          </indicator>
+          <indicator>
+            <p>Learn songs, music, and dances of various styles and cultural groups associated with home and school community.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CHK.2</identifier>
+        <outcome_text>Recognize a wide variety of arts expressions as creations of First Nations and Métis peoples.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and identify differences between First Nations Powwow dances and drum groups versus Métis jigging and fiddling.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and describe Powwow regalia, beadwork, and other traditional forms of art.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and discuss arts expressions of First Nations and Métis musicians, actors, and visual artists.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate awareness that drummers, singers, dancers, and other artists play important roles in First Nations and Métis cultures.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

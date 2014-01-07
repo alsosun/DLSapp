@@ -1,0 +1,221 @@
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181860_1</pdf>
+  <outcomes>
+    <goal_section collapsable="true">
+      <goal_heading>Welding B30</goal_heading>
+      <outcome>
+        <identifier>Module 8</identifier>
+        <outcome_text labeled="true">Demonstrate cutting with an oxy-acetylene torch on a variety of metal thicknesses to achieve a high quality cut.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate the correct settings for the oxygen and the acetylene regulators and explain the relationship between the settings and the metal thickness.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate and evaluate oxy-acetylene cutting torch work on a variety of thicknesses and types of metal.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 12B</identifier>
+        <outcome_text labeled="true">Plan, complete, and assess an oxy-acetylene welding project to demonstrate increasing welding proficiency.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create a scale drawing of the project using appropriate symbols including a cutting list.</p>
+          </indicator>
+          <indicator>
+            <p>Calculate the cost of material including incidentals.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate increasing development of welding skills.</p>
+          </indicator>
+          <indicator>
+            <p>Develop a project plan to include major stages of development and a timeline needed for completion as outlined in module 12A.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 20C</identifier>
+        <outcome_text labeled="true">Perform the required advanced welds capable of passing a bend test to demonstrate arc welding skills with increasing accuracy.</outcome_text>
+        <outcome_note>Note: All tacks on vee butts are allowed to be ground and feathered prior to root installation.</outcome_note>
+        <outcome_note>Note: All root passes are allowed to be ground prior to fill and cap.</outcome_note>
+        <outcome_note>Note: Welds in this module may also include specific job-related welds if student will transition directly to a workplace.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Perform a vertical uphand fillet on ¼” mild steel (fillet sizes ¼”, 3⁄8” and ½”; 7018).</p>
+          </indicator>
+          <indicator>
+            <p>Perform a 3⁄8” vee butt flat (6010 root, 7018 fill and cap).</p>
+          </indicator>
+          <indicator>
+            <p>Perform a 3⁄8” butt vertical uphand (6010 root, 7018 fill and cap).</p>
+          </indicator>
+          <indicator>
+            <p>Perform a 3⁄8” vee butt horizontal (6010 root, 7018 fill and cap) capable of successfully passing a bend test on root and face.</p>
+          </indicator>
+          <indicator>
+            <p>Compare and chart personal progress to identify increasing skill.</p>
+          </indicator>
+          <indicator>
+            <p>Assess personal technique and results in consultation with the instructor.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 23</identifier>
+        <outcome_text labeled="true">Demonstrate and explain the soldering process including how it is scientifically different from welding.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate and articulate the differences between welding and soldering.</p>
+          </indicator>
+          <indicator>
+            <p>Explain and demonstrate the lead alloy soldering process including material preparation and the use of flux.</p>
+          </indicator>
+          <indicator>
+            <p>Solder various joints using ½ “ and ¾” copper tubing.</p>
+          </indicator>
+          <indicator>
+            <p>Perform the soldering of a lap joint.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 24</identifier>
+        <outcome_text labeled="true">Perform a brazing weld on gauge mild steel and explain how it is different from other types of welding.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate and articulate the differences between welding, brazing, and braze welding.</p>
+          </indicator>
+          <indicator>
+            <p>Perform a brazing weld on 16, 18, and/or 20 gauge mild steel in the flat position.</p>
+          </indicator>
+          <indicator>
+            <p>Braze weld vertical up on 3/8” vee butt using mild steel or cast iron.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 25D</identifier>
+        <outcome_text labeled="true">Develop the effective use of GMAW equipment through an understanding of the science of welding.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Justify the relationship between wire speed and amperage, as well as between welding voltage and arc length.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the effects of backhand (pull) welding and forehand (push) welding.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the effects of torch angle on weld penetration and weld appearance.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the probable causes of the following defects: surface porosity, sub-surface porosity, lack of fusion, burn through, and lack of penetration.</p>
+          </indicator>
+          <indicator>
+            <p>Identify strategies to evaluate and improve weld quality.</p>
+          </indicator>
+          <indicator>
+            <p>Identify metals and perform preparation and assembly tasks prior to welding.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 27D</identifier>
+        <outcome_text labeled="true">Develop increasing skill using GMAW equipment to perform a variety of welds.</outcome_text>
+        <outcome_note>Note: Bridge plates may be used for tacking vee butts together to allow for a fully opened root.</outcome_note>
+        <outcome_note>Note: Welds in this module may also include specific job-related welds if student will transition to a workplace.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Perform 3⁄8” vee butt vertical up (short circuit root and short circuit fill and cap) capable of passing a bend test on root and face.</p>
+          </indicator>
+          <indicator>
+            <p>Perform an outside corner fillet, vertical up on ¼” mild steel.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 28B</identifier>
+        <outcome_text labeled="true">Design and complete an approved project using GMAW equipment.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop a project plan, using appropriate dimensions and symbols, through consultation with the instructor.</p>
+          </indicator>
+          <indicator>
+            <p>Carry out the stages of project development as outlined in Module 28A.</p>
+          </indicator>
+          <indicator>
+            <p>Create a cutting list as well as projected costs for materials and time.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate a high level of proficiency in GMAW techniques.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 31C</identifier>
+        <outcome_text labeled="true">Recognize how school-based skills development will be used to meet workplace expectations.</outcome_text>
+        <outcome_note>Note: Work Study is used to prepare students for employment through specific skill development within a workplace. The number of work study opportunities is equal to the number of courses available in the curriculum area at the 20 and 30 level.</outcome_note>
+        <outcome_note>Note: For more information about implementing work study in schools, see the Work-based Learning Guidelines for the Practical and Applied Arts included in the Practical and Applied Arts Handbook. In collaboration with the cooperating employer, the training plan for the student should be designed to relate to the outcomes of the course modules chosen.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Obtain a list of roles and responsibilities of the workplace.</p>
+          </indicator>
+          <indicator>
+            <p>Brainstorm a list of factors which may affect workplace performance.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss effective and positive verbal and non-verbal communication.</p>
+          </indicator>
+          <indicator>
+            <p>Develop a résumé which can be forwarded to a potential employer.</p>
+          </indicator>
+          <indicator>
+            <p>Practise effective interview techniques based on established guidelines including the greeting, the exchange, and the parting.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 32C</identifier>
+        <outcome_text labeled="true">Gain experience in the world of work to make more informed choices about careers by expanding the career research and exploration beyond the classroom.</outcome_text>
+        <outcome_note>Note: For more information about implementing work study in schools, see the Work-based Learning Guidelines for the Practical and Applied Arts included in the Practical and Applied Arts Handbook. In collaboration with the cooperating employer, the training plan for the student should be designed to relate to the outcomes of the course modules chosen.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Develop an awareness of career and opportunities in Saskatchewan and possibly other provinces.</p>
+          </indicator>
+          <indicator>
+            <p>Gain an opportunity for the development of entry level workplace skills that may lead to sustainable employment.</p>
+          </indicator>
+          <indicator>
+            <p>Establish standards of work performance acceptable to the student and employer</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the required skills and perform the duties expected by the employer.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and report on essential skills and employability skills as they relate to a work environment.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 33C</identifier>
+        <outcome_text labeled="true">Reflect and report on the work experience including but not limited to hours of work, personal relationships, employer expectations, evaluation criteria, and overall personal performance.</outcome_text>
+        <outcome_note>Note: For more information about implementing work study in schools, see the Work-based Learning Guidelines for the Practical and Applied Arts included in the Practical and Applied Arts Handbook. In collaboration with the cooperating employer, the training plan for the student should be designed to relate to the outcomes of the course modules chosen.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Design and participate in an exit interview with the workplace.</p>
+          </indicator>
+          <indicator>
+            <p>Prepare and present a report on the work study experience including aspects such as:Expected hours of work, Dress code and personal protective equipment (PPE), Job description, Employer expectations, Absence and late policies, Problem solving, Communication.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 99 D</identifier>
+        <outcome_text>Note: The extended study module may be used only once in each 100 hour course. In the Student Data System record 99A for the first extended study module offered in the course series and, if needed, 99B for the second, 99C for the third, and 99D for the fourth.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Module Overview: Evolving societal and personal needs, advances in technology, and demands to solve current problems require a flexible curriculum that can accommodate new ways and means to support learning in the future. The extended study module is designed to provide schools and teachers with an opportunity to meet current and future demands not provided for in current modules of the PAA curriculum. This flexibility allows a school or teacher to design one new module per credit to complement or extend the study of the core and optional modules to meet the specific needs of students or the community. The extended study module is designed to extend the content of the pure courses and to offer survey course modules beyond the scope of the available selection of PAA modules, either in depth or breadth. The list of possibilities for topics of study or projects for the extended study module approach is as varied as the imagination of those involved in using the module. The extended study module guidelines should be used to strengthen the knowledge, skills, and processes advocated in the PAA curriculum. For more information on the guidelines for the Extended Study module, see the Practical and Applied Arts Handbook.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

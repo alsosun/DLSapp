@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181936_1</pdf>
+  <banner>social/SS3.png</banner>
+  <dark_colour>#8f3b67</dark_colour>
+  <light_colour>#e9d8e1</light_colour>
+  <goals>social/socialstudies1-5aimsgoals.htm</goals>
+  <teaching>social/socialstudies3teaching.htm</teaching>
+  <curriculum_name>Social Studies 3</curriculum_name>
+  <classification_id>social studies 3</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Interactions and Interdependence of Nations (IN)</goal_heading>
+      <outcome>
+        <identifier>IN3.1</identifier>
+        <outcome_text>Analyze daily life in a diversity of communities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe characteristics of daily life in communities studied, and compare the ways in which the needs are met by individuals in diverse communities (e.g., housing, tools, work, use of the land, games, education).</p>
+          </indicator>
+          <indicator>
+            <p>Give examples of how culture is reflected in daily life in various communities, and examine why these cultural elements are important (e.g., language, stories, cultural traditions, religious traditions, recreation, art, architecture, clothing).</p>
+          </indicator>
+          <indicator>
+            <p>Compare life of a child in the local community to life of a child in one of the communities studied (e.g., family, housing, education, recreation).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IN3.2</identifier>
+        <outcome_text>Analyze the cultures and traditions in communities studied.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Hypothesize about the interactions students may have with people and communities elsewhere in the world.</p>
+          </indicator>
+          <indicator>
+            <p>Give examples of traditions and practices that have endured over time in communities studied, and discuss why these are importan</p>
+          </indicator>
+          <indicator>
+            <p>Make inferences about how the culture of the local community is reflected by its customs and celebrations.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IN3.3</identifier>
+        <outcome_text>Illustrate examples of interdependence of communities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research the origins of products and items used by students in the local classroom.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of ways in which student choices and actions may affect people elsewhere in the world (e.g., charitable donations, consumption of goods, recycling).</p>
+          </indicator>
+          <indicator>
+            <p>Identify products produced locally and sold elsewhere.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Dynamic Relationships (DR)</goal_heading>
+      <outcome>
+        <identifier>DR3.1</identifier>
+        <outcome_text>Use various model representations of the Earth.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate understanding that the surface of the Earth can be represented through maps, aerial photographs, and satellite images.</p>
+          </indicator>
+          <indicator>
+            <p>Identify geographic concepts including continents, countries, borders, hemispheres, and the equator.</p>
+          </indicator>
+          <indicator>
+            <p>Locate and identify the continents and oceans on a map or globe.</p>
+          </indicator>
+          <indicator>
+            <p>Locate and identify countries or regions studied on a map or globe.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR3.2</identifier>
+        <outcome_text>Assess the degree to which the geography and related environmental and climatic factors influence ways of living on and with the land.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the influences that geography has on societies (e.g., location of settlements, transportation of goods and people, types of industry such as farming, ranching, forestry, mining, tourism, and manufacturing).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize how environmental and climatic factors are influenced by location (e.g., proximity to water bodies influences precipitation and temperature; mountainous terrain influences soil formation, precipitation, and temperature).</p>
+          </indicator>
+          <indicator>
+            <p>Describe the impact of environmental factors and events on ways of life in communities studied (e.g., climate, vegetation, natural resources, landforms, floods, droughts, storms).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR3.3</identifier>
+        <outcome_text>Compare the beliefs of various communities around the world regarding living on and with the land.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research the view of land as held by indigenous peoples in communities studied.</p>
+          </indicator>
+          <indicator>
+            <p>Identify ways in which people in communities studied interact with the land (e.g., meeting needs and wants, how land is protected or neglected).</p>
+          </indicator>
+          <indicator>
+            <p>Identify local environmental issues that affect life in communities studied.</p>
+          </indicator>
+          <indicator>
+            <p>Compare environmental concerns (e.g., air quality, soil conservation, water availability and quality) common to both the local community and communities studied.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Power and Authority (PA)</goal_heading>
+      <outcome>
+        <identifier>PA3.1</identifier>
+        <outcome_text>Compare how decisions are made in the local community and communities studied.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify formal and informal types of leadership.</p>
+          </indicator>
+          <indicator>
+            <p>Construct an inventory of examples of positive leadership in school groups and communities.</p>
+          </indicator>
+          <indicator>
+            <p>Give examples of ways in which groups and communities make decisions.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate decision-making processes in communities studied.</p>
+          </indicator>
+          <indicator>
+            <p>Identify examples of decision-making structures where leadership is: inherited, elected, communal.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA3.2</identifier>
+        <outcome_text>Demonstrate awareness that divergent viewpoints may lead to conflict as part of group interactions, and assess various means of conflict resolution.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Inventory situations in which divergent viewpoints exist within the classroom and school.</p>
+          </indicator>
+          <indicator>
+            <p>Solicit the opinion of several persons about a current issue of concern in the school.</p>
+          </indicator>
+          <indicator>
+            <p>Categorize viewpoints as likely or unlikely to create conflict and explain why.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a list of reasons why groups and communities may experience conflict, and identify ways in which conflict is resolved and harmony is restored.</p>
+          </indicator>
+          <indicator>
+            <p>Respond to the following question: “Why might people be in favour or against a particular project or issue (e.g., fear that it might cost too much or that it might be too much work, one’s own idea was rejected, desire to contribute to the community, desire to beautify the community)”.</p>
+          </indicator>
+          <indicator>
+            <p>Paraphrase orally and in writing a favourable opinion and an unfavourable opinion about an issue of concern in a community studied.</p>
+          </indicator>
+          <indicator>
+            <p>Simulate one or more conflict resolution models as a means of resolving an issue in the school or community.</p>
+          </indicator>
+          <indicator>
+            <p>Research different laws and rules in communities studied, and speculate upon the reasons for such laws and rules.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA3.3</identifier>
+        <outcome_text>Make generalizations about the purpose and intent of documents that define the rights of children.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research the United Nations Declaration of the Rights of the Child and the Universal Declaration of Human Rights, and suggest reasons for these declarations.</p>
+          </indicator>
+          <indicator>
+            <p>Research the Canadian Charter of Rights and Freedoms and child protection legislation in Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the rights and protections for children in Saskatchewan to those in international communities studied.</p>
+          </indicator>
+          <indicator>
+            <p>Compare how the rights, responsibilities, and roles of citizens in international communities studied are the same or different than those of Canadian citizens.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Resources and Wealth (RW)</goal_heading>
+      <outcome>
+        <identifier>RW3.1</identifier>
+        <outcome_text>Appraise the ways communities meet their members’ needs and wants.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Speculate upon various challenges faced by communities in meeting needs and wants, with evidence gathered from examining pictures, viewing media, and interpreting stories using a variety of fiction and non-fiction texts.</p>
+          </indicator>
+          <indicator>
+            <p>Identify how individuals and communities meet needs and wants.</p>
+          </indicator>
+          <indicator>
+            <p>Describe ways in which communities help ensure basic human needs are met (e.g., food and water, shelter, clothing, education, safety).</p>
+          </indicator>
+          <indicator>
+            <p>Describe how and why communities exchange goods with other communities.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate awareness that there are global organizations that support communities (e.g., United Nations, UNICEF, Doctors Without Borders).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RW3.2</identifier>
+        <outcome_text>Analyze the creation and distribution of wealth in communities studied.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Assess the role of work in communities, including the value of paid and unpaid work.</p>
+          </indicator>
+          <indicator>
+            <p>Define the term natural resources, and differentiate between renewable and non-renewable resources.</p>
+          </indicator>
+          <indicator>
+            <p>Determine reasons for acquisition of wealth in communities studied.</p>
+          </indicator>
+          <indicator>
+            <p>Identify how wealth is defined and acquired in communities studied.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and compare the distribution of wealth in communities studied.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RW3.3</identifier>
+        <outcome_text>Evaluate the ways in which technologies have impacted daily life.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Recognize that technology includes more than electronics (i.e., paper, forging steel, manufacturing, vehicles, making cloth, products created for construction).</p>
+          </indicator>
+          <indicator>
+            <p>Give examples of technologies in communities studied (e.g., communications, transportation, housing, food acquisition, preparation and storage, construction, manufacturing), and categorize the influences of the application of the technology as positive or negative.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

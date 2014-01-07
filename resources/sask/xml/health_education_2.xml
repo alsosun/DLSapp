@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181695_1</pdf>
+  <banner>health/HE2.png</banner>
+  <dark_colour>#9bc4b2</dark_colour>
+  <light_colour>#ebf3f0</light_colour>
+  <goals>health/healtheducation2aimsgoals.htm</goals>
+  <teaching>health/healtheducation2teaching.htm</teaching>
+  <curriculum_name>Health Education 2</curriculum_name>
+  <classification_id>health education 2</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Understanding, Skills, and Confidences (USC)</goal_heading>
+      <outcome>
+        <identifier>USC2.1</identifier>
+        <outcome_text>Demonstrate a basic understanding of how thoughts, feelings, and actions influence health and well-being.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop a common understanding and use of respectful language to talk about thoughts, feelings, and actions (e.g., emotions, ideas, behaviours, choices, reactions, control).</p>
+          </indicator>
+          <indicator>
+            <p>Examine daily habits/routines that are healthy/unhealthy (e.g., eating breakfast/skipping breakfast, recycling/littering).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and illustrate how particular thoughts (e.g., “I am good at …”, “I can’t do …as good as she can.” ) make one feel.</p>
+          </indicator>
+          <indicator>
+            <p>Examine various ways to appropriately share thoughts, feelings, and actions.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of how one can help others to understand self by sharing thoughts and feelings.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the basic “cause-effect” relationship among thoughts, feelings, and actions (e.g., If I think I am smart, I will feel “content/confident” and I will try to learn. If I think I am “dumb”, I will feel sad/frustrated and I may not participate in class.).</p>
+          </indicator>
+          <indicator>
+            <p>Determine that people are responsible for personal thoughts, feelings, and actions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC2.2</identifier>
+        <outcome_text>Determine how healthy snacking practices influence personal health.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop a common understanding and use of respectful language used to talk about snacking (e.g., diet, food, preferences, likes/ dislikes, energy, healthy/unhealthy, sugar, portions).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the role food and water play in being healthy (e.g., food - energy; vitamins - growth; water - 2/3 of one’s body composition, regulates body temperature, eliminates waste).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss how to determine if a snack is healthy/unhealthy (e.g., reflect on what is known, gather information).</p>
+          </indicator>
+          <indicator>
+            <p>Examine, sample, and describe (i.e., taste, look, smell, feel, sound) a variety of healthy snacks.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate benefits of healthy snacking (including but not limited to growth and development, increased concentration, healthy weight, improved oral health).</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate how healthy snacking provides sustained energy throughout the day.</p>
+          </indicator>
+          <indicator>
+            <p>Examine why people choose particular snacks (e.g., culture, cost, preference, availability, media).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize a variety of snacking patterns (e.g., three meals/day with a few snacks, times of day/night for snacking).</p>
+          </indicator>
+          <indicator>
+            <p>Examine personal preferences for snacking (e.g., class survey).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC2.3</identifier>
+        <outcome_text>Develop an understanding of how health may be affected by illness and disease.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop a common understanding and use of respectful language to talk about illness and disease (e.g., germs, medicine, vaccinations, symptoms, treatment, contagious, infections).</p>
+          </indicator>
+          <indicator>
+            <p>Describe what being sick looks like, sounds like, and feels like (e.g., fatigue, loss of appetite, aches, absent from school and activities, sad).</p>
+          </indicator>
+          <indicator>
+            <p>Describe how particular illnesses may be transmitted (e.g., air –coughing and sneezing, direct contact – kissing; feces – animal and human; blood products – touching a used needle).</p>
+          </indicator>
+          <indicator>
+            <p>Identify personal health habits that may help to prevent getting sick (e.g., wash hands, cover mouth when coughing/sneezing, immunizations, do not share personal items, tell a trusted adult if you find a needle, exercise, sleep/rest, healthy diet).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the signs and symptoms of common childhood illnesses (e.g., influenza, colds, chicken pox, ear infections, asthma).</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate between serious and non-serious illnesses and diseases (e.g., based on short/long term and the risk to health).</p>
+          </indicator>
+          <indicator>
+            <p>Establish that certain serious infections (including HIV and Hepatitis C) are transmitted through blood products (e.g., finding a contaminated needle).</p>
+          </indicator>
+          <indicator>
+            <p>Compare how a “healthy day” may differ from a “sick day”.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how to take care of self and others when sick (e.g., rest, fluids, medications as intended).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC2.4</identifier>
+        <outcome_text>Examine social and personal meanings of “respect” and establish ways to show respect for self, persons, living things, possessions, and the environment.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop a common understanding and use of respectful language to talk about “respect” (e.g., tone of voice, manners, behaviours).</p>
+          </indicator>
+          <indicator>
+            <p>Realize a range of culturally sensitive ways to show respect (e.g., handshake, eye contact) and begin to develop the abilities to act on this realization including:</p>
+            <ul>
+              <li>recognize and avoid exclusionary behaviours</li>
+              <li>identify ways to show genuine kindness and gratitude.</li>
+            </ul>
+          </indicator>
+          <indicator>
+            <p>Determine how to show respect for own and other’s material possessions (e.g., ask before borrowing, put away when done using).</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate what respect looks like, sounds like, and feels like (e.g., take turns, listen without interrupting, ask for and provide help, smile, use people’s names, disagree politely, adapt tone of voice, avoid “name calling” and unkind criticism of others).</p>
+          </indicator>
+          <indicator>
+            <p>Understand, practise, and share basic interpersonal skills (e.g., asking for a turn, offering assistance, saying please and thank you) when supported to do so.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the importance of respect within relationships (e.g., safety, recognition of gifts and talents).</p>
+          </indicator>
+          <indicator>
+            <p>Describe how people (e.g., characters in a story) demonstrate or do not demonstrate respect for each other, personal gifts, material possessions, and/or the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Explore ways of reducing pollution (e.g., air, water) to maintain a healthy environment (e.g., reduce, reuse, repair, recycle).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss basic individual responsibilities for showing respect (e.g., recognize mistakes, ‘fix’ the mistake).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss and provide examples of treating others as one would like to be treated.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC2.5</identifier>
+        <outcome_text>Recognize potential safety risks in community “play areas” and determine safe practices/behaviours to identify, assess, and reduce the risks.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop a common understanding and use of respectful language to talk about “risks” (e.g., identify, assess, avoid, reduce, consequence).</p>
+          </indicator>
+          <indicator>
+            <p>Examine expected behaviours and general safety rules in community “play areas” (e.g., parks, playground, school yard).</p>
+          </indicator>
+          <indicator>
+            <p>Inventory personal habits with respect to safety in community play areas.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate healthy behaviours (e.g., taking turns, wearing a seatbelt, asking for help) that favour the safety of self and others.</p>
+          </indicator>
+          <indicator>
+            <p>Explore possible healthy risks (e.g., making new friends, trying new foods) and unhealthy risks (e.g., riding your bike without a helmet, playing in traffic areas, touching discarded needles, approaching stray animals).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss how safety rules/guidelines are established to reduce risks.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate ways to identify, assess, and reduce the risk of potentially dangerous and/or possible unsupervised situations in community “play areas”.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the importance of “reporting” versus being a “tattle” when identifying safety concerns.</p>
+          </indicator>
+          <indicator>
+            <p>Share the importance of practising safe behaviours in community “play areas” (i.e., one’s safety depends on the safety behaviours of others) and the possible consequences of using/not using safety knowledge and skills.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC2.6</identifier>
+        <outcome_text>Examine how communities benefit from the diversity of their individual community members.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate what it means to be special and unique (e.g., families, interests, talents, culture, gifts, faith, feelings, desires, learning styles, confidences, appearances).</p>
+          </indicator>
+          <indicator>
+            <p>Develop an awareness of “community” as a group of people who interact, work, and play together; face challenges and solve problems together; and help each other.</p>
+          </indicator>
+          <indicator>
+            <p>Develop awareness of differences in routines, practices, and/or preferences among people.</p>
+          </indicator>
+          <indicator>
+            <p>Understand and respect (see USC2.4) individual preferences, including those related to traditions, dress, and play.</p>
+          </indicator>
+          <indicator>
+            <p>Understand that different does not mean “better” or “worse”.</p>
+          </indicator>
+          <indicator>
+            <p>Explore personal understanding of “self” as an individual with particular physical and inherited attributes (e.g., age, sex/gender, culture/ethnicity, abilities).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss that people do not choose the attributes of identity but rather are born with them (e.g., skin colour, sex), born into them (e.g., culture/ethnic group), or acquire them (e.g., learning of gender roles).</p>
+          </indicator>
+          <indicator>
+            <p>Participate in experiences where being treated as a unique and valued member of the class with particular abilities and personal qualities are recognized and appreciated.</p>
+          </indicator>
+          <indicator>
+            <p>Propose what the local community would be like if everyone was the same.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Decision Making (DM)</goal_heading>
+      <outcome>
+        <identifier>DM2.1</identifier>
+        <outcome_text>Demonstrate how, why, and when to ask for help and/or advice when discovering healthy connections related to thoughts-feelings-actions, healthy snacking, affects of illness/disease, respect, safety, and diversity.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine the concepts of “advice” and “help” and develop the abilities to ask for both.</p>
+          </indicator>
+          <indicator>
+            <p>Determine safety supports (e.g., teachers, peers, elder, bus driver, significant and trusted adults) in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate how, when, and why to access assistance (e.g., go to playground monitor, disrespecting another’s possessions).</p>
+          </indicator>
+          <indicator>
+            <p>Identify behaviours that require specific kinds of support (e.g., healthy food choices require the food to be accessible and affordable).</p>
+          </indicator>
+          <indicator>
+            <p>Practise asking for help in appropriate situations and recognize possible consequences of not asking for help.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Action Planning (AP)</goal_heading>
+      <outcome>
+        <identifier>AP2.1</identifier>
+        <outcome_text>Act upon health-related understandings, skills, and confidences to make healthy connections related to personal thoughts-feelings-actions, healthy snacking, affects of illness/disease, respect, safety, and diversity.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Ask questions and explore possible answers regarding the steps needed to take action (e.g., What will be done? Who will do it? When will it happen? Where will it take place? How will it be done?).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate, with guidance, asking for help with the action to be taken.</p>
+          </indicator>
+          <indicator>
+            <p>Document the action that was taken.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on the action (e.g., What did I do well? What did I learn? How could I be better?) in order to guide future application.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

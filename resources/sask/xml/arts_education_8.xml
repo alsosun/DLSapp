@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181761_1</pdf>
+  <banner>arts/artseducation8.gif</banner>
+  <dark_colour>#0e6bb6</dark_colour>
+  <light_colour>#e7f0f8</light_colour>
+  <goals>arts/artseducation7-9aimsgoals.htm</goals>
+  <teaching>arts/artseducation8teaching.htm</teaching>
+  <curriculum_name>Arts Education 8</curriculum_name>
+  <classification_id>arts education 8</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Creative/Productive (CP)</goal_heading>
+      <outcome>
+        <identifier>CP8.1</identifier>
+        <outcome_text>Create dance compositions that express ideas and student perspectives on social issues (e.g., poverty, racism, homophobia, sustainability, gangs).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use inquiry in dance to express student perspectives on social issues (e.g., poverty, racism, homophobia, sustainability):Generate key questions to guide inquiry in dance (e.g., How could we represent through dance the devastating effects of poverty or racism?).Summarize and focus knowledge of topic to determine information needs.Generate additional relevant questions for deeper exploration.Use the Internet and other relevant sources (e.g., print, digital, community) to research and gather ideas for dance-making.Adjust inquiry and research strategies to accommodate changing perspectives.Use the dance-making process to explore the central questions and ideas (e.g., How could we show through movement the effects of a hurtful comment?).Expand on dance and movement ideas in reflective records such as journals, blogs, and video or audio recordings.Keep a record of dance phrases using invented and/or traditional notation symbols, and video where possible, to explore, record, and reconstruct movements.Reflect, analyze, and make connections between the original topic or inquiry question and subsequent dance explorations.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how a single idea can be developed in many ways and directions (e.g., How many different ways can we represent through movement a feeling of hopelessness or anger about this injustice?).</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on how movement, dance elements, and principles of composition can be organized to convey meaning in dance (e.g., What message or ideas does our dance communicate about current attitudes towards poverty or racism?).</p>
+          </indicator>
+          <indicator>
+            <p>Contribute to the creation of a plan to document the inquiry and creative process (e.g., video, photography, blog, or digital diary).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP8.2</identifier>
+        <outcome_text>Investigate and use choreographic forms (e.g., theme and variations, canon).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Collaborate on the creation of a concept web of dance elements and possible movements related to an inquiry question.</p>
+          </indicator>
+          <indicator>
+            <p>Use the concept web as a guide for movement exploration and improvisation.</p>
+          </indicator>
+          <indicator>
+            <p>Order the movements (sequence) into various forms (e.g., ABA, ABBA, canon).</p>
+          </indicator>
+          <indicator>
+            <p>Use body and actions in innovative ways to develop sequences and ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate expressive ways of using dynamics, rhythm, spatial design, focus, relationships, transitions, and contrast.</p>
+          </indicator>
+          <indicator>
+            <p>Sequence and develop movements to express and communicate ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Perform self-created and collaboratively-created sequences of movements with smooth transitions (see grade 8 physical education curriculum outcome 8.9) during warm-ups and dance compositions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP8.3</identifier>
+        <outcome_text>Choreograph one section of group choreography.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate leadership and collaborative skills in the creation of one section of a group choreography.</p>
+          </indicator>
+          <indicator>
+            <p>Encourage peers to explore and contribute movement phrases to group choreography.</p>
+          </indicator>
+          <indicator>
+            <p>Draw on own imagination and ideas, and strengths of other dancers, when choreographing dance section.</p>
+          </indicator>
+          <indicator>
+            <p>Contribute to group discussions regarding possible structures or form for the dance (e.g., ABA, ABACA, narrative).</p>
+          </indicator>
+          <indicator>
+            <p>Improvise and collaborate to refine movements and develop the choreography.</p>
+          </indicator>
+          <indicator>
+            <p>Record dance phrases (e.g., notation or video) to further explore and reconstruct movements.</p>
+          </indicator>
+          <indicator>
+            <p>Encourage peers to extend bodies’ range of movement, strength, and balance with attention paid to correct alignment and clarity of action.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP8.4</identifier>
+        <outcome_text>Demonstrate how dramatic characters interact in relationships within the drama and/or collective creation.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Sustain belief in own roles and in the roles assumed by others for extended periods of time.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate confidence and curiosity when assuming different kinds of roles in drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Describe own roles and specific contributions to the collective drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how focus, tension, and contrast function within the drama.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate awareness of how focus is maintained and shifts during pair, small, and whole group drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on sources and functions of tension expressed in relationships among roles or characters portrayed.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how contrasts among characters function within the drama.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP8.5</identifier>
+        <outcome_text>Investigate how theatrical elements (e.g., story, character, design, space) are combined to achieve dramatic purpose.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify how theatrical elements (e.g., story, role or character, technical design) can be manipulated to achieve a creative purpose and consider how such elements relate to own drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how each character’s actions and the consequences of those actions affect the progression of the drama.</p>
+          </indicator>
+          <indicator>
+            <p>Consider and analyze how set, costumes, lighting, and sound/music design can be manipulated to achieve different effects in own work.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate imagination when creating imaginary places and situations in own drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the use of movement, and the use of space and time in own work.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP8.6</identifier>
+        <outcome_text>Express student perspectives on social issues (e.g., poverty, racism, homophobia, sustainability, gangs) in drama and/or collective creation.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze and discuss how drama may be used to explore perspectives on social issues and promote understanding of topics of personal significance.</p>
+          </indicator>
+          <indicator>
+            <p>Use inquiry in drama to investigate topics of importance to students (e.g., issues of concern to youth or recent news items):Collaborate with other students to explore compelling questions through drama (What if a new law was passed that ...?).Brainstorm and negotiate with other students to determine how fictional situations and dramatic episodes might be explored.Collaborate on the development and refinement of several drama episodes or collective creation to address the selected issue.Recognize how research contributes to the authenticity and significance of the drama work.Contribute to the creation of a plan to document the creative process (e.g., reflective journal entries, video, photography, blog, or web-based diary).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate awareness of how to use language and negotiate the use of drama strategies to achieve dramatic purpose.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and describe the effectiveness of own drama to convey perspectives.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP8.7</identifier>
+        <outcome_text>Improvise, compose, and perform (e.g., with voice, instruments, and technologies) a selection of pieces in contrasting styles.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine and apply the technique of vocal improvisation in song and speech.</p>
+          </indicator>
+          <indicator>
+            <p>Improvise simple pieces around a given structure.</p>
+          </indicator>
+          <indicator>
+            <p>Create and improvise with an instrument paying attention to sound quality and intonation.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate ways that silence can be used in improvisation and music composition.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate timbres, textures, and rhythmic and melodic possibilities in improvisation.</p>
+          </indicator>
+          <indicator>
+            <p>Create composed and improvised melodic and rhythmic ostinati to accompany singing and playing.</p>
+          </indicator>
+          <indicator>
+            <p>Use the Internet and other sources to research and discuss composers who work in contrasting styles.</p>
+          </indicator>
+          <indicator>
+            <p>Prepare, rehearse, present, and evaluate individual and group performances of contrasting styles of music.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP8.8</identifier>
+        <outcome_text>Investigate and make choices about musical structures in sound composition.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use inquiry in music to extend understanding of the elements of music and principles of composition:Pose questions to guide inquiry into how elements of music can be manipulated and structured to create balance and unity (e.g., What are the rhythmic and melodic possibilities/limitations with this instrument? What different timbres are possible with this instrument? What textures can be created by combining or layering a variety of vocal or instrumental sounds?).Conduct a collaborative inquiry and experiment with voice and instruments to explore inquiry questions about musical structure (e.g., In what ways could we rearrange these motifs or phrases in different sequences?).Collaborate with peers to document the inquiry process (e.g., traditional and/or invented notation, audio or video recording).</p>
+          </indicator>
+          <indicator>
+            <p>Critically examine the connections between the elements of music and principles of composition in own compositions and other music.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate knowledge of how the elements and principles are used to create form and structure in music.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP8.9</identifier>
+        <outcome_text>Compose sound compositions in response to social issues (e.g., poverty, racism, homophobia, sustainability, gangs).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine the intentions, development, and interpretations of own and others’ music expressions in relation to social issues (e.g., antiwar songs, music with environmental messages, hip hop songs that promote positive life choices).</p>
+          </indicator>
+          <indicator>
+            <p>Create and perform own music compositions, improvisations, or song lyrics in response to a social issue of importance to students.</p>
+          </indicator>
+          <indicator>
+            <p>Make interpretive decisions, demonstrating understanding of a variety of ways in which music concepts can be applied (e.g., tempo, dynamics, articulation, tone colour).</p>
+          </indicator>
+          <indicator>
+            <p>Determine appropriate sound sources, forms, and processes for creating music expression.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and expand upon a musical idea to achieve more depth of meaning and expression.</p>
+          </indicator>
+          <indicator>
+            <p>Generate and develop music ideas from a variety of sources regarding social issues of interest to students.</p>
+          </indicator>
+          <indicator>
+            <p>Keep an ongoing record of ideas for own sound/music expressions (e.g., journals, audio tapes, video, blog, or web diary).</p>
+          </indicator>
+          <indicator>
+            <p>Describe how compositions are personal expressions of own sound/music ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Extend understanding and use of traditional and non-traditional notational systems in representing sounds/music.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP8.10</identifier>
+        <outcome_text>Create visual art works that express student perspectives on social issues (e.g., poverty, racism, homophobia, sustainability).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use inquiry in visual art to express student perspectives on social issues (e.g., poverty, racism, homophobia, sustainability):Generate key questions to guide inquiry (e.g., How could we represent through visual art the devastating effects of poverty or racism?).Collaborate with other students to develop a plan to guide inquiry.Collaborate with other students to determine how to document the creative process.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate co-ordination and skills for using appropriate tools, materials, and techniques to express ideas visually.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP8.11</identifier>
+        <outcome_text>Select and use appropriate forms, technologies, images, and art-making processes to express student perspectives on social issues.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Select visual art forms (e.g., print-making, installations, animation) to express ideas about social issues.</p>
+          </indicator>
+          <indicator>
+            <p>Create three-dimensional and two-dimensional art works, and use knowledge of art elements and design principles to enhance the work.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the effects of using more or less contrast.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how visual weight is created through the use of size, colour, contour, contrast, texture, value, position, and so on.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and discuss how images and materials work together to express ideas in a work of art.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how emphasis controls the sequence in which parts or images are noticed, and indicates their relative importance.</p>
+          </indicator>
+          <indicator>
+            <p>Use symbols and other images to develop and represent ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how artists use symbols and imagery to communicate meaning, and apply this understanding in own work.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP8.12</identifier>
+        <outcome_text>Solve visual art problems using a variety of processes and media.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explore and expand upon an idea to achieve more depth of meaning and expression.</p>
+          </indicator>
+          <indicator>
+            <p>Generate and develop ideas from a variety of sources that are of interest or personal significance.</p>
+          </indicator>
+          <indicator>
+            <p>Keep an ongoing record of ideas and works in progress for own visual art expressions (e.g., journals, blog, online diary, or portfolio).</p>
+          </indicator>
+          <indicator>
+            <p>Take risks by working with innovative ideas, unfamiliar styles, or media.</p>
+          </indicator>
+          <indicator>
+            <p>Explain original intent, why choices were made, how problems were solved, and how work might be refined or extended.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Critical/Responsive (CR)</goal_heading>
+      <outcome>
+        <identifier>CR8.1</identifier>
+        <outcome_text>Respond to professional dance, drama, music, and visual art works through the creation of own arts expressions.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe, analyze, and interpret arts expressions of personal interest.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and discuss how dance, drama, music, visual and interdisciplinary arts are expressions of individual or collective perspectives.</p>
+          </indicator>
+          <indicator>
+            <p>Respond to arts expressions using one or more approaches such as those described in online curriculum support materials entitled “Responding to Arts Expressions”.</p>
+          </indicator>
+          <indicator>
+            <p>Create own work (e.g., visual or performing arts) in response to a professional arts expression, and describe how own work is inspired or influenced by the original work.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR8.2</identifier>
+        <outcome_text>Investigate and identify ways that today’s arts expressions often reflect concern for social issues.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Reflect on and analyze the intentions, development, and interpretations of own and peers’ arts expressions in relation to social contexts (e.g., Is the work influenced by pop culture or local community issues?).</p>
+          </indicator>
+          <indicator>
+            <p>Conduct inquiry into social justice and diversity issues in the arts including stereotyping and bias (e.g., stereotyping of male dancers, or the lack of women or First Nations artists represented in history of the arts books).</p>
+          </indicator>
+          <indicator>
+            <p>Describe, analyze, and interpret the work (dance, drama, music, visual, film) of a variety of artists whose work incorporates social commentary.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR8.3</identifier>
+        <outcome_text>Investigate and identify how arts expressions can reflect diverse worldviews.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Discuss and describe the meaning of worldview.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how diverse worldviews may be represented in the arts.</p>
+          </indicator>
+          <indicator>
+            <p>Examine global change and its influence on today’s arts expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Examine, discuss, and participate in cultural/historical studies from diverse cultural perspectives (e.g., learn heritage social dances, play Latin music, or create Indonesian shadow puppets).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Cultural/Historical (CH)</goal_heading>
+      <outcome>
+        <identifier>CH8.1</identifier>
+        <outcome_text>Research and share insights about arts expressions that incorporate social commentary.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research independently, using the Internet and other sources, the work of visual and performing artists who address social issues.</p>
+          </indicator>
+          <indicator>
+            <p>Present research findings, using technology where appropriate, on Canadian visual and performing artists whose work includes social commentary.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and comment on the effectiveness of using the arts as a vehicle for social change.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CH8.2</identifier>
+        <outcome_text>Analyze the influence of social issues on the work of contemporary First Nations, Métis, and Inuit artists, and share results.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research First Nations, Métis, and Inuit artists who use their art work to explore and comment on social issues (e.g., Susan Aglukark, Edward Poitras).</p>
+          </indicator>
+          <indicator>
+            <p>Identify social factors that influence First Nations, Métis, and Inuit artists, their work, and careers (e.g., typecasting of actors, limited access to venues and markets).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the work of artists that reflects a concern with historical events including Treaties and the impacts of colonization such as residential schools, racism, and marginalization.</p>
+          </indicator>
+          <indicator>
+            <p>Create a plan to share the research findings with younger and older students and community members where possible (e.g., create a dance, drama, music performance, or visual installation).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CH8.3</identifier>
+        <outcome_text>Demonstrate understanding of how contemporary artists use and incorporate new technology into their work.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Ask questions to initiate and develop inquiry into artists who use technology and incorporate technology into their work.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the role of new technology in the creation and marketing of contemporary arts (e.g., innovative graphics programs, music editing software, social networking sites).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CH8.4</identifier>
+        <outcome_text>Examine and respond to the work of artists who incorporate more than one art form in their work (e.g., combining poetry and music).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine and discuss various interdisciplinary arts expressions (i.e., using two or more disciplines in the work).</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate with others to create interdisciplinary work that addresses issues of social justice and/or other topics of interest to youth (e.g., relationships, body image, racism, sustainability).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

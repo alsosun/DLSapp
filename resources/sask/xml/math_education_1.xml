@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181791_1</pdf>
+  <banner>mathematics/mathematics1.gif</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>mathematics/mathematicsk-1aimsgoals.htm</goals>
+  <teaching>mathematics/mathematics1teaching.htm</teaching>
+  <curriculum_name>Mathematics 1</curriculum_name>
+  <classification_id>mathematics 1</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Number</goal_heading>
+      <outcome>
+        <identifier>N1.1</identifier>
+        <outcome_text>Say the number sequence, 0 to 100, by:1s forward and backward between any two given numbers2s to 20, forward starting at 05s and 10s to 100, forward starting at 0.</outcome_text>
+        <outcome_text>[C, CN, V, ME]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Recite forward by 1s the number sequence between two whole numbers (0 to 100).</p>
+          </indicator>
+          <indicator>
+            <p>Recite backward by 1s the number sequence between two whole numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Record a numeral (0 to 100) symbolically when it is presented orally.</p>
+          </indicator>
+          <indicator>
+            <p>Read a numeral (0 to 100) when it is presented symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Skip count by 2s to 20 starting at 0.</p>
+          </indicator>
+          <indicator>
+            <p>Skip count by 5s to 100 starting at 0.</p>
+          </indicator>
+          <indicator>
+            <p>Skip count forward by 10s to 100 starting at 0.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and correct errors and omissions in a number sequence.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N1.2</identifier>
+        <outcome_text>Recognize, at a glance, and name familiar arrangements of 1 to 10 objects, dots, and pictures. [C, CN, ME, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Look briefly at a familiar arrangement of objects or dots and identify the number represented without counting.</p>
+          </indicator>
+          <indicator>
+            <p>Look briefly at a familiar arrangement and identify how many objects there are without counting.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the number represented by an arrangement of objects or dots on a ten frame.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N1.3</identifier>
+        <outcome_text>Demonstrate an understanding of counting by:indicating that the last number said identifies “how many”showing that any set has only one count using the counting on strategyusing parts or equal groups to count sets.</outcome_text>
+        <outcome_text>[C, CN, ME, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Answer the question, “How many are in the set?” using the last number counted in a set.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and correct counting errors in a counting sequence.</p>
+          </indicator>
+          <indicator>
+            <p>Show that the count of the number of objects in a set does not change regardless of the order in which the objects are counted.</p>
+          </indicator>
+          <indicator>
+            <p>Count the number of objects in a set, rearrange the objects, predict the new count, and recount to verify the prediction.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the total number of objects in a given set, starting from a known quantity and counting on.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the total number of objects in a set using groups of 2s, 5s, or 10s and counting on.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N1.4</identifier>
+        <outcome_text>Represent and describe whole numbers to 20 concretely, pictorially, and symbolically. [C, CN, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent a whole number using a variety of manipulatives, including ten frames and base ten materials.</p>
+          </indicator>
+          <indicator>
+            <p>Read whole number words to 20.</p>
+          </indicator>
+          <indicator>
+            <p>Partition any quantity into 2 parts and identify the number of objects in each part.</p>
+          </indicator>
+          <indicator>
+            <p>Model a whole number using two different objects (e.g., 10 desks represents the same number as 10 pencils).</p>
+          </indicator>
+          <indicator>
+            <p>Place whole numbers on a number line by using benchmarks 0, 5, 10, and 20.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N1.5</identifier>
+        <outcome_text>Compare sets containing up to 20 elements to solve problems using:referents (known quantity)one-to-one correspondence.</outcome_text>
+        <outcome_text>[C, CN, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Build a set equal to a given set that contains up to 20 elements.</p>
+          </indicator>
+          <indicator>
+            <p>Build a set that has more, fewer, or as many elements as a given set.</p>
+          </indicator>
+          <indicator>
+            <p>Build several sets of different objects that have the same number of elements in the set.</p>
+          </indicator>
+          <indicator>
+            <p>Compare two sets using one-to-one correspondence and describe them using comparative words, such as more, fewer, or as many.</p>
+          </indicator>
+          <indicator>
+            <p>Compare a set to a referent using comparative language.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a story problem (pictures and words) that involves the comparison of two quantities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N1.6</identifier>
+        <outcome_text>Estimate quantities to 20 by using referents. [C, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Estimate a quantity by comparing it to a referent.</p>
+          </indicator>
+          <indicator>
+            <p>Select an estimate for a given quantity by choosing between at least two possible options and explain the choice.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N1.7</identifier>
+        <outcome_text>Demonstrate, concretely, physically, and pictorially, how whole numbers can be represented by a variety of equal groupings with and without singles. [C, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent a whole number in a variety of equal groupings with and without singles (e.g., 17 can be represented by 8 groups of 2 and one single, 5 groups of 3 and two singles, 4 groups of 4 and one single, and 3 groups of 5 and two singles).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that for a number of counters, no matter how they are grouped, the total number of counters does not change.</p>
+          </indicator>
+          <indicator>
+            <p>Group a set of counters into equal groups in more than one way.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N1.8</identifier>
+        <outcome_text>Identify the number, up to 20, that is one more, two more, one less, and two less than a given number. [C, CN, ME, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Name the whole number that is one more, two more, one less or two less than a given whole number.</p>
+          </indicator>
+          <indicator>
+            <p>Represent the number on a ten frame that is one more, two more, one less, or two less than a whole number.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N1.9</identifier>
+        <outcome_text>Demonstrate an understanding of addition of numbers with answers to 20 and the corresponding subtraction facts, concretely, pictorially, physically, and symbolically by:using familiar and mathematical language to describe additive and subtractive actions from their experiencecreating and solving problems in context that involve addition and subtractionmodelling addition and subtraction using a variety of concrete and visual representations, and recording the process symbolically.</outcome_text>
+        <outcome_text>[C, CN, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Act out a story problem presented orally or through shared reading. b) Indicate if the scenario in a story problem represents additive or subtractive action.</p>
+          </indicator>
+          <indicator>
+            <p>Represent the numbers and actions presented in a story problem by using manipulatives, and record them using sketches and/or number sentences.</p>
+          </indicator>
+          <indicator>
+            <p>Create a story problem involving addition that connects to personal experience and simulate the action with counters.</p>
+          </indicator>
+          <indicator>
+            <p>Create a story problem involving subtraction that connects to personal experience and simulate the action with counters.</p>
+          </indicator>
+          <indicator>
+            <p>Create a word problem for a whole number addition or subtraction sentence.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a story problem pictorially or symbolically to show the additive or subtractive action and solve the problem.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N1.10</identifier>
+        <outcome_text>Describe and use mental mathematics strategies (memorization not intended), such as:counting on and counting backmaking 10doublesusing addition to subtract</outcome_text>
+        <outcome_text>to determine basic addition facts to 18 and related subtraction facts. [C, CN, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <outer_text>
+            <i>(It is not intended that students recall the basic facts but become familiar with strategies to mentally determine sums and differences.)</i>
+          </outer_text>
+          <indicator>
+            <p>Use and describe a personal strategy for determining a sum.</p>
+          </indicator>
+          <indicator>
+            <p>Use and describe a personal strategy for determining a difference.</p>
+          </indicator>
+          <indicator>
+            <p>Write the related subtraction fact for a given addition fact.</p>
+          </indicator>
+          <indicator>
+            <p>Write the related addition fact for a given subtraction fact.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Patterns and Relations</goal_heading>
+      <outcome>
+        <identifier>P1.1</identifier>
+        <outcome_text>Demonstrate an understanding of repeating patterns (two to four elements) by:describingreproducingextendingcreating patterns using manipulatives, diagrams, sounds, and actions.</outcome_text>
+        <outcome_text>[C, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe a repeating pattern containing two to four elements in its core.</p>
+          </indicator>
+          <indicator>
+            <p>Identify errors made in a repeating pattern.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the missing element(s) in a repeating pattern.</p>
+          </indicator>
+          <indicator>
+            <p>Create and describe a repeating pattern using a variety of manipulatives, diagrams, musical instruments, and actions.</p>
+          </indicator>
+          <indicator>
+            <p>Reproduce and extend a repeating pattern using manipulatives, diagrams, sounds, and actions.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and describe a repeating pattern found in the environment (e.g., classroom, outdoors) using everyday language.</p>
+          </indicator>
+          <indicator>
+            <p>Identify repeating events (e.g., days of the week, birthdays, seasons).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P1.2</identifier>
+        <outcome_text>Translate repeating patterns from one form of representation to another. [C, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent a repeating pattern using another mode (e.g., action to sound, colour to shape, ABC ABC to blue yellow green blue yellow green).</p>
+          </indicator>
+          <indicator>
+            <p>Describe a repeating pattern using a letter code (e.g., ABC ABC…).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P1.3</identifier>
+        <outcome_text>Describe equality as a balance and inequality as an imbalance, concretely, physically, and pictorially (0 to 20). [C, CN, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Construct two equal sets using the same objects (same shape and mass) and demonstrate their equality of number using a balance scale.</p>
+          </indicator>
+          <indicator>
+            <p>Construct two unequal sets using the same objects (same shape and mass) and demonstrate their inequality of number using a balance scale.</p>
+          </indicator>
+          <indicator>
+            <p>Create two groups of students and explain if the groups are equal or not in quantity.</p>
+          </indicator>
+          <indicator>
+            <p>Draw pictures to demonstrate inequality or equality and explain.</p>
+          </indicator>
+          <indicator>
+            <p>Determine if two given concrete sets are equal or unequal, and explain the process used.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P1.4</identifier>
+        <outcome_text>Record equalities using the equal symbol. [C, CN, PS, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent a given equality using manipulatives or pictures.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a given pictorial or concrete equality in symbolic form.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of equalities where the given sum or difference is on either the left or right side of the equal symbol (=).</p>
+          </indicator>
+          <indicator>
+            <p>Record different representations of the same quantity (0 to 20) as equalities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Shape and Space</goal_heading>
+      <outcome>
+        <identifier>SS1.1</identifier>
+        <outcome_text>Demonstrate an understanding of measurement as a process of comparing by:identifying attributes that can be comparedordering objectsmaking statements of comparisonfilling, covering, or matching.</outcome_text>
+        <outcome_text>[C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify common attributes, including length, height, mass, volume, capacity, and area that could be used to compare two objects.</p>
+          </indicator>
+          <indicator>
+            <p>Compare two objects and identify the attribute(s) used to compare.</p>
+          </indicator>
+          <indicator>
+            <p>Determine which of two or more objects is longest or shortest by matching and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Determine which of two or more objects is heaviest or lightest by comparing and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Determine which of two or more given objects holds the most or least by filling and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Determine which of two or more given objects has the greatest/least area by covering and explain the reasoning.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS1.2</identifier>
+        <outcome_text>Sort 3-D objects and 2-D shapes using one attribute, and explain the sorting rule. [C, CN, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Sort a set of familiar 3-D objects or 2-D shapes using a given sorting rule.</p>
+          </indicator>
+          <indicator>
+            <p>Sort a set of familiar 3-D objects using a single attribute determined by the student and explain how the objects were sorted.</p>
+          </indicator>
+          <indicator>
+            <p>Sort a set of 2-D shapes using a single attribute determined by the student and explain how the shapes were sorted.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the difference between two given pre- sorted sets of familiar 3-D objects or 2-D shapes and explain a possible sorting rule used to sort them.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS1.3</identifier>
+        <outcome_text>Replicate composite 2-D shapes and 3-D objects. [CN, PS, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Select 2-D shapes from a set of 2-D shapes to reproduce a composite 2-D shape.</p>
+          </indicator>
+          <indicator>
+            <p>Select 3-D objects from a set of 3-D objects to reproduce a composite 3-D object.</p>
+          </indicator>
+          <indicator>
+            <p>Predict and select the 2-D shapes used to produce a composite 2-D shape, and verify by deconstructing the composite shape.</p>
+          </indicator>
+          <indicator>
+            <p>Predict and select the 3-D objects used to produce a composite 3-D object, and verify by deconstructing the composite object.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS1.4</identifier>
+        <outcome_text>Compare 2-D shapes to parts of 3-D objects in the environment. [C, CN, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify 3-D objects in the environment that have parts similar to a given 2-D shape.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

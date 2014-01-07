@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-197984_1</pdf>
+  <banner>social/SSK.png</banner>
+  <dark_colour>#8f3b67</dark_colour>
+  <light_colour>#e9d8e1</light_colour>
+  <goals>kindergarten/social_aimsgoals_k.htm</goals>
+  <curriculum_name>Social Studies K</curriculum_name>
+  <classification_id>kindergarten</classification_id>
+  <classification_entry>social_studies</classification_entry>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Interactions and Interdependence (IN)</goal_heading>
+      <outcome>
+        <identifier>INK.1</identifier>
+        <outcome_text>Demonstrate an understanding of similarities and differences among individuals in the classroom.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and categorize the attributes that make an individual unique (e.g., physical features, cultural interests, personality characteristics).</p>
+          </indicator>
+          <indicator>
+            <p>Identify and categorize factors that individuals have in common, including basic physical needs of all people (e.g., food, water, clothing, shelter, love, and belonging).</p>
+          </indicator>
+          <indicator>
+            <p>Explore and describe various ways in which people meet their needs, and describe how these ways are similar and different.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>INK.2</identifier>
+        <outcome_text>Describe the diversity of groups represented in the classroom.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate the diversity of languages and cultural traditions represented in the classroom and school, and recognize the role language and culture play in an individual’s unique identity.</p>
+          </indicator>
+          <indicator>
+            <p>Describe various cultural traditions, festivals, and celebrations recognized by children’s families and communities, and discuss the importance of these cultural traditions, festivals, and celebrations.</p>
+          </indicator>
+          <indicator>
+            <p>Identify individuals and groups that are important in children’s lives, and explain why these individuals and groups are important to them as individuals (e.g., family, Elders, senior citizens, friends, storytellers, classmates, members of activity groups to which children belong).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Dynamic Relationships (DR)</goal_heading>
+      <outcome>
+        <identifier>DRK.1</identifier>
+        <outcome_text>Describe the spatial relationships among people, places, and environments.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate understanding of personal directions (e.g., left/right, up/down, front/back) and relative location (e.g., near/far, above/below).</p>
+          </indicator>
+          <indicator>
+            <p>Indicate the relative position of earth below and sky above.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that some cultural groups describe earth and sky according to traditional spiritual beliefs (e.g., Mother Earth, Creator, Heaven, God, Odin, The Dagda, Tangaroa).</p>
+          </indicator>
+          <indicator>
+            <p>Identify cardinal directions (north, south, east, and west) on a simple map, when in the classroom, and on the playground.</p>
+          </indicator>
+          <indicator>
+            <p>Locate and name places in the school and playground, and illustrate their functions (e.g., water fountain, washroom, library, playground equipment).</p>
+          </indicator>
+          <indicator>
+            <p>Describe characteristics of the local physical environment, including natural (e.g., plains, forests, lakes, rivers) and constructed elements (e.g., buildings, roads, farms).</p>
+          </indicator>
+          <indicator>
+            <p>Explore the world beyond the immediate environment, through stories of personal travels, recollection of books and other narratives, and various map representations (including a map of the local community, the province, the nation, and a globe).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DRK.2</identifier>
+        <outcome_text>Explore examples of promises made through actions and words, and why it is important to keep promises.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify situations where a promise has been made in personal stories, recollection of books, and other narratives.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the consequences of when promises are kept and when they are not (e.g., hurt feelings, misunderstandings).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DRK.3</identifier>
+        <outcome_text>Analyze ways in which place and physical systems influence daily life, including the influence of place on the daily life of First Nations and Métis people.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>
+              <Story />Name, and describe the physical characteristics of, the four seasons.</p>
+          </indicator>
+          <indicator>
+            <p>Give examples of how daily life is influenced by environment (e.g., work, play, clothing).</p>
+          </indicator>
+          <indicator>
+            <p>Identify how weather affects everyday life, and describe how adaptation for seasonal change is evident in daily life (e.g., clothing, food, home construction, recreational and sporting activities, transportation).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate ways in which place influences identity (e.g., leisure activities, sports, arts, and culture are all influenced by place).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Power and Authority (PA)</goal_heading>
+      <outcome>
+        <identifier>PAK.1</identifier>
+        <outcome_text>Understand and respect the agreed-upon rules of the classroom, playground, and school, and recognize that rules and expectations are designed to promote a state of safety, self-regulation, peace, balance, and harmony.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Name some rules in the home and the school and identify their purposes (e.g., school rules, safety rules, scheduling rules such as recess or lunch time).</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate between those rules and decisions made by students themselves, those made by individuals they know, and those made by someone else (e.g., students, teachers and schools make rules about how to be safe in the classroom, such as no running; the provincial government makes rules about how to be safe in a vehicle, such as speed limits and seatbelt requirements).</p>
+          </indicator>
+          <indicator>
+            <p>Explain why rules are important.</p>
+          </indicator>
+          <indicator>
+            <p>Identify individual roles and responsibilities within the classroom and school.</p>
+          </indicator>
+          <indicator>
+            <p>Identify people who make rules that influence students’ lives, and discuss the types of decisions made by self and others.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that appropriate behaviour differs depending upon the setting.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PAK.2</identifier>
+        <outcome_text>Recognize situations in which disagreement may be part of living, studying, and working together, and that resolution may be an avenue to progress to a state of peace, balance, and harmony.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify situations in which disagreements may arise in the classroom, school, and playground.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest approaches to resolving disagreement in the classroom, school, and playground.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that agreements promote harmony and balance.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a situation in which people with different points of view interact harmoniously together.</p>
+          </indicator>
+          <indicator>
+            <p>Provide an example of when it might be acceptable to break a rule or a promise (e.g., when someone is injured, when someone is feeling scared or threatened).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Resources and Wealth (RW)</goal_heading>
+      <outcome>
+        <identifier>RWK.1</identifier>
+        <outcome_text>Examine ways of managing tasks and resources in families and schools.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Give examples of different types of work in the family and school, including paid and unpaid work.</p>
+          </indicator>
+          <indicator>
+            <p>Share stories of personal responsibilities within the home and school.</p>
+          </indicator>
+          <indicator>
+            <p>Brainstorm ways in which decisions can be made about various classroom tasks requiring completion (e.g., teacher decision, volunteers emerge, majority vote, rotation through class roster).</p>
+          </indicator>
+          <indicator>
+            <p>Relate occasions when the sharing of tasks and resources is necessary and desirable in the classroom and within the family.</p>
+          </indicator>
+          <indicator>
+            <p>Display examples of sharing within the classroom and school.</p>
+          </indicator>
+          <indicator>
+            <p>Identify occasions in which sharing is not advisable and explain why (e.g., toothbrushes, toques, hats, nut-based food stuffs).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RWK.2</identifier>
+        <outcome_text>Develop and demonstrate stewardship of the environment in daily actions, in an effort to promote balance and harmony.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Recognize reasons to care for the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Identify ways to care for the environment (e.g., reduce, reuse, and recycle) in daily classroom and family life.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate environmentally responsible behaviours in the classroom and school (e.g., take only what is needed in order to provide for future needs, reduce consumption, practise water conservation, turn off lights when leaving a room, recycle, compost).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

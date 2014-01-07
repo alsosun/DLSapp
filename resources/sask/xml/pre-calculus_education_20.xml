@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-182865_1</pdf>
+  <banner>mathematics/PC20.png</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>mathematics/pre-calculus20aimsgoals.htm</goals>
+  <teaching>mathematics/pre-calculus20.htm</teaching>
+  <curriculum_name>Pre-Calculus 20</curriculum_name>
+  <classification_id>Pre-Calculus 20</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Pre-Calculus (P)</goal_heading>
+      <outcome>
+        <identifier>P20.1</identifier>
+        <outcome_text>Demonstrate understanding of the absolute value of real numbers and equations and functions involving the absolute value of linear and quadratic functions. [C, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Provide examples relevant to one’s life, family, or community that illustrate different situations in which quantities referenced are positive, negative, or an absolute value and justify.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the distance of two real numbers of the form ±a, a ϵ R, from 0 on a number line, and relate this to the absolute value of a (|a|).</p>
+          </indicator>
+          <indicator>
+            <p>Determine the absolute value of a real number.</p>
+          </indicator>
+          <indicator>
+            <p>Order, with justification, a set of real numbers that includes the absolute value of one or more of the quantities.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, with the use of examples, how absolute value fits into the order of operations used on expressions involving real numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the value of numerical expressions involving absolute value(s).</p>
+          </indicator>
+          <indicator>
+            <p>Simplify expressions involving absolute value(s).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze, describe, and explain the relationship between the graph of y = f(x) and y = |f(x)|.</p>
+          </indicator>
+          <indicator>
+            <p>Create a table of values for y = |f(x)| given y = f(x).</p>
+          </indicator>
+          <indicator>
+            <p>Sketch the graph of y = |f(x)| given y = f(x) and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and apply strategies for determining the intercepts, domain, and range of y = |f(x)| given the equation of the function or its graph.</p>
+          </indicator>
+          <indicator>
+            <p>Explain what the range of the function y = |f(x)| reveals about the graph of the function.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for graphically determining (with and without the use of technology) the solution set of an equation involving absolute values of algebraic expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for algebraically determining the solution set of an equation involving absolute values of algebraic expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and generalize conclusions about absolute value inequalities of the form |f(x)| &lt; 0.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and correct errors in a solution to an absolute value equation.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions involving absolute value functions or equations.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and generalize the relationship between | x | and<img>math_en/square_root_of_x_2.png</img>and between | f(x) | and<img>math_en/square_root_of_f_x2.png</img>.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P20.2</identifier>
+        <outcome_text>Expand and demonstrate understanding of radicals with numerical and variable radicands including:computationssolving equations (limited to square roots and one or two radicals).</outcome_text>
+        <outcome_text>[C, CN, ME, PS, R, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for expressing an entire radical (with numerical or variable radicand) as a mixed radical.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for expressing a mixed radical (with numerical or variable radicand) as an entire radical.</p>
+          </indicator>
+          <indicator>
+            <p>Order a set of real numbers which includes radical expressions with numerical radicands.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for simplifying radical expressions (with numerical and/or variable radicands).</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for rationalizing the denominator of rational expressions with monomial or binomial denominators.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the relationship between rationalizing a binomial denominator of a rational expression and the product of the factors of a difference of squares expression.</p>
+          </indicator>
+          <indicator>
+            <p>Verify and explain, using examples, that (-x)² = x²,<img>math_en/square_root_of_x2_equals_abs_x.png</img>, and<img>math_en/square_root_of_x2_equals_pl_min_x.png</img>.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that involve radical expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and apply strategies for determining the values of a variable for which a given radical expression is defined.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and apply strategies for determining non-permissible values (restrictions on values) for the variable in a radical equation.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and apply algebraic strategies for determining and verifying the roots of a radical equation.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why some roots determined in solving a radical equation are extraneous.</p>
+          </indicator>
+          <indicator>
+            <p>Model and solve situational questions that involve radical equations.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P20.3</identifier>
+        <outcome_text>Expand and demonstrate understanding of rational expressions and equations (up to and including degree 2 numerators and denominators) including:equivalent forms of expressionsoperations on expressionssolving equations that can be simplified to linear or quadratic equations.</outcome_text>
+        <outcome_text>[C, CN, ME, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop, verify, explain, and apply strategies for determining equivalent rational expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the determining of equivalent rational expressions to determining equivalent rational numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Verify, with explanation, whether or not a given value is permissible for a given rational expression.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and apply strategies for determining the non-permissible values of a rational expression.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and apply strategies for simplifying rational expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why the non-permissible values of a simplified rational expression must be stated as those of the original rational expression.</p>
+          </indicator>
+          <indicator>
+            <p>Apply understanding of rational expressions to locate and correct errors in the simplification of a rational expression.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, verify, explain, and apply strategies for adding, subtracting, multiplying, and dividing rational expressions, including the determination of non-permissible values.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the performing of operations on rational expressions to performing the same operations on rational numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and apply strategies for simplifying rational expressions that involve two or more operations on the rational expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and apply algebraic strategies for determining the solution, including non-permissible values, of equations involving rational expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why a value obtained in solving a rational equation may not be a solution of the equation.</p>
+          </indicator>
+          <indicator>
+            <p>Model and solve situational questions involving rational expressions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P20.4</identifier>
+        <outcome_text>Expand and demonstrate understanding of the primary trigonometric ratios including the use of reference angles (0° ≤ θ ≤ 360°) and the determination of exact values for trigonometric ratios. [C,ME,PS,R,T,V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Provide examples relevant to one’s self, family, or community that illustrate the need to define a standard position for angles.</p>
+          </indicator>
+          <indicator>
+            <p>Sketch an angle in standard position given the measure of the angle.</p>
+          </indicator>
+          <indicator>
+            <p>Determine and justify, with or without sketching, the quadrant in which an angle in standard position terminates.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the reference angle for an angle in standard position.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze, describe, and generalize the relationship between the reference angles for angles (in standard positions) that are reflections of each other across both the x- and y- axes (e.g., 30° and 150°, or -60° and 60°).</p>
+          </indicator>
+          <indicator>
+            <p>Sketch an angle in standard position given a point P(x, y) on the terminal arm of the angle.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining a point on the terminal arm of the angle in each quadrant that has the same reference angle as the angle with P(x, y) on its terminal arm.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and apply strategies for determining the distance between the origin and a point P(x, y) on the terminal arm of an angle.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the value of sinθ, cosθ, and tanθ when given a point P(x, y) on the terminal arm of θ.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining sin θ, cos θ, and tan θ for quadrantal angles.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the sign (without calculation or the use of technology) of sin θ, cos θ, or tan θ for a given value of θ.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and apply strategies for solving, for all values of θ, equations of the form sin θ = a or cos θ =a, where −1 ≤ a ≤ 1, and equations of the form tan θ = a, where a is a real number.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze 30°- 60°- 90° and 45°- 45°- 90° triangles to generalize about the relationship between pairs of sides in such triangles in relation to the angles.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the exact value of the sine, cosine, or tangent (without the use of technology) of an angle with a reference angle of 30°, 45°, or 60°.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and generalize the relationships and patterns in and among the values of the sine, cosine, and tangent ratios for angles from 0° to 360°.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve a situational question relevant to one’s self, family, or community which involves a trigonometric ratio.</p>
+          </indicator>
+          <indicator>
+            <p>Identify angles for which the tangent ratio does not exist and explain why.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P20.5</identifier>
+        <outcome_text>Demonstrate understanding of the cosine law and sine law, including the ambiguous case. [C, CN, PS, R, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Provide a diagram or picture to illustrate a situation relevant to one’s self, family, or community that involves a triangle without a right angle.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and apply strategies for solving a non-right angle triangle using the primary trigonometric ratios.</p>
+          </indicator>
+          <indicator>
+            <p>Derive and explain a proof of the sine law or cosine law.</p>
+          </indicator>
+          <indicator>
+            <p>Provide an example of a situation relevant to one’s self, family, or community that involves the need to consider the ambiguous case and provide a diagram or picture to illustrate the situation and explain why the ambiguous case needs to be considered.</p>
+          </indicator>
+          <indicator>
+            <p>Apply the sine law and/or cosine law to solve situational questions.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “For every possible pair of angles (whose sum is less than 180°) and line segment, a triangle can be constructed”.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “The sine law and the cosine law only apply to non-right triangles”.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P20.6</identifier>
+        <outcome_text>Expand and demonstrate understanding of factoring polynomial expressions including those of the form:a²x² - b²y², a ≠ 0, b ≠ 0a(f(x))² - b(f(x)) + c, a ≠ 0a²(f(x))² - b²(g(y))², a ≠ 0, b ≠ 0</outcome_text>
+        <outcome_text>where a, b, and c are rational numbers. [CN, ME, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for factoring polynomial expressions of the form:a²x² - b²y², a ≠ 0, b ≠ 0, a and b are real numbersca²x² - cb²y², a ≠ 0, b ≠ 0, a, b, and c are real numbersa(f(x))² - b(f(x)) + c, a ≠ 0, a, b, and c are real numbersda(f(x))² - db(f(x)) + dc, a ≠ 0, a, b, c, and d are real numbersa²(f(x))² - b²(g(y))², a ≠ 0, b ≠ 0, a and b are real numbersda²(f(x))² - db²(g(y))², a ≠ 0, b ≠ 0, a, b, and d are real numbers</p>
+          </indicator>
+          <indicator>
+            <p>Verify, with explanation, whether or not a given binomial is a factor for a given polynomial.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P20.7</identifier>
+        <outcome_text>Demonstrate understanding of quadratic functions of the form y=ax²+bx+c and of their graphs, including:vertexdomain and rangedirection of openingaxis of symmetryx- and y-intercepts.</outcome_text>
+        <outcome_text>[CN, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Generalize a rule from sets of graphs, using inductive reasoning, and explain about how different values of a (including 1, 0, and -1) transform the graph of y = ax².</p>
+          </indicator>
+          <indicator>
+            <p>Generalize a rule from sets of graphs, using inductive reasoning, and explain about how different values of q (including 0) transform the graph of y = x² + q.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize a rule from sets of graphs, using inductive reasoning, and explain how different values of p (including 0) transform the graph of y = (x - p)².</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the coordinates of the vertex, the domain and range, the axis of symmetry, x- and y- intercepts, and direction of opening of the graph of the function f(x) = a(x-p)² + q without the use of technology.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and apply strategies for graphing functions of the form f(x) = a(x - p)² + q by applying transformations related to the values of a, p, and q.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and apply strategies (that do not require graphing or the use of technology) for determining whether a quadratic function will have zero, one, or two x-intercepts.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and apply strategies for writing a quadratic function in the form of y = a(x - p)² + q that represents a given graph or set of characteristics of a graph.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, verify, and apply a strategy (including completing the square) for writing a quadratic function in the form y = ax² + bx + c in the form y = a(x - p)² + q.</p>
+          </indicator>
+          <indicator>
+            <p>Using knowledge about completing the square, identify and correct errors in a given example of completing the square.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the coordinates of the vertex, the domain and range, the axis of symmetry, x- and y- intercepts, and direction of opening of the graph of a function in the form y = ax² + bx + c.</p>
+          </indicator>
+          <indicator>
+            <p>Sketch the graph of a quadratic function given in the form y = ax² + bx + c.</p>
+          </indicator>
+          <indicator>
+            <p>Write a quadratic function that models a given situation and explain any assumptions made.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze quadratic functions (with or without the use of technology) to answer situational questions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P20.8</identifier>
+        <outcome_text>Demonstrate understanding of quadratic equations including the solution of:single variable equationssystems of linear-quadratic and quadratic-quadratic equations in two variables.</outcome_text>
+        <outcome_text>[C, CN, PS, R, T, V]</outcome_text>
+        <indicators>
+          <outer_text>
+            <i>Note: It is intended that the quadratic equations be limited to those that correspond to quadratic functions.</i>
+          </outer_text>
+          <indicator>
+            <p>Explain, using examples, the relationship among the roots of a quadratic equation, the zeros of the corresponding quadratic function and the x-intercepts of the graph of the quadratic function.</p>
+          </indicator>
+          <indicator>
+            <p>Derive the quadratic formula, using deductive reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Apply strategies for solving quadratic equations of the form ax² + bx + c = 0 including:determining square rootsfactoringcompleting the squareapplying the quadratic formulagraphing its corresponding function, with and without the use of technology.</p>
+          </indicator>
+          <indicator>
+            <p>Explain different strategies for verifying the solution to a quadratic equation.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, how the discriminant may be used to determine whether a quadratic equation has two, one, or no real roots; and relate this knowledge to the number of zeros that the corresponding quadratic function will have.</p>
+          </indicator>
+          <indicator>
+            <p>Apply knowledge of quadratic equations and functions to identify and correct any errors within a solution to a quadratic equation.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions involving the writing and solving of quadratic equations.</p>
+          </indicator>
+          <indicator>
+            <p>Match systems of linear-quadratic and quadratic-quadratic functions to situations.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for solving systems of linear-quadratic and quadratic-quadratic functions, including:graphicallyalgebraicallywith the use of technology.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the meaning of the intersection point of a system of linear-quadratic or quadratic-quadratic equations in terms of the situation being modeled.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate and explain how a system of linear-quadratic or quadratic-quadratic equations may have zero, one, two, or an infinite number of solutions.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions by using systems of linear-quadratic or quadratic-quadratic equations.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P20.9</identifier>
+        <outcome_text>Expand and demonstrate understanding of inequalities including:one-variable quadratic inequalitiestwo-variable linear and quadratic inequalities.</outcome_text>
+        <outcome_text>[C, CN, PS, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the solution region for two-variable linear or two-variable quadratic inequalities.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, how test points can be used to determine the solution region that satisfies a two-variable inequality.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, when a solid or broken line should be used in the graphic solution of a two-variable inequality.</p>
+          </indicator>
+          <indicator>
+            <p>Explain what the solution region for a two-variable inequality means.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a situational question that involves a two-variable inequality.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies, such as case analysis, graphing, roots and test points, or sign analysis, to solve one-variable quadratic inequalities.</p>
+          </indicator>
+          <indicator>
+            <p>Model and solve a situational question that involves a one-variable quadratic inequality.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret the solution to a situational question that involves a one-variable quadratic inequality.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P20.10</identifier>
+        <outcome_text>Demonstrate understanding of arithmetic and geometric (finite and infinite) sequences and series. [CN, PS, R, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>
+              <Story />Identify assumptions made in determining that a sequence or series is either arithmetic or geometric.</p>
+          </indicator>
+          <indicator>
+            <p>Provide an example of a sequence that follows an identifiable pattern, but that is neither arithmetic nor geometric.</p>
+          </indicator>
+          <indicator>
+            <p>Provide an example of an arithmetic or geometric sequence that is relevant to one’s self, family, or community.</p>
+          </indicator>
+          <indicator>
+            <p>Generate arithmetic or geometric sequences from provided information.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply a rule and other strategies for determining the values of t₁, a, d, n, or t<sub>n</sub>in situational questions that involve arithmetic sequences.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply a rule and other strategies for determining the values of t₁, a, d, n, or S<sub>n</sub>in situational questions that involve arithmetic series.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that involve arithmetic sequences and series.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply a rule and other strategies for determining the values of t₁, a, r, n, or t<sub>n</sub>in situational questions that involve geometric sequences.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply a rule and other strategies for determining the values of t₁, a, r, n, or S<sub>n</sub>in situational questions that involve geometric series.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, and explain a rule and strategies for determining the sum of an infinite geometric series and apply this knowledge to the solving of situational questions.</p>sgi issuer</indicator>
+          <indicator>
+            <p>Analyze a geometric series to determine if it is convergent or divergent and explain the reasoning.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P20.11</identifier>
+        <outcome_text>Demonstrate understanding of reciprocal functions of:linear functionsquadratic functions.</outcome_text>
+        <outcome_text>[CN, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe the relationship between a function and its reciprocal.</p>
+          </indicator>
+          <indicator>
+            <p>Apply knowledge of rational expressions to determine non-permissible values for reciprocal functions.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and describe the relationship between vertical asymptotes and non-permissible values.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and apply strategies for graphing (with or without the use of technology) y =<img>math_en/y_equals_1_over_fx.png</img>given either the graph or equation for y = f(x) where f(x) is a polynomial of degree ≤ 2.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and apply strategies for graphing (with or without the use of technology) y = f(x) given either the graph or equation for y =<img>math_en/y_equals_1_over_fx.png</img>where f(x) is a polynomial of degree ≤2.</p>
+          </indicator>
+          <indicator>
+            <p>. Sketch the graph of a function in the form y =<img>math_en/y_equals_1_over_fx.png</img></p>
+          </indicator>
+          <indicator>
+            <p>Analyze reciprocal functions to describe the end behaviour of the functions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181822_1</pdf>
+  <banner>physical/PE7.png</banner>
+  <dark_colour>#936fb1</dark_colour>
+  <light_colour>#e9e2ef</light_colour>
+  <goals>physical/physicaleducation7-9aimsgoals.htm</goals>
+  <teaching>physical/physicaleducation7teaching.htm</teaching>
+  <curriculum_name>Physical Education 7</curriculum_name>
+  <classification_id>physical education 7</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Physical Education (PE)</goal_heading>
+      <goal>Goals: Active Living, Skillful Movement, Relationships</goal>
+      <outcome>
+        <identifier>PE7.1</identifier>
+        <outcome_text>Create and implement a personal health-related fitness plan targeting the health-related fitness components of cardiovascular endurance, muscular endurance, and flexibility that involves setting a goal for improvement, applies the F.I.T.T. principle (Frequency, Intensity, Type of activity, and Time), and incorporates daily moderate to vigorous movement activity.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate and regularly use the safe and proper techniques for flexibility exercises (e.g., slow, sustained, within comfort zone, focus on target muscles, minimize other body parts, stretch to the limit of the movement, slow and rhythmical breathing) on a consistent basis.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate and regularly use challenging and safe strategies while participating in continuous aerobic activity (e.g., running, skipping, snowshoeing, cycling, swimming, dancing, paddling, outdoor obstacle course races) in a progression towards eleven consecutive minutes on a consistent basis.</p>
+          </indicator>
+          <indicator>
+            <p>Sustain participation in aerobically challenging lead-up games (e.g., three-on-three soccer, two-on-two basketball, three-on-three double ball) that increase heart rate and respiration rates in a progression towards eleven consecutive minutes on a consistent basis.</p>
+          </indicator>
+          <indicator>
+            <p>Willingly engage in a variety of movement activities at a moderate to vigorous level of effort in a progression towards eleven consecutive minutes.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the cardiovascular, muscular endurance, and flexibility benefits of participation in a variety of striking/fielding games, net/wall games, low-organizational and inventive games, alternate environment activities, and body management activities.</p>
+          </indicator>
+          <indicator>
+            <p>Communicate, with clarity and correctness, the relevance of target heart zone in determining the effectiveness of participation in movement activities in supporting cardiovascular fitness.</p>
+          </indicator>
+          <indicator>
+            <p>Practise monitoring heart rate and calculating target heart zone to draw conclusions about personal achievement of maintaining target heart zone for a given length of time, in a progression towards eleven consecutive minutes.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish the difference between aerobic and anaerobic activity to draw conclusions about the connection to cardiovascular and muscular endurance.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate safe and effective technique while participating in repetitive physical movement that challenges muscular endurance (e.g., various forms of push-ups; various forms of abdominal exercises such as curl-ups, curl-downs, v-sits) on a consistent basis.</p>
+          </indicator>
+          <indicator>
+            <p>Design and lead others in a flexibility and muscular endurance workout following given guidelines (e.g., a focus on the upper body, a focus for a basketball player, a focus for a hunter).</p>
+          </indicator>
+          <indicator>
+            <p>Identify responsible decisions that promote daily participation in movement activity and improved personal health-related fitness (e.g., be active outside whenever possible, participate in intramurals, play a game at recess, invite a friend to join in participating in movement activity, participate in community sports, walk to school)</p>
+          </indicator>
+          <indicator>
+            <p>Determine and monitor personal level of health-related cardiovascular, muscular endurance, and flexibility fitness incorporating the use of data collection tools (e.g., written resources and computer programs such as Fitnessgrams, Activitygrams [Meredith &amp; Welk, 2007], pedometers, stop watches).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze, with guidance, personal fitness appraisal data to enhance understanding of personal fitness level by gathering and comparing data over time as related to:</p>cardiovascular endurance (e.g., endurance walk or run), muscular endurance (e.g., continuous push-ups, continuous curl-ups), flexibility (e.g., sit and reach, shoulder stretch).,</indicator>
+          <indicator>
+            <p>Compare personal fitness performance on fitness appraisals to previous personal performance throughout the year and to standards to determine personal strengths and weaknesses.</p>
+          </indicator>
+          <indicator>
+            <p>Create and implement fitness plans, incorporating F.I.T.T. principles, to improve health-related fitness components of cardiovascular endurance, muscular endurance, and flexibility</p>
+          </indicator>
+          <indicator>
+            <p>Compare own fitness results and movement activity participation over a period of time (e.g., beginning, middle, and end of year) to evaluate success of plan.</p>
+          </indicator>
+          <indicator>
+            <p>Propose ways to improve own personal fitness plans after reflecting on personal progress throughout the time frame for the plan.</p>
+          </indicator>
+          <indicator>
+            <p>Express insights in responses to questions such as “Why would you bother to set fitness goals and create plans to achieve those goals year after year?” and “Do the words ‘exercise’ and ‘fun’ go together?”</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE7.2</identifier>
+        <outcome_text>Examine personal daily nutritional habits and fluid intake practices that support healthy participation in various types of movement activities and the attainment or maintenance of healthy body weight and body composition.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Communicate, with clarity and correctness, the main contributions (e.g., energy, tissue repair, bone density, hydration) of the essential nutrients (i.e., carbohydrates, fats, protein, minerals, vitamins, and water) in the performance of the body as it relates to participation in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Inquire about recommended diets for athletes who specialize in movement activity areas (e.g., long distance runner, hockey player, speed swimmer, biathlon competitor).</p>
+          </indicator>
+          <indicator>
+            <p>Explain how career might have implications for food and fluid intake (e.g., an indoor office worker who sits most of the day compared to a hunter/trapper who is outdoors moving most of the day).</p>
+          </indicator>
+          <indicator>
+            <p>Monitor and assess own fluid intake practices.</p>
+          </indicator>
+          <indicator>
+            <p>Apply knowledge of recommended levels of water consumption to daily behaviours.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the benefits of consuming water on a daily basis as it relates to participation in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how to safely use snow and natural water resources for hydration.</p>
+          </indicator>
+          <indicator>
+            <p>Inquire about the nutritional and performance benefits and detriments of commercially promoted sports drinks and energy drinks.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the best type and quantities of fluid to consume during various movement activities under different conditions (e.g., indoor, outdoor, humid, long/short duration)</p>
+          </indicator>
+          <indicator>
+            <p>Identify potential illnesses and injuries that can result from malnutrition and dehydration that have a direct impact on the body’s ability to participate in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate whether own food consumption choices and own level of participation in movement activities, over time, will increase, decrease, or maintain body composition.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE7.3</identifier>
+        <outcome_text>Demonstrate an understanding of the effects of exercise and inactivity on the skeletal system (i.e., increased/ decreased bone density, increased/decreased bone mass) and the function (i.e., shape support, protection) of the skeletal system in relation to participating in movement activities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate the location of indicated bones referring to them by proper name (e.g., humerus, ulna, radius, femur, tibia, fibula, scapula, clavicle, ribs, pelvis, skull).</p>
+          </indicator>
+          <indicator>
+            <p>Explain the impact of exercise and inactivity on the skeletal system.</p>
+          </indicator>
+          <indicator>
+            <p>Communicate, with clarity and correctness, how the different skeletal joints are configured (e.g., ball-and-socket, hinge, pivot) and how they work in co-operation with muscles and ligaments.</p>
+          </indicator>
+          <indicator>
+            <p>Tell a story (e.g., written, visual, audio, video, creative performance) that represents the importance of exercise during adolescence as a means of preventing skeletal-related injuries, illnesses, and disease both currently and in the future.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE7.4</identifier>
+        <outcome_text>Examine and apply strategies to incorporate cross-training using different movement activities to improve fitness and skill (e.g., aerobic dance develops coordination and agility used in basketball; golf and hockey develop hand/eye coordination/striking skills) while participating in movement activities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create and participate in flexibility routines for a specified sport movement skill (e.g., curling delivery, hockey goalie, paddling in a kayak).</p>
+          </indicator>
+          <indicator>
+            <p>Create and participate in skill stations that address specified criteria related to the health-related components of fitness, skill-related components of fitness, and sport skill performance (e.g., agility, speed, and muscular endurance for pass reception in football; power, co-ordination, and strength for blocking in volleyball; power, balance, and coordination for throwing for distance).</p>
+          </indicator>
+          <indicator>
+            <p>Identify and participate in a variety of body management activities (e.g., resistance training, core strength training, circuit training, pilates, yoga, educational gymnastics) that develop a variety of fitness components that have direct benefit to overall fitness and skill.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate, through representations such as graphic organizers, an understanding of how participation in movement activities as a means of improving health-related components of fitness has a direct impact on the skills needed to participate in specified sports.</p>
+          </indicator>
+          <indicator>
+            <p>Express insights in response to questions such as “Is there any problem with being a “one sport” kind of person?” and “What does cross-training have to do with me if I don’t play any sports?”</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE7.5</identifier>
+        <outcome_text>Demonstrate control, including smooth transitions, of complex movement skills that combine locomotor (traveling) skills, non-locomotor (non-traveling) skills, and manipulative (moving objects) skills as they apply to games and sports (e.g., lay-up in basketball, spike in volleyball, dribbling to a shot in soccer, gathering a grounder and throwing to a base in softball, stick handling to a shot in floor hockey, paddling a kayak, passing a lacrosse ball) while participating in movement activities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Communicate, with clarity and correctness, using performance words to demonstrate understanding of the performance cues (e.g., backswing, hip rotation, follow through) to support the performance of complex skills.</p>
+          </indicator>
+          <indicator>
+            <p>Incorporate “talk-aloud” self-learning methods (e.g., while performing complex skills saying the performance cues words out loud) to strengthen the ability to skillfully perform complex skills.</p>
+          </indicator>
+          <indicator>
+            <p>Select personal goals for the performance of complex skills and practise for attainment by identifying the critical elements of a specific skill (e.g., basketball – dribbling: dominant hand, non-dominant hand, while guarded) and establishing criteria for demonstration of competent performance of skill (e.g., time ranges for an obstacle course or relay dribble, time to cover a long distance running course).</p>
+          </indicator>
+          <indicator>
+            <p>Verbalize and apply skill appropriate performance cues (e.g., opposite foot forward, weight transfer, follow through) while practising striking skills associated with net/wall games and striking/fielding games (e.g., overhand serve in volleyball, short and long serve in badminton, batting in softball).</p>
+          </indicator>
+          <indicator>
+            <p>Use correct form to make solid contact when sending objects by striking (e.g., serve in tennis, serve in volleyball).</p>
+          </indicator>
+          <indicator>
+            <p>Use body parts sequentially to build force for complex skill performance.</p>
+          </indicator>
+          <indicator>
+            <p>Combine locomotor, non-locomotor, and manipulative skills to perform game or sport required combination skills (e.g., soccer – dodge an opponent, run to an open space, receive a pass, fake, dribble in for a shot on net) in practise, and in modified game-like and game situations (e.g., three-on-three soccer, five-on-five soccer).</p>
+          </indicator>
+          <indicator>
+            <p>Combine movement skills that have been practised and learned for unpredictable situations and for the flow of the game in game situations (e.g., gathering and throwing while moving, dribbling and shooting while moving, shifting appropriately to receive).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze skill performance of self and others, detecting and correcting mechanical errors, based on pre-established and communicated criteria (e.g., performance cues checklist, rubric).</p>
+          </indicator>
+          <indicator>
+            <p>Generate and use assessment tools (e.g., checklist, rating scales, rubrics) in small groups for a peer analysis of skill performance.</p>
+          </indicator>
+          <indicator>
+            <p>Practise skills at a high level of engagement.</p>
+          </indicator>
+          <indicator>
+            <p>Express insights in response to questions such as “How will focusing on improving skill performance support me in living an active life regardless of my sport interest level?”</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE7.6</identifier>
+        <outcome_text>Explore, apply, and communicate biomechanical concepts and principles of balance, stability, spin, and rotation as a means to enhance independence in learning motor skills involving locomotor (traveling), non-locomotor (non-traveling), and manipulative (moving objects) skills.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Communicate, with clarity and correctness, using the appropriate language, the biomechanical concepts and principles related to balance, stability, spin, and rotation.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and describe the impact of variations of base of support (e.g., narrow, wide) and location of centre of gravity (e.g., low, high, above base of support, outside of base of support) on balance.</p>
+          </indicator>
+          <indicator>
+            <p>Propose solutions for improving balance related to given situations (e.g., a person who tries to do a headstand always tips over).</p>
+          </indicator>
+          <indicator>
+            <p>Explain how equipment required for participation (e.g., heavy backpack, snowshoes) and for protection (e.g., helmet and padding) might affect balance.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why balance is challenged when participating in various movement activities (e.g., skating, paddling a canoe, walking on a balance beam, walking on stilts).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how one’s balance will be affected by body type (e.g., very tall versus short, very tall and light weight versus very tall and heavier weight).</p>
+          </indicator>
+          <indicator>
+            <p>Explore and describe the flight of an object using a variety of ways to contact the object (e.g., punt a football using the side of the foot, using the top of the foot; contacting the ball crosswise, contacting the ball lengthwise; serve a volleyball underhand using a fist, using an open hand; contacting the ball underneath, in the center, on the right side, on the left side).</p>
+          </indicator>
+          <indicator>
+            <p>Explore and explain how rebound is affected when different spins are applied to an object (e.g., top spin versus backspin applied to a basketball when doing a bounce pass).</p>
+          </indicator>
+          <indicator>
+            <p>Propose solutions for improved direction of flight related to given situations (e.g., a volleyball serve is always veering off to the left).</p>
+          </indicator>
+          <indicator>
+            <p>Explore and explain how moving the mass of an object closer to the axis of rotation will cause the object to rotate faster.</p>
+          </indicator>
+          <indicator>
+            <p>Describe ways to increase and decrease the momentum of a spin (e.g., move arms closer and farther away from the body).</p>
+          </indicator>
+          <indicator>
+            <p>Explore and describe how velocity of rotation can be increased when participating in movement activities (e.g., throw a ball sidearm while standing, then throw a ball sidearm after rotating in a complete circle).</p>
+          </indicator>
+          <indicator>
+            <p>Consider and explore the application of the biomechanical concepts and principles of balance, stability, spin, and rotation to enhance movement as required by the flow of play in striking/fielding games, net/wall games, and low-organizational and inventive games.</p>
+          </indicator>
+          <indicator>
+            <p>Consider and explore the biomechanical concepts and principles of balance, stability, spin, and rotation to enhance movement used in alternate environment and body management activities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE7.7</identifier>
+        <outcome_text>Analyze and apply, with guidance, movement concepts while participating in: net/wall games (e.g., badminton - body awareness in ready position to receive a serve), striking/fielding games (e.g., softball - body position to catch a fly ball or grounder).,</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Communicate, with clarity and correctness, using performance words to demonstrate understanding of how to perform a variety of movements associated with net/wall and striking/fielding games.</p>
+          </indicator>
+          <indicator>
+            <p>Select and practise effective grip, footwork, and body movement to execute the various strokes used in net games such as tennis, badminton, table tennis, and pickleball.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate recommended footwork for movement on the court and field as required for the situation.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the performance cues of various skills used in a variety of net/wall games and striking/fielding games (e.g., serve reception in volleyball compared to hit reception in softball; striking in softball compared to underhand stroke in tennis).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate progression in skills development of self-selected and teacher-selected skills required for participation in net/wall games and striking/fielding games by using a pre-assessment, plan for growth, principle of practice, and post-assessment method.</p>
+          </indicator>
+          <indicator>
+            <p>Communicate, with clarity and correctness, the terminology associated with skills and rules for selected team movement activities (e.g., drop shot, clear, service in net/wall games; leading off, stealing bases in striking/fielding games).</p>
+          </indicator>
+          <indicator>
+            <p>Apply movement concepts while participating in game situations with classmates.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the application of movement concepts, by self and others, after participation in a movement activity.</p>
+          </indicator>
+          <indicator>
+            <p>Propose and demonstrate adjustments in individual skill performance to respond to given and evolving strategic needs in game situations (e.g., softball - hitting to right field as opposed to hitting to left field).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE7.8</identifier>
+        <outcome_text>Make situational decisions (individual, partner, and team) related to the selection of skills, tactics, and strategies to enhance individual and team performance while participating in: net/wall games (e.g., badminton, volleyball, tennis, table tennis, pickleball, paddleball), striking/fielding games (e.g., softball, longball, kickball, cricket), low-organizational, inventive, and co-operative games (e.g., walleyball, king’s court).,</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Communicate, with clarity and correctness, the terminology associated with the tactics of selected net/wall and striking/fielding games while participating in practice and game situations.</p>
+          </indicator>
+          <indicator>
+            <p>Express reflective insights in response to questions such as “What does it mean to “read the situation” in the context of participating in movement activities?” and “What tactics will be most beneficial to take into consideration in any type of game that involves striking an object?”</p>
+          </indicator>
+          <indicator>
+            <p>Propose and practise the application of individual performance adjustments (e.g., badminton – opponent has a weak backhand stroke; therefore, birdie placement is to backhand) and team performance adjustments (e.g., shifting the positioning of the infield to accommodate batter strength) as a response to reading the opponent’s strategy.</p>
+          </indicator>
+          <indicator>
+            <p>Make effective choices that demonstrate strategic planning and reflect an awareness of what opponents and teammates are doing while in practice and game situations.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the connection between tactics and strategies used and the rules of a variety of net/wall games and striking/fielding games (e.g., which serve is best to use in badminton based on the boundary lines – whether singles or doubles).</p>
+          </indicator>
+          <indicator>
+            <p>Identify, practise, and incorporate various offensive tactics, while participating in practice and game situations with classmates, that are used in a variety of:</p>net/wall games (e.g., set to a spike in volleyball, hitting to open spaces in all games), striking/fielding games (e.g., when would be a good time to bunt in softball), low-organizational, inventive, and cooperative games (e.g., when to use the wall, and when not to, in walleyball).,</indicator>
+          <indicator>
+            <p>Identify, practise, and incorporate various defensive tactics, while participating in practice and game situations with classmates, that are used in a variety of:</p>net/wall games (e.g., returning to base position within the court after playing the ball, shifting to cover as a team), striking/fielding games (e.g., shifting positioning on the field when there is a left-handed batter), low-organizational, inventive, and cooperative games (e.g., adjusting positioning to receive a ball that is coming off the wall in walleyball).,</indicator>
+          <indicator>
+            <p>Appropriately return to a recovery (base) position between skill attempts while participating in game situations.</p>
+          </indicator>
+          <indicator>
+            <p>Appropriately support teammates who are playing the ball by moving into position to receive the ball from the teammate.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate purposeful team communication skills (e.g., calling the ball, calling for help, sharing what opponents are doing) while participating in game situations with classmates</p>
+          </indicator>
+          <indicator>
+            <p>Adapt rules of low-organizational and inventive games (e.g., one bounce volleyball) based on criteria predetermined through problem-solving activities (e.g., suggest rule changes for enhanced activity, inclusion, and/or safety) and participate in game situations with classmates using adapted rules.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE7.9</identifier>
+        <outcome_text>Utilize selected movement skills and combinations of skills (i.e., locomotor, non-locomotor, and manipulative) to participate in a variety of: alternate environment activities (e.g., skating, cross-country skiing, swimming, snowshoeing, cycling, hiking, tracking, skateboarding, roping, canoeing, downhill skiing, orienteering), body management activities including dance and educational gymnastics, as well as others (e.g., wrestling, track and field, pilates, yoga, aerobics).,</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Willingly engage in developing skills, used alone or in combination, while participating in a variety of alternate environment and body management activities.</p>
+          </indicator>
+          <indicator>
+            <p>Create and implement a plan to increase efficiency of movement to support sustained participation in a variety of alternate environment activities.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze self-selected and teacher-selected alternate environment activities (e.g., downhill skiing, water polo, orienteering) to determine the specific movement skills (e.g., snowplow in skiing, treading water in swimming, map reading) required for enjoyable participation in the activities.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze self-selected and teacher-selected body management activities (e.g., hip hop dance, wrestling, yoga) to determine the specific movement skills (e.g., one-two step in hip hop, duck out or spin and roll in wrestling, warrior’s pose in yoga) required for enjoyable participation in the activities.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate dynamic balance (e.g., cartwheels, skating backwards, stroking while canoeing, quick change of direction in various activities) applying biomechanical principles (e.g., lower centre of gravity, widen base of support) for stability.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and apply biomechanical concepts (e.g., torque, equilibrium, reaction force) related to acceleration and deceleration of the body</p>
+          </indicator>
+          <indicator>
+            <p>Create and perform a sequence of movement skills and combinations of skills that include the movement of objects and are performed to a rhythm (e.g., music, drum beat, clapping).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate an understanding of the concept of flow and how to achieve flow in relation to sequences of combined movements while participating in dance and other body management activities such as yoga and aerobics.</p>
+          </indicator>
+          <indicator>
+            <p>Co-create and teach a group dance sequence that combines a variety of locomotor, non-locomotor, and manipulative skills.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE7.10</identifier>
+        <outcome_text>Plan, organize, lead, and evaluate cooperatively movement activity, such as intramurals, fitness fun days, and playground games, to engage younger students and to connect with others.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Implement a means (e.g., survey, interview) to determine the interests and abilities of the target audience for participation in a planned activity.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the concepts of cooperative and competitive movement activities as a consideration for selecting movement activities for others.</p>
+          </indicator>
+          <indicator>
+            <p>Create and implement, in small groups, a plan to teach and/or lead younger children in participation in movement activity (e.g., intramurals, cooperative game, skill development lesson, activity stations, outdoor hike, fitness buddies, playground games).</p>
+          </indicator>
+          <indicator>
+            <p>Role model active play for younger children that involves the younger children in the play.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the success of the implementation of the plan by considering a variety of feedback sources (e.g., participants, peer/teacher, self-reflection).</p>
+          </indicator>
+          <indicator>
+            <p>Willingly seek advice and support (e.g., classmate, teachers, elders, community members such as recreation directors, health promotions personnel) for how to involve younger children in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Express insights in response to questions such as “What does it mean to be a leader and how does that apply in an active living context?”, “Does there have to be winners in order for participation in movement activities to be fun?”, “How can losing affect someone’s willingness to participate in movement activities?”, and “What is the best way to pick teams?”</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE7.11</identifier>
+        <outcome_text>Examine external influences (i.e., cost, facility availability, practice opportunities outside school) that may affect movement skill development and options for active living in the community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research the facility and program options available in the community that support participation in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the gaps in current community facility and program options as they would apply to the various community members (e.g., young children, youth, adults, seniors, physically disabled, males, females).</p>
+          </indicator>
+          <indicator>
+            <p>Propose solutions to community “activity deficits” and present solutions to community decision maker, if applicable.</p>
+          </indicator>
+          <indicator>
+            <p>Calculate the cost of participation in a variety of community-based movement activities (e.g., dance clubs, hockey teams, public swimming, golfing) and propose comparable options (e.g., physical fitness benefits, enjoyment aspect) that are less expensive or free.</p>
+          </indicator>
+          <indicator>
+            <p>Express insight in response to questions such as “Are there barriers to our achieving personally appropriate levels of participation in movement activities?”</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE7.12</identifier>
+        <outcome_text>Analyze and apply the safety guidelines and rules related to net/wall games, striking/fielding games, low-organizational and inventive games, alternate environment activities, and body management activities to develop an appreciation of their impact on self and others.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate automation in the use of safety skills while participating in net/wall games, striking/fielding games, low-organizational and inventive games, alternate environment activities, and body management activities.</p>
+          </indicator>
+          <indicator>
+            <p>Propose preventive measures to be followed regarding potential safety issues related to the various aspects involved in playing net/wall games (e.g., equipment, court surfaces) and striking/fielding games (e.g., equipment, foul balls).</p>
+          </indicator>
+          <indicator>
+            <p>Justify the need for rules related to safety (e.g., batter’s box in softball/baseball, protective eye wear in badminton).</p>
+          </indicator>
+          <indicator>
+            <p>Represent and apply an understanding of safety guidelines appropriate for a variety of alternate environment activities (e.g., prevention of skin conditions such as sunburn, selection of appropriate clothing and footwear, wearing a lifejacket when in a canoe).</p>
+          </indicator>
+          <indicator>
+            <p>Represent and apply an understanding of safety guidelines and rules appropriate for a variety of body management activities (e.g., stay behind the backstop when a classmate is throwing discus; keep knees slightly bent during aerobic movements).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE7.13</identifier>
+        <outcome_text>Role model and practise the behaviours associated with demonstrating responsibility and caring for others to support personal growth in making positive connections while participating in movement activities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Evaluate own attitudes, values, and behaviour related to interacting with others while participating in, or encouraging others to participate in, movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Self-assess personal progression through the five levels of a social skills continuum (i.e., irresponsible behaviour, self-control, involvement, responsibility, and caring for others) on a regular basis.</p>
+          </indicator>
+          <indicator>
+            <p>Acknowledge when own behaviour is not reflective of the top three levels of social interaction and suggest alternatives for making positive adjustments.</p>
+          </indicator>
+          <indicator>
+            <p>Collaboratively create and implement a group plan for supporting others in participating in movement activities (e.g., Terry Fox Run/Walk, family dance, round dance, nature hike, winter games) incorporating plans for role modeling responsible and caring behaviour.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE7.14</identifier>
+        <outcome_text>Examine, evaluate, and represent both the historical and present impact of Canada’s Northern people on the development of movement activity options as a means of supporting the well-being of self and others.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Willingly participate in movement activities originating with Canada’s Northern people, led by others (classmates, teacher, guest presenter).</p>
+          </indicator>
+          <indicator>
+            <p>Show respect and a willingness to honour cultural protocol when participating in cultural movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Tell a story (e.g., written, visual, audio, video, creative performance) of a movement activity that is historically connected to our Northern neighbours (e.g., tracking, Bola Toss, Blanket Toss, Arctic games, Tug-o-War, cultural dance).</p>
+          </indicator>
+          <indicator>
+            <p>Express insights (e.g., discussion, journal) into the motivation and/or historical factors that influenced the development of the movement activities created by our Northern people and the benefits of these activities related to physical, emotional, mental, and spiritual well-being.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the impact that specific Northern people, including those of both genders, have had on the movement activities pursued by self and others.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

@@ -1,0 +1,156 @@
+<curriculum>
+	<grade>
+		<grade_text>k</grade_text>
+		<subjects id='k'>arts</subjects>
+		<subjects id="k">ela</subjects>
+		<subjects id="k">health</subjects>
+		<subjects id="k">math</subjects>
+		<subjects id="k">phys.ed</subjects>
+		<subjects id="k">science</subjects>
+		<subjects id="k">social studies</subjects>
+		
+	</grade>
+	<grade>
+		<grade_text>1</grade_text>
+		<subjects id="1">arts</subjects>
+		<subjects id="1">ela</subjects>
+		<subjects id="1">french</subjects>
+		<subjects id="1">health</subjects>
+		<subjects id="1">math</subjects>
+		<subjects id="1">phys.ed</subjects>
+		<subjects id="1">science</subjects>
+		<subjects id="1">social studies</subjects>
+	</grade>
+	<grade>
+		<grade_text>2</grade_text>
+		<subjects id="2">arts</subjects>
+		<subjects id="2">ela</subjects>
+		<subjects id="2">french</subjects>
+		<subjects id="2">health</subjects>
+		<subjects id="2">math</subjects>
+		<subjects id="2">phys.ed</subjects>
+		<subjects id="2">science</subjects>
+		<subjects id="2">social studies</subjects>
+	</grade>
+	<grade>
+		<grade_text>3</grade_text>
+		<subjects id="3">arts</subjects>
+		<subjects id="3">ela</subjects>
+		<subjects id="3">french</subjects>
+		<subjects id="3">health</subjects>
+		<subjects id="3">math</subjects>
+		<subjects id="3">phys.ed</subjects>
+		<subjects id="3">science</subjects>
+		<subjects id="3">social studies</subjects>
+	</grade>
+	<grade>
+		<grade_text>4</grade_text>
+		<subjects id="4">arts</subjects>
+		<subjects id="4">ela</subjects>
+		<subjects id="4">french</subjects>
+		<subjects id="4">health</subjects>
+		<subjects id="4">math</subjects>
+		<subjects id="4">phys.ed</subjects>
+		<subjects id="4">science</subjects>
+		<subjects id="4">social studies</subjects>
+	</grade>
+	<grade>
+		<grade_text>5</grade_text>
+		<subjects id="5">arts</subjects>
+		<subjects id="5">ela</subjects>
+		<subjects id="5">french</subjects>
+		<subjects id="5">health</subjects>
+		<subjects id="5">math</subjects>
+		<subjects id="5">phys.ed</subjects>
+		<subjects id="5">science</subjects>
+		<subjects id="5">social studies</subjects>
+	</grade>
+	<grade>
+		<grade_text>6</grade_text>
+		<subjects id="6">arts</subjects>
+		<subjects id="6">careers</subjects>
+		<subjects id="6">ela</subjects>
+		<subjects id="6">french</subjects>
+		<subjects id="6">health</subjects>
+		<subjects id="6">math</subjects>
+		<subjects id="6">phys.ed</subjects>
+		<subjects id="6">science</subjects>
+		<subjects id="6">social studies</subjects>
+	</grade>
+	<grade>
+		<grade_text>7</grade_text>
+		<subjects id="7">arts</subjects>
+		<subjects id="7">careers</subjects>
+		<subjects id="7">ela</subjects>
+		<subjects id="7">french</subjects>
+		<subjects id="7">health</subjects>
+		<subjects id="7">math</subjects>
+		<subjects id="7">phys.ed</subjects>
+		<subjects id="7">science</subjects>
+		<subjects id="7">social studies</subjects>
+	</grade>
+	<grade>
+		<grade_text>8</grade_text>
+		<subjects id="8">arts</subjects>
+		<subjects id="8">careers</subjects>
+		<subjects id="8">ela</subjects>
+		<subjects id="8">french</subjects>
+		<subjects id="8">health</subjects>
+		<subjects id="8">math</subjects>
+		<subjects id="8">phys.ed</subjects>
+		<subjects id="8">science</subjects>
+		<subjects id="8">social studies</subjects>
+	</grade>
+	<grade>
+		<grade_text>9</grade_text>
+		<subjects id="9">arts</subjects>
+		<subjects id="9">careers</subjects>
+		<subjects id="9">ela</subjects>
+		<subjects id="9">french</subjects>
+		<subjects id="9">health</subjects>
+		<subjects id="9">math</subjects>
+		<subjects id="9">phys.ed</subjects>
+		<subjects id="9">science</subjects>
+		<subjects id="9">social studies</subjects>
+	</grade>
+	<grade>
+		<grade_text>10</grade_text>
+		<subjects id="10">carpentry</subjects>
+		<subjects id="10">communication media</subjects>
+		<subjects id="10">ela a</subjects>
+		<subjects id="10">ela b</subjects>
+		<subjects id="10">jazz</subjects>
+		<subjects id="10">apprenticeship math</subjects>
+		<subjects id="10">pre-calculus</subjects>
+		<subjects id="10">photography</subjects>
+		<subjects id="10">welding</subjects>
+		<subjects id="10">wellness</subjects>
+	</grade>
+	<grade>
+		<grade_text>20</grade_text>
+		<subjects id="20">carpentry</subjects>
+		<subjects id="20">communication media</subjects>
+		<subjects id="20">ela</subjects>
+		<subjects id="20">graphic arts</subjects>
+		<subjects id="20">jazz</subjects>
+		<subjects id="20">math</subjects>
+		<subjects id="20">apprenticeship math</subjects>
+		<subjects id="20">photography</subjects>
+		<subjects id="20">pre-calculus</subjects>
+		<subjects id="20">welding</subjects>
+	</grade>
+	<grade>
+		<grade_text>30</grade_text>
+		<subjects id="30">carpentry</subjects>
+		<subjects id="30">communication media</subjects>
+		<subjects id="30">ela</subjects>
+		<subjects id="30">graphic arts</subjects>
+		<subjects id="30">jazz</subjects>
+		<subjects id="30">math</subjects>
+		<subjects id="30">apprenticeship math</subjects>
+		<subjects id="30">photography</subjects>
+		<subjects id="30">pre-calculus</subjects>
+		<subjects id="30">welding a</subjects>
+		<subjects id="30">welding b</subjects>
+	</grade>
+</curriculum>

@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181798_1</pdf>
+  <banner>mathematics/mathematics8.gif</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>mathematics/mathematics8aimsgoals.htm</goals>
+  <teaching>mathematics/mathematics8teaching.htm</teaching>
+  <curriculum_name>Mathematics 8</curriculum_name>
+  <classification_id>mathematics 8</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Number</goal_heading>
+      <outcome>
+        <identifier>N8.1</identifier>
+        <outcome_text>Demonstrate understanding of the square and principle square root of whole numbers concretely or pictorially and symbolically. [CN, ME, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Recognize, show, and explain the relationship between whole numbers and their factors using concrete or pictorial representations (e.g., using a set number of tiles, create rectangular regions and record the dimensions of those regions, and describe how those dimensions relate to the factors of the number).</p>
+          </indicator>
+          <indicator>
+            <p>Infer and verify relationships between the factors of a perfect square and the principle square root of a perfect square.</p>
+          </indicator>
+          <indicator>
+            <p>Determine if specific numbers are perfect squares through the use of different types of representations and reasoning, and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and apply the relationship between the principle square roots of numbers and benchmarks using a number line.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why the square root of a number shown on a calculator may be an approximation.</p>
+          </indicator>
+          <indicator>
+            <p>Apply estimation strategies to determine approximate values for principle square roots.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the value or an approximate value of a principle square root with or without the use of technology.</p>
+          </indicator>
+          <indicator>
+            <p>Identify a number with a principle square root between two given numbers and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Share the story, in writing, orally, drama, dance, art, music, or other media, of the role and significance of square roots in a personally selected historical or modern application situation (e.g., Archimedes and the square root of 3, Pythagoras and the existence of square roots, role of square roots in Pythagoras’ theorem, use of square roots in determining dimensions of a square region from the area, use of square roots to determine measurements in First Nations beading patterns, use of square roots to determine dimensions of nets).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N8.2</identifier>
+        <outcome_text>Expand and demonstrate understanding of percents greater than or equal to 0% (including fractional and decimal percents) concretely, pictorially, and symbolically. [CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Recognize, represent, and explain situations, including for self, family, and communities, in which percents greater than 100 or fractional percents are meaningful (e.g., the percent profit made on the sale of fish).</p>
+          </indicator>
+          <indicator>
+            <p>Represent a fractional percent and/or a percent greater than 100 using grid paper.</p>
+          </indicator>
+          <indicator>
+            <p>Describe relationships between different types of representation (concrete, pictorial, and symbolic in percent, fractional, and decimal forms) for the same percent (e.g., how do 345 coloured grid squares relate to 345%, or why is 345% the same as 3.45).</p>
+          </indicator>
+          <indicator>
+            <p>Record the percent, fraction, and decimal forms of a quantity shown by a representation on grid paper.</p>
+          </indicator>
+          <indicator>
+            <p>Apply understanding of percents to solve problems, including situations involving combined percents or percents of percents (e.g., PST + GST, or 10% discount on a purchase already discounted 30%) and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using concrete, pictorial, or symbolic representations, why the order of consecutive percents does not impact the final value (e.g., a decrease of 15% followed by an increase of 5% results in the same quantity as an increase of 5% followed by a decrease of 15%).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate, using concrete, pictorial, or symbolic representations, that two consecutive percents applied to a specific situation cannot be added or subtracted to give an overall percent change (e.g., a population increase of 10% followed by a population increase of 15% is not a 25% increase, a decrease of 10% followed by an increase of 10% will result in an overall change).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze choices and make decisions based upon percents and personal or community concerns and issues (e.g., deciding whether or not to have surgery if given a 75% chance of survival, deciding how much to buy if you can save 25% when two items are purchased, deciding whether or not to hunt for deer when a known percent of deer have chronic wasting disease, deciding about whether or not to use condoms knowing that they are 95% effective as birth control, making decisions about diet knowing that a high percentage of Aboriginal peoples have or will get diabetes).</p>
+          </indicator>
+          <indicator>
+            <p>Explain the role and significance of percents in different situations (e.g., polls during elections, medical reports, percent down on purchases).</p>
+          </indicator>
+          <indicator>
+            <p>Pose and solve problems involving percents stated as a percent, fraction, or decimal quantity.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N8.3</identifier>
+        <outcome_text>Demonstrate understanding of rates, ratios, and proportional reasoning concretely, pictorially, and symbolically. [C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and explain ratios and rates in familiar situations (e.g., cost per music download, traditional mixtures for bleaching, time for a hand-sized piece of fungus to burn, mixing of colours, number of boys to girls at a school dance, rates of traveling such as car, skidoo, motor boat or canoe, fishing nets and expected catches, or number of animals hunted and number of people to feed).</p>
+          </indicator>
+          <indicator>
+            <p>Identify situations (such as providing for the family or community through hunting) in which a given quantity of a/b represents a:fractionratequotientpercentprobabilityratio.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate (orally, through arts, concretely, pictorially, symbolically, and/or physically) the difference between ratios and rates.</p>
+          </indicator>
+          <indicator>
+            <p>Verify or contradict proposed relationships between the different roles for quantities that can be expressed in the form a/b. For example:a rate cannot be represented by a percent because a rate compares two different types of measurements while a percent compares two measurements of the same typeprobabilities cannot be used to represent ratios because probabilities describe a part to whole relationship but ratios describe a part to part relationshipa fraction is not a ratio because a fraction represents part to wholea ratio cannot be written as a fraction, unless the quantity of the whole is first determined (e.g., 2 parts white and 5 parts red paint is 2/7 white)a ratio cannot be written as percent unless the quantity of the whole is first determined (e.g., a ratio of 4 parts blue and 6 parts red paint can be described as having 40% blue).</p>
+          </indicator>
+          <indicator>
+            <p>Write the symbolic form (e.g., 3:5 or 3 to 5 as a ratio, $3/min or $3 per one minute as a rate) for a concrete, physical, or pictorial representation of a ratio or rate.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how to recognize whether a comparison requires the use of proportional reasoning (ratios or rates) or subtraction.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve problems involving rates, ratios, and/or probabilities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N8.4</identifier>
+        <outcome_text>Demonstrate understanding of multiplying and dividing positive fractions and mixed numbers, concretely, pictorially, and symbolically. [C, CN, ME, PS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and describe situations relevant to self, family, or community in which multiplication and division of fractions are involved.</p>
+          </indicator>
+          <indicator>
+            <p>Model the multiplication of two positive fractions and record the process symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the multiplication of positive fractions to the multiplication of whole numbers, decimals, and integers.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize and apply strategies for determining estimates of products of positive fractions</p>
+          </indicator>
+          <indicator>
+            <p>Generalize and apply strategies for multiplying positive fractions.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “Multiplication always results in a larger quantity” and reword the statement to capture the points of correction or clarification raised (e.g., ½ x ½ - ¼ which is smaller than ½).</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using concrete or pictorial models as well as symbolic reasoning, how the distributive property can be used to multiply mixed numbers. For example, 2½ x 3¼ = (2 + ½) x (3 + ¼) = (2 x 3) + (2 X ¼) + (½ x 3) + (½ x ¼).</p>
+          </indicator>
+          <indicator>
+            <p>Model the division of two positive fractions and record the process symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the division of positive fractions to the division of whole numbers, decimals, and integers.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize and apply strategies for determining estimates of quotients of positive fractions.</p>
+          </indicator>
+          <indicator>
+            <p>Estimate the quotient of two given positive fractions and explain the strategy used.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize and apply strategies for determining the quotients of positive fractions.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “Division always results in a smaller quantity” and reword the statement to capture the points of correction or clarification raised (e.g., ½ ÷ ¼ = 2 but 2 is bigger than ½ or ¼).</p>
+          </indicator>
+          <indicator>
+            <p>Identify, without calculating, the operation required to solve a problem involving fractions and justify the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Create, represent (concretely, pictorially, or symbolically) and solve problems that involve one or more operations on positive fractions (including multiplication and division).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N8.5</identifier>
+        <outcome_text>Demonstrate understanding of multiplication and division of integers concretely, pictorially, and symbolically. [C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and describe situations that are relevant to self, family, or community in which multiplication or division of integers would be involved.</p>
+          </indicator>
+          <indicator>
+            <p>Model the multiplication of two integers using concrete materials or pictorial representations, and record the process used symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Model the division of two integers using concrete materials or pictorial representations, and record the process used symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and generalize patterns for determining the sign of integer products and quotients.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize and apply strategies for multiplying and dividing integers.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve problems involving the multiplication or division (without technology for one-digit divisors, with technology for two-digit divisors) of integers.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how the order of operations can be extended to include integers and provide examples to demonstrate the use of the order of operations.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve problems requiring the use of the order of operations on integers.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Patterns and Relations</goal_heading>
+      <outcome>
+        <identifier>P8.1</identifier>
+        <outcome_text>Demonstrate understanding of linear relations concretely, pictorially (including graphs), physically, and symbolically. [CN, ME, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze and describe the relationship shown on a graph for a given situation (e.g., "The graph is showing that, as the temperature rises, the number of people in the mall decreases").</p>
+          </indicator>
+          <indicator>
+            <p>Explain how a given linear relation is represented by a given table of values.</p>
+          </indicator>
+          <indicator>
+            <p>Model a linear relation shown as an equation, a graph, a table of values, or a concrete or pictorial representation in one or more other forms.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a set of equations, graphs, ordered pairs, and tables of values, sort the set according to representing the same linear relations, and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the missing coordinate of an ordered pair given the equation of a linear relation, a table of values, or a graph and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Determine which of a set of graphs, equations, tables of values, sets of ordered pairs, and concrete or pictorial representations represent a linear relationship and justify the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Determine if an ordered pair satisfies a linear relation given as a table of values, concrete or pictorial representation, graph, or equation and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Identify situations relevant to self, family, or community that appear to define linear relations and determine, with justification, whether the graph for the situation would be shown with a solid line or not.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P8.2</identifier>
+        <outcome_text>Model and solve problems using linear equations of the form:ax = bx/a = b, a ≠ 0ax + b = cx/a + b = c, a ≠ 0a(x + b) = c</outcome_text>
+        <outcome_text>concretely, pictorially, and symbolically, where a, b, and c are integers. [C, CN, PS, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and describe situations, which are relevant to self, family, or community, that can be modeled by a linear equation (e.g., the cost of purchasing x fish from a fisherman).</p>
+          </indicator>
+          <indicator>
+            <p>Model and solve linear equations using concrete materials (e.g., counters and integer tiles) and describe the process orally and symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the importance of the preservation of equality when solving equations.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the meaning of and verify the solution of a given linear equation using a variety of methods, including concrete materials, diagrams, and substitution.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize and apply symbolic strategies for solving linear equations.</p>
+          </indicator>
+          <indicator>
+            <p>Identify, explain, and correct errors in a given solution of a linear equation.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the application of the distributive property in the solving of linear equations (e.g., 2(x + 3); 2x + 6 = 5)</p>
+          </indicator>
+          <indicator>
+            <p>Explain why some linear relations (e.g., x/a = b, a ≠ 0 and x/a + b = c, a ≠ 0) have a given restriction and provide an example of a situation in which such a restriction would be necessary.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and solve problems that can be represented using linear equations and explain the meaning of the solution in the context of the problem.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the algebra behind a particular algebra puzzle such as this puzzle written for 2008:Pick the number of times a week that you would like to go out to eat (more than once but less than 10).Multiply this number by 2 (just to be bold).Add 5.Multiply it by 50.If you have already had your birthday this year add 1758. If you have not, add 1757.Now subtract the four digit year that you were born.You should have a three digit number. The first digit of this was your original number. The next two numbers are your age.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Shape and Space</goal_heading>
+      <outcome>
+        <identifier>SS8.1</identifier>
+        <outcome_text>Demonstrate understanding of the Pythagorean Theorem concretely or pictorially and symbolically and by solving problems. [CN, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Generalize the results of an investigation of the expression a² + b² = c² (where a, b, and c are the lengths of the sides of a right triangle, c being the longest):concretely (by cutting up areas represented by a² and b² and fitting the two areas onto c²)pictorially (by using technology)symbolically (by confirming that a² + b² = c² for a right triangle).</p>
+          </indicator>
+          <indicator>
+            <p>Explore right and non-right triangles, using technology, and generalize the relationship between the type of triangle and the Pythagorean Theorem (i.e., if the sides of a triangle satisfy the Pythagorean equation, then the triangle is a right triangle which is known as the Converse of the Pythagorean Theorem)</p>
+          </indicator>
+          <indicator>
+            <p>Explore right triangles, using technology, using the Pythagorean Theorem to identify Pythagorean triples (e.g., 3, 4, 5 or 5, 12, 13), hypothesize about the nature of triangles with side lengths that are multiples of the Pythagorean triples, and verify the hypothesis.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve problems involving the Pythagorean Theorem, Pythagorean triples, or the Converse of the Pythagorean Theorem.</p>
+          </indicator>
+          <indicator>
+            <p>Give a presentation that explains a historical or personal use or story of the Pythagorean Theorem (e.g., Pythagoras and his denial of irrational numbers, the use of the 3:4:5 right triangle ratio in the Pyramids, squaring off the corner of a sandbox being built for a sibling, or determining the straight line distance between two towns to be travelled on a snowmobile).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS8.2</identifier>
+        <outcome_text>Demonstrate understanding of the surface area of 3-D objects limited to right prisms and cylinders (concretely, pictorially, and symbolically) by:analyzing viewssketching and constructing 3-D objects, nets, and top, side, and front viewsgeneralizing strategies and formulaeanalyzing the effect of orientationsolving problems.</outcome_text>
+        <outcome_text>[C, CN, PS, R, T V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Manipulate concrete 3-D objects to identify, describe, and sketch top, front, and side views of the 3-D object on isometric paper.</p>
+          </indicator>
+          <indicator>
+            <p>Sketch a top, front, or side view of a 3-D object that is within the classroom or that is personally relevant, and ask a peer to identify the 3-D object it represents.</p>
+          </indicator>
+          <indicator>
+            <p>Predict the top, front, and side views for a 3-D object that is to be rotated by a multiple of 90°, discuss the reasoning for the prediction, and then verify concretely and pictorially.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and describe nets of 3-D objects that are used in everyday experiences (e.g., such as patterns or materials for clothing and banker boxes).</p>
+          </indicator>
+          <indicator>
+            <p>Relate the parts (using one-to-one correspondence) of a net to the faces and edges of the 3-D object it represents.</p>
+          </indicator>
+          <indicator>
+            <p>Create a net for a 3-D object, have a peer predict the type of 3-D object that the net represents, explain to the peer the reasoning used in designing the net, and have the peer verify the net by constructing the 3-D object from the net.</p>
+          </indicator>
+          <indicator>
+            <p>Build a 3-D object made of right rectangular prisms based on the top, front, and side views (with and without the use of technology).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how the net of a 3-D object (including right rectangular prisms, right triangular prisms, and cylinders) can be used to determine the surface area of the 3-D object and describe strategies used to determine the surface area.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize and apply strategies for determining the surface area of 3-D objects.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve personally relevant problems involving the surface area or nets of 3-D objects.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS8.3</identifier>
+        <outcome_text>Demonstrate understanding of volume limited to right prisms and cylinders (concretely, pictorially, or symbolically) by:relating area to volumegeneralizing strategies and formulaeanalyzing the effect of orientationsolving problems.</outcome_text>
+        <outcome_text>[CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify situations from one’s home, school, or community in which the volume of right prism or right cylinder would need to be determined.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the relationship between the area of the base of a right prism or right cylinder and the volume of the 3-D object.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize and apply formulas for determining the area of a right prism and right cylinder.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the effect of changing the orientation of a right prism or right cylinder on the volume of the 3-D object.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve personally relevant problems involving the volume of right prisms and right cylinders.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS8.4</identifier>
+        <outcome_text>Demonstrate an understanding of tessellation by:explaining the properties of shapes that make tessellating possiblecreating tessellationsidentifying tessellations in the environment.</outcome_text>
+        <outcome_text>[C, CN, PS, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify, describe (in terms of translations, reflections, rotations, and combinations of any of the three), and reproduce (concretely or pictorially) a tessellation that is relevant to self, family, or community (e.g., a Star Blanket or wall paper).</p>
+          </indicator>
+          <indicator>
+            <p>Predict and verify which of a given set of 2-D shapes (regular and irregular) will tessellate and generalize strategies for determining whether a new 2-D shape will tessellate (i.e., an angle must be a factor of 360°).</p>
+          </indicator>
+          <indicator>
+            <p>Identify one or more 2-D shapes that will tessellate with a given 2-D shape and explain the choice (e.g., knowing that the sum of the measures of one angle from each of the 2-D shapes must be a factor of 360°, and if the given shape has an angle of 12°, then two shapes with angles of 13° and 5° can be used to tessellate with the original shape because 12+13+5=30 which is a factor of 360 – these shapes would need to be repeated at least 12 times because 30 x 12 is 360).</p>
+          </indicator>
+          <indicator>
+            <p>Design and create (concretely or pictorially) a tessellation involving one or more 2-D shapes, and document the mathematics involved within the tessellation (e.g., types of transformations, measures of angles, or types of shapes).</p>
+          </indicator>
+          <indicator>
+            <p>Identify different transformations (translations, reflections, rotations, and combinations of any of the three) present within a tessellation.</p>
+          </indicator>
+          <indicator>
+            <p>Make a new tessellating shape (polygonal or non-polygonal) by transforming a portion of a known tessellating shape and use the new shape to create an Escher-type design that can be used as a picture or wrapping paper.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Statistics and Probability</goal_heading>
+      <outcome>
+        <identifier>SP8.1</identifier>
+        <outcome_text>Analyze the modes of displaying data and the reasonableness of conclusions. [C, CN, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate and report on the advantages and disadvantages of different types of graphs, including circle graphs, line graphs, bar graphs, double bar graphs, and pictographs (e.g., circle graphs are good for qualitative data such as favourite activities and categories such as money spent on clothes, whereas line graphs are good for quantitative data such as heights and ages</p>
+          </indicator>
+          <indicator>
+            <p>Engage in a project that involves:the collection and organization of first- or second-hand data related to a topic of interest (such as local wildlife counts or surveying of peers)representation of the data using a graphexplanation of type of graph chosen by self and peerdescription of the project, challenges, and conclusionsself-assessment.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest alternative ways to represent data from a given situation and explain the choices made.</p>
+          </indicator>
+          <indicator>
+            <p>Find examples of graphs of data in media and personal experiences and interpret the information in the graphs for personal value.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a data graph found in media for features that might bias the interpretation of the graph (such as the size of intervals, the width of bars, and the visual representation) and suggest alterations to remove or downplay the bias.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of misrepresentations of data and data graphs found within different media and explain what types of misinterpretations might result from such displays.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SP8.2</identifier>
+        <outcome_text>Demonstrate understanding of the probability of independent events concretely, pictorially, orally, and symbolically. [C, CN, PS, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Ask questions relevant to self, family, or community in which probabilities involving two events are known or which can be researched.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and explain the relationship between the probability of two independent events and the probability of each event separately.</p>
+          </indicator>
+          <indicator>
+            <p>Make and test predictions about the results of experiments and simulations for two independent events.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve problems related to independent events, probabilities of independent events, and decision making.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

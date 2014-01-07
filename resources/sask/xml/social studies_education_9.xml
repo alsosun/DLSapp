@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181942_1</pdf>
+  <banner>social/SS9.png</banner>
+  <dark_colour>#8f3b67</dark_colour>
+  <light_colour>#e9d8e1</light_colour>
+  <goals>social/socialstudies7-9aimsgoals.htm</goals>
+  <teaching>social/socialstudies9teaching.htm</teaching>
+  <curriculum_name>Social Studies 9</curriculum_name>
+  <classification_id>social studies 9</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Interactions and Interdependence of Nations</goal_heading>
+      <outcome>
+        <identifier>IN9.1</identifier>
+        <outcome_text>Explain what constitutes a society.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Relate the functions and services of institutions in the community (e.g., schools, churches, local governments, parents, Elders, traditional knowledge keepers) to the needs of the people in that community.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the roles of individuals in the institutions of the local community, including the expectations attached to those roles (e.g., school: student, principal, teacher, caretaker, secretary; hospital: doctor, nurse, traditional healer, receptionist, paramedic, medical technician, patient).</p>
+          </indicator>
+          <indicator>
+            <p>Research a list of characteristics and attributes that formulate a definition of a society.</p>
+          </indicator>
+          <indicator>
+            <p>Compare two different societies studied including the attributes of leaders, the roles of various individuals, cultural traditions and ceremonies, and means of sustenance.</p>
+          </indicator>
+          <indicator>
+            <p>Apply the definition of society to one of the civilizations studied, and detail ways in which the civilization meets the criteria to be considered a society (e.g., How can Mesopotamia be called a society according to the formulated definition? Would Aboriginal groupings of the plains and woodlands in North America meet the criteria?).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate diverse historical views regarding the terms ‘primitive’ and ‘civilized’, and analyze the effect of the perceptions of the concepts on ethnocentrism in colonizers.</p>
+          </indicator>
+          <indicator>
+            <p>Analyse the effects of ethnocentrism on indigenous peoples.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IN9.2</identifier>
+        <outcome_text>Compare the factors that shape worldviews in a society, including time and place, culture, language, religion, gender identity, socio-economic situation, and education.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explore personal student beliefs about some contemporary issues or problems (e.g., making friends; the role of technology in daily life; affordable housing; intergenerational families; global warming; post-secondary education; participating in religious or cultural ceremonies; designer clothing; healthy food choices; drinking and driving; violence).</p>
+          </indicator>
+          <indicator>
+            <p>Define the concept of worldview.</p>
+          </indicator>
+          <indicator>
+            <p>Hypothesize about the reasons underlying the similarities and differences between the worldview of one individual and that of another person.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a comparison of the worldviews of the societies studied.</p>
+          </indicator>
+          <indicator>
+            <p>Determine reasons for the similarities and differences between the worldviews of two societies studied.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate the similarities and differences between a personal modern worldview and that of a society studied, and speculate why these similarities and differences occur.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IN9.3</identifier>
+        <outcome_text>Analyze the ways a worldview is expressed in the daily life of a society.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Distinguish the worldviews represented in the literature of a society studied.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the architectural features which communicate the worldview of a society studied.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how works of art of a society studied reveal elements of that society’s worldview.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the role of education in perpetuating the worldview of a society studied.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the worldview of the local community as represented through features including literature, the arts, cultural celebrations and traditions, education (including Elders’ teachings of indigenous peoples), sports and recreation, and architecture.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IN9.4</identifier>
+        <outcome_text>Determine the influence of worldview on the choices, decisions, and interactions in a society.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain the influence of worldview on personal choices, decisions, and interactions (e.g., choice of friends, choice of fashion, the significance of education, participation or non-participation in events, choice of pastimes and recreational activities, approaches to nature and ecology, approaches to consumerism).</p>
+          </indicator>
+          <indicator>
+            <p>Analyse the influence of worldviews upon attitudes toward territorial expansion, colonization, or empire-building in the societies studied, and assess the impact of such activities on the indigenous cultures and peoples.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how the worldview of Canadian First Nations, including the value placed on harmony and trust, led to the signing of Treaties.</p>
+          </indicator>
+          <indicator>
+            <p>Judge the influence and impact of worldview on the progress or decline of the societies studied.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Dynamic Relationships</goal_heading>
+      <outcome>
+        <identifier>DR9.1</identifier>
+        <outcome_text>Examine the challenges involved in obtaining information about societies of the past.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze the advantages and disadvantages of oral accounts as sources of information about historical events.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the role of archaeology in obtaining information about societies of the past.</p>
+          </indicator>
+          <indicator>
+            <p>Explain various technologies used in archaeology (e.g., shovels, brushes, carbon dating, GPS cartography, satellite imagery).</p>
+          </indicator>
+          <indicator>
+            <p>Present results obtained and techniques used in ongoing archaeological digs (e.g., Wanuskewin, Eagle Creek; Point-à Callières, Montréal; Pompéi, Italy; Dufferine Terrace, Québec City; Fort Temiscaming, Québec; Ahu o rongo, Easter Island).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the role of literature, visual arts, music, newspapers, photographs, and other artifacts in obtaining information about past societies.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize the dynamic nature of historical knowledge by identifying examples of changes occurring in the interpretation of history as a result of new information uncovered or acknowledged.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR9.2</identifier>
+        <outcome_text>Synthesize the significance of key historical events in societies studied.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent in a timeline the key historical events in the societies studied.</p>
+          </indicator>
+          <indicator>
+            <p>Relate the origins and the repercussions of an event in the history of the societies studied.</p>
+          </indicator>
+          <indicator>
+            <p>Judge the importance of an event in the history of the societies studied to the people in the society, in historical context as well as to the current era.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR9.3</identifier>
+        <outcome_text>Assess the relationship of the natural environment in the development of a society.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain the influence of the major water systems, the topography, and the climate on the ways of life and worldviews in the societies studied.</p>
+          </indicator>
+          <indicator>
+            <p>Connect the characteristics of the natural environment with the settlement and movement of people in the societies studied.</p>
+          </indicator>
+          <indicator>
+            <p>Give examples of ways in which the natural environment influenced technological development in the societies studied.</p>
+          </indicator>
+          <indicator>
+            <p>Give examples of ways in which the development of societies studied impacted the natural environment.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the effect of the natural environment in the progress or decline of the societies studied.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the influence of the natural environment on the territorial expansion, colonization, or empire-building in the societies studied.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the effects of colonization, territorial expansion, and empire-building on the natural environment.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR9.4</identifier>
+        <outcome_text>Determine the influence of societies of the past on contemporary life in Canada.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify ideas, images, and symbols in contemporary life that have their roots in societies of the past (e.g., political, artistic, recreational, technological, mathematical, and scientific).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the impact of knowledge acquired from historical events on the future of contemporary societies (e.g., the decline of the Roman Empire; the attempted annihilation of indigenous cultures and languages, the power of the church; ethnocentrism; the concentration of power in the organization of large corporations; the contribution of indigenous peoples to the survival of newcomers at the time of contact, and the willingness to share the bounty and abundance of the land, sometimes through sophisticated arrangements known as Treaties).</p>
+          </indicator>
+          <indicator>
+            <p>Construct an inventory of references to traditional oral narratives found in current popular media, and determine the relevance of traditional narratives to contemporary society.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Power and Authority</goal_heading>
+      <outcome>
+        <identifier>PA9.1</identifier>
+        <outcome_text>Examine concepts of power and authority in the governance of the societies studied.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Differentiate the essential characteristics of various systems of government, including democracy, consensus, monarchy, autocracy, and military regime.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and classify the systems of government in place at different periods in the history of the societies studied (e.g., democracy, consensus, monarchy, autocracy, military regime).</p>
+          </indicator>
+          <indicator>
+            <p>Interpret the effect of the system of government on the worldview of the societies studied, in terms of who had power, and how government leaders obtained power (e.g., Iroquois chiefs chosen by clan mothers, European leaders selected by elite males) and how power was exercised.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the reasons underlying the existence of a particular system of government at a specific moment in the history of the societies studied.</p>
+          </indicator>
+          <indicator>
+            <p>Define the concept of the rule of law and trace its origins in the societies studied.</p>
+          </indicator>
+          <indicator>
+            <p>Draw conclusions about the effect of the rule of law on the worldview of the societies studied.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the distribution of power and the application of authority of a society studied to contemporary Canadian society.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA9.2</identifier>
+        <outcome_text>Analyze the impact of empire-building and territorial expansion on indigenous populations and other groups in the societies studied.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research the imperial activities of a society studied, and critique the reasons for imperialism in the context of the time period (e.g., Macedonia, Rome, England, Spain, France, Mongolia).</p>
+          </indicator>
+          <indicator>
+            <p>Assess the treatment of indigenous populations by the imperialists in the societies studied.</p>
+          </indicator>
+          <indicator>
+            <p>Conduct an inquiry regarding the initial interaction of North American Aboriginal peoples with Europeans, comparing the worldviews of the two.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the authenticity and validity of information sources used in the inquiry process.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA9.3</identifier>
+        <outcome_text>Investigate the roles and responsibilities of members of the societies studied and those of citizens in contemporary Canada.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Differentiate the criteria for citizenship in the societies studied with that in contemporary Canadian society.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate examples of the oppression of rights of particular groups or individuals in societies studied including examples in Canada (e.g., slavery, limited franchise, restrictions on property ownership).</p>
+          </indicator>
+          <indicator>
+            <p>Examine the rights and responsibilities of people as they existed within the societies studied, and compare findings to contemporary Canadian society.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the means to achieving rights in the societies studied, and compare this to contemporary Canadian society.</p>
+          </indicator>
+          <indicator>
+            <p>Compile an inventory of the diverse roles and responsibilities of people within the societies studied, according to various classifications (e.g., gender, age, vocation, social class).</p>
+          </indicator>
+          <indicator>
+            <p>Compare roles within societies studied to those in contemporary Canadian society.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Resources and Wealth</goal_heading>
+      <outcome>
+        <identifier>RW9.1</identifier>
+        <outcome_text>Compare differing perspectives regarding the acquisition and distribution of resources and wealth in the societies studied.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate the strategies used to acquire and distribute resources in the societies studied.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the perspectives regarding the distribution of resources in the societies studied, and assess the results in terms of consequences for the populations of the societies.</p>
+          </indicator>
+          <indicator>
+            <p>Research the processes for decision making regarding production and distribution of wealth and resources in the societies studied.</p>
+          </indicator>
+          <indicator>
+            <p>Infer the values of the societies studied according to categories of acquisition and distribution of resources and wealth.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RW9.2</identifier>
+        <outcome_text>Appraise the significance of trade and transportation in the development of the societies studied.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyse the impact of physical geography on modes of transportation in the societies studied.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate motives for trade, approaches to trade, and trading patterns of societies studied, to assess the effects on the economy and prosperity of that society.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the prosperity of societies studied, and infer reasons for similarities and differences.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the importance of trade relations and transportation systems for prosperity in the societies studied, and make generalizations with reference to contemporary Canada.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RW9.3</identifier>
+        <outcome_text>Determine the influence of technologies of past societies studied on contemporary society.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Illustrate on a timeline the significant scientific, mathematical, technological, artistic, and cultural achievements of past societies.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the impact of tools and other technologies developed in past societies on the economies and lifestyles of those societies.</p>
+          </indicator>
+          <indicator>
+            <p>Discern the influence of the tools and other technologies of one society studied upon another society studied.</p>
+          </indicator>
+          <indicator>
+            <p>Represent achievements and technologies of the contemporary world that have their origins in the achievements and technologies of societies studied (e.g., weapons, dyes, medications, tools, transportation methods, navigation instruments, architecture, printing, mathematics).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181923_1</pdf>
+  <banner>science/science9.gif</banner>
+  <dark_colour>#008164</dark_colour>
+  <light_colour>#e6f3f0</light_colour>
+  <goals>science/science7-9aimsgoals.htm</goals>
+  <teaching>science/science6-9teaching.htm</teaching>
+  <curriculum_name>Science 9</curriculum_name>
+  <classification_id>science 9</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Life Science: Reproduction and Human Development (RE)</goal_heading>
+      <outcome>
+        <identifier>RE9.1</identifier>
+        <outcome_text>Examine the process of and influences on the transfer of genetic information and the impact of that understanding on society past and present. [CP, DM]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify questions to investigate related to genetics.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of genetic conditions whose causes and cures are not understood according to current scientific and technological knowledge (e.g., some causes of male infertility, cystic fibrosis, Down’s syndrome, and muscular dystrophy).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that the nucleus of a cell contains genetic information and identify the relationship among chromosomes, genes, and DNA in transmitting genetic information.</p>
+          </indicator>
+          <indicator>
+            <p>Identify examples of dominant and recessive traits in humans and other living things.</p>
+          </indicator>
+          <indicator>
+            <p>Observe, collect, and analyze class and/or family data of human traits that may be inherited from parents (e.g., eye colour, chin shape, ear lobes, and tongue rolling).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss environmental factors and personal choices that may lead to changes in a cell’s genetic information (e.g., toxins, carcinogens, pesticides, smoking, overexposure to sunlight, and alcohol abuse).</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of Saskatchewan and Canadian contributions to the science and technology of genetics and reproductive biology in plants and animals.</p>
+          </indicator>
+          <indicator>
+            <p>Select and synthesize information from various sources to illustrate how developments in genetics, including gene therapy and genetic engineering, have had an impact on global and local food production, populations, the spread of disease, and the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Describe careers in Saskatchewan or Canada that require an understanding of genetics or reproductive biology.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RE9.2</identifier>
+        <outcome_text>Observe and describe the significance of cellular reproductive processes, including mitosis and meiosis. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and describe cell division (e.g., binary fission, mitosis, and meiosis) using microscopes, prepared slides, and/or videos.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a visual, dramatic, or other representation of the basic process of cell division as part of the cell cycle, including what happens to the cell membrane and the contents of the nucleus.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that the nucleus of a cell determines cellular processes.</p>
+          </indicator>
+          <indicator>
+            <p>Identify major shifts in scientific understanding of cell growth and division, including the role of microscopes and related technologies.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how the cell theory accounts for cell division.</p>
+          </indicator>
+          <indicator>
+            <p>Compare binary fission, mitosis, and meiosis, and distinguish between cell division processes during meiosis and mitosis including the creation of diploid and haploid cells.</p>
+          </indicator>
+          <indicator>
+            <p>Relate cancer to cellular processes.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RE9.3</identifier>
+        <outcome_text>Describe the processes and implications of sexual and asexual reproduction in plants and animals. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify questions to investigate about sexual and asexual reproduction in plants.</p>
+          </indicator>
+          <indicator>
+            <p>Compare advantages and disadvantages of sexual and asexual reproduction for individual plants and animals, and for populations.</p>
+          </indicator>
+          <indicator>
+            <p>Describe various methods of asexual reproduction in plant species (e.g., budding, grafting, binary fission, spore production, fragmentation, and vegetative reproduction) and list specific examples.</p>
+          </indicator>
+          <indicator>
+            <p>Describe various methods of asexual reproduction in animal species (e.g., budding, parthenogenesis) and list specific examples (e.g., hydra, aphids, and hammerhead shark).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and describe applications of asexual reproduction knowledge and techniques in the Saskatchewan agricultural and/or forestry sector.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the process of sexual reproduction in seed plant species, including methods of pollination.</p>
+          </indicator>
+          <indicator>
+            <p>Describe examples of sexual reproduction in animal species, including hermaphroditic species (e.g., Clownfish, wrasses, snails, and earthworms).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RE9.4</identifier>
+        <outcome_text>Analyze the process of human reproduction, including the influence of reproductive and contraceptive technologies. [SI, DM]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions about the process of human reproduction.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the structure and function of the male and female human reproductive systems, including the role of hormones.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the major stages of human development from conception to birth, including reference to signs of pregnancy, X and Y chromosomes, zygote, embryo, and fetus.</p>
+          </indicator>
+          <indicator>
+            <p>Acknowledge differing cultural perspectives, including First Nations and Métis perspectives, regarding the sacredness, interconnectedness, and beginning of human life.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of scientific knowledge that has resulted in the development of reproductive technologies (e.g., in vitro fertilization, artificial insemination, and embryo transfer) and contraceptive technologies (e.g., condoms, oral contraceptive pill, diaphragm, intra-uterine devices, sterilization, and the morning after pill).</p>
+          </indicator>
+          <indicator>
+            <p>Examine social and cultural issues related to the use of reproductive and/or contraceptive technologies in humans and defend a given position on an issue related to the use of reproductive and/or contraceptive technologies in humans.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science: Atoms and Elements (AE)</goal_heading>
+      <outcome>
+        <identifier>AE9.1</identifier>
+        <outcome_text>Distinguish between physical and chemical properties of common substances, including those found in household, commercial, industrial, and agricultural applications. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate knowledge of Workplace Hazardous Materials Information System (WHMIS) standards by identifying WHMIS symbols that represent each category, examples of substances that belong within each category, and the risks and cautions associated with each category.</p>
+          </indicator>
+          <indicator>
+            <p>Explore local knowledge of properties of matter and traditional uses of substances, including medicines.</p>
+          </indicator>
+          <indicator>
+            <p>Share personal understandings about physical and chemical properties of matter.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate common materials and describe them in terms of their physical properties such as smell, colour, melting point, boiling point, density, solubility, ductility, crystal shape, conductivity, hardness, lustre, texture, and malleability.</p>
+          </indicator>
+          <indicator>
+            <p>Classify substances found in household, commercial, industrial, and agricultural applications based on their physical and/or chemical properties.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of how society’s needs for new products can lead to scientific research and technological developments based on understanding of physical and chemical properties of matter.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate changes in the properties of materials and identify those that are indicators of chemical changes (e.g., change in colour, change in odour, formation of a gas or precipitate, or the release or absorption of thermal energy).</p>
+          </indicator>
+          <indicator>
+            <p>Use equipment, tools, and materials appropriately and safely when conducting investigations into physical and chemical properties of substances.</p>
+          </indicator>
+          <indicator>
+            <p>State a conclusion, based on experimental data, which supports or refutes an initial idea related to personal understanding of physical and chemical properties of matter.</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate between physical and chemical properties of matter and physical and chemical changes in matter, based on observable evidence.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples to illustrate that scientific and technological activity related to chemistry takes place in a variety of individual and group settings within Saskatchewan.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>AE9.2</identifier>
+        <outcome_text>Analyze historical explanations of the structure of matter up to and including:Dalton model, Thomson model, Rutherford model, Bohr model of the atom.</outcome_text>
+        <outcome_text>[SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Propose personal explanations for the structure and/or composition of matter.</p>
+          </indicator>
+          <indicator>
+            <p>Use appropriate scientific terminology when describing atoms and elements (e.g., mass, charge, electron, proton, neutron, nucleus, atom, molecule, element, compound, neutral, positive, negative, ion, isotope, and periodic table).</p>
+          </indicator>
+          <indicator>
+            <p>Describe First Nations and Métis views on the nature and structure of matter.</p>
+          </indicator>
+          <indicator>
+            <p>Identify major shifts in understanding matter that have enabled more detailed explanations of the structure and composition of the atom up to and including the Bohr model of the atom.</p>
+          </indicator>
+          <indicator>
+            <p>Construct models to illustrate the structure and components of matter, including the major historical atomic models (e.g., Dalton, Thomson, Rutherford, and Bohr), using information selected and synthesized from various sources.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate individual and group processes used in planning and completing a task related to constructing models of atoms and molecules.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss strengths and limitations of models in science using historical and contemporary examples of atomic models.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of technologies that have enhanced, promoted, or made possible scientific research about the structure of the atom (e.g., microscope, cathode ray tube, and mass spectrometer).</p>
+          </indicator>
+          <indicator>
+            <p>Pose new questions and problems that arise from what was learned about atomic structure (e.g., “Why do different molecules containing the same elements behave differently?” “How do atoms stick together in a molecule?” “Are there smaller particles than electrons, protons, and neutrons?”).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>AE9.3</identifier>
+        <outcome_text>Demonstrate an understanding of the classification of pure substances (elements and compounds), including the development and nature of the Periodic Table. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Differentiate between elements, compounds, and mixtures (mechanical mixtures and solutions), with reference to the terms homogenous and heterogeneous.</p>
+          </indicator>
+          <indicator>
+            <p>Classify pure substances as elements or compounds.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a graphic representation of one or more elements that symbolizes each element in a meaningful way and contains relevant information such as name, atomic number, possible uses, and historical background.</p>
+          </indicator>
+          <indicator>
+            <p>Identify examples of common elements (e.g., first 18 elements and K, Ca, Fe, Ni, Cu, Zn, I, Ag, Sn, Au, W, Hg, Pb, and U), and compare their atomic structure and physical and chemical properties.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the eight elements that occur in nature as diatomic molecules (e.g., H₂, N₂, O₂, F₂, Cl₂, Br₂, I₂, and At₂).</p>
+          </indicator>
+          <indicator>
+            <p>Identify and evaluate potential applications of understanding of the characteristics of elements (e.g., identify fertilizers as a possible application of elements, and evaluate the potential use of given elements when choosing a fertilizer).</p>
+          </indicator>
+          <indicator>
+            <p>Write and interpret chemical symbols or formulae of common elements and compounds and identify the elements and number of atoms of each in a given compound (e.g., He, Na, C, H₂O, H₂O₂, CO, CO₂, CaCO₃, SO₂, FeO, NO₂, O₃, CH₄, C₃H₈, NH₃, NaHCO₃, KCl, HCl, H₂SO₄, ZnO, and NaCl).</p>
+          </indicator>
+          <indicator>
+            <p>Construct Bohr model representations of the first 18 elements.</p>
+          </indicator>
+          <indicator>
+            <p>Trace the historical development of the modern periodic table and compare alternative arrangements that convey information about the classification of elements.</p>
+          </indicator>
+          <indicator>
+            <p>Apply the concept of systems as a tool by interpreting the organizational structure and patterns inherent within the periodic table, including periods, groups (families), atomic mass (mass number), atomic number, metals, non-metals, and metalloids.</p>
+          </indicator>
+          <indicator>
+            <p>Predict the physical and chemical properties of an element or family of elements (e.g., alkali metals, alkaline-earth metals, hydrogen, halogens, noble gases, and transition metals) based on its position within the periodic table.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the number of protons and electrons in an atom given the atomic number of an element.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the number of electrons, protons, and neutrons of an isotope of an element given the atomic number and mass number of an element.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the difference between the use of the terms “law” and “theory” in science with reference to the periodic law and the atomic theory of matter.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science: Characteristics of Electricity (CE)</goal_heading>
+      <outcome>
+        <identifier>CE9.1</identifier>
+        <outcome_text>Demonstrate and analyze characteristics of static electric charge and current electricity, including historical and cultural understanding. [CP, SI, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions to investigate related to static electric charge and current electricity.</p>
+          </indicator>
+          <indicator>
+            <p>Gather evidence for the transfer of static electric charges, including charging by friction, charging by conduction, charging by induction, and electrostatic discharge and create written, visual, and/or dramatic representations of those processes.</p>
+          </indicator>
+          <indicator>
+            <p>State the properties of static electrical charges.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how the importance of lightning in First Nations and Métis culture is conveyed through stories and legends.</p>
+          </indicator>
+          <indicator>
+            <p>Use a technological problem-solving process to design, construct, and evaluate the reliability of a device to detect static electrical charges, such as an electroscope.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, with reference to electron transfer, the production of static electrical charges in some common materials such as flannel, fur, wood, plastic, rubber, and metal.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the operation of technologies that have been developed based on scientific understanding of static electric charge and discharge (e.g., air filters, fabric softeners, lightning rods, automotive painting, plastic wrap, grounding straps, Van de Graaff generator, and photocopiers).</p>
+          </indicator>
+          <indicator>
+            <p>Outline the contributions of people from various cultures to modern understanding of static electric charge and current electricity (e.g., Thales, Robert Boyle, Benjamin Franklin, Michael Faraday, Nikola Tesla, Georg Ohm, Alessandro Volta, André-Marie Ampère, James Wimshurst, and Robert Van de Graaff), and past and present careers that require an understanding of static electric charge and current electricity.</p>
+          </indicator>
+          <indicator>
+            <p>Identify dangers to the human body associated with static electric charge and discharge, and current electricity, and discuss how technologies such as grounding straps, lightning rods, grounded plugs, fuses, and circuit breakers are designed to minimize such dangers.</p>
+          </indicator>
+          <indicator>
+            <p>Design and safely conduct an investigation to determine the resistance of various materials such as copper wire, Nichrome wire, graphite, rubber tubing, wood, glass, distilled water, and ionic solutions to electric current.</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate between conductors, insulators, and superconductors in electric circuits.</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate between a complete circuit, a closed circuit, an open circuit, and a short circuit.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the flow of charge in an electrical circuit based on the particle theory of matter and electron transfer.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CE9.2</identifier>
+        <outcome_text>Analyze the relationships that exist among voltage, current, and resistance in series and parallel circuits. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>emonstrate the importance of using precise language in science and technology by formulating operational definitions for voltage, resistance, and current.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the role of switches and variable resistors in series and parallel circuits, and identify practical examples of switches and variable resistors in daily life.</p>
+          </indicator>
+          <indicator>
+            <p>Model the characteristics of series and parallel circuits using analogies or visual and/or physical representations.</p>
+          </indicator>
+          <indicator>
+            <p>Use an ammeter, voltmeter, and/or multimeter safely and accurately to measure current and voltage of a variety of student-constructed series and parallel circuits, and identify potential sources of error in instrument readings.</p>
+          </indicator>
+          <indicator>
+            <p>Display data from the investigation of voltage, current, and resistance in series and parallel circuits in tabular form and graphically.</p>
+          </indicator>
+          <indicator>
+            <p>Calculate values of unknown quantities in electric circuits using Ohm’s Law (I = V/R).</p>
+          </indicator>
+          <indicator>
+            <p>Model, using appropriate standard circuit diagram symbols, series and parallel circuits that include an energy source, one or more switches, and various loads designed to accomplish specific tasks (e.g., household lighting, flashlight, electric fan, blender, coffee maker, toy vehicle, and automotive lighting).</p>
+          </indicator>
+          <indicator>
+            <p>Rephrase questions related to electric circuits in a testable form (e.g., rephrase a question such as “Why do we use parallel circuits in household wiring?” to “How do the voltage and current in a series circuit compare with those in a parallel circuit?”).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CE9.3</identifier>
+        <outcome_text>Assess operating principles, costs, and efficiencies of devices that produce or use electrical energy. [SI, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain the energy transformations involved in devices that use or produce light, heat, sound, motion, and magnetic effects (e.g., toaster, light bulb, thermocouple, oven, refrigerator, television, hair dryer, kettle, fan, electric blanket, and remote-controlled toy vehicle).</p>
+          </indicator>
+          <indicator>
+            <p>Use a technological problem-solving process to collaboratively design, construct, and evaluate a prototype of an electric motor that meets student-identified criteria or solves a student-identified problem.</p>
+          </indicator>
+          <indicator>
+            <p>Calculate the efficiency of common energy-converting devices and suggest reasons why the efficiency is always less than 100%.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret the energy efficiency rating of household electrical appliances and calculate their costs of operation in Saskatchewan over a given time by identifying the power rating and using the formula Cost = Power x time x rate.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the design of a household electrical appliance on the basis of criteria such as function, cost, and impact on daily life and the environment, and suggest alternative designs that are more sustainable.</p>
+          </indicator>
+          <indicator>
+            <p>Identify, and suggest explanations for, discrepancies in variations in the monthly costs of electrical energy for a household or business.</p>
+          </indicator>
+          <indicator>
+            <p>Make informed decisions about personal use of devices that use electrical energy, taking into account environmental and social advantages and disadvantages.</p>
+          </indicator>
+          <indicator>
+            <p>Propose a course of action to reduce the consumption of electrical energy in Saskatchewan, taking into account personal, societal, and environmental needs.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CE9.4</identifier>
+        <outcome_text>Critique impacts of past, current, and possible future methods of small and large scale electrical energy production and distribution in Saskatchewan. [DM, TK]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Provide examples of how technological developments related to the production and distribution of electrical energy have affected and continue to affect self and community, including electricity use on reserves, traditional lands, and traditional life in Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the operating principles, efficiency, lifespan, and safety, of past and current technologies developed to produce and store electrical energy, (e.g., electrochemical cells, wet cells, dry cells, and batteries) in the home, business, and industry.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the merits of primary and secondary cells and explain why secondary cells are not always appropriate to meet certain needs for electrical energy.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate and describe the transfer and conversion of energy from a typical generating station to a home in Saskatchewan, including the role of transformers.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the efficiency and impact of large scale versus small scale electrical energy distribution systems for home, business, agricultural, and industrial applications.</p>
+          </indicator>
+          <indicator>
+            <p>Describe scientific, technological, societal, and environmental perspectives related to past, current, and proposed large-scale methods of electrical energy generation in Saskatchewan (e.g., hydroelectric dams, coal and natural gas-fired plants, wind turbines, solar energy, geothermal, biomass, and nuclear plants).</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate evidence and sources of information created by different stakeholders related to various methods of electrical energy production in Saskatchewan, including alternative energy sources such as geothermal, biomass, clean coal, and co-generation.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Earth and Space Science: Exploring our Universe (EU)</goal_heading>
+      <outcome>
+        <identifier>EU9.1</identifier>
+        <outcome_text>Inquire into the motion and characteristics of astronomical bodies in our solar system and the universe. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions about the characteristics of and relationships between astronomical bodies.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and identify movement patterns of the major visible bodies in the night sky.</p>
+          </indicator>
+          <indicator>
+            <p>Compare historical and modern explanations for the real and apparent motion, including real and apparent retrograde motion, of celestial bodies (e.g., sun, moon, planets, comets, and asteroids) and artificial satellites.</p>
+          </indicator>
+          <indicator>
+            <p>Create a physical and/or visual representation of the apparent motion of astronomical bodies, including retrograde motion, as seen from various locations within our solar system.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the efficacy of various historical and contemporary models of planetary motion, including geocentric and heliocentric models, for explaining observed astronomical phenomena.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and explain the role of experimentation, collecting evidence, finding relationships, proposing explanations, and imagination in the development of scientific knowledge of the solar system and universe (e.g., explain how data provided by astronomy, radio astronomy, satellite-based astronomy, and satellite exploration of the sun, planets, moons, and asteroids contribute to our knowledge of the solar system).</p>
+          </indicator>
+          <indicator>
+            <p>Conduct an experiment, simulation, or demonstration to investigate the motion and/or characteristics of one or more astronomical bodies.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the composition and physical characteristics of astronomical bodies within the solar system, including the planets, comets, asteroids, and meteors, using appropriate scientific terminology and units (e.g., light years, astronomical units).</p>
+          </indicator>
+          <indicator>
+            <p>Describe the effects of solar phenomena, including sunspots, solar flares, and solar radiation, on Earth.</p>
+          </indicator>
+          <indicator>
+            <p>Classify the major components of the universe, including stars, quasars, black holes, nebulae, and galaxies, according to their distinguishing physical characteristics.</p>
+          </indicator>
+          <indicator>
+            <p>Organize data about the characteristics of the major components of the solar system or universe using tables, spreadsheets, charts, and/or diagrams and draw conclusions about those characteristics specifically and the solar system and universe generally.</p>
+          </indicator>
+          <indicator>
+            <p>State a prediction and a hypothesis about astronomical phenomenon based on background information or an observed pattern of events (e.g., predict the next visit of a comet based on past observations, predict the location of Venus or Mars over a period of days).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>EU9.2</identifier>
+        <outcome_text>Analyze scientific explanations of the formation and evolution of our solar system and the universe. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe scientific theories on the formation of the solar system, including planets, moons, asteroids, and comets.</p>
+          </indicator>
+          <indicator>
+            <p>Describe scientific theories and models of the origin and evolution of the universe and the observational evidence that supports those theories (e.g., red shift of galaxies, cosmic microwave background radiation, and abundance of light elements).</p>
+          </indicator>
+          <indicator>
+            <p>Construct and critique a visual representation of the life cycle of stars using appropriate scientific terminology and identify strengths and weaknesses of the representation.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the need for new evidence in order to continually test existing theories in science (e.g., explain the need for new evidence obtained from space-based telescopes and close-up observations by satellites, which can reinforce, adjust, or reject existing inferences based on observations from Earth).</p>
+          </indicator>
+          <indicator>
+            <p>Identify new questions and problems that arise from what was learned about the origins of the universe (e.g., “What are the limits of space travel?”, “How old is the Universe?”, and “Is Earth the only suitable home for humans?”).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>EU9.3</identifier>
+        <outcome_text>Examine how various cultures, past and present, including First Nations and Métis, understand and represent astronomical phenomenon. [CP]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe First Nations and Métis perspectives on the origin of the solar system and the universe.</p>
+          </indicator>
+          <indicator>
+            <p>Identify how worldviews related to astronomical phenomenon are expressed through First Nations and Métis stories and oral traditions.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the importance many individuals and cultures place or have placed on the summer and winter solstices and vernal and autumnal equinoxes.</p>
+          </indicator>
+          <indicator>
+            <p>Identify common characteristics of stories, past and present, describing the origin of the world from various cultures and those in fantasy literature.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>EU9.4</identifier>
+        <outcome_text>Analyze human capabilities for exploring and understanding the universe, including technologies and programs that support such exploration. [DM, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the major advances of the Canadian, North American, and other space programs that have enabled space probes and human spaceflight exploration of the solar system and universe.</p>
+          </indicator>
+          <indicator>
+            <p>Use a technological problem-solving process to design and evaluate a prototype of a habitable space vehicle that could support human exploration beyond our solar system to a student-selected destination.</p>
+          </indicator>
+          <indicator>
+            <p>Identify potential physical and psychological barriers to exploring and/or living in the universe beyond the inner solar system.</p>
+          </indicator>
+          <indicator>
+            <p>Calculate theoretical values of the time for light or spacecraft at a given speed to travel to a distant star or other astronomical object.</p>
+          </indicator>
+          <indicator>
+            <p>Conduct appropriate research and defend a given position on the economic and societal benefits of space exploration.</p>
+          </indicator>
+          <indicator>
+            <p>Describe particular technologies designed to explore natural phenomena, extend human capabilities, or solve practical problems related to exploring and understanding the universe (e.g., quadrant, astrolabe, cross-staff, optical telescope, star chart, radio telescope, satellite, space-based telescope, unmanned probe, and robotics).</p>
+          </indicator>
+          <indicator>
+            <p>Describe and apply techniques for determining the position of objects in space using the horizontal (e.g., azimuth and altitude) and equatorial coordinate systems (e.g., declination and right ascension).</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of how Canadian research projects in space science and technology are supported by governments, universities, and private agencies.</p>
+          </indicator>
+          <indicator>
+            <p>Research space science careers in Canada (e.g., astronauts, astrophysicists, materials technologists, pilots, and computer programmers).</p>
+          </indicator>
+          <indicator>
+            <p>Describe possible positive and negative effects of a particular scientific or technological development related to space exploration, and explain why a practical solution requires a compromise between competing priorities (e.g., describe effects such as the spinoffs from space technologies to everyday usage and the potential military use of space exploration, and recognize the need to evaluate these effects).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

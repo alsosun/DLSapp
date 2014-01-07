@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181937_1</pdf>
+  <banner>social/SS4.png</banner>
+  <dark_colour>#8f3b67</dark_colour>
+  <light_colour>#e9d8e1</light_colour>
+  <goals>social/socialstudies1-5aimsgoals.htm</goals>
+  <teaching>social/socialstudies4teaching.htm</teaching>
+  <curriculum_name>Social Studies 4</curriculum_name>
+  <classification_id>social studies 4</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Interactions and Interdependence of Nations (IN)</goal_heading>
+      <outcome>
+        <identifier>IN4.1</identifier>
+        <outcome_text>Analyze how First Nations and Métis people have shaped and continue to shape Saskatchewan.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create biographic profiles of a selection of Saskatchewan First Nations and Métis leaders in the time period prior to Saskatchewan joining Confederation (e.g., Poundmaker, Big Bear, Riel, Dumont, Almighty Voice).</p>
+          </indicator>
+          <indicator>
+            <p>Create an inventory of the contributions of First Nations and Métis people to government, business, and professional life in Saskatchewan (e.g., consulting firms, outfitters, financial firms, architects, educators, health workers, legal specialists, artists, athletes).</p>
+          </indicator>
+          <indicator>
+            <p>Explain the significance of dance and music to First Nations and Métis peoples and its contribution to Saskatchewan intercultural development.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate the contributions of First Nations and Métis artists, sculptors, musicians, dancers, storytellers and writers to Saskatchewan culture (e.g., Buffy Sainte-Marie, Allan Sapp, David Bouchard, Michael Lonechild, Henry Beaudry, Andrea Menard, Angelique Merasty).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IN4.2</identifier>
+        <outcome_text>Describe the origins of the cultural diversity in Saskatchewan communities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the traditional locations of the various First Nations tribes and language groupings in Saskatchewan prior to European contact.</p>
+          </indicator>
+          <indicator>
+            <p>Detail the ways in which First Nations peoples supported the survival of early European newcomers to Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Trace and represent the history of European immigration to Saskatchewan including those who came for economic reasons (explorers, fur traders, homestead farmers) and religious reasons (Mennonites, Hutterites, Doukhobours).</p>
+          </indicator>
+          <indicator>
+            <p>Articulate reasons why European immigrants left their homelands and settled in Saskatchewan, with particular emphasis upon the local community and/or the individual student families.</p>
+          </indicator>
+          <indicator>
+            <p>Represent through speaking, writing, drama, multimedia, or other form, the challenges faced, both historically and in the current era, by First Nations people, Métis people, and immigrants to Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Identify strategies by which diverse cultural communities in Saskatchewan learned to work together for the common good (e.g., agricultural fairs, service organizations, community celebrations, arts groups, barn raising, construction of community facilities).</p>
+          </indicator>
+          <indicator>
+            <p>Compare immigration patterns in Saskatchewan in the 19th and early 20th centuries to immigration patterns in the current era.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the significance of historic buildings and places associated with cultural diversity in the community and province.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the role of archaeology in understanding the origins of Saskatchewan communities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IN4.3</identifier>
+        <outcome_text>Determine the influence Saskatchewan people and programs have had on a national scale.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the impact of programs originating in Saskatchewan on Canada and global communities (e.g., Medicare, welfare, cooperative movement, the Saskatchewan Bill of Rights).</p>
+          </indicator>
+          <indicator>
+            <p>Represent the accomplishments of prominent Saskatchewan people whose contributions in their field are nationally or internationally recognized in a gallery, media clips, vignettes, or other media.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the value of volunteerism in various local community organizations and activities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Dynamic Relationships (DR)</goal_heading>
+      <outcome>
+        <identifier>DR4.1</identifier>
+        <outcome_text>Correlate the impact of the land on the lifestyles and settlement patterns of the people of Saskatchewan.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Locate Saskatchewan on a map of Canada, North America, and the world.</p>
+          </indicator>
+          <indicator>
+            <p>Locate the geographic centre of Saskatchewan on a map.</p>
+          </indicator>
+          <indicator>
+            <p>Make inferences about why people in Saskatchewan settled particular locations, including settlement patterns before and after coming together of First Nations and European peoples using a variety of maps (e.g., near waterways, sources of water, rail lines, natural resources, low population density in rural areas).</p>
+          </indicator>
+          <indicator>
+            <p>Identify the characteristics of the unique geographic regions in Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the impact of geography on the architecture of Saskatchewan, including how styles, materials, and cultural traditions have been affected by interaction with the land and other people in the province.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the influence of geography on the lifestyle of people living in Saskatchewan (e.g., flora and fauna, pastimes, transportation, cost of food, type of food, occupations, availability of services such as education and health care).</p>
+          </indicator>
+          <indicator>
+            <p>Conduct an inquiry investigating how residents of Saskatchewan came to occupy the land that is now our province (e.g., First Nations, early Europeans, and Métis).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR4.2</identifier>
+        <outcome_text>Explain the relationship of First Nations and Métis peoples with the land.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate the traditional worldviews of First Nations peoples prior to European contact regarding land as an animate object and sustaining life force.</p>
+          </indicator>
+          <indicator>
+            <p>Research traditional lifestyles of First Nations communities and peoples prior to European contact (e.g., hunting, gathering, movement of people to follow food sources).</p>
+          </indicator>
+          <indicator>
+            <p>Explore how the traditional worldviews and teachings of First Nations’ Elders regarding land influence the lifestyle of First Nations people today.</p>
+          </indicator>
+          <indicator>
+            <p>Research the history of the Métis people and their relationship with the land.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the traditional views of land and culture of the Aboriginal peoples of Saskatchewan with those of the railway developers.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the impact of historic loss of land on First Nations and Métis people.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the process by which decisions were made about the location of reserve lands in Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Research the Métis struggle for land, and the displacement of Métis people in the late 19th century.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR4.3</identifier>
+        <outcome_text>Analyze the implications of the Treaty relationship in Saskatchewan.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Locate Treaty areas within Saskatchewan and locate reserves within the Treaty area of the school.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate conditions which precipitated Treaty negotiations in Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Research Treaty provisions, including the spirit and intent of Treaties as well as material considerations.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the benefits of Treaties to all Saskatchewan people.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Power and Authority (PA)</goal_heading>
+      <outcome>
+        <identifier>PA4.1</identifier>
+        <outcome_text>Analyze the relationship between governance institutions in Saskatchewan and the quality of life of people in the province.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify ways in which Saskatchewan people can be involved in making decisions which affect their local communities (e.g., run as a candidate for school board, local government, or band elections; vote during elections; attend community forums).</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate the organization of the municipal or band decision-making process, including the name of the sitting mayor, reeve, or chief.</p>
+          </indicator>
+          <indicator>
+            <p>Describe ways in which Saskatchewan people can be involved in the democratic process regarding decisions which affect their province, and explain why it is important to be an active participant in the democratic process (e.g., vote in provincial elections; belong to a political party; run for member of the provincial or First Nations legislative assembly; communicate with the member of the legislative assembly about issues of concern).</p>
+          </indicator>
+          <indicator>
+            <p>Represent the structure of the provincial decision-making process in Saskatchewan naming the sitting premier, the leader of the opposition, and the local member of the legislative assembly.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the methods the provincial government uses to raise revenue (e.g., resource revenues, taxes on consumption, provincial sales tax, fuel tax, tax on cigarettes and alcohol) to pay for services and evaluate the impact on quality of life for Saskatchewan people (e.g., health care, education, highways, social services, justice).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how the symbols of Saskatchewan, including the coat of arms, the flag, and the provincial motto, reflect the values and qualities of the people and the government of Saskatchewan.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA4.2</identifier>
+        <outcome_text>Demonstrate an understanding of the provincial system of government.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Differentiate between rules and laws.</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate between rights and responsibilities.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the relationship between three levels of government in Canada, including local (i.e., municipal, band), provincial or territorial, and federal.</p>
+          </indicator>
+          <indicator>
+            <p>Identify elected local, provincial, and federal heads of government.</p>
+          </indicator>
+          <indicator>
+            <p>Compare how laws are made at the local and provincial levels.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA4.3</identifier>
+        <outcome_text>Demonstrate an understanding of the First Nations system of governance.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research the structures of governance in First Nations communities (e.g., local band council, tribal council, Federation of Saskatchewan Indian Nations, Assembly of First Nations).</p>
+          </indicator>
+          <indicator>
+            <p>Compare the traditional processes for selection of leaders in First Nations communities to current practices for selection of leaders in First Nations.</p>
+          </indicator>
+          <indicator>
+            <p>Compile an inventory of issues of current focus for First Nations governments in Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Research the structures of governance of Métis people in Saskatchewan (e.g., Métis local, Métis Nation of Saskatchewan, Métis National Council).</p>
+          </indicator>
+          <indicator>
+            <p>Compare the traditional processes for selection of leaders of Métis people to current practices for selection of leaders by the Métis people.</p>
+          </indicator>
+          <indicator>
+            <p>Compile an inventory of issues of current focus for Métis governments in Saskatchewan.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Resources and Wealth (RW)</goal_heading>
+      <outcome>
+        <identifier>RW4.1</identifier>
+        <outcome_text>Analyze the strategies Saskatchewan people have developed to meet the challenges presented by the natural environment.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>List the challenges and opportunities climate presents for residents of Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Determine safety measures necessary for living in the Saskatchewan climate (e.g., clothing; safety package for vehicle; never leave vehicle when stranded in winter; checking highway hotline; not licking frozen metal).</p>
+          </indicator>
+          <indicator>
+            <p>Retell the stories of Elders, traditional knowledge keepers, and senior citizens about surviving weather extremes (e.g., drought, cold, blizzards, tornadoes, extreme heat).</p>
+          </indicator>
+          <indicator>
+            <p>Collect the natural weather forecasting techniques of Elders, traditional knowledge keepers, senior citizens, and others with local knowledge.</p>
+          </indicator>
+          <indicator>
+            <p>Represent the traditions and practices Saskatchewan people developed when faced with isolation, including First Nations practices adopted by Europeans.</p>
+          </indicator>
+          <indicator>
+            <p>Research past and present technologies used to withstand the Saskatchewan climate.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the technological evolution of farming practices in Saskatchewan, including crop variety development, pesticide and herbicide use, and soil and water conservation.</p>
+          </indicator>
+          <indicator>
+            <p>Graph the typical energy consumption in Saskatchewan for an average year, and investigate energy efficient technologies being developed in Saskatchewan.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RW4.2</identifier>
+        <outcome_text>Investigate the importance of agriculture to the economy and culture of Saskatchewan.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and locate various types of farms in Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Research production practices of various types of crop and livestock farms.</p>
+          </indicator>
+          <indicator>
+            <p>Identify various farm stewardship practices (e.g., how farmers care for the land, animals, water supply, natural vegetation, and air quality).</p>
+          </indicator>
+          <indicator>
+            <p>Compile an inventory of Saskatchewan agricultural food and by-products.</p>
+          </indicator>
+          <indicator>
+            <p>Identify agricultural products used in daily life in Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Trace the steps of a food product from the farm to the plates of consumers, and identify the various careers that contribute to this process in the agriculture and food processing industries.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the significance of Saskatchewan agricultural commodity exports to the province.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RW4.3</identifier>
+        <outcome_text>Assess the impact of Saskatchewan resources and technological innovations on the provincial, national, and global communities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent on a map the major resources in Saskatchewan (e.g., minerals, potash, oil, uranium, natural gas, lumber, water, crop and livestock production).</p>
+          </indicator>
+          <indicator>
+            <p>Locate on a map the major industries in Saskatchewan (e.g., agriculture processing, mining, manufacturing, forestry products, energy refinement, tourism, livestock production).</p>
+          </indicator>
+          <indicator>
+            <p>Identify the natural resources and industries found in the local community, and analyze their impact upon the community.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate the goods made from the major natural resources, the consumers of those goods, and the export destinations.</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate between primary and secondary industry.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the environmental impact of the development of natural resources on the local community, the province, and the world.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the impact of technological innovations originating in Saskatchewan on the global community (e.g., farm machinery, varieties of grain, automated teller machines, fibre optics, communications technologies, pesticides and herbicides, vaccines).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

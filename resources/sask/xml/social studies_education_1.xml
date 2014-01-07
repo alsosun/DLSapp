@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181933_1</pdf>
+  <banner>social/SS1.png</banner>
+  <dark_colour>#8f3b67</dark_colour>
+  <light_colour>#e9d8e1</light_colour>
+  <goals>social/socialstudies1-5aimsgoals.htm</goals>
+  <teaching>social/socialstudies1teaching.htm</teaching>
+  <curriculum_name>Social Studies 1</curriculum_name>
+  <classification_id>social studies 1</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Interactions and Interdependence of Nations (IN)</goal_heading>
+      <outcome>
+        <identifier>IN1.1</identifier>
+        <outcome_text>Describe the diversity of traditions, celebrations, or stories of individuals in the classroom and school.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Generate questions about family traditions and celebrations (e.g., Are special clothes worn? Is there special food? Are there special dances, songs, music? Are there other special cultural traditions?).</p>
+          </indicator>
+          <indicator>
+            <p>Describe behaviours, actions, or activities that are part of students’ family traditions or celebrations.</p>
+          </indicator>
+          <indicator>
+            <p>Gather information regarding traditions, celebrations, or stories of others by identifying and accessing various resources (e.g., family members, Elders, teachers, neighbours, library books, video clips).</p>
+          </indicator>
+          <indicator>
+            <p>Re-tell stories about traditions and celebrations of members of the classroom (e.g., How do families spend free time? How are weddings, birthdays, anniversaries, or family reunions celebrated?).</p>
+          </indicator>
+          <indicator>
+            <p>Compare how families recognize important family events (e.g., What is the same about how a student and a friend/classmate recognize family birthdays, weddings, deaths? What is different?).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IN1.2</identifier>
+        <outcome_text>Discuss cultural diversity in the family and classroom, including exploration of similarities and differences.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe positive attributes of the individual students’ families.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that families are varied and diverse.</p>
+          </indicator>
+          <indicator>
+            <p>Explore the diversity of ways of life for families (e.g., language, clothing, food, art, celebrations).</p>
+          </indicator>
+          <indicator>
+            <p>Identify ways in which families are similar and ways in which families are different.</p>
+          </indicator>
+          <indicator>
+            <p>Explore attributes common to cultural groups represented within the classroom and school (e.g., foods, arts, festivals, Treaties, leisure time activities, community celebrations).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IN1.3</identifier>
+        <outcome_text>Assess ways in which relationships help to meet human needs.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify human needs.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the groups to which individuals belong, and the needs met by membership within a group (e.g., family, class, team, activity, or faith group).</p>
+          </indicator>
+          <indicator>
+            <p>Compare how various groups, including family, classmates, friends, and significant adults within students’ lives, contribute to meeting needs.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate relationships that could meet needs in a fashion similar to a family relationship (e.g., Treaty, business partnership, team membership).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Dynamic Relationships (DR)</goal_heading>
+      <outcome>
+        <identifier>DR1.1</identifier>
+        <outcome_text>Relate family events and stories of the recent or distant past to the student’s place in present day family life.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Provide oral examples of traditions and celebrations that connect people to the past, and consider why these traditions and celebrations are important today.</p>
+          </indicator>
+          <indicator>
+            <p>Construct representations of the passage of time, as related to the family (e.g., I was born, my siblings were born, family member moves away from, or into, the family home).</p>
+          </indicator>
+          <indicator>
+            <p>Relate events and stories in chronological order, using comparisons (e.g., old and new, younger and older, before and after) relative to student ages.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR1.2</identifier>
+        <outcome_text>Describe kinship patterns of the past and present and describe according to traditional teachings (e.g., Medicine Wheel teachings).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Retell family stories that identify how family structures have changed over time.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize the stages of life, and that some cultures associate the stages with the teachings of the Medicine Wheel (e.g., the four directions of the Medicine Wheel correspond with the stages of life: south – infancy and childhood, west – adolescence, north – adulthood, and east – old age/death).</p>
+          </indicator>
+          <indicator>
+            <p>Describe the functions served by various family relationships by comparing family and kinship structures within the classroom (e.g., What makes all families special? What are the benefits of living in a family? What are the roles of family members? What contributions are made by each member of the family?).</p>
+          </indicator>
+          <indicator>
+            <p>Identify people who are connected to the basic family group through hereditary or cultural family relationships (e.g., grandparents, parents, aunts, uncles, other significant adults).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR1.3</identifier>
+        <outcome_text>Demonstrate awareness of humans’ reliance on the natural environment to meet needs, and how location affects families in meeting needs and wants.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify sources of food common in students’ meals (e.g., plants, mammals, fish, birds, animal products like milk, cheese, and eggs).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the process of getting food from source to students’ tables.</p>
+          </indicator>
+          <indicator>
+            <p>Trace the geographic origins of food products consumed by students.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the contribution of the natural environment to the satisfaction of basic human needs.</p>
+          </indicator>
+          <indicator>
+            <p>Retell stories that explore the relationship between humans and nature.</p>
+          </indicator>
+          <indicator>
+            <p>Identify ways in which use of resources to meet needs and wants of individuals affects the natural environment, and recognize individual and group responsibility towards responsible stewardship of the natural environment.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR1.4</identifier>
+        <outcome_text>Recognize globes and maps as representations of the surface of the Earth, and distinguish land and water masses on globes and maps.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Compile a list of various types of models used as representations of real things (e.g., toys, dolls, action figures, figurines, pictures, diagrams, maps).</p>
+          </indicator>
+          <indicator>
+            <p>Identify general characteristics of maps and globes as models of all or parts of the earth, including reasons why certain colours are used to depict particular physical features.</p>
+          </indicator>
+          <indicator>
+            <p>Use a globe to identify the location of places of origin for items found in the classroom and school.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR1.5</identifier>
+        <outcome_text>Identify and represent the orientation in space (where) and time (when) of significant places and events in the lives of students.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify Saskatchewan as our province and Canada as our country, and give examples of other provinces and other countries.</p>
+          </indicator>
+          <indicator>
+            <p>Locate Canada, and the relative location of Saskatchewan, on a globe.</p>
+          </indicator>
+          <indicator>
+            <p>Locate Saskatchewan and the relative location of the community of the school on a map of Canada.</p>
+          </indicator>
+          <indicator>
+            <p>State the address or describe the relative location of students’ homes in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Use relative terms to describe location (e.g., above, below, near, far, left, right, front, back, in, out).</p>
+          </indicator>
+          <indicator>
+            <p>Use relative times to describe events in relation to students’ lives (e.g., day, night, this morning, this afternoon, this evening; yesterday, today, tomorrow; last week, this week, next week; last month, this month, next month; last year, this year, next year).</p>
+          </indicator>
+          <indicator>
+            <p>Describe the relative location of places in the classroom and school neighbourhood.</p>
+          </indicator>
+          <indicator>
+            <p>Construct and use maps to represent familiar places, such as the location of the student’s desk, part of the classroom or playground, incorporating the cardinal directions (i.e., north, south, east, and west).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Power and Authority (PA)</goal_heading>
+      <outcome>
+        <identifier>PA1.1</identifier>
+        <outcome_text>Analyze actions and practices in the family, classroom, and on the playground that support peace and harmony, including rules and decision-making processes.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent situations depicting peace and harmony in students’ daily lives.</p>
+          </indicator>
+          <indicator>
+            <p>Describe personal actions in the family and classroom that promote peace and harmony (e.g., sharing, taking turns, using sensitive word choices).</p>
+          </indicator>
+          <indicator>
+            <p>Describe ways in which people may influence the students’ lives at home and at school, and ways in which each student may influence the lives of others.</p>
+          </indicator>
+          <indicator>
+            <p>Explain purposes of rules in the family and school.</p>
+          </indicator>
+          <indicator>
+            <p>Share examples of rules in students’ families and the school.</p>
+          </indicator>
+          <indicator>
+            <p>Participate in a variety of ways of making decisions (e.g., majority vote, consensus, individual selection and choice, autocratic).</p>
+          </indicator>
+          <indicator>
+            <p>Describe rights and responsibilities in the classroom and playground.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate how individual rights and responsibilities are related to a social environment of peace and harmony.</p>
+          </indicator>
+          <indicator>
+            <p>Participate in the creation of rules for classroom tasks or activities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA1.2</identifier>
+        <outcome_text>Analyze the causes of disharmony and ways of returning to harmony.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify decision-making approaches which may result in positive outcomes and decision-making approaches which may result in less positive results.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate how peace and harmony are exemplified in the classroom, playground, and family.</p>
+          </indicator>
+          <indicator>
+            <p>Gather examples of causes of disharmony in the classroom, the playground, and the family.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss examples of solutions to disharmony in the family, classroom, and the playground.</p>
+          </indicator>
+          <indicator>
+            <p>Describe reasons for recognizing those people and events designed to work for harmony (i.e., veterans and soldiers on Remembrance Day, conflict managers in the community and school).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Resources and Wealth (RW)</goal_heading>
+      <outcome>
+        <identifier>RW1.1</identifier>
+        <outcome_text>Describe the influence of physical, spiritual, emotional, and intellectual needs and wants on personal well-being.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Review the difference between needs and wants.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate ways in which other people’s needs may be different from one’s own.</p>
+          </indicator>
+          <indicator>
+            <p>Share oral stories or traditional narratives on the theme of meeting various types of needs and wants (i.e., physical, spiritual, social/emotional, intellectual).</p>
+          </indicator>
+          <indicator>
+            <p>Represent various ways in which families meet their physical, spiritual, emotional, and intellectual needs and wants.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how First Nations people engage traditional teachings in meeting needs and wants (e.g., Medicine Wheel representation for the domains of spiritual, emotional, physical, and intellectual being).</p>
+          </indicator>
+          <indicator>
+            <p>Identify ways in which respecting others’ needs and wants helps classrooms and homes function effectively.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RW1.2</identifier>
+        <outcome_text>Discuss ways in which work may be managed and distributed in families, schools, and groups.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>List a variety of types of paid and unpaid work, and identify those people who undertake this work (e.g., parent gets paid to work outside the home but not for coaching the soccer team; parent who volunteers to make hotdogs for the hotdog sale is not paid, person who runs the hotdog stand at the park is paid).</p>
+          </indicator>
+          <indicator>
+            <p>Identify various domestic tasks that might contribute to operating and maintaining a home, and identify individuals who take primary responsibility for those tasks in students’ families.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest ways in which tasks may be shared in families.</p>
+          </indicator>
+          <indicator>
+            <p>Identify those tasks necessary for the operation and maintenance of the classroom and school, and identify the individuals who take primary responsibility for those tasks in the school.</p>
+          </indicator>
+          <indicator>
+            <p>Describe ways in which students can contribute to the operation of the home and classroom.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

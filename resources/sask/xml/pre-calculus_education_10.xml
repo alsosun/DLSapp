@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181902_1</pdf>
+  <banner>mathematics/FMPC10.png</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>mathematics/pre-calculus10aimsgoals.htm</goals>
+  <teaching>mathematics/pre-calculus10.htm</teaching>
+  <curriculum_name>Fdts of Math &amp; Pre-Calculus 10</curriculum_name>
+  <classification_id>Foundations of Math and Pre-Calculus 10</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Foundations of Mathematics and Pre-Calculus (FP)</goal_heading>
+      <outcome>
+        <identifier>FP10.1</identifier>
+        <outcome_text>Demonstrate understanding of factors of whole numbers by determining the:prime factorsgreatest common factorleast common multipleprincipal square rootcube root.</outcome_text>
+        <outcome_text>[CN, ME, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the greatest common factors or least common multiples.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the relationship between factors and multiples.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the prime factors of a whole number and explain the strategies used.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze concretely, pictorially, or numerically and explain whether a whole number is a perfect square or a perfect cube.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the square root of a perfect square and the cube root of a perfect cube.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and report about the numbers 0 and 1 with respect to factors, multiples, square roots, and cube roots.</p>
+          </indicator>
+          <indicator>
+            <p>Solve problems that involve prime factors, greatest common factors, least common multiples, square roots, or cube roots.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FP10.2</identifier>
+        <outcome_text>Demonstrate understanding of irrational numbers in both radical (including mixed radical) and exponent forms through:representingidentifyingsimplifyingorderingrelating to rational numbersapplying exponent laws.</outcome_text>
+        <outcome_text>[C, CN, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Sort, with justification, a set of numbers into rational and irrational numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Create and explain a pattern that describes the decimal form of an irrational number (e.g., write the digits from 0 to 9 in order, then put two of each digit – 0011223344 … – followed by three of each digit and so on).</p>
+          </indicator>
+          <indicator>
+            <p>Approximate the value of a given irrational number and explain the strategy used.</p>
+          </indicator>
+          <indicator>
+            <p>Order a set of Real numbers, including rational and irrational numbers, on a number line and explain the strategies used.</p>
+          </indicator>
+          <indicator>
+            <p>Express a radical as a mixed radical in simplest form (limited to numerical radicands).</p>
+          </indicator>
+          <indicator>
+            <p>Express a mixed radical as an entire radical (limited to numerical radicands).</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, how changing the value of the index of a radical impacts the value of the radical.</p>
+          </indicator>
+          <indicator>
+            <p>Represent, such as through the use of a graphic organizer, the relationships among the subsets of the Real numbers: natural, whole, integer, rational, and irrational.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze patterns to generalize why<img>math_en/a_neg_n_equals_1_over_a_n_.png</img>.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze patterns to generalize why<img>math_en/a_1_over_n_equals_n_root_a.png</img>and<img>math_en/a_greater_than_zero.png</img>when<img>math_en/n.png</img>is an even integer.</p>
+          </indicator>
+          <indicator>
+            <p>Extend and apply the exponent laws to powers with rational exponents (limited to expressions with rational and variable bases and integral and rational exponents):&gt;</p>
+          </indicator>
+          <indicator>
+            <p>Analyze simplifications of expressions involving radicals and/or powers for errors.</p>
+          </indicator>
+          <indicator>
+            <p>Express powers with rational exponents as radicals and vice versa.</p>
+          </indicator>
+          <indicator>
+            <p>Create a representation that conveys the relationship between powers, rational numbers, and irrational numbers.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FP10.3</identifier>
+        <outcome_text>Demonstrate understanding of SI and imperial units of measurement including:linear measurementsurface area of spheres, and right cones, cylinders, prisms, and pyramidsvolume of spheres, and right cones, cylinders, prisms, and pyramidsrelationships between and within measurement systems.</outcome_text>
+        <outcome_text>[C, CN, ME, PS, R, V]</outcome_text>
+        <outcome_note>It is intended that students explore, analyze for patterns, and develop understanding of many units in both systems of measurement. These units include: metres, along with appropriate prefixes such as kilo, hecta, deci, centi, and milli, as well as hectare (SI system) inch, foot, yard, mile, acre (imperial system).</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Provide personal referents for linear measurements, including millimetre, centimetre, metre, kilometre, inch, foot, yard, and mile and explain the choices.</p>
+          </indicator>
+          <indicator>
+            <p>Justify the choice of units and or referents for determining or estimating linear, surface area, or volume measurements in different contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the selection of measurement instruments (e.g., rulers, callipers, or tape measures) and the strategies used to determine linear measurements (e.g., circumference of a bottle, length of a curve, or perimeter of the base of an irregular 3-D object).</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “the length of the wall is greater in yards than it is in metres”.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the size of SI and imperial units of measurement (linear, surface area, and volume) using referents.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies and/or formulas for converting between units within the imperial or SI system of measurements, limited to linear, surface area, and volume units. (e.g., converting square feet to square yards or m3 to cm3).</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain and apply strategies and/or formulas for converting between:SI and imperial units of linear, surface area, and volume measureimperial and SI units of linear, surface area, and volume measure.</p>
+          </indicator>
+          <indicator>
+            <p>Verify, with explanation (such as unit analysis and/or mental mathematics and estimation), a conversion of units (within the SI or imperial systems of measurement or between them).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze 3-D objects, their nets, and labelled diagrams to develop and generalize strategies and/or formulas for determining the surface area and volume of right cones, cylinders, prisms, and pyramids and composite objects.</p>
+          </indicator>
+          <indicator>
+            <p>Solve, using personal strategies and/or formulas, situational questions related to surface area, volume, and dimensions of right cones, cylinders, prisms, and pyramids, and composite 3-D objects.</p>
+          </indicator>
+          <indicator>
+            <p>Apply formulas to determine the surface area and/or volume of spheres.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the relationship between the volumes of:right cones and right cylinders with the same base and heightright pyramids and right prisms with the same base and height.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a treaty for its inclusion of measurements, such as in the surveying for land entitlement, and create and solve situational questions that are relevant to self, family, and community.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FP10.4</identifier>
+        <outcome_text>Develop and apply the primary trigonometric ratios (sine, cosine, tangent) to solve problems that involve right triangles. [C, CN, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop, generalize, explain, and apply relationships between the ratios of side lengths and angle sizes in similar right triangles.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how to identify the hypotenuse of a right triangle and the adjacent and opposite sides to an acute angle in that right triangle.</p>
+          </indicator>
+          <indicator>
+            <p>Solve problems, with or without the use of technology, involving one or more right triangles by applying primary trigonometric ratios and/or the Pythagorean Theorem.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve problems that involve indirect and direct linear measurements by using the primary trigonometric ratios, the Pythagorean Theorem, and measurement instruments such as a clinometer or metre stick.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FP10.5</identifier>
+        <outcome_text>Demonstrate understanding of the multiplication and factoring of polynomial expressions (concretely, pictorially, and symbolically) including:multiplying of monomials, binomials, and trinomialscommon factorstrinomial factoringrelating multiplication and factoring of polynomials.</outcome_text>
+        <outcome_text>[C, CN, R, V]</outcome_text>
+        <outcome_note>(It is intended that the emphasis of this outcome be on binomial by binomial multiplication, with extension to polynomial by polynomial to establish a general pattern for multiplication.)</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Develop, generalize, explain, and apply a strategy of symbolic manipulation to determine the product of two binomials by analyzing concrete and pictorial models.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the relationship between the multiplication of two binomial expressions and the area of a rectangular region.</p>
+          </indicator>
+          <indicator>
+            <p>Develop (concretely, pictorially, or symbolically), explain, and apply understanding of how multiplication of binomials is related to the multiplication of two-digit numbers (e.g., use algebra tiles and base ten blocks to compare and relate the products of (x + 1)(3x + 2) and (11)(32) ).</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply a strategy for multiplying polynomials.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the multiplication of two polynomials for errors and explain the strategy used.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why evaluating at a value for the variable in a product of polynomials in factored form should give the same solution as evaluating the expanded and simplified form of the polynomial product at the same value (e.g., explain why x2 + 5x + 6 should have the same value as (x + 3)(x + 2) when evaluated at x = -4).</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using concrete or visual models, how the processes of factoring and multiplication are related.</p>
+          </indicator>
+          <indicator>
+            <p>Develop (using concrete materials, pictures, or visualization), generalize, explain, and apply strategies for factoring and verifying the factors of binomials, including numerical binomial expressions (e.g., 32 + 20 = 4(8 + 5)).</p>
+          </indicator>
+          <indicator>
+            <p>Sort a set of polynomials according to the type(s) of factoring that could be applied to them.</p>
+          </indicator>
+          <indicator>
+            <p>Explain and apply strategies for determining whether given factors are those of a given polynomial.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for factoring a trinomial.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “any trinomial can be factored into two binomial factors”.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how differences of squares can be factored using trinomial factoring strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why it is important to look for common factors first when factoring a trinomial.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FP10.6</identifier>
+        <outcome_text>Expand and apply understanding of relations and functions including:relating data, graphs, and situationsanalyzing and interpretingdistinguishing between relations and functions.</outcome_text>
+        <outcome_text>[C, CN, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Provide and discuss examples of different types of relations relevant to one’s life, family, or community (e.g., person A is the mother of person B, or person A is a brother of person B.).</p>
+            <outer_text>Note: For some First Nations and Métis, the way relations are defined might be at a more specific level. For example, for some Ojibway a word for “brother” does not exist, only “older brother” and “younger brother”.</outer_text>
+          </indicator>
+          <indicator>
+            <p>Explain, by providing situational and graphical examples, the relationship between the categories of “relations” and “functions”.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “Relations and functions are the same thing”.</p>
+          </indicator>
+          <indicator>
+            <p>Graph, with or without technology, a set of data, and determine the restrictions on the domain and range.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why data points should or should not be connected on the graph for a situation.</p>
+          </indicator>
+          <indicator>
+            <p>Provide and explain examples of situations that could be represented by a given graph.</p>
+          </indicator>
+          <indicator>
+            <p>Sketch a graph to represent a situation presented orally or in writing.</p>
+          </indicator>
+          <indicator>
+            <p>Determine, and express in a variety of ways, the domain and range of a graph, a set of ordered pairs, or a table of values.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize, explain, and apply strategies for determining whether a set of ordered pairs or a graph represents a function.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FP10.7</identifier>
+        <outcome_text>Demonstrate, with and without the use of technology, understanding of slope (concretely, pictorially, and symbolically) with respect to:line segments and linesrate of changeratio of rise to runparallel linesperpendicular lines.</outcome_text>
+        <outcome_text>[PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Provide examples, relevant to self, family, or community, to explain the importance of slope.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate and explain, using examples relevant to self, family, or community, how slope is rate of change.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the slope of a line segment by using the measurement or calculation of the rise and run.</p>
+          </indicator>
+          <indicator>
+            <p>Classify lines in a given set as having positive or negative slopes, and explain how the sign of the slope affects the interpretation or meaning of the slope.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the meaning of zero or slopes with no Real value.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why the slope of a straight line can be determined by using any two distinct points on that line.</p>
+          </indicator>
+          <indicator>
+            <p>Draw a line given its slope and a point on the line.</p>
+          </indicator>
+          <indicator>
+            <p>Determine another point on a line, given the slope and a point on the line.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize, explain, and apply strategies for determining whether two lines are parallel or perpendicular.</p>
+          </indicator>
+          <indicator>
+            <p>Apply knowledge and skills related to slope to solve situational questions relevant to self, family, and community (e.g., determine the slopes of the poles in a tepee and the impact of changing the slopes on the dimensions and strength of the tepee).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FP10.8</identifier>
+        <outcome_text>Demonstrate understanding of linear relations including:representing in words, ordered pairs, tables of values, graphs, function notation, and equationsdetermining characteristics including intercepts, slope, domain, and rangerelating different equation forms to each other and to graphs.</outcome_text>
+        <outcome_text>[C, CN, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Critique the statement “any straight line is the graph of a linear function”.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, the impact of the domain of a linear function on the graph of the function (e.g., if the domain is not all Real numbers, then the graph will not show a solid line).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze situations to identify, with justification, the independent and a dependent variable.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze situations, graphs, tables of values, equations, or sets of ordered pairs to determine if the relationship described is linear.</p>
+          </indicator>
+          <indicator>
+            <p>Match corresponding types of representations of linear relations (e.g., situations, graphs, tables of values, equations, and sets of ordered pairs).</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the intercepts (as values and ordered pairs) of a linear relation from its graph.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the slope, domain, and range of the graph of a linear relation.</p>
+          </indicator>
+          <indicator>
+            <p>Sketch examples of linear relations to demonstrate the number of x or y intercepts possible for any line.</p>
+          </indicator>
+          <indicator>
+            <p>Match, with explanation, slopes and y-intercepts to graphs of linear relations.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a situational question that involves the intercepts, slope, domain, or range of a linear relation.</p>
+          </indicator>
+          <indicator>
+            <p>Express the equation of a linear relation in different forms (including the slope-intercept or general form) and compare the graphs of the linear relations.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize, explain, and apply strategies for drawing or sketching the graph of a linear relation in slope-intercept, general, or slope-point form, or function notation.</p>
+          </indicator>
+          <indicator>
+            <p>Graph, with and without technology, a linear relation given in slope-intercept, general, or slope-point form, and explain the strategy used to create the graph.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a set of linear relations for equivalent linear relations (e.g., 2x + 3y = 6 is equivalent to 4x + 6y = 12) and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the relationship between linear functions written in function notation and written as equations with two variables, and how to change between the two forms.</p>
+          </indicator>
+          <indicator>
+            <p>Apply knowledge and skills related to function notation to solve situational questions.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the related range value, given a domain value for a linear function (e.g., if f(x) = 3x – 2, determine f(–1)) and explain what the resulting value tells about the linear function.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the related domain value, given a range value for a linear function (e.g., if g(t) = 7 + t, determine t so that g(t) = 15) and explain what the resulting value tells about the linear function.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why a linear function would never have a term of x2 when in simplified form.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FP10.9</identifier>
+        <outcome_text>Demonstrate understanding of the writing and application of equations of linear relations, given:a graph of a relationa point that satisfies a relation and the slope of the relationtwo distinct points that satisfy a relationa point that satisfies the relation and the equation of a line parallel or perpendicular to the relation.</outcome_text>
+        <outcome_text>[CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for writing an equation for a linear relation using data obtained from a graph.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for writing an equation for a linear relation when given:a point that satisfies the relation and the slope of the relationtwo points that satisfy the relationthe coordinates of a point that satisfy the relation and the equation of a line parallel or perpendicular to the line.</p>
+          </indicator>
+          <indicator>
+            <p>Compare and critique the structure and purposes of different forms of linear relations, including y = mx + b, A<sub>x</sub>+ B<sub>y</sub>= C, and y - y<sub>1</sub>= m(x - x<sub>1</sub>) (e.g., there is no way to write a vertical linear relation in the form y = mx + b).</p>
+          </indicator>
+          <indicator>
+            <p>Graph and write equations for linear data generated within an experiment or collected from a situation.</p>
+          </indicator>
+          <indicator>
+            <p>Apply knowledge and skills of linear relations and their equations to solve situational questions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FP10.10</identifier>
+        <outcome_text>Solve problems that involve systems of linear equations in two variables, graphically and algebraically.</outcome_text>
+        <outcome_text>[CN, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Match, with justification, situations and systems of linear equations.</p>
+          </indicator>
+          <indicator>
+            <p>Sketch, describe, provide and explain situational examples of the different ways that the graphs of two linear equations (two variables) can intersect and explain the meaning of the points of intersection.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for solving systems of equations graphically, with and without the use of technology and verify the solutions.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies, including verification of solutions, for solving systems of equations algebraically.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “two lines always intersect at exactly one point”.</p>
+          </indicator>
+          <indicator>
+            <p>Apply knowledge and skills with systems of linear equations to solve situational questions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

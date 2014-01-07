@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181802_1</pdf>
+  <banner>health/HE9.png</banner>
+  <dark_colour>#9bc4b2</dark_colour>
+  <light_colour>#ebf3f0</light_colour>
+  <goals>health/healtheducation6-9aimsgoals.htm</goals>
+  <teaching>health/healtheducation9teaching.htm</teaching>
+  <curriculum_name>Health Education 9</curriculum_name>
+  <classification_id>health education 9</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Understanding, Skills, and Confidences (USC)</goal_heading>
+      <outcome>
+        <identifier>USC9.1</identifier>
+        <outcome_text>Develop informed conclusions about the importance of leadership skills and health promotion in healthy decision making.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Evaluate and respond to a variety of sources of, and information about, leadership skills.</p>
+          </indicator>
+          <indicator>
+            <p>Examine local decisions that promote health.</p>
+          </indicator>
+          <indicator>
+            <p>Examine health-enhancing behaviours that have increased due to the positive influence of health promotion (e.g., designated drivers – SGI, increase in physical activity – in motion).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and analyze examples of health promotion in one’s community.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the leadership skills needed/used in health promotion and related decision making.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how the determinants of health (e.g., education, income and social status, physical environments, biology and genetics) are interconnected and need to be addressed when promoting the health of self, family, community, and environment.</p>
+          </indicator>
+          <indicator>
+            <p>Assess how the strategies of health promotion (i.e., strengthen community action, develop personal skills, create supportive environments, reorient health services, build healthy public policy) impact decision making and the health of self, family, community, and the environment.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC9.2</identifier>
+        <outcome_text>Analyze how the well-being of self, family, community, and the environment is enhanced by a comprehensive, community approach to safety.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Evaluate and respond to a variety of sources of, and information about, safety in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Use the appropriate language with which to talk about comprehensive health approaches to safety (e.g., determinants of health, environments).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate internal and external signals of danger in familiar and unfamiliar situations in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Assess and communicate effective strategies to respond to signals of danger in familiar and unfamiliar situations.</p>
+          </indicator>
+          <indicator>
+            <p>Examine situations when personal safety may be in jeopardy.</p>
+          </indicator>
+          <indicator>
+            <p>Examine safe/unsafe practices in the community that endanger/enhance the well-being of young people and analyze why these practices occur.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the safety promotions/strategies in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate examples of comprehensive safety approaches.</p>
+          </indicator>
+          <indicator>
+            <p>Assess how assertiveness skills (see Grade 7) can help to protect self, others, and the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how unsafe situations affect the physical, mental, emotional, and spiritual well-being of self and others.</p>
+          </indicator>
+          <indicator>
+            <p>Explore how safe environments support the building of a sense of self and connections to others.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze safety promotions/strategies that involve multiple partners, environments, and supports.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the overlap/alignment of the safety approaches in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Propose how existing community safety promotions/strategies could be more comprehensive.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC9.3</identifier>
+        <outcome_text>Interpret, critique, and question the stigma associated with individuals, families, and communities living with/affected by non-curable infections/diseases, including HIV/AIDS and Hepatitis C and for those who advocate for them.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Evaluate and respond to sources of, and information about, the provincial, national, and international impact of HIV/AIDS and Hepatitis C.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and question community prejudices.</p>
+          </indicator>
+          <indicator>
+            <p>Examine stigmas associated with non-curable infections/diseases, including HIV/AIDS and Hepatitis C.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the impact of the stigmas associated with HIV/AIDS and Hepatitis C on the individual, the family, and the community.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and question stigmas often attached to people who advocate for those infected with HIV and Hepatitis C.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the effects of stigmas of association with/advocacy for those living with/affected by HIV/AIDS and/or Hepatitis C.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how some non-curable infections, including HIV and Hepatitis C infection, are linked to risky behaviours, not to particular groups of people, and examine the stigma associated with risky behaviours (e.g., intravenous drug use, unprotected sex).</p>
+          </indicator>
+          <indicator>
+            <p>Determine that risky behaviours are often more prevalent in vulnerable/marginalized populations and discuss why these populations may be more at risk.</p>
+          </indicator>
+          <indicator>
+            <p>Examine health promotion strategies that reinforce and/or address the stigma associated with HIV/AIDS.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC9.4</identifier>
+        <outcome_text>Analyze the norms and expectations (e.g., community, cultural) associated with romantic relationships as a means to effectively plan for related health promotion.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Evaluate and respond to a variety of sources of, and information about, romantic relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Compare why and how people became involved in romantic relationships in the past and become involved in the present.</p>
+          </indicator>
+          <indicator>
+            <p>Categorize similarities and differences that exist among cultural norms and expectations regarding romantic relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret how community and cultural norms might influence the personal standards (introduced in Grade 6) and the limits one sets for dating relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Determine how community and cultural norms might influence the strategies of personal commitment (introduced in Grade 7) required to set limits in healthy dating relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Assess individual, family, and community expectations for dating.</p>
+          </indicator>
+          <indicator>
+            <p>Assess why some young people choose not to become involved in romantic relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how family, cultural, and community expectations influence decisions of setting limits and agreeing to them early in romantic relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze “relationship violence” in the context of family and community norms.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how the following might assist in planning to promote health:appraise the assertiveness skills needed to set limits early in dating relationships (see Grade 7)examine how community norms might influence the support strategies (see Grade 8) available for healthy dating relationshipsanalyze the support strategies needed by someone who has experienced relationship violenceidentify and practise the leadership skills needed to promote healthy dating relationships.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC9.5</identifier>
+        <outcome_text>Evaluate a variety of healthy food policies and plan to participate in the development, revision, and/or implementation of a healthy food policy (e.g., fundraising, feasts, canteen sales, extra-curricular events) in the community (e.g., home, school, arena, youth center).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Evaluate and respond to a variety of sources of, and information about, healthy food policies.</p>
+          </indicator>
+          <indicator>
+            <p>Compare examples of healthy food policies.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and document principles of healthy food policies (i.e., one principle is the policy should be based on Canada’s Food Guide).</p>
+          </indicator>
+          <indicator>
+            <p>Establish criteria (from Canada’s Food Guide) for healthy food policies.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how Canada’s Food Guide has changed over time, speculate on the reasons for the changes, and determine possible effects on healthy food policies.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the influences on the development and implementation of healthy food policies.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the leadership skills that can be used in promoting a healthy food policy.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the existing food policies in the school and/or community.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the existing community/school food policies based on Canada’s Food Guide and other reputable sources.</p>
+          </indicator>
+          <indicator>
+            <p>Determine and examine the actions/priorities that will bring about the greatest improvement to new and/or existing food policies.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC9.6</identifier>
+        <outcome_text>Analyze the health, economic, and social supports and challenges of addictions (e.g., tobacco, shopping, alcohol, gambling, Internet, drugs) on self, family, community, and the environment.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Evaluate personal knowledge in terms of what is known and what needs to be learned about addictions.</p>
+          </indicator>
+          <indicator>
+            <p>Determine situations where youth may feel pressured/tempted to smoke, chew tobacco, drink, gamble, or use drugs.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate and respond to sources of, and information about, addictions.</p>
+          </indicator>
+          <indicator>
+            <p>Determine and practise the communication skills necessary to clarify personal standards regarding addictions.</p>
+          </indicator>
+          <indicator>
+            <p>Examine possible consequences of addictions on the health of self, family, and community.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how addictions affect the well-being of the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between the responsible and irresponsible use of traditional, prescription, and over-the-counter drugs (including tobacco).</p>
+          </indicator>
+          <indicator>
+            <p>Assess family and community norms and expectations regarding addictions.</p>
+          </indicator>
+          <indicator>
+            <p>Assess community supports and services related to addictions.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate laws pertaining to tobacco use, alcohol use, drug use, and gambling.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and describe the strengths within own family and cultural heritage, and of the struggles and challenges family and ancestors have faced related to addictions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC9.7</identifier>
+        <outcome_text>Analyze tragic death and suicide as distressing community issues and appraise what supports and health promotions exist in the community to address these issues.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Evaluate and respond to a variety of sources of, and information about, tragic death and suicide.</p>
+          </indicator>
+          <indicator>
+            <p>Express insights regarding community beliefs about suicide.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and articulate warning signs of suicide (e.g., repeated expressions of hopelessness, helplessness, or desperation; behaviour that is out of character, such as recklessness in someone who is normally careful; signs of depression - sleeplessness, social withdrawal, loss of appetite, loss of interest in usual activities; a sudden and unexpected change to a cheerful attitude; giving away prized possessions to friends and family, making a will; making remarks related to death and dying; or an expressed intent to commit suicide).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the factors that may increase the risk for suicide (e.g., having a serious physical or mental illness, feelings of guilt, victim of abuse, abusing alcohol or drugs, experiencing a major loss, such as the death of a loved one, breakups/divorce, unemployment, isolation).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the impact of suicide and tragic death on the well-being of the individual, family, and community.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and communicate Saskatchewan and Canadian trends in teen suicide and tragic death.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate local and provincial health promotions to reduce tragic death (e.g., work safety promotions, traffic safety promotions) and suicide (e.g., part of curriculum).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize strategies to prevent or reduce the risk of a suicide attempt (e.g., getting help from a trusted adult).</p>
+          </indicator>
+          <indicator>
+            <p>Examine ways to support self if contemplating suicide (e.g., call a crisis telephone support line, draw on the support of family and friends, set up frequent appointments with a mental health professional and request telephone support between appointments, get involved in self-help groups, talk every day to at least one person you trust about how you are feeling, seek help from the emergency department of a local health center/hospital, talk to someone who has ‘been there’).</p>
+          </indicator>
+          <indicator>
+            <p>Communicate a list of community and/or provincial agencies or organizations that provide support for those considering suicide or coping with the tragic death of a friend or family member.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate the healing (i.e., mental, emotional, spiritual) that is necessary for self, family, and community when a tragic death or suicide occurs.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC9.8</identifier>
+        <outcome_text>Assess the ways self, family, and community facilitate healthy living for people with chronic illness.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Evaluate and respond to a variety of sources of, and information about, chronic illness.</p>
+          </indicator>
+          <indicator>
+            <p>Explore personal thoughts, feelings, and questions about chronic illnesses.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the causes, symptoms, treatment, and prognosis of student-identified chronic illnesses (including physical and mental illnesses).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and question the stereotypes associated with people infected with/affected by chronic illness.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the similarities and the differences between an acute and chronic illness.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how people affected by chronic diseases are the same/different from others.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the disabilities associated with particular chronic illnesses (e.g., arthritis, visual/hearing impairments, multiple sclerosis, Parkinson’s).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate agencies, organizations, and other sources of support for people who live with chronic illness.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the challenges that exist in the community for people who are infected with/affected by chronic illness and propose possible solutions.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the needs of individuals and families living with chronic illness.</p>
+          </indicator>
+          <indicator>
+            <p>Appraise the in/formal community supports (grade 8) and health promotions and services for individuals and families living with chronic illness.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC9.9</identifier>
+        <outcome_text>Develop and demonstrate the personal insight, motivation, and skills necessary to enhance and promote sexual health and avoid health-compromising sexual attitudes and behaviours.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine personal attitudes about sexual health.</p>
+          </indicator>
+          <indicator>
+            <p>Acquire knowledge that is appropriate for students’ levels of development, and directly relevant to their own sexual health needs including:an informed understanding of sexualityprevention of sexual health problems, including pregnancy and sexually transmitted infections (STIs)enhancement of sexual health.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze abstinence as the healthiest and safest sexual choice for young people.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss sexual health choices that reduce the risk of health-compromising consequences.</p>
+          </indicator>
+          <indicator>
+            <p>Assess how to raise, discuss, and negotiate sexual health issues with partners.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the potential outcomes of sexual health attitudes and behaviours.</p>
+          </indicator>
+          <indicator>
+            <p>Determine how attitudes and behaviours may interfere with or enhance sexual health.</p>
+          </indicator>
+          <indicator>
+            <p>Clarify personal standards (see Grade 6) that influence sexual health decisions.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the strategies of personal commitment (see Grade 7) that are required to commit to one’s standards/decisions related to healthy sexual behaviour.</p>
+          </indicator>
+          <indicator>
+            <p>Articulate the influence of alcohol and other drugs on sexual attitudes and behaviours.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the personal benefits of taking action to enhance sexual health and prevent/reduce sexual health problems.</p>
+          </indicator>
+          <indicator>
+            <p>Use self-knowledge and understandings to promote sexual health with family, friends, partners, and community.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the behaviours and local resources/supports that can help to attain positive sexual health outcomes.</p>
+          </indicator>
+          <indicator>
+            <p>Establish a common and informed understanding of differences that exist in relation to sexuality and determine what differences are respected and protected in Canadian Human Rights legislation.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Decision Making (DM)</goal_heading>
+      <outcome>
+        <identifier>DM9.10</identifier>
+        <outcome_text>Assess the role of health promotion in making healthy decisions related to comprehensive approaches to safety, non-curable infection/diseases, romantic relationships, healthy food policies, addictions, tragic death and suicide, chronic illness, and sexual health.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Discuss the role of health promotion in decision making.</p>
+          </indicator>
+          <indicator>
+            <p>Review the determinants of health and the health action policies as important aspects of health promotion.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the health promotion needed in the local community.</p>
+          </indicator>
+          <indicator>
+            <p>Generate strategies/alternatives to promote health in their community.</p>
+          </indicator>
+          <indicator>
+            <p>Establish criteria and use them to evaluate strategies/alternatives.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DM9.11</identifier>
+        <outcome_text>Analyze the health opportunities and challenges and establish personal health promotion goal statements related to comprehensive approaches to safety, non-curable infections/diseases, romantic relationships, addictions, tragic death and suicide, chronic illness, and sexual health.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Assess personal skills for the purposes of promoting health.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss processes used to set goals and make decisions that promote health.</p>
+          </indicator>
+          <indicator>
+            <p>Create a health promotion goal statement that addresses health challenges and/or embraces health opportunities.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate goal statements to ensure they are clear, specific, measurable, and achievable.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Action Planning (AP)</goal_heading>
+      <outcome>
+        <identifier>AP9.12</identifier>
+        <outcome_text>Design, implement, and evaluate three eight-day action plans that demonstrate responsible health promotion related to comprehensive approaches to safety, non-curable infections/diseases, romantic relationships, healthy food policies, addictions, tragic death and suicide, chronic illness, and sexual health.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Discuss the elements of effective action planning for health promotion.</p>
+          </indicator>
+          <indicator>
+            <p>Plan the required steps to complete the health promotion action plans.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish and use criteria to assess the design elements of health promotion action plans.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and use criteria to evaluate the implementation of health promotion action plans.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and establish the supports necessary to implement the health promotion action plans.</p>
+          </indicator>
+          <indicator>
+            <p>Apply the steps necessary to achieve self-selected health-enhancing goals.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

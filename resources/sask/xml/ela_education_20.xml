@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-199214_1</pdf>
+  <banner>english/ELA_20.png</banner>
+  <dark_colour>#5493ad</dark_colour>
+  <light_colour>#dde9ef</light_colour>
+  <goals>english/englishlanguagearts20aimsgoals.htm</goals>
+  <teaching>english/englishlanguagearts20teaching.htm</teaching>
+  <curriculum_name>English Language Arts 20</curriculum_name>
+  <classification_id>english language arts 20</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Comprehend and Respond (CR)</goal_heading>
+      <outcome>
+        <identifier>CR 20.1</identifier>
+        <outcome_text>View, listen to, read, comprehend, and respond to a variety of grade-appropriate First Nations, Métis, Saskatchewan, Canadian, and international texts that address:identity (e.g., Relationships with Family and Others);social responsibility (e.g., Evolving Roles and Responsibilities); andsocial action (agency) (e.g., The Past and the Present).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine topics and contemporary and traditional visual, oral, written, multimedia, and digital (including social media) First Nations, Métis, Saskatchewan, Canadian, and international texts that present different viewpoints and perspectives on issues related to identity, social responsibility, and social action (agency).</p>
+          </indicator>
+          <indicator>
+            <p>View, listen to, and read First Nations, Métis, Saskatchewan, Canadian, and international texts that reflect diverse personal identities, world views, traditions, and backgrounds (e.g., appearance, culture, socio-economic status, ability, age, gender, language).</p>
+          </indicator>
+          <indicator>
+            <p>Connect ideas, observations, opinions, and emotions to understand texts.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze, compare, and evaluate interpretations and viewpoints when responding to First Nations and Métis texts and themes.</p>
+          </indicator>
+          <indicator>
+            <p>Make connections between personal experiences and prior knowledge of traditions, genres, and a variety of texts.</p>
+          </indicator>
+          <indicator>
+            <p>Respond personally and critically to themes, values, and beliefs presented in a variety of First Nations and Métis texts.</p>
+          </indicator>
+          <indicator>
+            <p>Identify ways that society and culture shape the content, forms, and language of texts, including digital texts.</p>
+          </indicator>
+          <indicator>
+            <p>Explain ways that languages and texts reveal and shape understanding of human diversity.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR 20.2</identifier>
+        <outcome_text>View, comprehend, and develop coherent and plausible interpretations of informational and literary First Nations, Métis, Saskatchewan, Canadian, and international texts (including multimedia advertising) that use specialized visual features including illustrations, photographs, art works, maps, charts, graphs.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>View, interpret, and demonstrate comprehension of grade-appropriate visual, multimedia, and digital texts that address identity, social responsibility, and social action (agency).</p>
+          </indicator>
+          <indicator>
+            <p>Select, use, and evaluate critically a variety of before (page 19), during (page 20), and after (page 21) strategies to construct meaning when viewing.</p>
+          </indicator>
+          <indicator>
+            <p>Uses language cues and conventions (page 17) of a variety of informational and literary texts to construct and confirm meaning when viewing.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate critical viewing behaviours including:determining the message and purpose the text is representingidentifying and analyzing how the text was constructed (structure and process)identifying and analyzing how digital text was constructed, including construction of navigation, division of content among pages in a site, the non-linear nature of the content, use of authored texts vs. message-based content, use of featuresidentifying the intended audiences and points of view in the textidentifying and analyzing the assumptions, interests, beliefs, and values embedded in the text, and the credibility, purpose, tone, attitude, and bias of the authoridentifying and analyzing the speaker’s tone, attitude, and biassupporting opinions or responses to viewed textsanalyzing how the text uses argument, images, placement, editing, message-based commentary, testimonials, interactive elements, and music to create effect and emotion for effect and impactevaluating and critiquing the persuasive techniques (e.g., emotion and propaganda)recognizing how visual, audio, or design techniques (such as special effects, camera angle, interactive media, and music) carry or influence messages in various media.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate critically information obtained from viewing an advertisement and identify the persuasive techniques in multimedia advertising including advertising on websites, in email, or in mobile content.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret and use information in maps, charts, graphs, timelines, table, and diagrams (including interactive texts).</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the visual and other special effects used in television, radio, film, and the Internet for their ability to inform, persuade, and entertain (e.g., anecdote, expert witness, vivid details, testimony, humour).</p>
+          </indicator>
+          <indicator>
+            <p>Examine the intersections and conflicts between the visual (e.g., media images, painting, film, video, graphic arts) and the verbal.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the techniques used in, and the merits of, visual, multimedia, and digital texts in relation to given criteria.</p>
+          </indicator>
+          <indicator>
+            <p>View, compare, and analyze different presentations of the same ideas and issues.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how branding elements, navigation (main and secondary), page hierarchy, iconography, use of graphics and multimedia, advertising, inclusion of user-generated content, interactive elements of a variety of websites, and blogs achieve the creator’s purpose.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR 20.3</identifier>
+        <outcome_text>Listen to, comprehend, and develop coherent and plausible interpretations of grade-appropriate informational and literary First Nations, Métis, Saskatchewan, Canadian, and international texts, including spoken instructions, and argumentative and persuasive speeches.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Listen to and interpret a variety of grade-appropriate literary and informational texts created by First Nations, Métis, Saskatchewan, Canadian, and international authors from various cultural communities that address identity, social responsibility, and social action (agency).</p>
+          </indicator>
+          <indicator>
+            <p>Select, use, and evaluate critically a variety of before (page 19), during (page 20), and after (page 21) strategies to construct meaning when listening.</p>
+          </indicator>
+          <indicator>
+            <p>Use language cues and conventions (page 17) of a variety of informational and literary texts to construct and confirm meaning when listening.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the First Nations, Métis (refer to Teaching Treaties in Classroom and/or school division Elder protocol policy), and other cultures’ (consult multicultural organizations) protocols for listening.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate critical listening behaviours including:concentrating, focusing, and attendingfiltering distractions, recognizing factors that interfere with effective listening (including personal biases), and demonstrating a willingness to take a tentative stance, tolerate ambiguity, explore multiple perspectives, and consider more than one interpretation of texts listened todetermining the thesis or main idea of a speech and identifying the supporting pointsanalyzing and evaluating explicit and implicit messages/concepts, viewpoints, theme, and tonerecognizing the overall plan or organization including transitional expressionssummarizing, paraphrasing, and processing information presented orally by othersdistinguishing fact from opinionidentifying and analyzing persuasive techniquesevaluating the speaker’s intent, tone, position, persuasive techniques, and biases, and validity of ideas presentedidentifying key allusions and symbols from a variety of culturesusing effective note-making strategies and a variety of written or graphic organizers or digital means to share ideas acquired from what was listened toorganizing and sharing ideas from what was listened to and responding personally, critical, and empathetically to the textpreparing and asking relevant questions, and responding appropriately after listeninganalyzing the overall effectiveness of what was listened to.</p>
+          </indicator>
+          <indicator>
+            <p>Follow spoken instructions to perform specific tasks, to answer questions, or to solve problems.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the speaker’s qualifications to speak about a given subject.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the ways in which the structure and style of a speech support its purpose.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the types of persuasion used by the speaker, including logic (e.g., cause/effect, analogy), emotion, and authority of source.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the techniques in and strengths and weaknesses of oral texts in relation to specific criteria.</p>
+          </indicator>
+          <indicator>
+            <p>Listen to, analyze, and compare different oral presentations on the same ideas and issues.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR 20.4</identifier>
+        <outcome_text>Read and demonstrate comprehension and appreciation of grade-appropriate informational (including instructions and procedural texts) and literary (including fiction, nonfiction, script, poetry, and essays) First Nations, Métis, Saskatchewan, Canadian, and international texts.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Read, interpret, and summarize grade-appropriate literary and informational texts that address identity, social responsibility, and social action (agency) by First Nations, Métis, Saskatchewan, Canadian, and international authors from various cultural communities.</p>
+          </indicator>
+          <indicator>
+            <p>Select, use, and evaluate critically a variety of before (page 19), during (page 20), and after (page 21) strategies to construct meaning when reading.</p>
+          </indicator>
+          <indicator>
+            <p>Use language cues and conventions (page 17) of a variety of informational and literary texts to construct and confirm meaning when reading.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate critical reading behaviours including:establishing a purpose for reading such as to learn, to interpret, and to enjoyskimming, scanning, and reading closelyidentifying the main ideas of informational text, determining the essential elements that elaborate on those ideas, and evaluating the texts for their clarity, simplicity, and coherence as well as appropriateness of graphics and visual appealidentifying and analyzing explicit and implicit messages, viewpoints, and conceptsrecognizing the use or abuse of rhetorical devices, ambiguity, contradictions, paradox, irony, incongruities, overstatement, and understatement in text, and explain their effect on the readeridentifying the ways in which a text’s organizational structure and elements support or confound its purposerelating understanding of a range of texts to personal experience, purposes, audience, and other textsidentifying and analyzing persuasive techniquesevaluating credibility, logic, truthfulness, trust, and validitydifferentiating fact from opinion; differentiating between literal and figurative statementstesting own ideas, values, and opinions against those of characters in First Nations, Métis, Saskatchewan, Canadian, and international textsrecognizing and comprehending allusions and symbols (including iconography) from various culturesconstructing images based on text descriptionsdiscussing meanings, ideas, language, and literary quality in a range of First Nations, Métis, Saskatchewan, Canadian, and international contemporary and historical textsusing note making and outlining to improve understanding of textsparaphrasing and précising literary and informational texts.</p>
+          </indicator>
+          <indicator>
+            <p>Follow instructions and procedures in informational texts to perform specific tasks, answer questions, or solve problems.</p>
+          </indicator>
+          <indicator>
+            <p>Read and demonstrate an understanding of the main ideas, events, or themes of a variety of increasingly complex literary and informational First Nations, Métis, Saskatchewan, Canadian, and international texts (including stories, novels, essays, scripts, poetry, research, procedures, websites, blogs, email, message boards); identify and assess the author’s purpose, ideas, point of view, tone, techniques, and overall theme or message.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the interrelationships (such as cause-and-effect) between and among ideas and concepts within the texts.</p>
+          </indicator>
+          <indicator>
+            <p>Read, analyze, and compare different points of view from First Nations, Métis, Saskatchewan, Canadian, and international print texts (literary and informational) about the same ideas, themes, and issues.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the setting, plot, themes, characterization (including moral dilemmas as revealed by characters’ motivation and behaviour), and narration of classic and contemporary literary texts, and consider what the texts suggest about the historical period in which they were written.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate knowledge of poetry (metre, rhyme scheme, rhythm, alliteration, and other conventions).</p>
+          </indicator>
+          <indicator>
+            <p>Identify how elements of plays (e.g., soliloquy, direction, dialogue) articulate a playwright’s vision.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Compose and Create (CC)</goal_heading>
+      <outcome>
+        <outcome_text>Create a range of visual, multimedia, oral, and written texts to explore:identity (e.g., Relationships with Family and Others);social responsibility (e.g., Evolving Roles and Responsibilities); andsocial action (agency) (e.g., The Past and the Present).</outcome_text>
+        <identifier>CC 20.1</identifier>
+        <indicators>
+          <indicator>
+            <p>Connect ideas, observations, opinions, and emotions to respond to and create texts.</p>
+          </indicator>
+          <indicator>
+            <p>Create spoken, written, multimedia, and other representations that include:a clear thesisaccurate, appropriate, and convincing details to support the thesisa style, voice, and format that is audience and purpose appropriateunity, coherence, and emphasis in a logical progression and with logical support for ideas/thesiseffective and clear organization patternsa valid and justifiable conclusion.</p>
+          </indicator>
+          <indicator>
+            <p>Write a research essay (approximately six to ten pages) building on primary and secondary sources that:marshals evidence in support of a clear thesis statement and related claimsparaphrases and summarizes, with accuracy and fidelity, the range of arguments and supports or refutes the thesiscites sources correctly and documents quotations, paraphrase, and other information using standard format.</p>
+          </indicator>
+          <indicator>
+            <p>Conduct and present an extended inquiry/research based on a topic of the course that:determines inquiry or research focus and parameters based on personal knowledge and others’ expertiseformulates and revises questions to focus inquiry or research the topic and purposeexplores group knowledge and strengths to determine inquiry or research the topic, purpose, and proceduresdevelops, uses, and adapts an inquiry or research plan appropriate for content, audience, purpose, context, sources, and proceduresselects ideas and information from prior knowledge of the inquiry or research topic appropriate for audience, purpose, and personal perspective or focusidentifies and discusses the purpose and usefulness of information sources relevant to the particular inquiry or research needsevaluates how perspectives and biases influence the choice of information sources for inquiry or researchaccesses information using a variety of tools, skills, and sources to accomplish a particular purposeorganizes and reorganizes information and ideas in a variety of ways (including digital) for different purposes and audiencessummarizes and records information, ideas, and perspectives from a variety of sources using a variety of means (e.g., digital); documents sources accuratelyevaluates information for completeness, accuracy, currency, historical context, relevance, and balance of perspectivesexplains self-knowledge acquired through inquiry and explains the insights gained; explains the importance of new understanding to self and others; assesses own inquiry and research skillsdefines and narrows a problem or research topicgathers relevant information from a variety of print and digital sources as well as from direct observation, interviews, and surveysmakes distinctions about the credibility, reliability, consistency, strengths, and limitations of resources, including information gathered from websitesplans, by taking notes, creating informal outlines, and researching, using a variety of means (e.g., digital)connects, shapes, and clarifies ideas and understandingselects and connects ideas from prior knowledge, observations, and experiencesidentifies the need for additional information to supplement prior knowledge, observations, and experiences.</p>
+          </indicator>
+          <indicator>
+            <p>Create a website (approximately six to ten pages) to inform and foster social action regarding a local issue that:includes a user-friendly navigation scheme with no dead-end pagesprovides clear site identification through design elementsis in language and style appropriate for web contentincorporates appropriate original graphics and multimediais engaging and promotes positive user action.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC 20.2</identifier>
+        <outcome_text>Create visual or multimedia presentations using dramatization or role-play, including a presentation of an interview of a literary character (or author or historical or contemporary person) from a First Nations, Métis, Saskatchewan, Canadian, or international text.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create and present visual and multimedia presentations that:exhibit logical structures appropriate to audience, purpose, and contexthave a central foci and strong messagesorganize ideas in a logical and appropriate sequenceinclude smooth transitionsuse a variety of forms and technologies such as sound, photographs, graphics, models, and understand how ideas are communicated through elements of design such as colour, shape, line, texture, and principles of design, including proximity, alignment, repetition, and contrastprovide logical and convincing conclusions.</p>
+          </indicator>
+          <indicator>
+            <p>Select, use, and evaluate critically a variety of before (page 23), during (page 24), and after (page 25) strategies to construct and communicate meaning when representing.</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply the language cues and conventions (page 17) to construct and communicate meaning when representing.</p>
+          </indicator>
+          <indicator>
+            <p>Create and present a visual or multimedia presentation of an interview with a literary character (or author or historical or contemporary person) using dramatization or role-play:</p>
+            <p>Interviewer:obtain pertinent information from intervieweeprepare questions that explore the character and his/her conflictsask relevant and open-ended questionsreflect tactful wording.</p>
+            <p>Role-play:analyze situations and character from a scene, event, or storyinterview and stay in characterbring the literary character to life.</p>
+          </indicator>
+          <indicator>
+            <p>Present information incorporating visual, audio-visual, and dramatic aids to engage the intended audience and achieve the purpose.</p>
+          </indicator>
+          <indicator>
+            <p>Use creative combinations of language, visuals, and sound in a variety of texts to convey content and achieve effect.</p>
+          </indicator>
+          <indicator>
+            <p>Use appropriate formats and documentation to present information from a variety of sources.</p>
+          </indicator>
+          <indicator>
+            <p>Enhance presentations with graphics, charts, diagrams, audio, models, dramatizations, or mnemonic devices (i.e., story bags).</p>
+          </indicator>
+          <indicator>
+            <p>Apply and adapt the principles of composition that vary among cultures and traditions to create coherent media products that have effective images, text, graphics, music, and/or sound effects, and present a particular point of view on the topic using a particular medium (e.g., presentation software, video).</p>
+          </indicator>
+          <indicator>
+            <p>Create a before and after representation or visual using photos, print text, and other forms of media.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC 20.3</identifier>
+        <outcome_text>Speak to present ideas and information appropriately in informal (including discussions and collaborative work) and formal (including an interview, a dramatic reading, and introducing and thanking a speaker) situations.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate flexibility in assuming a variety of group roles and take responsibility for tasks that achieve group goals including:sticking to topic or focus and posing relevant questionssupporting ideas with examples and reasonslistening to the ideas of others and thinking about what they are sayingextracting essential information from others’ inputbuilding on the ideas of others and contributing relevant information and ideas in group discussionsgetting the floor in respectful ways including the sharing circleusing questioning and paraphrasing to invite all group members into the discussiondefining individuals’ roles and responsibilities and setting clear goalsacknowledging the ideas and contributions of individuals in the groupunderstanding the purpose of the team project and ground rules for decision makingmaintaining independence of judgment and offering dissent courteouslyselecting a leader/spokesperson when necessaryinteracting purposefully, confidentially, and ethically in a variety of situationsevaluating and adjusting own roles to align with the group’s purpose.</p>
+          </indicator>
+          <indicator>
+            <p>Select, use, and evaluate critically a variety of before (page 23), during (page 24), and after (page 25) strategies to construct and communicate meaning when speaking.</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply the language cues and conventions (page 17) to construct and communicate meaning when speaking.</p>
+          </indicator>
+          <indicator>
+            <p>Prepare and present oral presentations that:exhibit a structure appropriate to the context, audience, and purposegroup related ideas and maintain a consistent focusinclude smooth transitionssupport judgments with sound evidence and well-chosen detailsmake skillful use of rhetorical devicesprovide a coherent conclusionemploy appropriate eye contact (cognizant of cultural variations and norms), speaking rate, volume, enunciation, inflection and gestures to communicate ideas effectively.</p>
+          </indicator>
+          <indicator>
+            <p>Prepare and present an interview (real or imagined) with an important person from history (First Nations, Métis, Saskatchewan, Canadian, or international) that:shows evidence of background research before the interviewincludes evidence of pre-planning (including thoughtful questions) about how to begin the interview, the purpose, facts that will be used in middle, and what might be used to conclude the interviewasks open-ended questions that require more than yes/no answersasks about the person’s place in history, as well as his/her successes and failureslets the character speak in his/her true voice.</p>
+          </indicator>
+          <indicator>
+            <p>Introduce and thank a speaker and:tell who was speaking and whyinclude a sketch of the speaker’s life, activities, interests, and job/occupation as they relate to the speech topicprovide appropriate information in a clearly organized mannermention particular talents or experiences that would be of interest to the audienceturn to the speaker to invite him/her to the podium by repeating the speaker’s nameestablish goodwill toward the speakershow sincerity and enthusiasmuse suitable language, clarity, tone, and volume, and maintain effective postures.</p>
+          </indicator>
+          <indicator>
+            <p>Present a dramatic reading and:understand the text and prepare carefullyrehearse thoroughlyintroduce the text by telling the title, the type of text, who wrote it, and when, as well as something about the life and times of the authormake a brief statement of the theme and why the text was chosenbring the text to life and convey what the author intended to convey when the text was writtendeliver with expression and vigour, using vocal interpretation and appropriate gestures, to make the meaning, feeling, or mood clear.</p>
+          </indicator>
+          <indicator>
+            <p>Use oral language that is respectful and inclusive to help establish and maintain relationships within the classroom, to collaborate to get things done, and to value and support others.</p>
+          </indicator>
+          <indicator>
+            <p>Adapt oral presentations and the discussion to best suit the audience and style.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate an understanding of, and appreciation for, the role of language in the organization and celebration of special events.</p>
+          </indicator>
+          <indicator>
+            <p>Give spoken instruction to help others perform specific tasks.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC 20.4</identifier>
+        <outcome_text>Create a variety of written informational (including an essay of explanation of a process, an application letter and résumé, and an argumentative or a persuasive essay) and literary (including a reflective or personal essay and an analysis of a literary text) communications.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create a variety of written communications using various elements of discourse (e.g., purpose, speaker, audience, form), in narrative, expository, persuasive, information, and/or descriptive texts that:address audience needs, the stated purpose, and contextprovide an engaging introductiondevelop a thesiscreate an organizing structure appropriate to the purpose, audience, and contextinclude relevant information and exclude extraneous informationprovide facts and details, describing or analyzing the subject, explaining benefits or limitations, comparing or contrasting, or providing graphics or illustrationsclarify and defend positions with relevant evidence, including facts, expert opinions, quotations, and/or expressions of commonly accepted beliefs and logical reasoninguse a variety of rhetorical devices to support assertions (e.g., appeal to logic through reasoning, case study, and analogy)anticipate potential misunderstanding, problems, or mistakes that might arise for the audiencecreate drafts using standard forms and predictable structures such as headings, white space, and graphicsadopt a customary format (including proper salutation, closing, and signature when writing a letter)provide a coherent conclusion.</p>
+          </indicator>
+          <indicator>
+            <p>Select, use, and evaluate critically a variety of before (page 23), during (page 24), and after (page 25) strategies to construct and communicate meaning when writing.</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply the language cues and conventions (page 17) to construct and communicate meaning when writing.</p>
+          </indicator>
+          <indicator>
+            <p>Write an essay of explanation (e.g., a process, instructions) that:is informative with a clear focus and specific detailsdemonstrates thorough understanding of the process of written work and presents the work in manageable steps (time order, numbered steps, and so on) and the correct orderbegins with an introduction that interests the readerincludes thorough, detailed, clear information needed for the reader to understand; examples and explanations directly support focusconcludes logicallyuses terms associated with the process accurately.</p>
+          </indicator>
+          <indicator>
+            <p>Write a letter of application and accompanying résumé that:</p>
+            <p>Letter:tailors letter to position or job and advertisementanalyzes what he/she has to offerselects a standard letter format of one pageuses the name and title of the person doing the hiring in the inside address and salutationexplains the purpose for writing and the position applied for in the first paragraph and lists two or three qualifications for this positionelaborates on the qualifications listed in the opening paragraphs and adds evidence to support the claims of being qualified in the second paragraphdescribes additional qualifications or experiences to distinguish him/her from other possible candidates in the third paragraphcloses by mentioning the enclosed résumé and expresses interest in an interview and availabilitysigns letterdoes not repeat content of résuméreflects a confident, formal, but respectful tone.</p>
+            <p>Résumé:invites the recipient to read because of a clean, visually appealing appearanceuses a format appropriate for the position or jobincludes specific and necessary information (e.g., dates, names, organizations, schools, special achievements, or merits) and categories (e.g., name, address, and telephone number; a summary of work experience, with the most recent first; a summary of education in reverse chronological order; other skills, training, awards, and interests; and at least three references)demonstrates knowledge of the organization and company, and targets the résumé to the specific positionpresents most relevant accomplishments, qualifications, and strengths that help ensure he/she stands out from other candidates.</p>
+          </indicator>
+          <indicator>
+            <p>Write an essay of argument/persuasion (or an editorial) that: states clearly a position about the current issue or problemsupports the position with reasons, is persuasive, and offers realistic solutionprovides support and answers/addresses any objectioncloses by restating the position, calling for action, or asking reader to get involvedensures that facts are correctuses a persuasive voice that balances facts and feelingschooses inclusive and respectful language and qualifiers to strengthen position.</p>
+          </indicator>
+          <indicator>
+            <p>Write an essay of reflection (personal essay)/personal commentary that:expresses a unique view of some aspect of life that is important to the studentintroduces the topic and gives a personal viewsupports the writer’s viewpointsums up the writer’s viewpoint in a thoughtful way (e.g., the lesson that it teaches about life).</p>
+          </indicator>
+          <indicator>
+            <p>Write an analysis of a literary text (e.g., analyze a theme, characters, and plot development) that:identifies the text, author, and focus of the analysisintroduces (in the beginning of the text) and focuses on the elements (e.g., plot, character, theme) being analyzeduses developing paragraphs to explain the elements using examples from the textincludes enough details to help readers understand the point being madeconcludes by revisiting the focus of the analysis and summarizing itshows a complete and careful analysis of the elementsensures that all the parts work together to create an insightful essay.</p>
+          </indicator>
+          <indicator>
+            <p>Experiment with and explore a variety of written text forms (e.g., articles, radio dramatization, radio documentary, blog posting) and techniques, and explain their appeal.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Assess and Reflect (AR)</goal_heading>
+      <outcome>
+        <identifier>AR 20.1</identifier>
+        <outcome_text>Assess own ability to view, listen, read, speak, write, and use other forms of representing effectively.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop goals and plans for improving personal language learning and use.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the importance (to self and others) of new understandings, skills, and strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate own contributions to the group process and seek support where needed.</p>
+          </indicator>
+          <indicator>
+            <p>Consider alternative ways of reaching goals and implement plans to achieve personal goals.</p>
+          </indicator>
+          <indicator>
+            <p>Celebrate special accomplishments.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>AR 20.2</identifier>
+        <outcome_text>Establish goals and plans for personal language learning based on self-assessment of achievements, needs, and interests.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop goals and plans for improving personal language learning and use.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the importance (to self and others) of new understandings, skills, and strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate own contributions to the group process and seek support where needed.</p>
+          </indicator>
+          <indicator>
+            <p>Consider alternative ways of reaching goals and implement plans to achieve personal goals.</p>
+          </indicator>
+          <indicator>
+            <p>Celebrate special accomplishments.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

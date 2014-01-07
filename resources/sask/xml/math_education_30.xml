@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-198676_1</pdf>
+  <banner>mathematics/Foundations_of_mathematics_30.png</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>mathematics/foundations_math_20_aimsgoals.htm</goals>
+  <teaching>mathematics/foundations_math_30teaching.htm</teaching>
+  <curriculum_name>Foundations of Mathematics 30</curriculum_name>
+  <classification_id>Foundations of Mathematics 30</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Foundations of Mathematics 30 (FM)</goal_heading>
+      <outcome>
+        <identifier>FM30.1</identifier>
+        <outcome_text>Demonstrate understanding of financial decision making including analysis of: renting, leasing, and buyingcreditcompound interestinvestment portfolios. [C, CN, ME, PS, R, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Compare the advantages and disadvantages of simple interest and compound interest.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and describe situations that involve compound interest.</p>
+          </indicator>
+          <indicator>
+            <p>Graph and compare the total interest paid or earned over different compounding periods for the same annual interest rate, principal, and time.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the total interest to be paid on a loan given the principal, interest rate, and number of compounding periods for the loan.</p>
+          </indicator>
+          <indicator>
+            <p>Determine, using technology, the total cost of a loan under a variety of conditions (e.g., different amortization periods, interest rates, compounding periods, and terms).</p>
+          </indicator>
+          <indicator>
+            <p>Solve contextual problems that involve compound interest.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze, using technology, different credit options that involve compound interest, including bank and store credit cards and special promotions, and provide justifications for the credit option.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and describe examples of assets that appreciate or depreciate relevant to one's self, family, and community.</p>
+          </indicator>
+          <indicator>
+            <p>Compare renting, leasing, and buying of large cost items and generate reasons for considering each choice.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions related to the costs of renting, leasing, and buying (including questions that require formula manipulation).</p>
+          </indicator>
+          <indicator>
+            <p>Solve, using technology, situational questions that involve cost-and-benefit analysis.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the strengths and weaknesses of two or more investment portfolios, and make recommendations for selection based upon this analysis.</p>
+          </indicator>
+          <indicator>
+            <p>Determine, using technology, the total value of an investment when there are regular contributions to the principal.</p>
+          </indicator>
+          <indicator>
+            <p>Graph and compare the total value of an investment with and without regular contributions.</p>
+          </indicator>
+          <indicator>
+            <p>Apply the Rule of 72 to solve investment problems and explain the limitations of the rule.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and report possible investment strategies that could be used to achieve a financial goal.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the advantages and disadvantages of long-term and short-term investment options.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and compare small investments over a long term and larger investments over a shorter term.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FM30.2</identifier>
+        <outcome_text>Demonstrate understanding of inductive and deductive reasoning including: analysis of conditional statementsanalysis of puzzles and games involving numerical and logical reasoningmaking and justifying decisionssolving problems. [C, CN, ME, PS, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop, generalize, verify, explain, and apply strategies to solve a puzzle or win a game such as: guess and checklook for a patternmake a systematic listdraw or modeleliminate possibilitiessimplify the original problemwork backwards to develop alternative approaches.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and correct errors in a solution to a puzzle or in a strategy to win a game.</p>
+          </indicator>
+          <indicator>
+            <p>Create a variation on a puzzle or game and describe a strategy for solving the puzzle or winning the game.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze an "if-then" statement, make a conclusion, and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Make and justify decisions related to "what-if?" questions, in contexts such as probability, finance, sports, games, or puzzles, with or without technology.</p>
+          </indicator>
+          <indicator>
+            <p>Write the converse, inverse, and contrapositive of an "if-then" statement, determine if each new statement is true, and if it is false, provide a counterexample.</p>
+          </indicator>
+          <indicator>
+            <p>Critique statements such as "If an 'if-then' statement is known to be true, then its converse, inverse, and contrapositive also will be true".</p>
+          </indicator>
+          <indicator>
+            <p>Identify and describe situations relevant to one's self, family, and community in which a biconditional (if and only if ) statement can be made.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions, using a graphic organizer such as a truth table or Venn diagram, that involve logical arguments based upon biconditional, converse, inverse, or contrapositive statements.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FM30.3</identifier>
+        <outcome_text>Demonstrate understanding of set theory and its applications. [CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Provide and describe examples, relevant to one's self, family, and community, of empty set, disjoint sets, subsets, and universal sets.</p>
+          </indicator>
+          <indicator>
+            <p>Create graphic organizers such as Venn diagrams to display relationships within collected data or sets of numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Name a specific region in a Venn diagram using the Boolean operators (or, and, not) or set notation, and explain in words what that region represents with respect to a specific situation.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, and apply strategies for determining the elements in the complement, the intersection, or the union of sets.</p>
+          </indicator>
+          <indicator>
+            <p>Identify situations in which set theory is used and explain the role of set theory in each situation. (e.g., specific Internet searches, database queries, data analysis, games, and puzzles)</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that involve sets, including analysis of solutions for errors, using set notation where appropriate.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FM30.4</identifier>
+        <outcome_text>Extend understanding of odds and probability. [C, CN, ME]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Provide and explain the meaning of statements of probability and odds relevant to one's self, family, and community (e.g., statements of probability found in media, science, medicine, sports, sociology, and psychology).</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, the relationship between odds (part-part) and probability (part-whole).</p>
+          </indicator>
+          <indicator>
+            <p>Express odds as a probability and vice versa.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the probability of, or the odds for and against, an outcome in a situation.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, how decisions may be based on probability or odds and on subjective judgments.</p>
+          </indicator>
+          <indicator>
+            <p>Solve contextual problems that involve odds and probability.</p>
+          </indicator>
+          <indicator>
+            <p>Identify, describe, and justify examples of correct and incorrect use of the words "odds" or "probability" in daily language or in the media.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement, "If the odds are close, then the probability of the two outcomes also is close".</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FM30.5</identifier>
+        <outcome_text>Extend understanding of the probability of two events, including events that are: mutually exclusivenon-mutually exclusivedependentindependent. [CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Provide examples of events relevant to one's self, family, and community that are mutually exclusive or non-mutually exclusive and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze two events to determine if they are complementary.</p>
+          </indicator>
+          <indicator>
+            <p>Represent, using set notation or graphic organizers, mutually exclusive (including complementary) and non-mutually exclusive events.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve contextual problems that involve the probability of mutually exclusive events.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve contextual problems that involve the probability of non-mutually exclusive events.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of events relevant to one's self, family, and community that are dependent or independent and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the probability of an event, given the occurrence of a previous event.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the probability of two dependent or two independent events.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that involve determining the probability of dependent and independent events.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FM30.6</identifier>
+        <outcome_text>Demonstrate understanding of combinatorics including: the fundamental counting principlepermutations (excluding circular permutations)combinations. [ME, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent and solve counting problems using a graphic organizer.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply the fundamental counting principle.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and justify assumptions made in solving a counting problem.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve situational questions involving the fundamental counting principle.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the number of arrangements of n elements taken n at a time.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, how factorials are related to the determination of permutations and combinations.</p>
+          </indicator>
+          <indicator>
+            <p>Determine, with or without technology, the value of a factorial.</p>
+          </indicator>
+          <indicator>
+            <p>Solve equations that involve factorials.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the number of permutations of n elements taken r at a time.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the number of permutations of n elements taken n at a time where some of the elements are not distinguishable.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions involving probability and permutations.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, why order is or is not important when counting arrangements.</p>
+          </indicator>
+          <indicator>
+            <p>Identify examples relevant to one's self, family, and community where the number of possible arrangements would be of interest to explain why the order within any particular arrangement does or does not matter.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the number of combinations of n elements taken r at a time.</p>
+          </indicator>
+          <indicator>
+            <p>Critique statements such as "If a question about determining the number of possible arrangements gives the names of the people involved, then it is a permutation question".</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FM30.7</identifier>
+        <outcome_text>Demonstrate understanding of the representation and analysis of data using: polynomial functions of degree ≤ 3logarithmic functionsexponential functionssinusoidal functions. [C, CN, PS, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze the graphs of polynomial functions and report on the characteristics of those graphs.</p>
+          </indicator>
+          <indicator>
+            <p>Graph data and determine, with the use of technology, the polynomial function that best approximates the data.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the characteristics of polynomial functions from their equations.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the degree and sign of the leading coefficient for a polynomial function that would best approximate a set of data.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the graphs of exponential and logarithmic functions and report on the characteristics of those graphs.</p>
+          </indicator>
+          <indicator>
+            <p>Graph data and determine, with the use of technology, the exponential or logarithmic function that best approximates the data.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the characteristics of exponential and logarithmic functions from their equations.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the graphs of sinusoidal functions and report on the characteristics of those graphs.</p>
+          </indicator>
+          <indicator>
+            <p>Graph data and determine, with the use of technology, the sinusoidal function that best approximates the data.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the characteristics of sinusoidal functions from their equations.</p>
+          </indicator>
+          <indicator>
+            <p>Match equations of polynomial, logarithmic, exponential, and sinusoidal functions to their corresponding graphs.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret graphs of polynomial, logarithmic, exponential, and sinusoidal functions to describe the situations that each function models and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Solve, using technology, situational questions that involve data that is best represented by graphs of polynomial, exponential, logarithmic, or sinusoidal functions and explain the reasoning.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FM30.8</identifier>
+        <outcome_text>Research and give a presentation of a current event or an area of interest that requires data collection and analysis. [C, CN, ME, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop a rubric or other scoring schema to assess the research and presentation.</p>
+          </indicator>
+          <indicator>
+            <p>Collect primary or secondary data (quantitative or qualitative) related to the topic.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the accuracy, reliability, and relevance of the collected primary or secondary data (quantitative/qualitative) by: identifying examples of bias and points of viewidentifying and describing the data collection methodsdetermining whether or not the data is relevantdetermining whether or not the data is consistent with information obtained from other sources on the same topic.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret data, using statistical methods if applicable.</p>
+          </indicator>
+          <indicator>
+            <p>Identify controversial issues and present multiple sides of the issue with supporting data.</p>
+          </indicator>
+          <indicator>
+            <p>Organize and create a presentation (oral, written, multimedia, etc.) of the research findings and conclusions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

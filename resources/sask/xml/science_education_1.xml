@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181915_1</pdf>
+  <banner>science/Science_1.png</banner>
+  <dark_colour>#008164</dark_colour>
+  <light_colour>#e6f3f0</light_colour>
+  <goals>science/science7-9aimsgoals.htm</goals>
+  <teaching>science/science6-9teaching.htm</teaching>
+  <curriculum_name>Science 1</curriculum_name>
+  <classification_id>science 1</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Life Science: Needs and Characteristics of Living Things (LT)</goal_heading>
+      <outcome>
+        <identifier>LT1.1</identifier>
+        <outcome_text>Differentiate between living things according to observable characteristics, including appearance and behaviour. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use a variety of sources of information and ideas (e.g., picture books including non-fiction texts, Elders, naturalists, videos, Internet sites, and personal observations) to learn about observable characteristics of living things.</p>
+          </indicator>
+          <indicator>
+            <p>Make and record observations and measurements about the observable characteristics of plants and animals using written language, pictures, and charts.</p>
+          </indicator>
+          <indicator>
+            <p>Group representations (e.g., photos, videos, drawings, and oral descriptions) of plants and animals according to various student-developed criteria.</p>
+          </indicator>
+          <indicator>
+            <p>Engage in personal, scientific, and Indigenous ways of organizing understanding of living things.</p>
+          </indicator>
+          <indicator>
+            <p>Describe characteristics common to humans (e.g., eyes, ears, hair, and numbers of limbs and teeth) and identify variations (e.g., eye colour, hair colour, skin colour, height, and weight) that make each human unique.</p>
+          </indicator>
+          <indicator>
+            <p>Compare observable characteristics (e.g., leaf, root, stem, flower, fruit, and seed) of plants of various types and sizes that live in different habitats.</p>
+          </indicator>
+          <indicator>
+            <p>Record information, using written language, pictures, and tables, about the appearance and behaviour of familiar animals, such as classroom or personal pets, at regular intervals over a specific time interval.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the appearance and behaviour (e.g., method of movement, social grouping, diet, body covering, habitat, and nocturnal vs. diurnal orientation) of familiar animals (e.g., bumblebee, worm, dog, cat, snake, owl, fish, ant, beaver, rabbit, and horse).</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate among animals according to their observable characteristics.</p>
+          </indicator>
+          <indicator>
+            <p>Compare characteristics of plants and animals at different stages of their lives (e.g., compare an adult dog with a pup, compare a young tree with an older established tree, and compare a baby bird with a fully grown bird).</p>
+          </indicator>
+          <indicator>
+            <p>Communicate knowledge (e.g., share a story, describe an experience, or draw a picture) about the observable characteristics of a favourite plant or animal.</p>
+          </indicator>
+          <indicator>
+            <p>Respond positively to others’ questions and ideas about the observable characteristics of living things.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that some information about living things may not be realistic (e.g., stories such as<i>The Three Little Pigs</i>, and talking movie animals).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>LT1.2</identifier>
+        <outcome_text>Analyze different ways in which plants, animals, and humans interact with various natural and constructed environments to meet their basic needs. [CP, DM, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the physical needs, (i.e., food, water, air, and shelter) that plants, animals, and humans require for survival.</p>
+          </indicator>
+          <indicator>
+            <p>Pose questions about ways in which plants interact with their environments to meet their basic needs (e.g., How long does it take a seed to start to grow? How does the growth of a plant change if the seed is planted in soil, sand, or rocks? How tall will a bean plant grow?).</p>
+          </indicator>
+          <indicator>
+            <p>Pose questions about ways in which animals interact with their environments to meet their basic needs (e.g., How does a bird move from one tree to another? Where do animals go at night or during the day? How do animals escape from predators?).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate, through field trips to natural habitats, nature videos, and community walks, homes and habitats of local plants and animals to determine how they meet their basic needs.</p>
+          </indicator>
+          <indicator>
+            <p>Compare ways in which plants and animals that live within the local environment, and plants and animals that live in other environments, meet their needs for food, water, and shelter.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the kinds of food that different animals eat, their methods of eating (e.g., cracking, tearing, strangling, chewing, or swallowing whole), and the structures that they have for eating.</p>
+          </indicator>
+          <indicator>
+            <p>Explore the challenges that plants, animals, and humans encounter when attempting to meet their basic needs in constructed environments (e.g., lawn, sports field, street, playground, and city).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the need for caution when dealing with plants and animals (e.g., students may be allergic to a plant or animal, an animal may bite, and many common household plants are poisonous if ingested).</p>
+          </indicator>
+          <indicator>
+            <p>Compare basic human needs to the needs of plants, other animals, and non-living things.</p>
+          </indicator>
+          <indicator>
+            <p>Predict and model how certain animals will move (e.g., fly, run, swim, slither, walk, and swing) to meet their needs for food, shelter, and protection in their environment, based on personal observations, pictures, or videos.</p>
+          </indicator>
+          <indicator>
+            <p>Explore how people demonstrate respect for living things by caring for domestic plants and animals (e.g., growing a plant, hatching eggs, and keeping a pet).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science – Using Objects and Materials (OM)</goal_heading>
+      <outcome>
+        <identifier>OM1.1</identifier>
+        <outcome_text>Investigate observable characteristics and uses of natural and constructed objects and materials in their environment. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions about characteristics and uses of common materials.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between objects and materials found in nature and those constructed by humans.</p>
+          </indicator>
+          <indicator>
+            <p>Observe natural and constructed objects and materials in their environment in a safe and respectful manner using all their senses as well as technologies, such as hand lenses, cameras, and microphones, which enhance the senses.</p>
+          </indicator>
+          <indicator>
+            <p>Record relevant observations about common objects and materials using written language, pictures, and tables.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the properties (e.g., texture, colour, smell, hardness, and lustre) of materials that appear in familiar natural (e.g., tree, lawn, rock, and creek) and constructed (e.g., clothing, toys, electronics, furniture, and buildings) objects.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between the materials used to construct an object and the object itself.</p>
+          </indicator>
+          <indicator>
+            <p>Predict the characteristics (e.g., hardness, insulating ability, water resistance, absorbency, and flexibility) of common materials and carry out a procedure to test those predictions.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why the characteristics of materials help to determine their usefulness within different objects.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the suitability of materials for a specific function.</p>
+          </indicator>
+          <indicator>
+            <p>Sequence or group materials and objects according to one or more properties such as texture, colour, smell, hardness, and lustre.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how common objects and materials are depicted in texts, pictures, and videos.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest alternative uses for common objects and materials.</p>
+          </indicator>
+          <indicator>
+            <p>Generate conclusions about the properties and uses of materials based on personal observations and investigations.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>OM1.2</identifier>
+        <outcome_text>Examine methods of altering and combining materials to create objects that meet student- and/or teacher-specified criteria. [SI, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Select and use materials to carry out explorations of altering materials to change their appearance, texture, sound, smell, or taste (e.g., sanding, painting, or waxing a piece of wood, mixing two or more paints to obtain a particular shade or colour, popping popcorn, shaping clay, drying meat, tuning an instrument, and cooking food at different temperatures) to change the way they are used.</p>
+          </indicator>
+          <indicator>
+            <p>Assess how altering the smell, taste, appearance, texture, and/or sound of materials may change the way they may be used.</p>
+          </indicator>
+          <indicator>
+            <p>Examine methods (e.g., gluing, stapling, taping, and buttoning) of joining materials of the same and different types.</p>
+          </indicator>
+          <indicator>
+            <p>Use appropriate tools (e.g., glue, scissors, and stapler) correctly and safely for manipulating and observing materials and when constructing useful objects.</p>
+          </indicator>
+          <indicator>
+            <p>Follow a simple procedure to make a useful object from recyclable materials (e.g., picture frame from old puzzles, holiday ornament from juice can lid, and musical instrument from tissue rolls).</p>
+          </indicator>
+          <indicator>
+            <p>Design and construct a useful object that meets a student specified function by selecting, combining, joining, and/or altering materials.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate, using student-identified criteria, personally-constructed objects with respect to their suitability for a particular function.</p>
+          </indicator>
+          <indicator>
+            <p>Communicate procedures and results of their design and construction process using drawings, demonstrations, and written and oral descriptions.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and demonstrate ways to use materials appropriately and efficiently to the benefit of themselves, others, and the environment (e.g., select the amount and kind of materials that are appropriate to a given task; recognize and demonstrate appropriate reuse of materials in daily activities).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science – Using Our Senses (SE)</goal_heading>
+      <outcome>
+        <identifier>SE1.1</identifier>
+        <outcome_text>Investigate characteristics of the five traditional external senses (i.e., sight, sound, smell, touch, and taste) in humans and animals. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify each of the senses and associate those senses with parts of humans or other animals, including sight and eyes, smell and nose, hearing and ears, taste and tongue/nose, and touch and skin.</p>
+          </indicator>
+          <indicator>
+            <p>Identify characteristics used to describe the range of observations related to each sense (e.g., sounds can be described as loud or soft, high pitch or low pitch; tastes related to the tongue can be described as sweet, sour, salty, or bitter; textures can be described as hard or soft, smooth or rough, sticky or not sticky; smells can be described as musky, aromatic, pungent, or putrid; and appearance can be described in terms of shape, colour, and lustre).</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of their favourite and least favourite sounds, smells, tastes, colours, and textures.</p>
+          </indicator>
+          <indicator>
+            <p>Discriminate among various natural and artificial sounds that humans can hear.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the purposes (e.g., detecting danger, navigation, and communication) of hearing in animals and humans.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the sensitivity of different parts of the body to the touch of various materials (e.g., sandpaper, metal, cloth, satin, leaves, and wood).</p>
+          </indicator>
+          <indicator>
+            <p>Assess the ability of humans and other animals to distinguish among various smells.</p>
+          </indicator>
+          <indicator>
+            <p>Categorize foods as sweet, sour, salty, or bitter, and compare results with others.</p>
+          </indicator>
+          <indicator>
+            <p>Sort objects and materials according to characteristics (e.g., colour, shape, texture, odour, sweetness, and loudness) related to one or more senses.</p>
+          </indicator>
+          <indicator>
+            <p>Communicate questions, ideas, and intentions while conducting explorations of the human senses.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SE1.2</identifier>
+        <outcome_text>Explore how humans and animals use their senses to interact with their environment. [CP, DM, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions that lead to exploration and investigation of human and animal senses.</p>
+          </indicator>
+          <indicator>
+            <p>Record observations about specific objects (e.g., apple, pencil, shirt, and tree) in their environment using all of their senses as appropriate.</p>
+          </indicator>
+          <indicator>
+            <p>Record observations of various environments (e.g., classroom, gymnasium, school yard, library, and cafeteria) using all of their senses as appropriate.</p>
+          </indicator>
+          <indicator>
+            <p>Imagine, and compare with others, possible sensations that students would likely experience in other environments based on representations (e.g., stories, pictures, and videos) of those environments.</p>
+          </indicator>
+          <indicator>
+            <p>Explain and follow given safety procedures and rules when using the senses to observe (e.g., explain the danger to health of tasting unknown materials and the reasons for wafting odours towards the nose rather than smelling directly).</p>
+          </indicator>
+          <indicator>
+            <p>Assess the function of aids (e.g., glasses, hearing aids, raised Braille alphabet, sign language, and guide dogs) that support peoples’ differing abilities to sense their environment.</p>
+          </indicator>
+          <indicator>
+            <p>Experience changes in ability to explore the environment after the simulated loss of one or more senses (e.g., blindfold, earplugs, nose clip, and socks over both hands).</p>
+          </indicator>
+          <indicator>
+            <p>Suggest how a human or animal might function if they were totally or partially missing one or more of the five senses.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how each of the senses helps us to recognize, describe, and safely use materials, and recognize potential dangers in the environment (e.g., colour and smell help determine whether fruit is healthy or bruised, ripe or overripe; machine noises may indicate it needs repair or is not being used correctly; and sirens and flashing lights may indicate an emergency vehicle).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss dangers associated with using the senses to examine the environment (e.g., eating some foods may cause allergic reactions, breathing in certain odours may cause illness, sharp edges can cut skin, extremely loud sounds can damage hearing, and looking at the sun can cause eye problems).</p>
+          </indicator>
+          <indicator>
+            <p>Describe different sense organs and/or adaptations that enable various animals to accomplish their daily tasks (e.g., bats use echolocation to find prey, cat’s pupils dilate to see in low light, bees can sense ultraviolet light, scorpions can have up to 12 eyes, elephants can hear extremely low sounds, and hawks have excellent vision).</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of how the senses are important to people in their hobbies and jobs.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Earth and Space Science – Daily and Seasonal Changes (DS)</goal_heading>
+      <outcome>
+        <identifier>DS1.1</identifier>
+        <outcome_text>Compare and represent daily and seasonal changes of natural phenomena through observing, measuring, sequencing, and recording. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions about changes in natural phenomena (e.g., sunlight, temperature, humidity, and cloud cover) in the environment over the course of a day and a year.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the days of the week, months of the year, and seasons.</p>
+          </indicator>
+          <indicator>
+            <p>Observe daily and seasonal changes in the amount of heat and light from the sun, including the formation of shadows (e.g., length of day, temperature differences throughout the year, and changes in shadow length throughout a day and a year).</p>
+          </indicator>
+          <indicator>
+            <p>Examine ways in which various cultures, including First Nations and Métis, represent daily and seasonal changes through oral traditions and artistic works.</p>
+          </indicator>
+          <indicator>
+            <p>Use a variety of tools (e.g., rain gauge, thermometer, and wind vane) and techniques (e.g., chart, diagram, and table) to record changes in weather conditions (e.g., temperature, humidity, wind direction and strength, and amount and type of precipitation) that occur in daily and seasonal cycles.</p>
+          </indicator>
+          <indicator>
+            <p>Document the visibility and position of objects (e.g., sun, moon, planets, and stars) in the sky at different times of the day and year.</p>
+          </indicator>
+          <indicator>
+            <p>Record observations of the shape and position of the moon throughout a month.</p>
+          </indicator>
+          <indicator>
+            <p>Sequence or group objects, materials, and events according to one or more attributes related to daily and/or seasonal changes (e.g., group pictures by season, sequence activities according to time of day, group clothing items by season, and sequence stages of garden growth).</p>
+          </indicator>
+          <indicator>
+            <p>Create visual or physical representations of differences in natural phenomena at different times of the day and/or year.</p>
+          </indicator>
+          <indicator>
+            <p>Communicate observations about daily and seasonal changes using vocabulary such as<i>days of the week, seasons of the year, today, tomorrow, tonight, morning, afternoon, evening,</i>and<i>night.</i></p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DS1.2</identifier>
+        <outcome_text>Inquire into the ways in which plants, animals, and humans adapt to daily and seasonal changes by changing their appearance, behaviour, and/or location. [CP, DM, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions about plant, animal, and human adaptation to daily and seasonal changes (e.g., Where do animals go during the night or the day? Why do some trees have no leaves in winter? Why do we wear jackets in winter?).</p>
+          </indicator>
+          <indicator>
+            <p>Make predictions about plant, animal, and human adaptations to daily and seasonal changes based on observed patterns (e.g., some animals will migrate at particular times of the year, humans will wear mitts and scarves in winter, and some birds will disappear in winter).</p>
+          </indicator>
+          <indicator>
+            <p>Examine daily changes in the characteristics, behaviours, and location of plants, animals, and humans (e.g., some animals sleep at night, students go to school during the day, and some plants close their leaves at night).</p>
+          </indicator>
+          <indicator>
+            <p>Examine seasonal changes in the characteristics, behaviours, and location of plants, animals, and humans (e.g., plants sprout in the spring, some trees lose their leaves in the fall, some rabbits change colour in the winter, some animals hibernate during the winter, and humans play different sports in the winter than in the summer).</p>
+          </indicator>
+          <indicator>
+            <p>Explore ways in which plant, animal, and human adaptations to daily and seasonal changes are represented through fiction and non-fiction writing and the arts (dance, drama, music, and visual art).</p>
+          </indicator>
+          <indicator>
+            <p>Construct representations of plant, animal, and human adaptations to daily and seasonal changes (e.g., humans wear different clothes, some plants lose their leaves in winter, some animals change colour, and some birds migrate).</p>
+          </indicator>
+          <indicator>
+            <p>Describe ways in which humans prepare to adapt to daily and seasonal changes (e.g., characteristics of clothing worn in different seasons, movement patterns of First Nations to follow animal migration, and features of buildings that keep people warm and dry).</p>
+          </indicator>
+          <indicator>
+            <p>Pose new questions based on what was learned about plant, animal, and human adaptations to daily and seasonal changes.</p>
+          </indicator>
+          <indicator>
+            <p>Communicate questions, ideas, and intentions with classmates while conducting their explorations into daily and seasonal adaptations (e.g., share ideas about how animals survive at different times of the year).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

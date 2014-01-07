@@ -1,0 +1,502 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181918_1</pdf>
+  <banner>science/Science_4.png</banner>
+  <dark_colour>#008164</dark_colour>
+  <light_colour>#e6f3f0</light_colour>
+  <goals>science/science7-9aimsgoals.htm</goals>
+  <teaching>science/science6-9teaching.htm</teaching>
+  <curriculum_name>Science 4</curriculum_name>
+  <classification_id>science 4</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Life Science: Habitats and Communities (HC)</goal_heading>
+      <outcome>
+        <identifier>HC4.1</identifier>
+        <outcome_text>Investigate the interdependence of plants and animals, including humans, within habitats and communities. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the plants and animals which can be found in the communities (e.g., house, village, farm, reserve, and city) in which students live.</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate between populations, communities, and habitats using local and regional examples.</p>
+          </indicator>
+          <indicator>
+            <p>Predict and research the populations of plants and animals that exist in various habitats (e.g., desert, farmland, meadow, tree, forest, rain puddle, seashore, lake, river, tropical forest, tundra, river delta, and mountains).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss stories that demonstrate the interdependence of land, water, animals, plants, and the sky in traditional worldviews.</p>
+          </indicator>
+          <indicator>
+            <p>Draw upon facets of Indigenous worldviews, such as the Medicine Wheel or circle of life, to examine understanding about the interdependence of plants and animals in various habitats and communities.</p>
+          </indicator>
+          <indicator>
+            <p>Classify plants and animals, including humans, according to their role(s) (e.g., producer, consumer, herbivore, omnivore, carnivore, predator, prey, scavenger, and decomposer) in food chains and food webs.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a visual representation of a specific food chain that exists within a habitat or community.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze food webs as representations of multiple food chains.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how both traditional methods and modern technologies (e.g., time-lapse photography, high-speed photography, and radio collar tracking) enable humans to increase their knowledge of plants and animals within habitats and communities.</p>
+          </indicator>
+          <indicator>
+            <p>Conduct a simulation or role play to demonstrate the interdependence of plants and animals in a habitat or community.</p>
+          </indicator>
+          <indicator>
+            <p>Predict how the removal of a specific plant or animal population may affect a community in the short- and long-term.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and maintain a habitat such as a terrarium, aquarium, mealworm box, ant farm, pond in a bottle, or vermiculture to examine interactions between plants and animals, and their environments.</p>
+          </indicator>
+          <indicator>
+            <p>Show concern and respect for the safety of self, others, plants and animals when maintaining a habitat.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>HC4.2</identifier>
+        <outcome_text>Analyze the structures and behaviours of plants and animals that enable them to exist in various habitats. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Generate questions to investigate about the structures (e.g., beak shape, colour markings, type of feet, and thorny branches) and behaviours (e.g., seasonal migration, living in groups, and growing towards light) of plants and animals that enable them to exist within various habitats (e.g., schoolyard, wildlife reserve area, and creek bank).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that each plant and animal depends on a specific habitat to meet its needs.</p>
+          </indicator>
+          <indicator>
+            <p>Identify factors (e.g., availability of food, water, and shelter, weather conditions, and available living space) that influence the ability of plants and animals to meet their needs within a specific habitat.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and carry out a plan to investigate safely and respectfully the structures and behaviours of plants and animals within natural (e.g., school yard, meadow, forest, and park) and constructed (e.g., sports field, aquarium, and terrarium) habitats.</p>
+          </indicator>
+          <indicator>
+            <p>Record observations and information about plant and animal structures and behaviours within natural and constructed habitats using words, diagrams, graphs, photographs, audio and video recordings, and other appropriate technologies.</p>
+          </indicator>
+          <indicator>
+            <p>Compile and display data collected during a habitat study using tallies, tables, pictographs, and/or bar graphs; compare results obtained with those of other class members; and propose explanations for differences in results.</p>
+          </indicator>
+          <indicator>
+            <p>Use gathered information to explain how the structures and behaviours of animals and plants enable them to meet their basic needs (e.g., food, water, air, movement, nutrients, reproduction, and light) in their habitat.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the structural features of plants that enable them to thrive in different kinds of habitats (e.g., bog, forest, grassland, school yard, garden, and sports field).</p>
+          </indicator>
+          <indicator>
+            <p>Design and carry out a simulation to explore how the appearance of a plant or animal affects its visibility.</p>
+          </indicator>
+          <indicator>
+            <p>Predict the structural and behavioural adaptations required for a real or imagined animal to live in a particular habitat, either real or imagined.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>HC4.3</identifier>
+        <outcome_text>Assess the effects of natural and human activities on habitats and communities, and propose actions to maintain or restore habitats. [CP, DM]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Recognize and discuss the role of traditional knowledge in learning about, valuing, and caring for plants and animals within local habitats and communities.</p>
+          </indicator>
+          <indicator>
+            <p>Identify stakeholders who are likely to adopt different points of view on issues (e.g., sewage treatment, urban expansion, deforestation, water pollution, pipeline construction, grassland stewardship, climate change, and pesticide usage) that are highlighted in the media related to habitat protection, restoration, and management.</p>
+          </indicator>
+          <indicator>
+            <p>Categorize human activities by the effects they have or may have on habitats and communities.</p>
+          </indicator>
+          <indicator>
+            <p>Assess intended and unintended consequences of natural and human-caused changes to specific habitats.</p>
+          </indicator>
+          <indicator>
+            <p>Relate habitat loss to the endangerment and extinction of plants and animals within habitats and communities in Saskatchewan and elsewhere.</p>
+          </indicator>
+          <indicator>
+            <p>Explore how human impact on habitats and communities has been represented through traditional and contemporary music, dance, drama, and visual arts.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how both scientists’ and traditional knowledge keepers’ knowledge of plant growth and development has led to the development of agricultural methods and techniques (e.g., tillage, hydroponics, nutrient management, pest control, crop rotation, companion plants, and plant breeding) that affect habitats and communities.</p>
+          </indicator>
+          <indicator>
+            <p>Create dramatic, visual, musical, or other representations to show how personal actions can help conserve, honour, and respect natural and constructed habitats.</p>
+          </indicator>
+          <indicator>
+            <p>Collaboratively develop and carry out (if feasible) a plan to preserve or restore one or more components of a local habitat.</p>
+          </indicator>
+          <indicator>
+            <p>Identify local, provincial, and national organizations that work to preserve, restore, and provide education about habitats and communities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science: Light (LI)</goal_heading>
+      <outcome>
+        <identifier>LI4.1</identifier>
+        <outcome_text>Investigate the characteristics and physical properties of natural and artificial sources of light in the environment. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Differentiate between natural (e.g., fire, sun, star, lightning, aurorae, fireflies, and bioluminescent fungi) and artificial (e.g., light bulb, street light, glow stick, LED, tanning lamp, and laser) sources of light in the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Examine relationships between the light energy and heat energy emitted from light sources.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the significance of light in First Nations and Métis stories, legends, and spirituality, including the role of fire, lightning, aurorae, and Thunderbird.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the characteristics of light beams in air and water, including determining that light travels in straight lines, that light travels away from a source in all directions, and that light beams may change direction upon entering or leaving water.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish, through observation, between objects that emit their own light (e.g., sun, glow stick, match, star, and light bulb) and those that reflect light from another source (e.g., moon, mirror, paper, clothing, and roadways).</p>
+          </indicator>
+          <indicator>
+            <p>Identify positive (e.g., increased vitamin D production, happiness, and increased productivity) and negative (e.g., sunburn, skin cancer, and light pollution) consequences of exposure to natural and artificial sources of light.</p>
+          </indicator>
+          <indicator>
+            <p>Predict changes in a shadow’s location, shape, and relative size when an object is placed in different positions and orientations relative to a light source and surface (e.g., flashlight and puppet, and overhead projector and screen).</p>
+          </indicator>
+          <indicator>
+            <p>Collaboratively plan and carry out a procedure to determine changes in a shadow’s location, shape, and relative size when an object is placed in different positions and orientations relative to a light source and screen.</p>
+          </indicator>
+          <indicator>
+            <p>Record and communicate results of investigations of the characteristics and physical properties of light using formats suitable to the task.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>LI4.2</identifier>
+        <outcome_text>Analyze how light interacts with different objects and materials to create phenomena such as shadows, reflection, refraction, and dispersion. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions about the interaction of light with different materials (e.g., How are shadows formed? How can we change the direction of light? What colours are in light?).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how light interacts with various objects to determine whether the objects cast shadows, allow light to pass, and/or reflect light.</p>
+          </indicator>
+          <indicator>
+            <p>Classify materials and objects as opaque, transparent, or translucent based on personal observations.</p>
+          </indicator>
+          <indicator>
+            <p>Design and carry out a fair test of the reflective properties of surfaces of different shapes and textures (e.g., mirrors, flat foil, crumpled foil, white paper, coloured paper, and spoons).</p>
+          </indicator>
+          <indicator>
+            <p>Develop simple conclusions about the reflective properties of surfaces of different shapes and textures based on observation and experimentation.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate and describe how transparent media of different composition and shape (e.g., prisms, plastic blocks, glasses of water, and lenses) are used to change the direction of light.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how light interacts with optical devices such as kaleidoscopes, reading glasses, microscopes, periscopes, telescopes, and magnifying glasses.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the dispersion of white light into various colours using a prism, and draw simple conclusions about the composition of white light.</p>
+          </indicator>
+          <indicator>
+            <p>Identify characteristics and effects of radiation that are slightly below (i.e., infrared radiation) and slightly above (i.e., ultraviolet light) the frequencies of visible light.</p>
+          </indicator>
+          <indicator>
+            <p>Experiment with mixing colours of light to create colours that meet a student-specified function (e.g., mood for a dance or dramatic production).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>LI4.3</identifier>
+        <outcome_text>Assess personal, societal, and environmental impacts of light-related technological innovations including optical devices. [DM, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Evaluate the suitability of different types of light sources based on criteria such as source of energy, area illuminated, cost, and intended use.</p>
+          </indicator>
+          <indicator>
+            <p>Assess positive and negative consequences of artificial sources of light (e.g., street light, automobile headlight, traffic light, emergency vehicle light, and lighted advertising sign) that have been designed to solve problems in the home, at school, and in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the suitability of translucent, transparent, and opaque materials for specific applications (e.g., window, shower curtain, paper, light bulb, and frosted glass).</p>
+          </indicator>
+          <indicator>
+            <p>Compare the types of light sources used historically and currently in Saskatchewan homes and communities.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the functions of optical devices (e.g., magnifying glasses, eyeglasses, contact lenses, microscopes, and telescopes) that are designed to extend our ability to observe.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the function and importance of eyeglasses and contact lenses for individuals with vision problems.</p>
+          </indicator>
+          <indicator>
+            <p>Research personal, societal, and environmental impacts of light- related technological innovations (e.g., periscope, flashlight, neon lighting, camera, and laser).</p>
+          </indicator>
+          <indicator>
+            <p>Design, construct, and test a prototype of an optical device (e.g., periscope, telescope, and microscope) that performs a specific student-identified function.</p>
+          </indicator>
+          <indicator>
+            <p>Work with classmates to troubleshoot problems with a prototype of an optical device.</p>
+          </indicator>
+          <indicator>
+            <p>Describe practices that individuals and communities can take to help protect eyes and sight.</p>
+          </indicator>
+          <indicator>
+            <p>Assess methods of conserving energy through processes such as reducing the use of home lighting or using alternative types of light sources (e.g., fluorescent, compact fluorescent, and light- emitting diode).</p>
+          </indicator>
+          <indicator>
+            <p>Examine how light is depicted in a variety of texts (e.g., science fiction, cartoons, movies, and poetry) and through dance and drama.</p>
+          </indicator>
+          <indicator>
+            <p>Identify careers in Saskatchewan that require an understanding of light and light-related technologies (e.g., optician, photographer, astronomer, and lab technician).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science: Sound (SO)</goal_heading>
+      <outcome>
+        <identifier>SO4.1</identifier>
+        <outcome_text>Explore natural and artificial sources of sound in the environment and how those sounds are detected by humans and animals. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and classify, using student-developed criteria, examples of natural and artificial sounds in their environments (e.g., classroom, school, home, playground, and community).</p>
+          </indicator>
+          <indicator>
+            <p>Relate natural and artificial sources of sounds in their environment to the ways in which those sounds are produced.</p>
+          </indicator>
+          <indicator>
+            <p>Describe examples of sounds (e.g., radio, alarm clock, fire alarm, and whistling steam kettle) that people use to meet their everyday needs.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how humans and other animals use sounds for various purposes such as enjoyment, warning, navigation, annoyance, ambience, and communication.</p>
+          </indicator>
+          <indicator>
+            <p>Examine connections between music of various cultures, including First Nations and Métis, and natural sounds (e.g. water moving, bird flying, and wind blowing).</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate among the types of sounds produced by various stringed, woodwind, brass, and percussion instruments.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate and explain how humans create and detect sounds.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the characteristics of human and animal perceptions of sound, including their sense organs to detect sound and their range of hearing.</p>
+          </indicator>
+          <indicator>
+            <p>Propose structural modifications that might improve the hearing of a specific animal.</p>
+          </indicator>
+          <indicator>
+            <p>Predict and explore how sound travels from different sources to the human ear.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SO4.2</identifier>
+        <outcome_text>Draw conclusions about the characteristics and physical properties of sound, including pitch and loudness, based on observation. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions about the characteristics of sound (e.g., Why are some sounds louder than others? Why do sounds sound different? Why are some locations noisier than other locations?).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and demonstrate that sound energy originates from vibrating objects (e.g., larynx, tuning fork, radio speaker, and musical instruments).</p>
+          </indicator>
+          <indicator>
+            <p>Compare how sound vibrations travel differently through solids, liquids, and gases such as air.</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate between the loudness of various sounds, as measured in decibels.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the ability of different materials to absorb and reflect sounds of varying pitch and loudness.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the ability of self and others to hear sounds of various pitch and loudness.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the characteristics (e.g., construction and method of vibration) of string, woodwind, brass, and percussion instruments to determine how they make sound.</p>
+          </indicator>
+          <indicator>
+            <p>Rephrase questions about pitch and loudness into a testable form.</p>
+          </indicator>
+          <indicator>
+            <p>State and test a prediction about how the pitch and loudness of a sound can be altered.</p>
+          </indicator>
+          <indicator>
+            <p>Design and construct a device such as a musical instrument which has the ability to create sounds of variable pitch and/or loudness.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest improvements to enhance the effectiveness of a device such as a musical instrument which has the ability to create sounds of variable pitch and/or loudness.</p>
+          </indicator>
+          <indicator>
+            <p>State generalizations about the physical characteristics of sound, including pitch and loudness, learned through observation.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SO4.3</identifier>
+        <outcome_text>Assess personal, societal, and environmental impacts of sound-related technologies. [DM, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain the purpose and effect of devices (e.g., hearing aid, sonar, amplifier, microphone, oscilloscope, and ultrasound) that enhance the human ability to produce, transmit, and detect sound.</p>
+          </indicator>
+          <indicator>
+            <p>Explore the use of sound in movies, television, dance, and drama.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the type and loudness of sounds heard in various locations in their environment (e.g., classroom, hallway, gymnasium, music room, library, lunch room, and playground).</p>
+          </indicator>
+          <indicator>
+            <p>Explore the personal and social impacts on humans who are deaf or hard of hearing, including connections to speech and the role of sign language.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how and why different materials are used in schools and other buildings based on their ability to absorb and/or reflect sounds.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate methods and technologies used to prevent noise pollution in their surroundings, and work with group members to evaluate the effectiveness of those methods.</p>
+          </indicator>
+          <indicator>
+            <p>Explore the importance and uses of sound in different cultures, past and present.</p>
+          </indicator>
+          <indicator>
+            <p>Identify positive and negative consequences, for humans and other animals, of technologies (e.g., leaf blower, stereo, car horn, motors, and fireworks) that produce sounds.</p>
+          </indicator>
+          <indicator>
+            <p>Identify issues related to sound such as long-term exposure to environmental noise, portable music players, and workplace sounds, and discuss the implications of these issues on individuals, society, and the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Explain practices that help meet the need for protection from loud and sustained sounds to prevent short- and long-term hearing loss in humans.</p>
+          </indicator>
+          <indicator>
+            <p>Research the contributions of Canadians who contributed to the development of sound-based technologies.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Earth and Space Science: Rocks, Minerals, and Erosion (RM)</goal_heading>
+      <outcome>
+        <identifier>RM4.1</identifier>
+        <outcome_text>Investigate physical properties of rocks and minerals, including those found in the local environment. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions about the properties of rocks and minerals (e.g., What is the difference between rocks and minerals? Where do we find rocks and minerals? Do rocks become minerals?).</p>
+          </indicator>
+          <indicator>
+            <p>Document the locations and characteristics of rocks that exist in their local environment.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and record physical properties of rocks and minerals using appropriate terminology such as colour, lustre, hardness, cleavage, transparency, and crystal structure.</p>
+          </indicator>
+          <indicator>
+            <p>Use appropriate tools (e.g., hand lens, safety glasses, brush, rock pick, knife, measuring tape, and gloves) safely while making observations and collecting information on the physical properties of rocks and minerals.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate respect for all components of their environment when observing and collecting rocks and minerals (e.g., do not remove rocks and minerals from private property without permission).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate processes for testing the hardness of minerals, including reference to guides such as Moh’s scale of mineral hardness.</p>
+          </indicator>
+          <indicator>
+            <p>Record observations of rocks and minerals using jot notes, labelled diagrams, and charts.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the physical properties of rocks and minerals from the local environment with those from other geological areas.</p>
+          </indicator>
+          <indicator>
+            <p>Develop a classification scheme to organize their understanding of rocks and minerals.</p>
+          </indicator>
+          <indicator>
+            <p>Account for any variation between their classification schemes of rocks and minerals and those of classmates, Elders, traditional knowledge keepers, geologists, or other resources.</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate between rocks and minerals.</p>
+          </indicator>
+          <indicator>
+            <p>Develop simple generalizations about the physical characteristics of rocks and minerals based on observation and research.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RM4.2</identifier>
+        <outcome_text>Assess how human uses of rocks and minerals impact self, society, and the environment. [DM]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Discuss ways in which people of different cultures value, respect, and use rocks and minerals, including First Nations and Métis connections to Mother Earth.</p>
+          </indicator>
+          <indicator>
+            <p>Identify objects in their local environment that are made from rocks and minerals (e.g., nickel, table salt, pottery, cement, carvings, brick, jewellery, bicycle, nutrients, battery, copper wiring, soda can, plumbing pipe, and sidewalk).</p>
+          </indicator>
+          <indicator>
+            <p>Research historical (e.g., flint arrowhead, gold jewellery, paint pigment, and coal heating) and contemporary (e.g., fertilizer, building products, ceramics, glass, salt, silver fillings, and electronics) uses for rocks and minerals in Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest alternative materials that could be used to create everyday objects or propose new uses for rocks and minerals.</p>
+          </indicator>
+          <indicator>
+            <p>Relate uses for rocks and minerals to characteristics such as functionality, mineral shape, cost, availability, and aesthetics.</p>
+          </indicator>
+          <indicator>
+            <p>Identify locations where minerals, including potash, sodium sulphate, salt, kaolin, uranium, copper, coal, diamond, and gold, are extracted in Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the economic benefits associated with mineral extraction and refining, including related careers, in Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze issues related to the extraction and use of minerals from the perspectives of various stakeholders (e.g., company owner, employee, scientist, Elder, environmental group, and end user).</p>
+          </indicator>
+          <indicator>
+            <p>Research ways in which products made from rocks or minerals can be recycled and reused.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest methods of reclaiming resource extraction sites (e.g., quarry, strip mine, open pit mine, and hard rock mine) to reduce short- and long-term impacts on communities and the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Assess their own and their family’s impact on natural resources based on their current lifestyle.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RM4.3</identifier>
+        <outcome_text>Analyze how weathering, erosion, and fossils provide evidence to support human understanding of the formation of landforms on Earth. [CP, SI, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Construct a visual representation of the diversity of landscapes and landforms throughout Saskatchewan, including those that have significance for First Nations and Métis people.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the effects of natural phenomena (e.g., tidal wave, flash flood, hurricane, tornado, earthquake, mud slide, forest fire, avalanche, and meteor impact) that cause rapid and significant changes to the landscape.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how rocks can be classified as igneous, sedimentary, or metamorphic based on the processes by which they form.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss practices and techniques (e.g., mulching, crop rotation, strip farming, windbreaks, terracing, and sediment basins) for minimizing and controlling erosion locally and in communities around the world.</p>
+          </indicator>
+          <indicator>
+            <p>Design and construct a prototype of a system for minimizing and controlling gravitational, water, shoreline, ice, or wind erosion in a given situation.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate both a prototype of a personally constructed system for minimizing and controlling erosion and the use of prototypes in science for modelling natural phenomena.</p>
+          </indicator>
+          <indicator>
+            <p>Describe possible short- and long-term effects of wind, water, and ice on local, national, and global landscapes (e.g., sandy beaches, coastline erosion, rounded rock formations, sand dunes, river deltas, glacial deposits, and cracks in rocks).</p>
+          </indicator>
+          <indicator>
+            <p>Predict the effects of weathering on various landforms (e.g., butte, cliff, cave, valley, river, waterfall, and beach) in Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest explanations of how soils form from rocks, including the roles of wind, water, and biological processes (e.g., decomposition of plant and animal matter, and growth of plant roots play) over time.</p>
+          </indicator>
+          <indicator>
+            <p>Create models of different types (e.g., amber, imprint, cast, and mould) of plant and animal fossils.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss how fossils and the fossil record provide evidence of Earth’s history, including the formation of various landforms.</p>
+          </indicator>
+          <indicator>
+            <p>Predict the types of plant or animal fossils that would be found in Saskatchewan landforms in the past, present, and future.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how scientists develop explanations of natural phenomena based on observations and data.</p>
+          </indicator>
+          <indicator>
+            <p>Pose new questions about Saskatchewan landforms based on what was learned.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

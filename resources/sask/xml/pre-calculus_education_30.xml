@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-198675_1</pdf>
+  <banner>mathematics/Pre-calculus_30.png</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>mathematics/pre-calculus20aimsgoals.htm</goals>
+  <teaching>mathematics/pre-calculus30teaching.htm</teaching>
+  <curriculum_name>Pre-Calculus 30</curriculum_name>
+  <classification_id>Pre-Calculus 30</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Pre-Calculus (PC)</goal_heading>
+      <outcome>
+        <identifier>PC30.1</identifier>
+        <outcome_text>Extend understanding of angles to angles in standard position, expressed in degrees and radians. [CN, ME, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Sketch angles in standard position including positive and negative degrees.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and describe the relationship between different systems of angle measurements, with emphasis on radians and degrees.</p>
+          </indicator>
+          <indicator>
+            <p>Sketch, in standard position, an angle measuring 1 radian.</p>
+          </indicator>
+          <indicator>
+            <p>Sketch, in standard position, any angle measuring<img>math_en/pre_calc_30/k_pi.PNG</img>radians where<img>math_en/pre_calc_30/k_is_in_Q.PNG</img>.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and apply strategies for converting between angle measures in degrees and radians (exact value or decimal approximation).</p>
+          </indicator>
+          <indicator>
+            <p>Develop and apply strategies for determining all angles that are coterminal to an angle within a specified domain (in degrees and radians).</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and apply strategies for determining the general form for all angles that are coterminal to a given angle (in degrees and radians).</p>
+          </indicator>
+          <indicator>
+            <p>Explain the relationship between the radian measure of an angle in standard position and the length of the arc cut on a circle of radius r, and solve situational questions based on that relationship.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PC30.2</identifier>
+        <outcome_text>Demonstrate understanding of the unit circle and its relationship to the six trigonometric ratios for any angle in standard position. [CN, ME, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Derive the equation of a circle with centre (0,0) and radius r.</p>
+          </indicator>
+          <indicator>
+            <p>Derive the equation of the unit circle from the application of the Pythagorean theorem or the distance formula.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and generalize the six trigonometric ratios in terms of x, y, and r, using a point that is the intersection of the terminal arm of an angle with the unit circle.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, and apply strategies for determining the six trigonometric ratios for any angle given a point on the terminal arm of the angle.</p>
+          </indicator>
+          <indicator>
+            <p>Determine, with technology, the approximate value of the trigonometric ratios for any angle (in radians or degrees).</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies, including using the unit circle or a reference triangle, for determining the exact trigonometric ratios for angles whose measures are multiples of 0°, 30°, 45°, 60°, 90° (when expressed in degrees), 0,<img>math_en/pre_calc_30/pi_over_fractions.PNG</img>(when expressed in radians).</p>
+          </indicator>
+          <indicator>
+            <p>Explain and apply strategies (with or without the use of technology) to determine the measures, in degrees or radians, of the angles in a specified domain that have a particular trigonometric ratio value.</p>
+          </indicator>
+          <indicator>
+            <p>Explain and apply strategies to determine the exact values of the other trigonometric ratios, given the value of one trigonometric ratio in a specified domain.</p>
+          </indicator>
+          <indicator>
+            <p>Sketch a diagram to represent the context of a problem that involves trigonometric ratios.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions using trigonometric ratios.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PC30.3</identifier>
+        <outcome_text>Demonstrate understanding of the graphs of the primary trigonometric functions. [CN, PS, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Sketch, with or without technology, the graph of y=sin x, y=cos x, and y=tan x.</p>
+          </indicator>
+          <indicator>
+            <p>Determine and summarize the characteristics (amplitude, asymptotes, domain, period, range, and zeros) of the graphs of y = sin x, y = cos x, or y = tan x.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, and explain strategies for determining the transformational impact of changing the coefficients a, b, c, and d on the graph of y = sin x and y = cos x respectively, including amplitude, asymptotes, domain, period, phase shift, range, and zeros.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and apply strategies to sketch, without technology, graphs of the form</p>
+          </indicator>
+          <indicator>
+            <p>Write equations for given graphs of sine or cosine functions.</p>
+          </indicator>
+          <indicator>
+            <p>Identify, with justification, a trigonometric function that models a situational question.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how the characteristics of the graph of a trigonometric function relate to the conditions in a situational question.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions by analyzing the graph of trigonometric functions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PC30.4</identifier>
+        <outcome_text>Demonstrate understanding of first- and second-degree trigonometric equations. [CN, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Verify, with or without technology, whether or not a value is a solution to a particular trigonometric equation.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and apply strategies for determining algebraically the exact form of the solution to a trigonometric equation.</p>
+          </indicator>
+          <indicator>
+            <p>Determine, using technology, the approximate solution in degrees and radians of a trigonometric equation in a restricted domain.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the relationship between the general solution of trigonometric equations to the zeros of the related trigonometric functions limited to sine and cosine functions.</p>
+          </indicator>
+          <indicator>
+            <p>Determine, using technology, the general solutions for trigonometric equations.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze solutions for given trigonometric equations to identify errors, and correct if necessary.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PC30.5</identifier>
+        <outcome_text>Demonstrate understanding of trigonometric identities including: [R, T, V] reciprocal identitiesquotient identitiesPythagorean identitiessum or difference identities (restricted to sine, cosine, and tangent)double-angle identities (restricted to sine, cosine, and tangent)</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain the difference between a trigonometric identity and a trigonometric equation.</p>
+          </indicator>
+          <indicator>
+            <p>Verify numerically (using degrees or radians) whether or not a trigonometric statement is a trigonometric identity.</p>
+          </indicator>
+          <indicator>
+            <p>Critique statements such as "If three different values verify a trigonometric identity, then the identity is valid".</p>
+          </indicator>
+          <indicator>
+            <p>Determine, with the use of graphing technology, the potential validity of a trigonometric identity.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the non-permissible values of a trigonometric identity.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and apply strategies for proving trigonometric identities algebraically.</p>
+          </indicator>
+          <indicator>
+            <p>Explain and apply strategies for determining the exact value of a trigonometric ratio by using sum, difference, and double-angle identities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PC30.6</identifier>
+        <outcome_text>Demonstrate an understanding of operations on, and compositions of, functions. [CN, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Sketch the graph of a function that is the sum, difference, product, or quotient of two functions whose graphs are given.</p>
+          </indicator>
+          <indicator>
+            <p>Write the equation of a function that results from the sum, difference, product, or quotient of two or more functions.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the domain and range of a function that is the sum, difference, product, or quotient of two other functions.</p>
+          </indicator>
+          <indicator>
+            <p>Write a function as the sum, difference, product, or quotient (or some combination thereof ) of two or more functions.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the composition of two functions:</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for evaluating a composition of functions at a particular point.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for sketching the graph of composite functions in the form: where the equations or graphs of f(x) and g(x) are given.</p>
+          </indicator>
+          <indicator>
+            <p>Write a function as a composition of two or more functions.</p>
+          </indicator>
+          <indicator>
+            <p>Write a function by combining two or more functions through operations on, and compositions of, functions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PC30.7</identifier>
+        <outcome_text>Extend understanding of transformations to include functions (given in equation or graph form) in general, including horizontal and vertical translations, and horizontal and vertical stretches. [C, CN, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Compare and analyze various graphs of transformations of the function , and generalize about the effect of the placement of different coefficients on the original graph of .</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for sketching transformations of the graph of</p>
+          </indicator>
+          <indicator>
+            <p>Write the equation of a function that has undergone specified vertical translations, horizontal translations, vertical stretches, and/or horizontal translations of the function for which the equation is given.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PC30.8</identifier>
+        <outcome_text>Demonstrate understanding of functions, relations, inverses and their related equations resulting from reflections through the: [C, CN, R, V] x-axisy-axisline</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Generalize and apply the relationship between the coordinates of an ordered pair and the coordinates of the corresponding ordered pair that results from a reflection through the x-axis, the y-axis, or the line</p>
+          </indicator>
+          <indicator>
+            <p>Develop and apply strategies for sketching the reflection of a function through the x-axis, the y-axis, or the line when the graph of is given but the equation is not.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and apply strategies for sketching the graphs of, when the graph of is given and the equation is not.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and apply strategies for writing the equation of a function that is the reflection of the function</p>
+          </indicator>
+          <indicator>
+            <p>Develop and apply strategies for sketching the inverse of a relation, including reflection across the line.</p>
+          </indicator>
+          <indicator>
+            <p>Sketch the graph of the inverse relation, given the graph of the relation.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining if one or both of a relation and its inverse are functions.</p>
+          </indicator>
+          <indicator>
+            <p>Determine what restrictions must be placed on the domain of a function for its inverse to be a function.</p>
+          </indicator>
+          <indicator>
+            <p>Critique statements such as "If a relation is not a function, then its inverse also will not be a function".</p>
+          </indicator>
+          <indicator>
+            <p>Determine the equation and sketch the graph of the inverse relation, given the equation of a linear or quadratic relation.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the relationship between the domains and ranges of a relation and its inverse.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and apply numeric, algebraic, and graphic strategies to determine if two relations are inverses of each other.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PC30.9</identifier>
+        <outcome_text>Demonstrate an understanding of logarithms including: [C, CN, ME, PS, R, T, V] evaluating logarithmsrelating logarithms to exponentsderiving laws of logarithmssolving equationsgraphing.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain the relationship between powers, exponentials, logarithms, and radicals.</p>
+          </indicator>
+          <indicator>
+            <p>Express a logarithmic expression as an exponential expression and vice versa.</p>
+          </indicator>
+          <indicator>
+            <p>Determine, without technology, the exact value of a logarithm such as.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how to estimate the value of a logarithm using benchmarks (e.g., since<img>math_en/pre_calc_30/log2_8_eq_3.PNG</img>and<img>math_en/pre_calc_30/log2_16_eq_4.PNG</img>,<img>math_en/pre_calc_30/log2_9.PNG</img>is approximately equal to 3.1).</p>
+          </indicator>
+          <indicator>
+            <p>Derive and explain the laws of logarithms.</p>
+          </indicator>
+          <indicator>
+            <p>Apply the laws of logarithms to determine equivalent expressions for given logarithmic statements.</p>
+          </indicator>
+          <indicator>
+            <p>Determine, using technology, the approximate value of a logarithmic expression (e.g.,<img>math_en/pre_calc_30/log2_9.PNG</img>).</p>
+          </indicator>
+          <indicator>
+            <p>Solve exponential equations in which the bases are powers of one another.</p>
+          </indicator>
+          <indicator>
+            <p>Solve exponential equations in which the bases are not powers of one another.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for solving logarithmic equations and verify the solutions.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why a value obtained in solving a logarithmic equation may be extraneous.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that involve exponential growth or decay, such as loans, mortgages, and investments.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions involving logarithmic scales, such as the Richter scale and pH scale.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze graphs of exponential functions of the form<img>math_en/pre_calc_30/y_eq_a_tothe_x_x_gt_zero.PNG</img>and report about the relationships between the value of a and the domain, range, horizontal asymptote, and intercepts.</p>
+          </indicator>
+          <indicator>
+            <p>Sketch, with or without the use of technology, the graphs of exponential functions of the form<img>math_en/pre_calc_30/y_eq_a_tothe_x_x_gt_zero.PNG</img>.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the role of the horizontal asymptote for exponential functions.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for sketching transformations of the graph of<img>math_en/pre_calc_30/y_eq_a_tothe_x_x_gt_zero.PNG</img>.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze graphs of logarithmic functions of the form<img>math_en/pre_calc_30/y_eq_logbx_b_gt_1.PNG</img>and report about the relationships between the value of b and the domain, range, vertical asymptote, and intercepts.</p>
+          </indicator>
+          <indicator>
+            <p>Sketch, with or without technology, the graphs of logarithmic functions of the form<img>math_en/pre_calc_30/y_eq_logbx_b_gt_1.PNG</img>.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the role of the vertical asymptote for logarithm functions.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for sketching transformations of the graph of<img>math_en/pre_calc_30/y_eq_logbx_b_gt_1.PNG</img>.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate graphically that<img>math_en/pre_calc_30/y_eq_logbx_b_gt_1.PNG</img>and<img>math_en/pre_calc_30/y_eq_b_tothex_b_gt_zero.PNG</img>are inverses of each other.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PC30.10</identifier>
+        <outcome_text>Demonstrate understanding of polynomials and polynomial functions of degree greater than 2 (limited to polynomials of degree ≤ 5 with integral coefficients). [C, CN, ME, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop, generalize, explain, and apply long division for dividing polynomials by binomials of the form<img>math_en/pre_calc_30/x_min_a_isan_I.PNG</img>.</p>
+          </indicator>
+          <indicator>
+            <p>Compare long division of polynomial expressions by binomial expressions to synthetic division, and explain why synthetic division works.</p>
+          </indicator>
+          <indicator>
+            <p>Divide a polynomial expression by a binomial expression of the form<img>math_en/pre_calc_30/x_min_a_isan_I.PNG</img>using synthetic division.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the relationship between the linear factors of a polynomial expression and the zeros of the corresponding polynomial function.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize, through inductive reasoning, the relationship between the remainder when a polynomial expression is divided by<img>math_en/pre_calc_30/x_min_a_isan_I.PNG</img>and the value of the polynomial expression at<img>math_en/pre_calc_30/x_eq_a.PNG</img>(The Remainder Theorem).</p>
+          </indicator>
+          <indicator>
+            <p>Explain and apply the factor theorem to express a polynomial expression as a product of factors.</p>
+          </indicator>
+          <indicator>
+            <p>Categorize, with justification, a set of functions into polynomial functions and non-polynomial functions.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze graphs of polynomial functions to determine the impact of changing the values of the constant term and leading coefficient in the equation of a polynomial function with respect to the graph of the function.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize and apply strategies for graphing polynomial functions of an odd or even degree.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the relationship between: the zeros of a polynomial functionthe roots of the corresponding polynomial equationthe x-intercepts of the graph of the polynomial function.</p>
+          </indicator>
+          <indicator>
+            <p>Explain and apply strategies for determining the behaviour of the graph of a polynomial function at zeros with different multiplicities.</p>
+          </indicator>
+          <indicator>
+            <p>Sketch, with or without the use of technology, the graph of a polynomial function.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions by modelling the situations with polynomial functions and analyzing the graphs of the functions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PC30.11</identifier>
+        <outcome_text>Demonstrate understanding of radical and rational functions with restrictions on the domain. [CN, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Sketch the graph of the function<img>math_en/pre_calc_30/y_eq_rootx.PNG</img>using a table of values, and state the domain and range of the function.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply transformations to the function<img>math_en/pre_calc_30/y_eq_rootx.PNG</img>to sketch the graph of<img>math_en/pre_calc_30/y_min_k_eq_a_rootbxh.PNG</img>.</p>
+          </indicator>
+          <indicator>
+            <p>Sketch the graph of the function<img>math_en/pre_calc_30/y_eq_root_fx.PNG</img>given the graph of the function<img>math_en/pre_calc_30/y_eq_fx.PNG</img>, and compare the domains and ranges of the two functions.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the relationship between the roots of a radical equation and the x-intercepts of the graph of the corresponding radical function.</p>
+          </indicator>
+          <indicator>
+            <p>Determine, graphically, the approximate solutions to radical equations.</p>
+          </indicator>
+          <indicator>
+            <p>Sketch rational functions, with and without the use of technology.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the behaviour (shape and location) of the graphs of rational functions for values of the dependent variable close to the location of a vertical asymptote.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the equation of a rational function to determine where the graph of the rational function has an asymptote or a hole, and explain why.</p>
+          </indicator>
+          <indicator>
+            <p>Match a set of equations for rational and radical functions to their corresponding graphs.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the relationship between the roots of a rational equation and the x-intercepts of the graph of the corresponding rational function.</p>
+          </indicator>
+          <indicator>
+            <p>Determine graphically an approximate solution to a rational equation.</p>
+          </indicator>
+          <indicator>
+            <p>Critique statements such as "Any value that makes the denominator of a rational function equal to zero will result in a vertical asymptote on the graph of the rational function".</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PC30.12</identifier>
+        <outcome_text>Demonstrate understanding of permutations, including the fundamental counting principle. [C, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop and apply strategies, such as lists or tree diagrams, to determine the total number of choices or arrangements possible in a situation.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why the total number of possible choices is found by multiplying rather than adding the number of ways that individual choices can be made.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of situations relevant to self, family, and community where the fundamental counting principle can be applied to determine the number of possible choices or arrangements.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve situational questions that involve the application of the fundamental counting principle.</p>
+          </indicator>
+          <indicator>
+            <p>Count, using graphic organizers, the number of ways to arrange the elements of a set in a row.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies, including the use of factorial notation, to determine the number of permutations possible if n different elements are taken n or r at a time.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why n must be greater than or equal to r in the notation<img>math_en/pre_calc_30/n_P_r.PNG</img>.</p>
+          </indicator>
+          <indicator>
+            <p>Solve equations that involve<img>math_en/pre_calc_30/n_P_r.PNG</img>notation such as<img>math_en/pre_calc_30/n_P_2_eq_30.PNG</img>.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the number of permutations possible when two or more elements in the set are identical (non-distinguishable).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PC30.13</identifier>
+        <outcome_text>PC30.13 Demonstrate understanding of combinations of elements, including the application to the binomial theorem. [C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain, with examples, how to distinguish between situations that involve permutations and those that involve combinations.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the number of ways that a subset of k can be selected from a set of n different elements.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies to determine combinations of n different elements taken r at a time in situational questions.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why n must be greater than or equal to r in the notation<img>math_en/pre_calc_30/n_Choose_r.PNG</img>.</p>
+          </indicator>
+          <indicator>
+            <p>Prove or explain using examples<img>math_en/pre_calc_30/n_C_r_eq_n_C_nminr.PNG</img>or<img>math_en/pre_calc_30/n_Choose_r_eq_n_Choose_nminr.PNG</img>.</p>
+          </indicator>
+          <indicator>
+            <p>Solve equations involving combinations (e.g.,<img>math_en/pre_calc_30/n_C_2_eq_15.PNG</img>or<img>math_en/pre_calc_30/n_Choose_2_eq_15.PNG</img>).</p>
+          </indicator>
+          <indicator>
+            <p>Explore and describe patterns found within Pascal's triangle, including the relationship between consecutive rows.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and describe the relationship between the coefficients of the terms in<img>math_en/pre_calc_30/x_plus_y_tothe_n.PNG</img>, and the combinations.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for expanding<img>math_en/pre_calc_30/x_plus_y_tothe_n_n_leq_4.PNG</img>.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining specific terms within a particular expansion of<img>math_en/pre_calc_30/x_plus_y_tothe_n.PNG</img>given<img>math_en/pre_calc_30/n_isin_N.PNG</img>.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-182864_1</pdf>
+  <banner>mathematics/FM20.png</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>mathematics/foundations_math_20_aimsgoals.htm</goals>
+  <teaching>mathematics/foundations_math_20_teaching.htm</teaching>
+  <curriculum_name>Foundations of Mathematics 20</curriculum_name>
+  <classification_id>Foundations of Mathematics 20</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Foundations of Mathematics (FM)</goal_heading>
+      <outcome>
+        <identifier>FM20.1</identifier>
+        <outcome_text>Demonstrate understanding of the mathematics involved in an historical event or an area of interest. [C, CN, ME, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop a rubric or other scoring schema for the assessment of the research and presentation.</p>
+          </indicator>
+          <indicator>
+            <p>Collect primary or secondary data (quantitative or qualitative) related to the topic.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the accuracy, reliability, and relevance of the primary or secondary data (quantitative/qualitative) collected by:identifying examples of bias and points of viewidentifying and describing the data collection methodsdetermining whether or not the data are relevantdetermining whether or not the data are consistent with information obtained from other sources on the same topic.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret data, using statistical methods if applicable.</p>
+          </indicator>
+          <indicator>
+            <p>Identify controversial issues, if any, and present multiple sides of the issues with supporting data.</p>
+          </indicator>
+          <indicator>
+            <p>Organize and create a presentation (oral, written, multimedia, etc.) of the research findings and conclusions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FM20.2</identifier>
+        <outcome_text>Demonstrate understanding of inductive and deductive reasoning including:analyzing conjecturesanalyzing spatial puzzles and gamesproviding conjecturessolving problems.</outcome_text>
+        <outcome_text>[C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <outer_text>Note: It is intended that:<ul><li><b>proofs NOT be limited to the two column proof style</b></li><li><b>analysis and conjectures related to spatial puzzles and games be incorporated throughout the course.</b></li></ul></outer_text>
+          <indicator>
+            <p>Make conjectures by observing patterns and identifying properties, and justify the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of how inductive reasoning might lead to false conclusions.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the following statement “Decisions can be made and actions taken based upon inductive reasoning”.</p>
+          </indicator>
+          <indicator>
+            <p>Identify situations relevant to self, family, or community involving inductive and/or deductive reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Prove algebraic number relationships, such as divisibility rules, number properties, mental mathematics strategies, or algebraic number tricks using deductive reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Prove conjectures using deductive reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze an argument for its validity.</p>
+          </indicator>
+          <indicator>
+            <p>Identify errors in proofs that lead to incorrect conclusions (e.g., a proof that ends with 2 = 1).</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that involve inductive or deductive reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Determine, explain, and verify strategies for solving puzzles or winning games, such as:guess and checkanalyze a patternmake a systematic listcreate a drawing or modeleliminate possibilitiessolve simpler problemswork backward.</p>
+          </indicator>
+          <indicator>
+            <p>Create a variation of a puzzle or a game, and describe a strategy for solving the puzzle or winning the game.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FM20.3</identifier>
+        <outcome_text>Expand and demonstrate understanding of proportional reasoning related to:ratesscale diagramsscale factorareasurface areavolume.</outcome_text>
+        <outcome_text>[C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and describe situations relevant to one’s self, family, or community that involve proportional reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Create non-symbolic representations for rates, including pictures and graphs.</p>
+          </indicator>
+          <indicator>
+            <p>Describe situations in which a given rate might occur.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the meaning of rates given in context, such as the arts, commerce, the environment, medicine, or recreation.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that require the use of proportional reasoning, including those that involve the isolation of a variable.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze situations in which unit rates can be determined and suggest reasons why the rates would or would not be used to make decisions in each situation (i.e., are other factors in the situation outweighing the importance of the mathematical calculations?).</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, the relationship between the slope of a graph and a rate.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and explain the effect of factors within given situations that could influence a particular rate.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions involving rates, including unit rates.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and describe situations relevant to one’s self, family, or community that involve scale diagrams of 2-D shapes and 3-D objects and determine the scale factor for the situations.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for solving situational questions based upon scale diagrams of 2-D shapes and 3-D objects, including the determining of scale factors and unknown dimensions.</p>
+          </indicator>
+          <indicator>
+            <p>Draw, with or without the use of technology, a scale diagram of a 2-D shape relevant to self, family, or community to a specified scale factor (enlargement or reduction).</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational problems involving scale diagrams of 2-D shapes and 3-D objects.</p>
+          </indicator>
+          <indicator>
+            <p>Determine relationships between scale factor and area of 2-D shapes or surface area of 3-D objects; and scale factor, surface area, and volume of 3-D objects.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining scale factors, areas, surface areas, or volumes given the scale factor or the ratio of areas, surface areas, or volumes of 2-D shapes and 3-D objects.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, with justification, the effect of a change in scale factor on the area of a 2-D shape or the surface area or volume of a 3-D object.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that involve scale factors, areas, surface areas, and volumes, including ones that require the manipulation of formulas.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FM20.4</identifier>
+        <outcome_text>Demonstrate understanding of properties of angles and triangles including:deriving proofs based on theorems and postulates about congruent trianglessolving problems.</outcome_text>
+        <outcome_text>[CN, PS, R, V]</outcome_text>
+        <indicators>
+          <outer_text>Note: It is intended that students be allowed to explore and use different styles of proofs, including paragraph form and two-column proofs. The emphasis should be on the logic used and the communication of that logic and not on the format of the proofs themselves.</outer_text>
+          <indicator>
+            <p>Identify and describe situations relevant to self, family, or community that involve parallel lines cut by transversals.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, apply, and prove relationships between pairs of angles formed by transversals and parallel lines, with and without the use of technology.</p>
+          </indicator>
+          <indicator>
+            <p>Prove and apply the relationship relating the sum of the angles in a triangle.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize, using inductive reasoning, a rule for the relationship between the sum of the interior angles and the number of sides (n) in a polygon, with or without technology.</p>
+          </indicator>
+          <indicator>
+            <p>Apply knowledge of angles formed by parallel lines and transversals to identify and correct errors in a given proof.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and verify whether or not the angles formed by non-parallel lines and transversals create the same angle relationships as those created by parallel lines and transversals.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational problems that involve:angles, parallel lines, and transversalsangles, non-parallel lines, and transversalsangles in trianglesangles in polygons.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for constructing parallel lines.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FM20.5</identifier>
+        <outcome_text>Demonstrate understanding of the cosine law and sine law (including the ambiguous case). [CN, PS, R]</outcome_text>
+        <indicators>
+          <outer_text>Note: This outcome is very similar to P20.5 from Pre-calculus 20. The difference is that in Foundations of Mathematics 20, students are expected to explain steps in a given proof for either the cosine law or the sine law, but not to generate the proof on their own.</outer_text>
+          <indicator>
+            <p>Identify and describe situations relevant to self, family, or community that involve triangles without a right angle.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining angles or side lengths of triangles without a right angle.</p>
+          </indicator>
+          <indicator>
+            <p>Draw diagrams to represent situations in which the cosine law or sine law could be used to solve a question.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the steps in a given proof of the sine law or cosine law.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate and explain how one, two, or no triangles could be possible for a given set of measurements for two side lengths and the non-included angle in a proposed triangle.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the number of solutions possible to a situation involving the ambiguous case.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions involving triangles without a right angle.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FM20.6</identifier>
+        <outcome_text>Demonstrate an understanding of normal distribution, including standard deviation and z-scores. [CN, PS, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify situations relevant to self, family, or community in which standard deviation and the normal distribution are used and explain the meaning and relevance of each.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the meaning and purpose of the properties of a normal curve, including mean, median, mode, standard deviation, symmetry, and area under the curve.</p>
+          </indicator>
+          <indicator>
+            <p>Calculate, using technology, the population standard deviation of a data set.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “Every set of data will correspond to a normal distribution”.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a data set to determine if it approximates a normal distribution.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the properties of two or more normally distributed data sets and explain what the comparison tells you about the situations that the sets represent.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples that represent multiple perspectives, the application of standard deviation for making decisions in situations such as warranties, insurance, or opinion polls.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that involve the interpretation of standard deviations to make decisions.</p>
+          </indicator>
+          <indicator>
+            <p>Determine, with or without technology, and explain the meaning of the z-score for a given value in a normally distributed data set.</p>
+          </indicator>
+          <indicator>
+            <p>Pose and solve situational questions relevant to self, family, or community that involve normal distributions and z-scores.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FM20.7</identifier>
+        <outcome_text>Demonstrate understanding of the interpretation of statistical data, including:confidence intervalsconfidence levelsmargin of error.</outcome_text>
+        <outcome_text>[C, CN, R]</outcome_text>
+        <indicators>
+          <outer_text>Note: It is intended that the focus of this outcome be on interpretation of data rather than on statistical calculations.</outer_text>
+          <indicator>
+            <p>Identify and explain the significance of the confidence interval, margin of error, or confidence level stated with respect to statistical data relevant to self, family, or community.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how confidence levels, margins of error, and confidence intervals can be impacted by the size of the random sample used.</p>
+          </indicator>
+          <indicator>
+            <p>Make inferences and decisions with justification about a population from sample data using confidence intervals.</p>
+          </indicator>
+          <indicator>
+            <p>Provide and critique examples from print or electronic media in which confidence intervals and confidence levels are used to support a particular position.</p>
+          </indicator>
+          <indicator>
+            <p>Support a position or decision relevant to self, family, or community by analyzing statistical data, as well as considering other factors.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FM20.8</identifier>
+        <outcome_text>Demonstrate understanding of systems of linear inequalities in two variables. [CN, PS, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify situations relevant to self, family, or community which could be described using a system of linear inequalities in two variables.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for graphing and solving systems of linear inequalities, including justification of the choice of solid or broken lines.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for verifying solutions to systems of linear inequalities, including the use of test points.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, the meaning of the shaded region in the graphical solution of a system of linear inequalities.</p>
+          </indicator>
+          <indicator>
+            <p>Write a system of linear inequalities for a given graph.</p>
+          </indicator>
+          <indicator>
+            <p>Match optimization questions and the graphs of sets of linear inequalities.</p>
+          </indicator>
+          <indicator>
+            <p>Apply knowledge of graphing of systems of linear inequalities and linear programming to solve optimization questions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FM20.9</identifier>
+        <outcome_text>Demonstrate an understanding of the characteristics of quadratic functions of the form y = a(x - p)² + q , including:vertexinterceptsdomain and rangeaxis of symmetry.</outcome_text>
+        <outcome_text>[CN, PS, T, V]</outcome_text>
+        <indicators>
+          <outer_text>Note: It is intended that the completion of the square not be required.The use of the terms zeros, roots, and intercepts should reflect the definitions of these terms in the provided glossary.</outer_text>
+          <indicator>
+            <p>Identify situations and objects relevant to self, family, or community which could be described using a quadratic function.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the intercepts of the graph of a quadratic function, including factoring, graphing (with or without the use of technology), and use of the quadratic formula.</p>
+          </indicator>
+          <indicator>
+            <p>Conjecture and verify a relationship among the roots of an equation, the zeros of the corresponding function, and the x-intercepts of the graph of the function.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, why the graph of a quadratic function may have zero, one, or two x-intercepts.</p>
+          </indicator>
+          <indicator>
+            <p>Write a quadratic equation in factored form given the zeros of a corresponding quadratic function or the x-intercepts of a corresponding quadratic function.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies (with or without the use of technology) to determine the coordinates of the vertex of the graph of a quadratic function.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply a strategy for determining the equation of the axis of symmetry of the graph of a quadratic function when given the x-intercepts of the graph.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the coordinates of the vertex of the graph of a quadratic function and for determining if the vertex is a maximum or a minimum.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize about and explain the effects on the graph of a quadratic function when the values for a, p, and q are changed.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining the domain and range of a quadratic function.</p>
+          </indicator>
+          <indicator>
+            <p>Explain what the domain and range of a quadratic function tell about the situation that the quadratic function models.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for sketching the graph of a quadratic function.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions involving the characteristics and graphs of quadratic functions.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “Any function that can be written in the form y = a(x − p)² + q will have a parabolic graph.”</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

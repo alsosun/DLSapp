@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181698_1</pdf>
+  <banner>health/HE5.png</banner>
+  <dark_colour>#9bc4b2</dark_colour>
+  <light_colour>#ebf3f0</light_colour>
+  <goals>health/healtheducation5aimsgoals.htm</goals>
+  <teaching>health/healtheducation5teaching.htm</teaching>
+  <curriculum_name>Health Education 5</curriculum_name>
+  <classification_id>health education 5</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Understanding, Skills, and Confidences (USC)</goal_heading>
+      <outcome>
+        <identifier>USC5.1</identifier>
+        <outcome_text>Analyze personal eating practices.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate a variety of information about foods and beverages (e.g., print resources, media, nutritionists, elders).</p>
+          </indicator>
+          <indicator>
+            <p>Examine information and promotions created to influence eating practices.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the importance of reading and understanding food labels including serving size, calories, and nutritional values (e.g., fat, sodium, and sugars) for making healthy food choices.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate a variety of information about healthy eating practices (e.g., five small meals/day, cultural foods and traditions, vegetarianism).</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate how particular practices and diets (e.g., cultural diets, vegetarian diet, diabetes diet) require planning to ensure a healthy, balanced diet.</p>
+          </indicator>
+          <indicator>
+            <p>Record and analyze personal food consumption for five days (including servings, time, and location).</p>
+          </indicator>
+          <indicator>
+            <p>Observe and record factors (e.g., cultural, environmental) that influence personal eating practices.</p>
+          </indicator>
+          <indicator>
+            <p>Examine own and others’ experiences with processed and non-processed foods.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and compare the health benefits of consuming processed versus non-processed foods.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how eating practices have changed (e.g., traditional First Nations peoples eating practices, “fast-food” era).</p>
+          </indicator>
+          <indicator>
+            <p>Explain how changes in our bodies sometimes affect our eating habits (e.g., increased appetite during growth spurts, “fuel” for exercise).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC5.2</identifier>
+        <outcome_text>Understand the responsibilities associated with the physical, social, spiritual, and emotional changes of puberty.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify local, provincial, and national sources of information about puberty.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss criteria that can be used to decide if a source is reliable.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and use correct and respectful language and terminology in relation to sexual anatomy and gender identity as it relates to changes of puberty.</p>
+          </indicator>
+          <indicator>
+            <p>Determine that puberty is a natural process that often occurs at different rates.</p>
+          </indicator>
+          <indicator>
+            <p>Describe physical changes, both primary (e.g., reproductive organs and systems) and secondary (e.g., growth of body hair, changes in body shape) that occur during puberty.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the process of menstruation and spermatogenesis.</p>
+          </indicator>
+          <indicator>
+            <p>Examine social, emotional, and spiritual changes that occur during puberty (i.e., sexual attractions, insecurities, moodiness, form own ideas, morals and values; rely less on parents/caregivers for knowledge about life and about deep questions like ‘Who am I?’, ‘Why am I here?’, or ‘What is the meaning of life?’).</p>
+          </indicator>
+          <indicator>
+            <p>Examine strategies for managing the social, emotional, physical, and spiritual changes associated with puberty (e.g., asking questions, engaging in physical activity, having sexual attraction to others).</p>
+          </indicator>
+          <indicator>
+            <p>Describe personal responsibilities and determine the increasing importance of balanced health practices (e.g., bathe frequently, use deodorant and other sanitary products, respect private spaces, keep personal matters appropriately private, respect differences) associated with physical, social, spiritual, and emotional changes during puberty (e.g., body odour, menstruation, erections, emissions, peer pressure, social etiquette, insecurity, cultural roles and responsibilities).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss with a significant and trusted adult the expected changes (i.e., physical, social, spiritual, and emotional) of and responsibilities associated with puberty (e.g., rites of passage, special teaching about roles of women in some First Nations and Métis cultures).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC5.3</identifier>
+        <outcome_text>Analyze how infectious diseases (including HIV and Hepatitis C) and non-infectious illnesses/diseases challenge holistic well-being.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify examples of local, provincial, and national health sources regarding illness/disease.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss criteria that can be used to identify if a health source is reliable.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate various sources of information about illness and disease (including cancers, diabetes, depression, and heart disease).</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between infectious and non-infectious, and illness and disease.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate an understanding of ways in which the body protects itself from illness and disease (e.g., intact skin, understanding portals/openings of entry such as eyes and mouth, immune system).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and articulate how the physical, mental, emotional, and spirital well-being of self, family, and community is affected by illness and disease.</p>
+          </indicator>
+          <indicator>
+            <p>Ask questions and seek answers for deeper understanding:Where do new diseases come from?, Why do people die from a disease when some people can be cured?, Why are some diseases more common in adults than in children and vice versa?, Can a person have a disease and still be healthy?,</p>
+          </indicator>
+          <indicator>
+            <p>Describe the challenges of illness and disease to attaining or maintaining holistic well-being.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC5.4</identifier>
+        <outcome_text>Analyze the connections between personal identity and personal well-being, and establish strategies to develop and support a positive self-image.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate knowledge and information about self-image.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss criteria that can be used to determine if a health source is reliable.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the qualities that are important in a person, regardless of their gender, culture, appearance, sexual orientation, abilities, and/or language.</p>
+          </indicator>
+          <indicator>
+            <p>Define stereotyping (i.e., a set of characteristics or a fixed idea considered to represent a particular kind of person), prejudice (i.e., preconceived negative or hostile views toward a person or group of persons based on ignorance and stereotyping), and discrimination (i.e., unfair treatment of a person or group on the basis of prejudice).</p>
+          </indicator>
+          <indicator>
+            <p>Ask questions and seek answers for deeper understanding:How does prejudice develop?, Why do some people have realistic self-images while other people have distorted self-images?, Why are some stereotypes more common than others?, How is “diversity in thought” necessary for community well-being?</p>
+          </indicator>
+          <indicator>
+            <p>Express insights of the effects of stereotyping and discrimination on self and others.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on self-image as “the way you see yourself as a result of what you believe about your appearance, abilities, and character”.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the influence of self and others (e.g., family expectations, family values and beliefs, culture, religion) on one’s self-image.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and describe what one can think, say, and do to develop and/or support a positive self-image in both self and others (e.g., recognize and refrain from derogatory comments related to any aspect of one’s self-image, challenge stereotypes, bias, and discrimination that are based on appearance and/or self-image).</p>
+          </indicator>
+          <indicator>
+            <p>Identify and practise strategies for expressing feelings associated with the physical and emotional changes of puberty (e.g., family meeting, writing in a journal).</p>
+          </indicator>
+          <indicator>
+            <p>Identify misunderstandings and/or misconceptions related to messages in the media that may misinform the public about identities (e.g., portrayal of violence, ethnic, gender, and racial bias).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss how privilege, lack of privilege, and/or unexamined privilege (e.g., levels of education, wealth, access to resources) distort our views of others, limit our potential, and impact our own and others’ identities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC5.5</identifier>
+        <outcome_text>Analyze the impact of violence and the cycle of abuse on the holistic well-being of self, family, and community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Review qualities of healthy relationships (e.g., respect, honesty, reliability).</p>
+          </indicator>
+          <indicator>
+            <p>Determine that abuse is used to gain or maintain power and control over another person(s).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the different types of abuse (e.g., physical, sexual, emotional, mental, spiritual, economic).</p>
+          </indicator>
+          <indicator>
+            <p>Ask questions and seek answers for deeper understanding:What do the experts believe about violence being inherited or learned?How is the “cycle of abuse” stopped?Why is abuse more common in some communities than in others?How are family/community norms about violence/abuse established and challenged?</p>
+          </indicator>
+          <indicator>
+            <p>Recognize warning signals of unhealthy/abusive relationships (e.g., name calling, blaming, swearing, acting jealous/possessive, destroying possessions, lying, humiliating).</p>
+          </indicator>
+          <indicator>
+            <p>Determine that a victim of abuse is never responsible/to blame for violent and abusive behaviours of others.</p>
+          </indicator>
+          <indicator>
+            <p>Examine and begin to question school and community norms regarding violence and abuse.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze threats to personal safety at school, home, or in the community, and know sources of support or help.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how to access local violence and abuse prevention services and supports.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss possible challenges and solutions to accessing local supports and services.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the possible short and long-term consequences (i.e., physical, mental, emotional, and spiritual) of violence and/or abuse on self and others.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC5.6</identifier>
+        <outcome_text>Assess peer influence and demonstrate a readiness to prevent and/or avoid potentially dangerous situations involving peer pressure (including lying, substance use, and bullying).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Discuss why peers pressure each other.</p>
+          </indicator>
+          <indicator>
+            <p>Ask questions and seek answers for deeper understanding:Why is peer pressure often more prevalent during adolescence than during any other time in one’s life?How and why does peer pressure change as one gets older?Why can peer pressure be so powerful?How do my thoughts, feelings, and actions influence my peers?</p>
+          </indicator>
+          <indicator>
+            <p>Examine the different levels of pressure (i.e., internal, indirect, direct).</p>
+          </indicator>
+          <indicator>
+            <p>Describe indicators of positive and negative peer pressure (e.g., positive - encourage healthy behaviours, negative - encourage unhealthy behaviours).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss examples of positive and negative peer influence on personal decision making.</p>
+          </indicator>
+          <indicator>
+            <p>Generate and practise possible strategies to avoid/reduce the risk of potentially dangerous/unhealthy/unsafe situations involving peer pressure (e.g., prepare a mental script, listen to your “gut”, plan for possible pressure situations, use possible parental controls as an excuse).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC5.7</identifier>
+        <outcome_text>Assess the importance of self-regulation and taking responsibility for one’s actions.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify strategies for being calm and quiet/silent (e.g., deep breath, imagery, relax muscles, self-talk, smudging, reflection).</p>
+          </indicator>
+          <indicator>
+            <p>Practise, in a variety of authentic contexts, being calm, quiet/silent, content, and free from extraneous external distractions.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and describe varying levels of intensity of personal feelings.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on examples when one did and did not “own” personal thoughts, words, and actions (e.g., lied to avoid consequences).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the skills and confidences to admit “wrongdoing”, apologize when wrong, and recognize ways to rectify mistakes or wrongdoing.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the automatic regulation that is often beyond our awareness (e.g., hungry – we seek food, fear – we prepare to fight or flee).</p>
+          </indicator>
+          <indicator>
+            <p>Compare scenarios where individuals do/do not self-regulate and the impact on self and others.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the influences on self-regulation, including that which comes from adults in the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Determine that all choices/decisions have consequences.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the rights that go along with personal responsibilities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Decision Making (DM)</goal_heading>
+      <outcome>
+        <identifier>DM5.1</identifier>
+        <outcome_text>Analyze possible obstacles and envision solutions to addressing health challenges related to personal eating practices, changes of puberty, impact of illness/disease, identity and well-being, violence, peer pressure, and self-regulation.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify common barriers to adolescent well-being (e.g., peer pressure, time).</p>
+          </indicator>
+          <indicator>
+            <p>Determine health challenges and opportunities.</p>
+          </indicator>
+          <indicator>
+            <p>Question why particular health opportunities and challenges exist.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize why health opportunities may not be embraced.</p>
+          </indicator>
+          <indicator>
+            <p>Determine that people respond to health challenges and opportunities in various ways.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze positive and negative consequences of people’s responses to health challenges and opportunities.</p>
+          </indicator>
+          <indicator>
+            <p>Formulate healthy strategies for addressing possible health challenges and/or embracing possible health opportunities.</p>
+          </indicator>
+          <indicator>
+            <p>Create a class goal statement to address identified health challenges and/or embrace particular health opportunities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Action Planning (AP)</goal_heading>
+      <outcome>
+        <identifier>AP5.1</identifier>
+        <outcome_text>Design and implement, with guidance, two five-day action plans that embrace health opportunities or address health challenges related to personal eating practices, changes of puberty, impact of illness/disease, identity and well-being, violence, peer pressure, and self-regulation.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the elements of effective action plans, including what will be done (e.g., goal), who will be involved, where it will take place, when it will take place, and why this action is being taken.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the supports needed to carry out the action plan.</p>
+          </indicator>
+          <indicator>
+            <p>Carry out, with guidance, the steps identified in the design of the action plan.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on if the goal was achieved in order to guide future application.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

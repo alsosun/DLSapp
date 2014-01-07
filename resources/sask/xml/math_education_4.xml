@@ -1,0 +1,550 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181794_1</pdf>
+  <banner>mathematics/mathematics4.gif</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>mathematics/mathematics4aimsgoals.htm</goals>
+  <teaching>mathematics/mathematics4teaching.htm</teaching>
+  <curriculum_name>Mathematics 4</curriculum_name>
+  <classification_id>mathematics 4</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Number</goal_heading>
+      <outcome>
+        <identifier>N4.1</identifier>
+        <outcome_text>Demonstrate an understanding of whole numbers to 10 000 (pictorially, physically, orally, in writing, and symbolically) by:representingdescribingcomparing two numbersordering three or more numbers.</outcome_text>
+        <outcome_text>[C, R,V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Read a four-digit numeral without using the word “and” (e.g., 5321 is five thousand three hundred twenty one, NOT five thousand three hundred AND twenty one).</p>
+          </indicator>
+          <indicator>
+            <p>Write a numeral using proper spacing without commas (e.g., 4567 or 4 567, 10 000).</p>
+          </indicator>
+          <indicator>
+            <p>Write a numeral (0 – 10 000) in words.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a numeral using a place value chart or diagrams.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the meaning of each digit in a numeral.</p>
+          </indicator>
+          <indicator>
+            <p>Express a numeral in expanded notation (e.g., 321 = 300 + 20 + 1).</p>
+          </indicator>
+          <indicator>
+            <p>Write the numeral represented by an expanded notation expression.</p>
+          </indicator>
+          <indicator>
+            <p>Explain and show the meaning of each digit in a 4-digit numeral with all digits the same (e.g., for the numeral 2222, the first digit represents two thousands, the second digit two hundreds, the third digit two tens, and the fourth digit two ones).</p>
+          </indicator>
+          <indicator>
+            <p>Explain the meaning of each digit in a 4-digit number representing a particular quantity.</p>
+          </indicator>
+          <indicator>
+            <p>Order a set of numbers in ascending or descending order, and explain the order by making references to place value.</p>
+          </indicator>
+          <indicator>
+            <p>Create and order three different 4-digit numerals.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the missing numbers in an ordered sequence or shown on a number line.</p>
+          </indicator>
+          <indicator>
+            <p>Identify incorrectly placed numbers in an ordered sequence or shown on a number line.</p>
+          </indicator>
+          <indicator>
+            <p>Decompose and represent a 4-digit number at least three different ways.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why two or more number compositions represent the same quantity.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N4.2</identifier>
+        <outcome_text>Demonstrate an understanding of addition of whole numbers with answers to 10 000 and their corresponding subtractions (limited to 3 and 4-digit numerals) by:using personal strategies for adding and subtractingestimating sums and differencessolving problems involving addition and subtraction.</outcome_text>
+        <outcome_text>[C, CN, ME, PS, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain how to keep track of digits that have the same place value when adding or subtracting numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Describe a situation in which an estimate rather than an exact answer is sufficient.</p>
+          </indicator>
+          <indicator>
+            <p>Estimate sums and differences using different strategies (e.g., front-end estimation and compensation).</p>
+          </indicator>
+          <indicator>
+            <p>Explain the strategies used to determine a sum or difference.</p>
+          </indicator>
+          <indicator>
+            <p>Solve problems that involve addition and subtraction of more than two numbers.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N4.3</identifier>
+        <outcome_text>Demonstrate an understanding of multiplication of whole numbers (limited to numbers less than or equal to 10) by:applying mental mathematics strategiesexplaining the results of multiplying by 0 and 1</outcome_text>
+        <outcome_text>[C, CN, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain the strategy used to determine a product.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the strategy used in a given solution to a product. For example:for 4 x 3, thinking 2 x 3 = 6 and 4 x 3 = 6 + 6 or 6 + 2 = 12 (halving and doubling)for 3 x 7 think 2 x 7 = 14 and 14 + 7 = 21 (doubling and adding one more group)for 9 x 6, think 10 x 6 = 60 and 60 – 6 = 54 (multiplying by ten and subtracting one group)knowing 2 x 6 = 12, then 4 x 6 = 12 x 2 = 24 (doubling)for 64 ÷ 8, think 8 x  = 64 (relating division to multiplication)for 8 x 5, knowing that 5 x 5 = 25, and then skip counting by 5 three times to get 25 + 5 + 5 + 5 = 40.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the property for determining the answer when multiplying numbers by one.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the property for determining the answer when multiplying numbers by zero.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N4.4</identifier>
+        <outcome_text>Demonstrate an understanding of multiplication (2- or 3-digit by 1-digit) by:using personal strategies for multiplication, with and without concrete materialsusing arrays to represent multiplicationconnecting concrete representations to symbolic representationsestimating productssolving problems.</outcome_text>
+        <outcome_text>[C,ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Model a multiplication problem (concretely or symbolically) using the distributive property (e.g., 8 × 365 = (8 × 300) + (8 × 60) + (8 × 5)).</p>
+          </indicator>
+          <indicator>
+            <p>Use concrete materials, such as base ten blocks or their pictorial representations, to represent multiplication and record the process symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve a multiplication problem that is limited to a 2- or 3-digit number times a 1-digit number.</p>
+          </indicator>
+          <indicator>
+            <p>Estimate a product using a personal strategy (e.g., 2 × 243 is close to or a little more than 2 × 200, or close to or a little less than 2 × 250).</p>
+          </indicator>
+          <indicator>
+            <p>Model and solve a multiplication problem using an array, and record the process.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a multiplication problem and explain the strategies or processes used.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N4.5</identifier>
+        <outcome_text>Demonstrate an understanding of division (1-digit divisor and up to 2-digit dividend) to solve problems by:using personal strategies for dividing with and without concrete materialsestimating quotientsexplaining the results of dividing by 1solving problems involving division of whole numbersrelating division to multiplication.</outcome_text>
+        <outcome_text>[C, CN, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <outer_text>
+            <i>(It is not intended that remainders be expressed as decimals or fractions.)</i>
+          </outer_text>
+          <indicator>
+            <p>Solve a division problem without a remainder using arrays or base ten materials.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a division problem with a remainder using arrays or base ten materials.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a division problem using a personal strategy and record the process symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve a word problem involving a 1- or 2-digit dividend (the number being divided into).</p>
+          </indicator>
+          <indicator>
+            <p>Estimate a quotient using a personal strategy (e.g., 86 ÷ 4 is close to 80 ÷ 4 or close to 80 ÷ 5).</p>
+          </indicator>
+          <indicator>
+            <p>Explain the property for determining the answer when dividing numbers by one.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, the relationship between division and multiplication.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N4.6</identifier>
+        <outcome_text>Demonstrate an understanding of fractions less than or equal to one by using concrete and pictorial representations to:name and record fractions for the parts of a whole or a setcompare and order fractionsmodel and explain that for different wholes, two identical fractions may not represent the same quantityprovide examples of where fractions are used.</outcome_text>
+        <outcome_text>[C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent a fraction using concrete materials.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a fraction based on a symbolically concrete representation (e.g., circles for cookies).</p>
+          </indicator>
+          <indicator>
+            <p>Name and record the fraction for the included and not included parts of a set.</p>
+          </indicator>
+          <indicator>
+            <p>Name and record the shaded and non-shaded (included and not included) parts of a whole.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a fraction pictorially by indicating parts of a given set.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a fraction pictorially by indicating parts of a whole.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how denominators can be used to compare two unit fractions with numerator 1.</p>
+          </indicator>
+          <indicator>
+            <p>Order a set of fractions that have the same numerator and explain the ordering.</p>
+          </indicator>
+          <indicator>
+            <p>Order a set of fractions that have the same denominator and explain the ordering.</p>
+          </indicator>
+          <indicator>
+            <p>Identify which of the benchmarks 0, 1/2 or 1 is closer to a given fraction.</p>
+          </indicator>
+          <indicator>
+            <p>Name fractions between two benchmarks on a number line.</p>
+          </indicator>
+          <indicator>
+            <p>Order a set of fractions by placing them on a number line with given benchmarks.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of when two identical fractions may not represent the same quantity (e.g., half of a large apple is not equivalent to half of a small apple; half a group of ten cloudberries is not equivalent to half of a group of sixteen cloudberries).</p>
+          </indicator>
+          <indicator>
+            <p>Provide an example of a fraction that represents part of a set, a fraction that represents part of a whole, or a fraction that represents part of a length from everyday contexts.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N4.7</identifier>
+        <outcome_text>Demonstrate an understanding of decimal numbers in tenths and hundredths (pictorially, orally, in writing, and symbolically) by:describingrepresentingrelating to fractions.</outcome_text>
+        <outcome_text>[C, CN, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Write the decimal for a concrete or pictorial representation of part of a set, part of a region, or part of a unit of measure.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a decimal concretely or pictorially.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the meaning of each digit in a given decimal with all digits the same.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a decimal using money (dimes and pennies).</p>
+          </indicator>
+          <indicator>
+            <p>Record a money value using decimals.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of everyday contexts in which tenths and hundredths are used.</p>
+          </indicator>
+          <indicator>
+            <p>Model, using manipulatives or pictures, that a tenth can be expressed as hundredths (e.g., 0.9 is equivalent to 0.90 or 9 dimes is equivalent to 90 pennies).</p>
+          </indicator>
+          <indicator>
+            <p>Read and write decimals as fractions (e.g., 0.5 is zero and five tenths).</p>
+          </indicator>
+          <indicator>
+            <p>Express orally and in symbolic form a decimal in fractional form.</p>
+          </indicator>
+          <indicator>
+            <p>Express orally and in symbolic form a fraction with a denominator of 10 or 100 as a decimal.</p>
+          </indicator>
+          <indicator>
+            <p>Express a pictorial or concrete representation as a fraction or decimal (e.g., 15 shaded squares on a hundred grid can be expressed as 0.15 or 15/100).</p>
+          </indicator>
+          <indicator>
+            <p>Express orally and in symbolic form the decimal equivalent for a fraction (e.g., 50/100 can be expressed as 0.50).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N4.8</identifier>
+        <outcome_text>Demonstrate an understanding of addition and subtraction of decimals limited to hundredths (concretely, pictorially, and symbolically) by:using compatible numbersestimating sums and differencesusing mental math strategiessolving problems.</outcome_text>
+        <outcome_text>[C, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Approximate sums and differences of decimals using estimation strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Solve problems, including money problems, which involve addition and subtraction of decimals, limited to hundredths.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the approximate solution of a problem not requiring an exact answer.</p>
+          </indicator>
+          <indicator>
+            <p>Estimate a sum or difference using compatible numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Count back change for a purchase.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the strategies used to determine a sum or difference.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a sum or difference of two decimals concretely or pictorially, and record the solution to the sum or difference symbolically.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Patterns and Relations</goal_heading>
+      <outcome>
+        <identifier>P4.1</identifier>
+        <outcome_text>Demonstrate an understanding of patterns and relations by:identifying and describing patterns and relations in a chart, table or diagramreproducing patterns and relations in a chart, table, or diagram using manipulativescreating charts, tables, or diagrams to represent patterns and relationssolving problems involving patterns and relations</outcome_text>
+        <outcome_text>[C, CN, PS, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and describe a variety of patterns in a multiplication chart.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the missing element(s) in a table or chart and explain the strategies used.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and correct error(s) in a table or chart.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the pattern found in a table or chart.</p>
+          </indicator>
+          <indicator>
+            <p>Create a concrete representation of a pattern displayed in a table or chart.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why the same relationships exist within a pattern in a table and its concrete representation.</p>
+          </indicator>
+          <indicator>
+            <p>Extend patterns found in a table or chart to solve a problem.</p>
+          </indicator>
+          <indicator>
+            <p>Translate the information provided in a problem into a table or chart.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and extend the patterns in a table or chart to solve a problem.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a problem by completing a Carroll diagram using given data.</p>
+          </indicator>
+          <indicator>
+            <p>Determine where new data belong in a Carroll diagram.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the sorting rule for a Venn diagram.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the relationship shown in a given Venn diagram when the circles intersect, when one circle is contained in the other, and when the circles are separate.</p>
+          </indicator>
+          <indicator>
+            <p>Determine where new data belong in a Venn diagram.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a problem by using a chart or diagram to identify mathematical relationships.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P4.2</identifier>
+        <outcome_text>Demonstrate an understanding of equations involving symbols to represent an unknown value by:writing an equation to represent a problemsolving one step equations.</outcome_text>
+        <outcome_text>[C, ME, PS, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain the purpose of the symbol, such as a triangle or circle, in an addition, subtraction, multiplication, or division equation with one unknown (e.g. 36 ÷  = 6).</p>
+          </indicator>
+          <indicator>
+            <p>Write an equation in symbolic form for a given pictorial or concrete representation.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the unknown in a story problem, represent the problem with an equation, and solve the problem concretely, pictorially, or symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Create a problem in context for an equation with one unknown.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a one-step equation using manipulatives.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a one-step equation using guess and test.</p>
+          </indicator>
+          <indicator>
+            <p>Explain what is meant by “one-step equation with one unknown”.</p>
+          </indicator>
+          <indicator>
+            <p>Represent and solve an addition or subtraction problem involving a “part-part-whole” or comparison context using a symbol to represent the unknown.</p>
+          </indicator>
+          <indicator>
+            <p>Represent and solve a multiplication or division problem involving equal grouping or partitioning (equal sharing) using a symbol to represent the unknown.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Shape and Space</goal_heading>
+      <outcome>
+        <identifier>SS4.1</identifier>
+        <outcome_text>Demonstrate an understanding of time by:reading and recording time using digital and analog clocks (including 24 hour clocks)reading and recording calendar dates in a variety of formats.</outcome_text>
+        <outcome_text>[C, CN, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>State the number of hours in a day.</p>
+          </indicator>
+          <indicator>
+            <p>Express the time orally and numerically shown on a 12-hour analog clock.</p>
+          </indicator>
+          <indicator>
+            <p>Express the time orally and numerically shown on a 24-hour analog clock.</p>
+          </indicator>
+          <indicator>
+            <p>Express the time orally shown on a 12-hour digital clock.</p>
+          </indicator>
+          <indicator>
+            <p>Express time orally shown on a 24-hour digital clock.</p>
+          </indicator>
+          <indicator>
+            <p>Express time orally as “minutes to” or “minutes after” the hour.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the meaning of AM and PM, and provide an example of an activity that occurs during the AM and another that occurs during the PM.</p>
+          </indicator>
+          <indicator>
+            <p>Write dates in a variety of formats (e.g., yyyy/mm/dd; dd/mm/yyyy; March 21, 2006; dd/mm/yy).</p>
+          </indicator>
+          <indicator>
+            <p>Relate dates written in the format yyyy/mm/dd to dates on a calendar.</p>
+          </indicator>
+          <indicator>
+            <p>Identify possible interpretations of a date (e.g., 06/03/04).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS4.2</identifier>
+        <outcome_text>Demonstrate an understanding of area of regular and irregular 2-D shapes by:recognizing that area is measured in square unitsselecting and justifying referents for the units cm² or m²estimating area by using referents for cm² or m²determining and recording area (cm² or m²)constructing different rectangles for a given area (cm² or m²) in order to demonstrate that many different rectangles may have the same area.</outcome_text>
+        <outcome_text>[C, CN, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe area as the measure of surface recorded in square units.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and explain why the square is a most efficient unit for measuring area.</p>
+          </indicator>
+          <indicator>
+            <p>Provide a referent for a square centimetre and explain the choice.</p>
+          </indicator>
+          <indicator>
+            <p>Provide a referent for a square metre and explain the choice.</p>
+          </indicator>
+          <indicator>
+            <p>Determine which standard square unit is represented by a referent.</p>
+          </indicator>
+          <indicator>
+            <p>Estimate the area of a 2-D shape using personal referents.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the area of a regular 2-D shape and explain the strategy used.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the area of an irregular 2-D shape and explain the strategy used.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a rectangle with a given area.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate, and verify, how more than one rectangle is possible for a given area by drawing at least two different rectangles with that area (e.g., identifying the dimensions of each rectangle drawn, or superimpose the rectangles on each other).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS4.3</identifier>
+        <outcome_text>Demonstrate an understanding of rectangular and triangular prisms by:identifying common attributescomparingconstructing models.</outcome_text>
+        <outcome_text>[C, CN, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and name common attributes of rectangular prisms from sets of rectangular prisms.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and name common attributes of triangular prisms from sets of triangular prisms.</p>
+          </indicator>
+          <indicator>
+            <p>Sort a set of rectangular and triangular prisms using the shape of the base.</p>
+          </indicator>
+          <indicator>
+            <p>Identify examples of rectangular and triangular prisms found in the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Construct and describe a model of rectangular and triangular prisms.</p>
+          </indicator>
+          <indicator>
+            <p>Construct rectangular prisms from their nets.</p>
+          </indicator>
+          <indicator>
+            <p>Construct triangular prisms from their nets.</p>
+          </indicator>
+          <indicator>
+            <p>Construct nets for rectangular or triangular prisms.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS4.4</identifier>
+        <outcome_text>Demonstrate an understanding of line symmetry by:identifying symmetrical 2-D shapescreating symmetrical 2-D shapesdrawing one or more lines of symmetry in a 2-D shape.</outcome_text>
+        <outcome_text>[C, CN, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the characteristics of given symmetrical and non-symmetrical 2-D shapes.</p>
+          </indicator>
+          <indicator>
+            <p>Sort a set of 2-D shapes as symmetrical and non-symmetrical.</p>
+          </indicator>
+          <indicator>
+            <p>Complete a symmetrical 2-D shape given half the shape and its line of symmetry.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how symmetry and fractions are related.</p>
+          </indicator>
+          <indicator>
+            <p>Identify lines of symmetry in a set of 2-D shapes and explain why each shape is symmetrical.</p>
+          </indicator>
+          <indicator>
+            <p>Determine whether or not a given 2-D shape is symmetrical by using a Mira or by folding and superimposing.</p>
+          </indicator>
+          <indicator>
+            <p>Create a symmetrical shape with and without manipulatives.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of symmetrical shapes found in the environment and identify the line(s) of symmetry.</p>
+          </indicator>
+          <indicator>
+            <p>Sort a given set of 2-D shapes as those that have no lines of symmetry, one line of symmetry, or more than one line of symmetry.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Statistics and Probability</goal_heading>
+      <outcome>
+        <identifier>SP4.1</identifier>
+        <outcome_text>Demonstrate an understanding of many-to-one correspondence by:comparing correspondences on graphsjustifying the use of many-to-one correspondencesinterpreting data shown using a many-to-one correspondencecreating bar graphs and pictographs using many-to-one correspondence.</outcome_text>
+        <outcome_text>[C, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Compare graphs in which different correspondences are used and explain why the correspondence may have been used.</p>
+          </indicator>
+          <indicator>
+            <p>Compare graphs in which the same data have been displayed using a one-to-one and a many-to-one correspondence, and explain how they are the same and different.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why a many-to-one correspondence is sometimes used rather than a one-to-one correspondence.</p>
+          </indicator>
+          <indicator>
+            <p>Find examples of graphs in which a many-to-one correspondence is used in print and electronic media, such as newspapers, magazines, and the Internet, and describe the correspondence used.</p>
+          </indicator>
+          <indicator>
+            <p>Select many-to-one correspondence for displaying a set of data in a graph and justify the choice.</p>
+          </indicator>
+          <indicator>
+            <p>Create and label (with categories, title, and legend) a pictograph to display a set of data using a many-to-one correspondence, and justify the choice of correspondence used.</p>
+          </indicator>
+          <indicator>
+            <p>Create and label (with axes and title) a bar graph to display a set of data using a many-to-one correspondence, and justify the choice of correspondence used.</p>
+          </indicator>
+          <indicator>
+            <p>Answer a question using a graph in which data are displayed using a many-to-one correspondence.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

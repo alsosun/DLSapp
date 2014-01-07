@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181784_1</pdf>
+  <banner>english/ELA7.png</banner>
+  <dark_colour>#5493ad</dark_colour>
+  <light_colour>#dde9ef</light_colour>
+  <goals>english/englishlanguagearts6-9aimsgoals.htm</goals>
+  <teaching>english/englishlanguagearts7teaching.htm</teaching>
+  <curriculum_name>English Language Arts 7</curriculum_name>
+  <classification_id>english language arts 7</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Comprehend and Respond (CR)</goal_heading>
+      <outcome>
+        <identifier>CR7.1</identifier>
+        <outcome_text>View, listen to, read, comprehend, and respond to a variety of texts that address identity (e.g., Thinking for Oneself), social responsibility (e.g., Participating and Giving Our Personal Best), and efficacy (e.g., Doing Our Part for Planet Earth).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>View, listen to, and read and respond to a variety of visual, oral, print, and multimedia (including digital) texts that address the grade-level themes and issues related to identity, social responsibility, and efficacy including those that reflect diverse personal identities, worldviews, and backgrounds (e.g., appearance, culture, socio-economic status, ability, age, gender, sexual orientation, language, career pathway).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate comprehension and response to visual, oral, print, and multimedia (including digital) texts by: understanding the ideas: Construct and justify interpretation of text; accurately restate and paraphrase main ideas; interpret the purpose and theme; identify evidence that supports the interpretation; generate and respond to comprehension tasks or questions providing details and support from the text; compare new information with previous knowledge and beliefs; describe setting, characters, main events, conflict, and how they are related; state and support beliefs about characters’ motivations and feelings; use information and ideas from a variety of sources (including newspapers, websites, electronic media, anthologies, magazines) to complete tasks. understanding and using the text structures and (language) features of texts to construct meaning: Identify key text features (e.g., headings, diagrams, paragraphs); recognize organization (e.g., plot) and structural cues within texts (e.g., transition words); recognize images and rhetorical techniques in texts (e.g., hyperbole, parallelism, colour, repetition); make thoughtful and critical response to craft in a variety of texts; identify how texts were constructed, shaped, and produced. responding to and interpreting texts: Offer reasonable interpretations of a wide range of visual, oral, written, and multimedia (including digital) texts; evaluate the ideas, arguments, and influence of texts; analyze ideas and information; support personal and critical responses with support from text; evaluate effectiveness of various texts including ideas, elements, techniques, and overall effect; develop personal responses and offer reasons for and examples of judgements, feelings, and opinions (e.g., learning logs, response journals); describe setting and atmosphere, main characters and characterization techniques, conflicts, and events in some detail; make logical inferences about characters’ and author’s message, purpose, or theme; identify main ideas; make accurate notes using logical categories; make and support interpretations; make reasonable assertions; write and deliver oral responses to texts.</p>
+          </indicator>
+          <indicator>
+            <p>Compare own with others’ understanding of people, cultural traditions, and values portrayed in texts.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the choices and behaviours of individuals presented in visual, oral, print, and multimedia texts.</p>
+          </indicator>
+          <indicator>
+            <p>Compare new information with previous knowledge and beliefs.</p>
+          </indicator>
+          <indicator>
+            <p>Connect characters, themes, and situation in texts with own experiences and other texts.</p>
+          </indicator>
+          <indicator>
+            <p>Compare texts to present day lives.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR7.2</identifier>
+        <outcome_text>Select and use appropriate strategies to construct meaning before (e.g., formulating questions), during (e.g., recognizing organizational structure), and after (e.g., making judgements supported by evidence) viewing, listening, and reading.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Before: tap, activate, and build prior knowledge (e.g., list or outline what is known and what needs to be known)ask questions (e.g., generate a list of questions to guide viewing, listening, and reading)preview text (e.g., skim and scan the text and figure out the main idea of each paragraph)anticipate message and author’s/presenter’s intent (e.g., look closely at maps, charts, graphs, and other illustrations)predict what text will be about (e.g., predict outcomes)set purpose (e.g., use 5 Ws+H to consider possible purposes for viewing, listening, and reading).</p>
+          </indicator>
+          <indicator>
+            <p>During: connect and construct meaning (e.g., make personal connections to text and world) and to contemporary and historical issues and problemsnote key ideas and what supports them (e.g., notice and understand cause and effect and other relationships among ideas)construct mental images (e.g., visualize the setting and mood)make, confirm, and adjust predictions (e.g., consistently make predictions using evidence from the text to support thinking) and to confirm conclusionsmake, confirm, and adjust inferences and draw conclusions (e.g., draw conclusions from dialogue, including language with double meaning)ask questions and self-monitor comprehension (e.g., ask questions of texts to increase understanding)use cueing systems to construct meaning and self-monitor comprehension (e.g., place subject of text in the centre and “map” out the key ideas when viewing, listening, and reading)adjust rate and/or strategy (e.g., match silent and oral reading rate to specific purpose and difficulty of text).</p>
+          </indicator>
+          <indicator>
+            <p>After: recall, paraphrase, summarize, and synthesize (e.g., track, gather, and summarize information about characters, their traits, and their relationships; summarize main points; summarize and ask questions to synthesize information from different texts)reflect and interpret (e.g., explain how the texts reveal the theme through events, characters, plot; work co-operatively with others to reach consensus on the meaning of a text and how to interpret it)evaluate (respond critically) (e.g., think critically about the authenticity of characters and the portrayal of current issues; identify bias and stereotyping)evaluate craft and techniques (e.g., discuss the artistic aspect of a text including how illustrations and narrative form a cohesive whole; detect the emotional appeal and language that is persuasive)respond personally (giving support from text) (e.g., explain identification with character or incidents and why)listen, read, or view again and speak, write, and represent to deepen understanding and pleasure (e.g., notice how the author/presenter reveals the underlying messages; try out different interpretations through oral reading).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR7.3</identifier>
+        <outcome_text>Use pragmatic (e.g., author’s purpose and point of view), textual (e.g., how author organized text), syntactic (e.g., main and subordinate ideas), semantic/lexical/morphological (e.g., figurative language and specific word meanings by their context, common affixes, and allusions), graphophonic (e.g., word patterns), and other cues (e.g., non-verbal cues, headings, charts, and diagrams) to construct and confirm meaning when viewing, listening, and reading.</outcome_text>
+        <outcome_note>NOTE: Italicized text refers to those indicators that are emphasized at this grade level.</outcome_note>
+        <indicators>
+          <indicator>Recognize and comprehend the particular purpose (pragmatic cues), textual structures and patterns (textual cues), sentence patterns (syntactical cues), word patterns and meanings (lexical/semantic/morphological cues), sound-symbol relationships (graphophonic), and other cues and conventions in oral, visual, print, and multimedia (including digital) texts.<p>Pragmatic: Recognize and explain function and purpose of texts including informing, persuading, narrating, and describing; recognize use of language and language register (i.e., formal, informal, colloquialism, jargon, slang); recognize author’s purpose and point of view; detect use of emotional appeal or persuasive language (e.g., testimonials, emotional appeals, bandwagon effects).</p></indicator>
+          <indicator>
+            <p>Textual: Recognize and explain how structures and features of texts can work to shape understanding including form/genre, common organizational patterns within texts (chronological, enumerative, problem/solution, cause/effect, comparison/contrast), artistic devices (e.g., personification, exaggeration, symbolism, figurative language including similes and metaphors), elements (e.g., point of view, conflict, theme, supporting arguments), and text features (e.g., credits, headings, diagrams, glossaries, columns, sidebars, pull-quotes).</p>
+          </indicator>
+          <indicator>
+            <p>Syntactical: Recognize and comprehend sentence structures that contain a verb and its subject, closely related ideas in compound structures using conjunctions or joining words, complete sentences with a main idea and appropriate subordination and modification, varied sentence beginnings, and effective capitalization and punctuation including periods, commas, quotation marks, colons, dashes, and hyphens.</p>
+          </indicator>
+          <indicator>
+            <p>Semantic/Lexical/Morphological: Recognize and comprehend words that are appropriate for audience, purpose, and context and capture a particular aspect of intended meaning; use context, prefixes, suffixes, and root words, sounds, and reference tools to determine meaning of words; recognize words used figuratively and for imagery; identify and interpret figurative language and words with multiple meanings; understand and explain “shades of meaning” in related words (e.g., quietly, softly).</p>
+          </indicator>
+          <indicator>
+            <p>Graphophonic: Recognize and explain onomatopoeia, alliteration, derivatives, bases, and affixes.</p>
+          </indicator>
+          <indicator>
+            <p>Other Cues: Recognize and comprehend non-verbal cues, physical movement, body language, gestures, and facial expressions; recognize sound, visual, and multimedia techniques characteristic of visual and multimedia texts including navigation bars, footnotes, headings, charts, and diagrams.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR7.4</identifier>
+        <outcome_text>View and demonstrate comprehension and interpretation of visual and multimedia texts with specific features (e.g., circle graphs) and complex ideas including the visual components of media such as magazines, newspapers, websites, reference books, graphic novels, broadcast media, videos, and promotional materials.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Display active viewing behaviours (e.g., setting purpose and formulating questions before viewing, drawing conclusions based on evidence in the text, identifying strategies used to influence audience).</p>
+          </indicator>
+          <indicator>
+            <p>View critically to understand and analyze opinions and messages presented in visual and multimedia texts.</p>
+          </indicator>
+          <indicator>
+            <p>Identify how data is represented in circle graphs and give a supportable interpretation of these graphs.</p>
+          </indicator>
+          <indicator>
+            <p>Identify how a visual or multimedia (including digital) text was constructed, shaped, and produced.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize the overall organization of ideas in visual and multimedia texts (including digital).</p>
+          </indicator>
+          <indicator>
+            <p>Use organizational features of electronic text (e.g., databases, keyword searches, e-mail) to locate information.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and evaluate what was seen in visual and multimedia (including digital) texts considering elements, techniques, and overall effect.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the effectiveness and impact of a range of visual and multimedia texts.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect and re-view in light of purpose.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR7.5</identifier>
+        <outcome_text>Listen critically to understand and analyze oral information and ideas from a wide range of texts (e.g., complex instructions, oral explanations and reports, opinions or viewpoints, messages presented in the media).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Display active listening behaviours (e.g., focusing on the message of the speaker, making reasonable predictions, checking for understanding, recognizing when information is making sense, making notes).</p>
+          </indicator>
+          <indicator>
+            <p>Listen to understand and analyze instructions, directions, and oral explanations.</p>
+          </indicator>
+          <indicator>
+            <p>Adopt a receptive listening posture and observe visual and verbal cues from the speaker.</p>
+          </indicator>
+          <indicator>
+            <p>Determine literal and implied meaning of message.</p>
+          </indicator>
+          <indicator>
+            <p>Separate own ideas and opinions from speaker’s ideas and opinions.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and follow the presenter’s main ideas, supporting details, and organizational structure.</p>
+          </indicator>
+          <indicator>
+            <p>Consider and respect ideas from speaker’s point of view.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the perspective implicit within an oral presentation and what information, arguments, or positions are not included.</p>
+          </indicator>
+          <indicator>
+            <p>Listen critically to understand and analyze oral information and ideas in oral explanations and reports, and in opinions or messages presented in the mass media.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the effectiveness of a range of oral texts.</p>
+          </indicator>
+          <indicator>
+            <p>Note how examples, illustrations, and visual aids support or take away from the key message.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR7.6</identifier>
+        <outcome_text>Read and demonstrate comprehension and interpretation (including thoughtful and critical response to content and craft) of grade-appropriate texts including traditional and contemporary prose fiction, poetry, and plays from First Nations, Métis, and other cultures.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Display active reading behaviours (e.g., reading with purpose in mind; making, confirming, correcting predictions; matching reading rate to purpose and difficulty of text; rereading to clarify understanding).</p>
+          </indicator>
+          <indicator>
+            <p>Read and demonstrate comprehension and interpretation of a range of literary and information texts including short stories, novels, poetry, instructional materials, non-fiction books, articles, and reports.</p>
+          </indicator>
+          <indicator>
+            <p>Read to complete inquiry/research using online resources, reference books, periodicals, and pamphlets. Cite sources of information.</p>
+          </indicator>
+          <indicator>
+            <p>Read orally and silently Grade 7 appropriate texts for enjoyment and to increase fluency and expression.</p>
+          </indicator>
+          <indicator>
+            <p>Read independently for a sustained period.</p>
+          </indicator>
+          <indicator>
+            <p>Summarize major ideas presented in printed texts.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize author’s overall organization of ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize the author’s use of language (formal, informal, colloquial) and significant elements and techniques and how they interact to create effects.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize author’s point of view and reason for choosing it.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the effectiveness of a range of written texts.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on and support personal and critical response with reference to text.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR7.7</identifier>
+        <outcome_text>Read independently and demonstrate comprehension of a variety of specialized information texts including non-fiction books, grade-level instructional materials, articles, reports, reference materials, instructions, advertising and promotional materials, and websites.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Display active reading behaviours (e.g., reading with purpose in mind; making, confirming, correcting predictions; matching reading rate to purpose and difficulty of text; rereading to clarify understanding).</p>
+          </indicator>
+          <indicator>
+            <p>Read and demonstrate comprehension and interpretation of a range of literary and information texts including short stories, novels, poetry, instructional materials, non-fiction books, articles, and reports.</p>
+          </indicator>
+          <indicator>
+            <p>Read to complete inquiry/research using online resources, reference books, periodicals, and pamphlets. Cite sources of information.</p>
+          </indicator>
+          <indicator>
+            <p>Read orally and silently Grade 7 appropriate texts for enjoyment and to increase fluency and expression.</p>
+          </indicator>
+          <indicator>
+            <p>Read independently for a sustained period.</p>
+          </indicator>
+          <indicator>
+            <p>Summarize major ideas presented in printed texts.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize author’s overall organization of ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize the author’s use of language (formal, informal, colloquial) and significant elements and techniques and how they interact to create effects.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize author’s point of view and reason for choosing it.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the effectiveness of a range of written texts.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on and support personal and critical response with reference to text.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR7.8</identifier>
+        <outcome_text>Read Grade 7 appropriate texts to increase fluency (130-170 wcpm orally; 170-220 silently) and expression.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Display active reading behaviours (e.g., reading with purpose in mind; making, confirming, correcting predictions; matching reading rate to purpose and difficulty of text; rereading to clarify understanding).</p>
+          </indicator>
+          <indicator>
+            <p>Read and demonstrate comprehension and interpretation of a range of literary and information texts including short stories, novels, poetry, instructional materials, non-fiction books, articles, and reports.</p>
+          </indicator>
+          <indicator>
+            <p>Read to complete inquiry/research using online resources, reference books, periodicals, and pamphlets. Cite sources of information.</p>
+          </indicator>
+          <indicator>
+            <p>Read orally and silently Grade 7 appropriate texts for enjoyment and to increase fluency and expression.</p>
+          </indicator>
+          <indicator>
+            <p>Read independently for a sustained period.</p>
+          </indicator>
+          <indicator>
+            <p>Summarize major ideas presented in printed texts.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize author’s overall organization of ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize the author’s use of language (formal, informal, colloquial) and significant elements and techniques and how they interact to create effects.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize author’s point of view and reason for choosing it.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the effectiveness of a range of written texts.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on and support personal and critical response with reference to text.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Compose and Create (CC)</goal_heading>
+      <outcome>
+        <identifier>CC7.1</identifier>
+        <outcome_text>Create various visual, oral, written, and multimedia (including digital) texts that explore identity (e.g., Exploring Thoughts, Feelings, and Ideas), social responsibility (e.g., Taking Action), and efficacy (e.g., Building a Better World).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create with clarity and correctness, and appropriate to a particular audience and purpose, a variety of expressions (oral presentations, written compositions, and other representations) that represent ideas and information about identity, social responsibility, and efficacy.</p>
+          </indicator>
+          <indicator>
+            <p>Create representations, speeches, and writing that feature the following qualities:</p>
+          </indicator>
+          <indicator>
+            <p>Message Content or Ideas (Meaning): Maintains focus around a clear purpose; shows awareness of audience; provides relevant details, examples, and explanations; is accurate, complete, and uses own words; shows some individuality or originality in literary texts; contains ideas and images that create an impact.</p>
+          </indicator>
+          <indicator>
+            <p>Organization and Coherence (Form): Introduces the topic and purpose; may provide some context; sticks to the topic; is easy to follow with related ideas grouped together (i.e., sequence is logical); uses a variety of connecting words; creates a logical ending; includes appropriate, required text features (e.g., titles, headings, diagrams, illustrations) correctly constructed; uses paragraphs that have main ideas and supporting details.</p>
+          </indicator>
+          <indicator>
+            <p>Language Conventions (Style and Language Choices): Use clear and varied language correctly; shows a sense of audience; level of formality is appropriate for purpose and audience; contains some description and variety in diction; contains a variety of sentence lengths and some varied sentence beginnings; demonstrates the use of several different conjunctions; formulates simple, compound, and complex sentences; applies the conventions of oral and written language, including very few spelling errors, correct punctuation (including use of comma, colon, dash, and hyphen); uses syntactically complete and correct sentences (avoiding run-ons and fragments), uses legible cursive handwriting and clear representations which are visually accurate and legibly and neatly presented.</p>
+          </indicator>
+          <indicator>
+            <p>Use own experiences to create personal or impromptu communications characterized by some insight and development including opinion and personal and critical responses to text.</p>
+          </indicator>
+          <indicator>
+            <p>Create a variety of narrative, descriptive, expository, and persuasive oral presentations, written compositions, and other representations with some original qualities.</p>
+          </indicator>
+          <indicator>
+            <p>Create a variety of visual, oral, written, and multimedia (including digital) texts including personal narratives, responses or reactions to texts, stories, reports, articles, instructions, explanations, opinions, letters, illustrations, diagrams, leaflets, stories, poems, storyboards, cartoons, and skits or short view scripts.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC7.2</identifier>
+        <outcome_text>Create and present a teacher-guided inquiry project related to a topic, theme, or issue studied in English language arts.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Apply inquiry process and complete an individual or group inquiry project related to the themes or issues being studied in English language arts.</p>
+          </indicator>
+          <indicator>
+            <p>Examine personal knowledge of and experiences related to a topic to determine information needs.</p>
+          </indicator>
+          <indicator>
+            <p>Formulate a variety of relevant questions on a topic to establish a purpose for seeking information.</p>
+          </indicator>
+          <indicator>
+            <p>Contribute ideas, knowledge, and questions to help establish group inquiry or research focuses and purposes.</p>
+          </indicator>
+          <indicator>
+            <p>Prepare and use a plan to access ideas and information from a variety of sources (including digital).</p>
+          </indicator>
+          <indicator>
+            <p>Use pre-established criteria to evaluate the currency, usefulness, and reliability of information sources in answering inquiry or research questions.</p>
+          </indicator>
+          <indicator>
+            <p>Locate information using a search engine.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the appropriateness of the amount and quality of information collected.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and address information gaps for particular audiences and purposes.</p>
+          </indicator>
+          <indicator>
+            <p>Organize new information to reflect the intended purpose and audience.</p>
+          </indicator>
+          <indicator>
+            <p>Use the language of inquiry (e.g., “Where would I find information and ideas about this topic, question, problem, or issue?” “What processes or procedures could I use?” “How will I access these sources or carry out these procedures?”).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC7.3</identifier>
+        <outcome_text>Select and use the appropriate strategies to communicate meaning before (e.g., planning and organizing ideas to fit format), during (e.g. using transition words), and after (e.g., revising to eliminate unnecessary repetition) speaking, writing, and other representing activities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Progress through stages of the creating process (planning, drafting, revising, presenting) as needed.</p>
+          </indicator>
+          <indicator>
+            <p>Use several strategies before, during, and after representing, speaking, and writing including:</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC7.4</identifier>
+        <outcome_text>Use pragmatic (e.g., use language that demonstrates respect for others), textual (e.g., use common organizational patterns within texts), syntactical (e.g., ensure agreement of subjects, verbs, and pronouns), semantic/lexical/morphological (e.g., avoid overused and misused words), graphophonic (e.g., enunciate clearly), and other cues (e.g., use appropriate gestures and facial expressions) to construct and to communicate meaning.</outcome_text>
+        <outcome_note>NOTE: Italicized text refers to those indicators that are emphasized at this grade level.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Use the conventions of language and communication to deliberately convey meaning when engaging in speaking, writing, and other forms of representing.</p>
+          </indicator>
+          <indicator>
+            <p>Consistently apply the conventions of oral and written language and the conventions of visual and multimedia texts.</p>
+          </indicator>
+          <indicator>
+            <p>Use and apply language cues and conventions to communicate meaning including: Pragmatic: Textual: Syntactical: Semantic/Lexical/Morphological: Graphophonic: Other Cues</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC7.5</identifier>
+        <outcome_text>Create and present a variety of representations including visual and multimedia presentations such as displays, illustrations, and videos, and enhance communication with appropriate graphic organizers, charts, circle graphs, timelines, maps, and sound effects.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explore ideas and express understanding using a variety of representations (e.g., timelines, models, videos, news items).</p>
+          </indicator>
+          <indicator>
+            <p>Represent ideas and demonstrate understanding of forms and techniques in cartoon sequences, contextual dramas, posters, and advertisements.</p>
+          </indicator>
+          <indicator>
+            <p>Use the appropriate strategies in the representing process including planning and focusing, scripting and layout, revising, and producing.</p>
+          </indicator>
+          <indicator>
+            <p>Create and edit sound files.</p>
+          </indicator>
+          <indicator>
+            <p>Create and edit video files.</p>
+          </indicator>
+          <indicator>
+            <p>Create literary representations with some original qualities including narratives and dramatic scenes (e.g., skit or short video script).</p>
+          </indicator>
+          <indicator>
+            <p>Enhance oral and written compositions with illustrations, charts, and other graphics when appropriate.</p>
+          </indicator>
+          <indicator>
+            <p>Present to a specific audience (e.g., a presentation to adults) an oral, written, visual, or multimedia project using appropriate presentation software.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC7.6</identifier>
+        <outcome_text>Use oral language to interact purposefully and appropriately with others in pairs, small groups, and large group situations (e.g., contributing to sustaining dialogue, expressing support for others and their viewpoints, discussing and analyzing ideas and opinions, completing a variety of tasks, and contributing to group consensus building).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Share ideas/knowledge clearly and logically, add to others’ ideas, repeat points for clarification, and relate points already made for emphasis and reconsideration.</p>
+          </indicator>
+          <indicator>
+            <p>Maintain conversations with classmates, guests, and adults.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the ability to participate responsibly in discussions and team projects.</p>
+          </indicator>
+          <indicator>
+            <p>Facilitate small group activities and short, whole-class sessions to share information on a topic.</p>
+          </indicator>
+          <indicator>
+            <p>Contribute to group efforts to reach consensus or conclusions.</p>
+          </indicator>
+          <indicator>
+            <p>Assume different roles in group work (e.g., leader, recorder, contributor).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize when conflicts and tensions arise in group work and negotiate a return to a productive and respectful atmosphere.</p>
+          </indicator>
+          <indicator>
+            <p>Support key points with evidence and examples.</p>
+          </indicator>
+          <indicator>
+            <p>Defend and/or support opinion with evidence in group work.</p>
+          </indicator>
+          <indicator>
+            <p>Summarize personal viewpoint in clear and meaningful ways.</p>
+          </indicator>
+          <indicator>
+            <p>Summarize ideas discussed and state own view in light of discussion.</p>
+          </indicator>
+          <indicator>
+            <p>Present group conclusions and findings to classmates.</p>
+          </indicator>
+          <indicator>
+            <p>Respond to questions and suggestions concisely, clearly, and appropriately.</p>
+          </indicator>
+          <indicator>
+            <p>Speak to share and to entertain (e.g., read aloud, recite a poem, participate in an improvisation).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC7.7</identifier>
+        <outcome_text>Use oral language to express effectively information and ideas of some complexity in formal and informal situations (e.g., a procedural description based on personal experience, a demonstration, a persuasive speech, a dramatization).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Share ideas/knowledge clearly and logically, add to others’ ideas, repeat points for clarification, and relate points already made for emphasis and reconsideration.</p>
+          </indicator>
+          <indicator>
+            <p>Maintain conversations with classmates, guests, and adults.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the ability to participate responsibly in discussions and team projects.</p>
+          </indicator>
+          <indicator>
+            <p>Facilitate small group activities and short, whole-class sessions to share information on a topic.</p>
+          </indicator>
+          <indicator>
+            <p>Contribute to group efforts to reach consensus or conclusions.</p>
+          </indicator>
+          <indicator>
+            <p>Assume different roles in group work (e.g., leader, recorder, contributor).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize when conflicts and tensions arise in group work and negotiate a return to a productive and respectful atmosphere.</p>
+          </indicator>
+          <indicator>
+            <p>Support key points with evidence and examples.</p>
+          </indicator>
+          <indicator>
+            <p>Defend and/or support opinion with evidence in group work.</p>
+          </indicator>
+          <indicator>
+            <p>Summarize personal viewpoint in clear and meaningful ways.</p>
+          </indicator>
+          <indicator>
+            <p>Summarize ideas discussed and state own view in light of discussion.</p>
+          </indicator>
+          <indicator>
+            <p>Present group conclusions and findings to classmates.</p>
+          </indicator>
+          <indicator>
+            <p>Respond to questions and suggestions concisely, clearly, and appropriately.</p>
+          </indicator>
+          <indicator>
+            <p>Speak to share and to entertain (e.g., read aloud, recite a poem, participate in an improvisation).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC7.8</identifier>
+        <outcome_text>Write to describe a person; to narrate an imaginary incident or story; to explain and inform in a news story, a factual account, and a business letter; to persuade in a letter and in interpretation of a text.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Plan (e.g., using a chart or outline) and organize ideas to fit format and purpose (e.g., chronological, enumerative, problem/solution, cause/effect, comparison/contrast).</p>
+          </indicator>
+          <indicator>
+            <p>Sustain focus in a piece of writing for several pages.</p>
+          </indicator>
+          <indicator>
+            <p>Use transition words (e.g., first, then, next, before, after, however) to signal organizational pattern within compositions.</p>
+          </indicator>
+          <indicator>
+            <p>Use appropriate point of view (including third person) when writing for particular audience and purpose.</p>
+          </indicator>
+          <indicator>
+            <p>Create multiple-paragraph compositions (minimum of 5 paragraphs in an essay) of at least 500-700 words.</p>
+          </indicator>
+          <indicator>
+            <p>Create narrative texts (e.g., recount an event) as follows: establish a context, plot, and point of viewuse a range of narrative devices (e.g., dialogue, tension, suspense)make the narrative engagingdevelop it systematically leading to a climax or conclusion.</p>
+          </indicator>
+          <indicator>
+            <p>Create expository, informational, and procedural texts (e.g., present information or explain process, news story, letter) as follows: pose relevant questions to limit scope of textintroduce the purposedevelop topic with facts, details, examples, and explanations from multiple authoritative sourcesinclude several paragraphs or sections organized in logical sequenceuse transitionsoffer conclusion(s).</p>
+          </indicator>
+          <indicator>
+            <p>Create descriptive texts (e.g., a character or person) as follows: present a clear and colourful picture of a personinclude sensory details and vivid wordsuse a logical order (e.g., head to foot).</p>
+          </indicator>
+          <indicator>
+            <p>Create persuasive texts (e.g., persuasive letter, an interpretation) as follows: explain and justify reactions and personal connections to texts viewed, heard, and readmake explicit and deliberate connections with previous knowledge and experiencesgive opinions and make judgementsprovide support by reasons, explanations, and evidencesupport opinions with examples from textdevelop a clear organization.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC7.9</identifier>
+        <outcome_text>Experiment with a variety of text forms (e.g., meeting, presentation to adults, descriptive poem, opinion piece, a review, front page of a newspaper, short script) and techniques (e.g., dialogue, figurative language).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Plan (e.g., using a chart or outline) and organize ideas to fit format and purpose (e.g., chronological, enumerative, problem/solution, cause/effect, comparison/contrast).</p>
+          </indicator>
+          <indicator>
+            <p>Sustain focus in a piece of writing for several pages.</p>
+          </indicator>
+          <indicator>
+            <p>Use transition words (e.g., first, then, next, before, after, however) to signal organizational pattern within compositions.</p>
+          </indicator>
+          <indicator>
+            <p>Use appropriate point of view (including third person) when writing for particular audience and purpose.</p>
+          </indicator>
+          <indicator>
+            <p>Create multiple-paragraph compositions (minimum of 5 paragraphs in an essay) of at least 500-700 words.</p>
+          </indicator>
+          <indicator>
+            <p>Create narrative texts (e.g., recount an event) as follows: establish a context, plot, and point of viewuse a range of narrative devices (e.g., dialogue, tension, suspense)make the narrative engagingdevelop it systematically leading to a climax or conclusion.</p>
+          </indicator>
+          <indicator>
+            <p>Create expository, informational, and procedural texts (e.g., present information or explain process, news story, letter) as follows: pose relevant questions to limit scope of textintroduce the purposedevelop topic with facts, details, examples, and explanations from multiple authoritative sourcesinclude several paragraphs or sections organized in logical sequenceuse transitionsoffer conclusion(s).</p>
+          </indicator>
+          <indicator>
+            <p>Create descriptive texts (e.g., a character or person) as follows: present a clear and colourful picture of a personinclude sensory details and vivid wordsuse a logical order (e.g., head to foot).</p>
+          </indicator>
+          <indicator>
+            <p>Create persuasive texts (e.g., persuasive letter, an interpretation) as follows: explain and justify reactions and personal connections to texts viewed, heard, and readmake explicit and deliberate connections with previous knowledge and experiencesgive opinions and make judgementsprovide support by reasons, explanations, and evidencesupport opinions with examples from textdevelop a clear organization.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Assess and Reflect on Language Abilities (AR)</goal_heading>
+      <outcome>
+        <identifier>AR7.1</identifier>
+        <outcome_text>Set and achieve short-term and long-term goals to improve viewing, listening, reading, representing, speaking, and writing strategies.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Recognize speaking, listening, representing, viewing, writing, and reading as useful tools for clarifying thinking, communicating, and understanding.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the success of oral language skills and strategies including applying specific criteria to assess oral language interactions, analyzing the effectiveness of oral language strategies, and setting goals for oral language improvement.</p>
+          </indicator>
+          <indicator>
+            <p>Participate in the development and use of a rubric for assessing language skills and strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate group process and personal contributions according to pre-established criteria.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss developing abilities in personal language learning and use.</p>
+          </indicator>
+          <indicator>
+            <p>Contribute to and use scoring guides, rubrics, and other criteria to reflect on and analyze clarity of work.</p>
+          </indicator>
+          <indicator>
+            <p>Act on feedback.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on and assess viewing, listening, and reading experiences; and set goals for improvement.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on, analyze, and assess writing and other representing behaviours, and formulate goals for improvement.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>AR7.2</identifier>
+        <outcome_text>Appraise own and others’ work for clarity and correctness.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Recognize speaking, listening, representing, viewing, writing, and reading as useful tools for clarifying thinking, communicating, and understanding.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the success of oral language skills and strategies including applying specific criteria to assess oral language interactions, analyzing the effectiveness of oral language strategies, and setting goals for oral language improvement.</p>
+          </indicator>
+          <indicator>
+            <p>Participate in the development and use of a rubric for assessing language skills and strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate group process and personal contributions according to pre-established criteria.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss developing abilities in personal language learning and use.</p>
+          </indicator>
+          <indicator>
+            <p>Contribute to and use scoring guides, rubrics, and other criteria to reflect on and analyze clarity of work.</p>
+          </indicator>
+          <indicator>
+            <p>Act on feedback.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on and assess viewing, listening, and reading experiences; and set goals for improvement.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on, analyze, and assess writing and other representing behaviours, and formulate goals for improvement.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

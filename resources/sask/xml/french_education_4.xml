@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <dark_colour>#008164</dark_colour>
+  <light_colour>#e6f3f0</light_colour>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181677_1</pdf>
+  <banner>corefrench/Core_french_4.png</banner>
+  <fondements>core_french/fondements_core_french.html</fondements>
+  <matiere>core_french/matiere_core_french.html</matiere>
+  <curriculum_name>Core French</curriculum_name>
+  <lexicon>lexicons/core_french_4_lex.xml</lexicon>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Goal : Communication Skills (CS) Language Knowledge (LK)</goal_heading>
+      <outcome>
+        <identifier>4.CS.1</identifier>
+        <outcome_text>Demonstrate understanding of oral French messages in a variety of single sentence statements, questions, courtesy requests, and instructions. [L] [R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Matches French words to illustrations, actions, photos, or concrete objects.</p>
+          </indicator>
+          <indicator>
+            <p>Reproduces visual representations of items discussed in an oral representation (e.g., a plan of a school, a mask or any other concrete object).</p>
+          </indicator>
+          <indicator>
+            <p>Listens to simple conversations to retrieve two details.</p>
+          </indicator>
+          <indicator>
+            <p>Draws pictures to represent understanding of an oral story.</p>
+          </indicator>
+          <indicator>
+            <p>Uses French words and expressions to indicate understanding, (e.g., D’accord, Oui, Ça va ).</p>
+          </indicator>
+          <indicator>
+            <p>Responds to questions beginning with est-ce que, qu’est-ce que, qui (e.g., by pointing to objects or people, selecting and making illustrations, giving oui/non answers, giving single word answers in French, or answering in English).</p>
+          </indicator>
+          <indicator>
+            <p>Follows directions to a location (e.g., to an area of the classroom, a room in the school, an area in the school yard or a place in the community).</p>
+          </indicator>
+          <indicator>
+            <p>Follows directions in a procedure (e.g., preparing a recipe for pizza, dancing, applying face paint or playing a game).</p>
+          </indicator>
+          <indicator>
+            <p>Complies with a courtesy request to complete an action, such as Range ton cahier, s’il vous plait.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>4.CS.2</identifier>
+        <outcome_text>Provide a variety of information through oral expression supported by occasional prompting. [S] [L]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Greets others using common expressions (e.g., Bonjour. Salut. Comment ça va? Allo! (au téléphone) ).</p>
+          </indicator>
+          <indicator>
+            <p>Bids farewell to others using common expressions (e.g., Au revoir. Salut! À demain. À bientôt. ).</p>
+          </indicator>
+          <indicator>
+            <p>Asks or answers questions using a modeled French sentence (e.g., Où est-ce que tu vas? Je vais au magasin. Qu’est-ce que tu aimes? J’aime la pizza. Qu’est-ce que tu vois? Je vois mon amie. ).</p>
+          </indicator>
+          <indicator>
+            <p>Tells three important details about an event, object, location or a person, based on a sentence model.</p>
+          </indicator>
+          <indicator>
+            <p>Employs terms of politeness (e.g., Désolé, Pardon, Excuse-moi ).</p>
+          </indicator>
+          <indicator>
+            <p>Congratulates others using common expressions (e.g., Félicitations! , Bravo! and Super! ).</p>
+          </indicator>
+          <indicator>
+            <p>Uses terms of encouragement (e.g., Allez! Vas-y! Vite! C’est ton tour! Très bien! ) when playing team games.</p>
+          </indicator>
+          <indicator>
+            <p>Tells others how to reach a certain place in the school or community, using directions (e.g., à gauche, à droite, tout droit ).</p>
+          </indicator>
+          <indicator>
+            <p>Gives simple directions (e.g., making a pizza, making a mask, playing a game, or performing a dance step).</p>
+          </indicator>
+          <indicator>
+            <p>Indicates preferences for foods in positive and negative sentences (e.g., J’aime la pizza au fromage. Je n’aime pas la pizza hawaïenne ).</p>
+          </indicator>
+          <indicator>
+            <p>Expresses desires, such as Je veux une pizza aux pepperonis.</p>
+          </indicator>
+          <indicator>
+            <p>Uses previously learned sentences to participate in an oral language game.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>4.CS.3</identifier>
+        <outcome_text>Demonstrate understanding of the main idea and some details of a simple French expository or procedural text on a familiar topic. [R] [RP]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identifies the main idea of a 4-5 sentence illustrated text with: a key wordthe matching of a word to a visual representationa picturea gesturethe use of a previously learned French worda reply in English.</p>
+          </indicator>
+          <indicator>
+            <p>Answers familiar questions about some details in a 4-5 sentence illustrated text with a known French word or sentence, for example: Qu’est-ce que c’est? C’est une pizza aux pepperonis. Qu’est-ce que c’est? C’est une pizza aux champignons.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>4.CS.4</identifier>
+        <outcome_text>Produce a short and simple French text on a familiar topic based on a model. [W]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Writes a sentence using a sentence starter (e.g., J’aime… Je préfère… ).</p>
+          </indicator>
+          <indicator>
+            <p>Writes a descriptive modeled text of four sentences to describe a friend (e.g., Voici mon ami, Eric. Il est grand. Il est sympathique. Il a dix ans. ).</p>
+          </indicator>
+          <indicator>
+            <p>Writes a four-step modeled recipe (e.g., how to make a pizza).</p>
+          </indicator>
+          <indicator>
+            <p>Writes a short modeled expository or procedural text with a partner or a group.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Goal : General Language Strategies (GL)</goal_heading>
+      <outcome>
+        <identifier>4.GL.1</identifier>
+        <outcome_text>Use listening or viewing strategies in semi-structured situations. [L] [V] [RP]</outcome_text>
+        <indicators>
+          <outer_text>
+            <p>
+              <b>Before listening:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>Before listening: Describes what is seen in a picture, a title, or a photograph (e.g., by selecting pictures, by speaking in English, or by saying a single French word).</p>
+          </indicator>
+          <indicator>
+            <p>Before listening: Predicts the content of the oral presentation (e.g., by selecting pictures, by speaking in English, or by saying a single French word).</p>
+          </indicator>
+          <indicator>
+            <p>Before listening:Makes connections to own experience on what he or she knows about the subject as announced in the title, by speaking in English.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>During listening:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>During listening: Identifies key words (e.g., those that indicate people, food, animals, place, dates, time and weather).</p>
+          </indicator>
+          <indicator>
+            <p>During listening: Names gestures, facial expressions, intonation and voice expression used to understand a message.</p>
+          </indicator>
+          <indicator>
+            <p>During listening: Uses context clues to guess at the meaning of unknown words or expressions.</p>
+          </indicator>
+          <indicator>
+            <p>During listening: Tells about a mental image using a familiar French word.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>After listening:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>After listening: Verifies predictions.</p>
+          </indicator>
+          <indicator>
+            <p>After listening: Identifies the main idea of the listening experience (e.g., by saying a familiar key word or phrase or by drawing a picture).</p>
+          </indicator>
+          <indicator>
+            <p>After listening: Identifies, in English, the strategies used to interpret the message.</p>
+          </indicator>
+          <indicator>
+            <p>After listening: Asks questions, in English, about content that was not understood.</p>
+          </indicator>
+          <indicator>
+            <p>After listening: Self-evaluates using a rating scale or familiar expressions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>4.GL.2</identifier>
+        <outcome_text>Use speaking strategies in semi-structured situations. [L] [V] [RP]</outcome_text>
+        <indicators>
+          <outer_text>
+            <p>
+              <b>Before speaking:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>Before speaking: Brainstorms with support, basic criteria needed for a successful presentation, (e.g., using previously learned French expressions or in English).</p>
+          </indicator>
+          <indicator>
+            <p>Before speaking: Chooses props that can be used during a presentation, (e.g., posters, pictures, puppets and other supports).</p>
+          </indicator>
+          <indicator>
+            <p>Before speaking: Plans what to say during a conversation or presentation.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>During speaking:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>During speaking: Practices new words and phrases by participating in activities with others.</p>
+          </indicator>
+          <indicator>
+            <p>During speaking: Presents a topic using visual supports (e.g., charts, pictures, bulletin board materials and visual or personal dictionaries).</p>
+          </indicator>
+          <indicator>
+            <p>During speaking: Presents information using previously learned French vocabulary and expressions.</p>
+          </indicator>
+          <indicator>
+            <p>During speaking: Self-corrects pronunciation with feedback from the teacher or others.</p>
+          </indicator>
+          <indicator>
+            <p>During speaking: Incorporates feedback from others (e.g., Parle fort. Regarde les personnes. Utilise ton poster. ).</p>
+          </indicator>
+          <indicator>
+            <p>During speaking: Uses gestures to convey meaning.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>After speaking:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>After speaking: Self-evaluates using presentation criteria generated during brainstorming activities or satisfaction indicators (e.g., J’ai parlé fort. J’ai parlé assez fort. Je n’ai pas parlé assez fort. ).</p>
+          </indicator>
+          <indicator>
+            <p>After speaking: Sets goals for the next presentation or conversation, using the criteria generated.</p>
+          </indicator>
+          <indicator>
+            <p>After speaking: Describes how the criteria for successful French presentations can be applied to other subject areas.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>4.GL.3</identifier>
+        <outcome_text>Use reading strategies for short texts in semi-structured situations. [L] [V] [R]</outcome_text>
+        <indicators>
+          <outer_text>
+            <p>
+              <b>Before shared reading:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>Before shared reading: Predicts the content of the text (e.g., by matching a key word to a picture on a book cover or in the text, by selecting a picture on a worksheet, or by selecting a key word in the title).</p>
+          </indicator>
+          <indicator>
+            <p>Before shared reading: Makes connections to own experiences on what he or she knows about the subject as announced in the title (e.g., by selecting pictures, by speaking in English, or with a French word or expression).</p>
+          </indicator>
+          <indicator>
+            <p>Before shared reading: Suggests the purpose for reading (e.g., by finding information about a topic or learning how to do a procedure, by speaking in English, or by saying a French word).</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>During shared reading:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>During shared reading: Identifies key words and cognates (e.g., people, animals, place, time and weather).</p>
+          </indicator>
+          <indicator>
+            <p>During shared reading: Identifies and uses parts of illustrations and photos to assist understanding.</p>
+          </indicator>
+          <indicator>
+            <p>During shared reading: Examines charts and posters or visual and personal dictionaries to assist understanding.</p>
+          </indicator>
+          <indicator>
+            <p>During shared reading: Refers to predictions made before reading to assist understanding.</p>
+          </indicator>
+          <indicator>
+            <p>During shared reading: Tells about a mental image in English or with a French word or phrase.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>After shared reading:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>After shared reading: Verifies predictions.</p>
+          </indicator>
+          <indicator>
+            <p>After shared reading: Identifies the content of the written text (e.g., with a familiar key word or expression or by drawing a picture).</p>
+          </indicator>
+          <indicator>
+            <p>After shared reading: Shares, in English, the strategies used to read the written text and tells how they are used when reading in English.</p>
+          </indicator>
+          <indicator>
+            <p>After shared reading: Asks questions, in English, about content that was not understood.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>4.GL.4</identifier>
+        <outcome_text>Implement steps of a shortened writing process in structured situations. [W] [R]</outcome_text>
+        <indicators>
+          <outer_text>
+            <p>
+              <b>Before writing:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>Before writing:Names single word ideas for writing in French and shares them with a partner.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>Before writing: During writing:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>Before writing: Refers to a personal or visual dictionary for previously learned words.</p>
+          </indicator>
+          <indicator>
+            <p>Before writing: Refers to environmental print (e.g., bulletin boards, dictionaries, word lists or charts) when searching for a French word.</p>
+          </indicator>
+          <indicator>
+            <p>Before writing: Writes a four to five sentence text following a stylized model or template.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>After writing:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>After writing: Checks text for spelling (e.g., using a word chart, a dictionary, or a word list).</p>
+          </indicator>
+          <indicator>
+            <p>After writing: Self-evaluates written work with personal satisfaction indicators (e.g., Pas trop bien. Assez bien. Bien. Très bien. Excellent. ).</p>
+          </indicator>
+          <indicator>
+            <p>After writing: Discusses, in English, the stages of the writing process and how some of them were used to write in French.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Goal : Language Knowledge (LK)</goal_heading>
+      <outcome>
+        <identifier>4.LK.1</identifier>
+        <outcome_text>Demonstrate acquisition of French language concepts related to themes, including: numbers 1-69statements and imperative sentencesa range of – er verbs and selected – re and – ir verbsadjectivesprepositions of locationdifferences between various question typesknowledge of key vocabulary words and phrases. [S] [L] [R] [W]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Counts to 69.</p>
+          </indicator>
+          <indicator>
+            <p>Names numbers 1-69.</p>
+          </indicator>
+          <indicator>
+            <p>Makes a simple complete sentence, both orally and in writing.</p>
+          </indicator>
+          <indicator>
+            <p>Makes a sentence using the imperative form of the verbs aller, tourner, continuer, arrêter, tracer, dessiner, mettre, and lire.</p>
+          </indicator>
+          <indicator>
+            <p>Uses thematically related – er verbs in a sentence as well as the following verbs: prendre, and vouloir.</p>
+          </indicator>
+          <indicator>
+            <p>Meets thematic unit language needs with the verbs prendre , and perdre.</p>
+          </indicator>
+          <indicator>
+            <p>Describes people and animals with gender appropriate adjectives.</p>
+          </indicator>
+          <indicator>
+            <p>Shows locations for dans, au milieu, en arrière, en avant, à gauche, and à droite.</p>
+          </indicator>
+          <indicator>
+            <p>Differentiates between questions beginning with où, qui, est-ce que, and qu’est-ce que.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrates an understanding of key words and phrases related to the following themes by using them in a simple oral or written sentence based on models: A Treasure Hunt in My CommunityFriendsRooms in the SchoolAnimal LogosCostumes and MasksPizzaAction SequencesVacation Activities in Saskatchewan.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Goal : Culture</goal_heading>
+      <outcome>
+        <identifier>4.C.1</identifier>
+        <outcome_text>Compare elements of Francophone, First Nations and Métis cultures in Saskatchewan. [S]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represents Francophone cultures (e.g., by singing a song, or reciting a poem previously learned in class).</p>
+          </indicator>
+          <indicator>
+            <p>Describes Francophone foods such as the various bread types found locally (e.g., les galettes (pancake), la baguette, les croissants, les crêpes, la brioche (sweet bun)), in comparison to First Nations and Métis breads such as la banique (bannock).</p>
+          </indicator>
+          <indicator>
+            <p>Describes elements of Francophone cultures in the classroom, school and province of Saskatchewan (e.g., books, maps, flags, posters, signage, radio and television stations or programs, and internet sites).</p>
+          </indicator>
+          <indicator>
+            <p>Locates on a map various Francophone communities in Saskatchewan (e.g., Bellevue, Debden, Gravelbourg, Montmartre, North Battleford, Ponteix, Prince Albert, St. Brieux, Zenon Park, Willowbunch) as well as cultural and historical French and First Nations sites (e.g., Wanuskewin, Batoche and Gravelbourg’s Co-Cathedral).</p>
+          </indicator>
+          <indicator>
+            <p>Names provincial Francophone people in music, drama, art, sport and literature (e.g., Jocelyn Frenette (Saskatchewan Roughriders), Joe Fafard (sculptor), La Troupe du Jour (professional theatre company), Carmen Campagne (children’s singer-songwriter), singers Mitch Daigneault, Joël Fafard, and Michel Marchildon), and First Nations and Métis writers and artists (e.g., Allen Sapp, David Bouchard, and Jim Poitras).</p>
+          </indicator>
+          <indicator>
+            <p>Describes mythic animals across Francophone cultures (e.g., le loup garou, le corbeau, and le hibou ) and mythic animals in First Nations and Métis cultures (e.g., Coyote, Bison, Bear, Wolverine, Eagle, Beaver, Fox, Turtle, Muskrat, and Otter).</p>
+          </indicator>
+          <indicator>
+            <p>Describes Francophone and First Nations and Métis festivals and events in Saskatchewan (e.g., “Back to Batoche Days”, Le festival d’hiver de Gravelbourg and the First Nations Summer and Winter Games).</p>
+          </indicator>
+          <indicator>
+            <p>Describes dances or performances of groups related to Francophone, First Nations and Métis cultures (e.g., Le Cirque du Soleil, la gigue, Grass or Hoop Dance).</p>
+          </indicator>
+          <indicator>
+            <p>Discusses authentic French picture books read by the teacher.</p>
+          </indicator>
+          <indicator>
+            <p>Uses knowledge of Francophone cultures to participate in cultural activities (e.g., games, singing, and celebrations).</p>
+          </indicator>
+          <indicator>
+            <p>Self-evaluates participation in cultural activities through the use of satisfaction indicators (e.g., Pas trop bien. Assez bien. Bien. Très bien. Excellent. or by using a checklist).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

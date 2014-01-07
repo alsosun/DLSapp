@@ -1,0 +1,521 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181799_1</pdf>
+  <banner>mathematics/mathematics9.gif</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>mathematics/mathematics9aimsgoals.htm</goals>
+  <teaching>mathematics/mathematics9teaching.htm</teaching>
+  <curriculum_name>Mathematics 9</curriculum_name>
+  <classification_id>mathematics 9</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Number</goal_heading>
+      <outcome>
+        <identifier>N9.1</identifier>
+        <outcome_text>Demonstrate (concretely, pictorially, and symbolically) understanding of powers with integral bases (excluding base 0) and whole number exponents including:representing using powersevaluating powerspowers with an exponent of zerosolving situational questions.</outcome_text>
+        <outcome_text>[C, CN, PS, R, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate the difference between the exponent and base of a power by representing two powers with exponent and base interchanged (e.g., 2³ and 3² or 10³ and 3¹⁰) using repeated multiplication or concrete models and describe the result.</p>
+          </indicator>
+          <indicator>
+            <p>Predict which of two powers represents the greater quantity, explain the reasoning, and verify using technology.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the role of brackets in powers by using repeated multiplication [e.g., (–2)⁴, (– 2⁴), and –2⁴] and generalize strategies for evaluating powers involving brackets.</p>
+          </indicator>
+          <indicator>
+            <p>Justify why a⁰, a ≠ 0, must equal to 1.</p>
+          </indicator>
+          <indicator>
+            <p>Predict whether the value of a given power will be positive or negative (e.g., what will the sign of -7¹⁵ be?).</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate powers with integral bases (excluding base 0) and whole number exponents, with or without the use of technology.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize, using repeated multiplication to represent powers, the exponent laws of powers with integral bases (excluding base 0) and whole number exponents:</p>
+            <ul>
+              <li>
+                <img>math_en/9g1.gif</img>
+              </li>
+              <li>
+                <img>math_en/9g2.gif</img>
+              </li>
+              <li>
+                <img>math_en/9g3.gif</img>
+              </li>
+              <li>
+                <img>math_en/9g4.gif</img>
+              </li>
+            </ul>
+          </indicator>
+          <indicator>
+            <p>Apply the exponent laws to expressions involving powers, and determine the quantity represented by the expression, with or without the use of technology.</p>
+          </indicator>
+          <indicator>
+            <p>Prove by contradiction that<img>math_en/9i1.gif</img>,<img>math_en/9i2.gif</img>, and<img>math_en/9i3.gif</img>.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and apply strategies for evaluating sums or differences of powers.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a simplification of an expression involving powers for errors.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N9.2</identifier>
+        <outcome_text>Demonstrate understanding of rational numbers including:comparing and orderingrelating to other types of numberssolving situational questions.</outcome_text>
+        <outcome_text>[C, CN, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Order a given set of rational numbers, in fraction and decimal form, by placing them on a number line and explaining the reasoning used (e.g., 3/5, - 0.666, 4,… , 0.5, -5/8).</p>
+          </indicator>
+          <indicator>
+            <p>Determine a rational number between two given rational numbers and describe the strategy used.</p>
+          </indicator>
+          <indicator>
+            <p>Create a representation depicting how whole numbers, fractions, decimals, integers, square roots, and rational numbers are related to each other.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples to explain how knowing about how to add, subtract, multiply, and divide integers and positive rational numbers informs knowing how to add, subtract, multiply, and divide rational numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples to demonstrate how the order of operations can be extended to rational numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions involving operations on rational numbers, with or without the use of technology.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a simplification of an expression involving rational numbers for errors.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N9.3</identifier>
+        <outcome_text>Extend understanding of square roots to include the square root of positive rational numbers. [CN, ME, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop a generalization about what type of number results from the squaring of a rational number.</p>
+          </indicator>
+          <indicator>
+            <p>Describe strategies for determining if a rational number is a perfect square.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the square root of a rational number that is a perfect square.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the rational number for which a given rational number is its square root (e.g., 4/3 is the square root of what rational number?).</p>
+          </indicator>
+          <indicator>
+            <p>Explain and apply strategies involving benchmarks for determining an estimate of the square root of a rational number that is not a perfect square.</p>
+          </indicator>
+          <indicator>
+            <p>Determine, with the use of technology, an approximate value for the square root of a rational number that is not a perfect square.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why the value shown by technology may only be an approximation of the square root of a rational number.</p>
+          </indicator>
+          <indicator>
+            <p>Describe a strategy that, if applied to writing a decimal number, would result in an irrational number (e.g., students describe a strategy in which they repeatedly write the digits 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 but separate each group of these digits by an increasing number of repeats of the digit 7 or 0.0123456789701234567897701234567897770123…).</p>
+          </indicator>
+          <indicator>
+            <p>Determine a rational number whose square root would be between two given rational numbers and explain the reasoning used (e.g., a rational number whose square root is between 1/2 and 1/3 would be between 1/4 and 1/9 because those are 1/2 and 1/3 squared. I need to find a number between 1/4 and 1/9. I can do this by making the two fractions into fractions of the same type: 9/36 and 4/36. One number between these is 6/36 or 8/36).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Patterns and Relations</goal_heading>
+      <outcome>
+        <identifier>P9.1</identifier>
+        <outcome_text>Demonstrate understanding of linear relations including:graphinganalyzinginterpolating and extrapolatingsolving situational questions.</outcome_text>
+        <outcome_text>[C, CN, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and describe a situation relevant to self, family, or community that a given graph might represent and explain the meaning conveyed by the graph.</p>
+          </indicator>
+          <indicator>
+            <p>Sort a set of graphs into representations of linear and non-linear relations.</p>
+          </indicator>
+          <indicator>
+            <p>Sketch graphs for given linear relations, including horizontal and vertical lines, with and without the use of technology.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize strategies for determining if a given linear relation will have a graph that is horizontal, vertical, increasing, or decreasing.</p>
+          </indicator>
+          <indicator>
+            <p>Extrapolate to determine a value for either variable in a linear relation beyond the shown graph.</p>
+          </indicator>
+          <indicator>
+            <p>Verify an extrapolated value from a graph by using substitution in the related linear relation.</p>
+          </indicator>
+          <indicator>
+            <p>Interpolate to determine a value for either variable in a linear relation within the shown graph.</p>
+          </indicator>
+          <indicator>
+            <p>Verify an interpolated value from a graph by using substitution in the related linear relation.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions by graphing linear relations and interpreting the resulting graphs.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P9.2</identifier>
+        <outcome_text>Model and solve situational questions using linear equations of the form:ax = bx/a = b, a ≠ 0ax + b = cx/a + b = c, a ≠ 0ax = b + cxa(x + b) = cax + b = cx + da(bx + c) = d(ex + f)a/x = b, x ≠ 0</outcome_text>
+        <outcome_text>where a, b, c, d, e, and f are rational numbers. [C, CN, PS, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain why the equation a/x = b, cannot have a solution of x = 0.</p>
+          </indicator>
+          <indicator>
+            <p>Write a linear expression representing a given pictorial, oral, or written pattern.</p>
+          </indicator>
+          <indicator>
+            <p>Write a linear equation to represent a particular situation.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and describe a situation relevant to self, family, or community which could be represented by a linear equation.</p>
+          </indicator>
+          <indicator>
+            <p>Write a linear equation representing the pattern in a given table of values and verify the equation by substituting values from the table.</p>
+          </indicator>
+          <indicator>
+            <p>Model the solution of a linear equation using concrete or pictorial representations, and explain how to record the process symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how the preservation of equality is involved in the solving of linear equations.</p>
+          </indicator>
+          <indicator>
+            <p>Verify, by substitution, whether or not a given rational number is a solution to a given linear equation.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a linear equation symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the given solution for a linear equation that has resulted in an incorrect solution, and identify and explain the error(s) made.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples from the modern world in which linear equations are used and solved.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P9.3</identifier>
+        <outcome_text>Demonstrate understanding of single variable linear inequalities with rational coefficients including:solving inequalitiesverifyingcomparinggraphing.</outcome_text>
+        <outcome_text>[C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and describe situations relevant to self, family, or community, including First Nations and Métis communities, that involve inequalities and classify the inequality as being less than, greater than, less than or equal to, or greater than or equal to.</p>
+          </indicator>
+          <indicator>
+            <p>Verify whether or not a given rational number is part of the solution set for a linear inequality.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize and apply rules for adding or subtracting a positive or negative number to determine the solution of an inequality.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize and apply a rule for multiplying or dividing by a positive or negative number to determine the solution of an inequality.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a linear inequality algebraically and explain the strategies used.</p>
+          </indicator>
+          <indicator>
+            <p>Compare and explain the process for solving a linear equation to the process for solving a linear inequality.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how knowing the solution to a linear equality can be used to determine the solution of a related linear inequality, and provide an example.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement: “For any linear equality, there are two related linear inequalities”.</p>
+          </indicator>
+          <indicator>
+            <p>Graph the solution of a linear inequality on a number line.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why there is more than one solution to a linear inequality.</p>
+          </indicator>
+          <indicator>
+            <p>Verify the solution of a given linear inequality using substitution for multiple elements, in the solution and outside of the solution.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a situational question involving a single variable linear inequality and graph the solution.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P9.4</identifier>
+        <outcome_text>Demonstrate understanding of polynomials (limited to polynomials of degree less than or equal to 2) including:modelinggeneralizing strategies for addition, subtraction, multiplication, and divisionanalyzingrelating to contextcomparing for equivalency.</outcome_text>
+        <outcome_text>[C, CN, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Model (concretely or pictorially) and describe the relationship between x and x².</p>
+          </indicator>
+          <indicator>
+            <p>Represent polynomials concretely or pictorially, and describe how the concrete or pictorial model reflects the symbolic form</p>
+          </indicator>
+          <indicator>
+            <p>Write a polynomial for a given concrete or pictorial representation.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the variables, degree, number of terms, and coefficients, including the constant term, of a given simplified polynomial expression and explain the role or significance of each.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the type of expression that is represented by a polynomial of degree 1.</p>
+          </indicator>
+          <indicator>
+            <p>Sort a set of polynomials into monomials, binomials, and trinomials.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “A binomial can never be a degree 2 polynomial”.</p>
+          </indicator>
+          <indicator>
+            <p>Write equivalent forms of a polynomial expression by interchanging terms or by decomposing terms, and justify the equivalence.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why terms with different variable exponents cannot be added or subtracted.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize, from concrete and pictorial models, and apply strategies for adding and subtracting polynomials symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Verify whether or not the simplification of the addition or subtraction of two polynomials is correct and explain.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the relationship between multiplication of a polynomial and a monomial, and determining the area of a rectangular region.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize, from concrete and pictorial models, and apply strategies for multiplying a polynomial by a monomial.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize, from concrete and pictorial models, and apply strategies for dividing a polynomial by a monomial.</p>
+          </indicator>
+          <indicator>
+            <p>Verify whether or not the simplification of the multiplication or division of a polynomial by a monomial is correct.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Shape and Space</goal_heading>
+      <outcome>
+        <identifier>SS9.1</identifier>
+        <outcome_text>Demonstrate understanding of circle properties including:perpendicular line segments from the centre of a circle to a chord bisect the chordinscribed angles subtended by the same arc have the same measurethe measure of a central angle is twice the measure of an inscribed angle subtending the same arctangents to a circle are perpendicular to the radius ending at the point of tangency.</outcome_text>
+        <outcome_text>[C, CN, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and describe situations relevant to self, family, or community that involve circles, chords, central angles, inscribed angles, radii, arcs, and/or points of tangency.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a tangent line to a circle by applying the knowledge that a tangent line to the circle is perpendicular to a radius of the circle.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize, from personal explorations, the relationship between the measures of inscribed angles subtended by the same arc.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize, from personal explorations, the relationship between the measure of a central angle and the measure of inscribed angles subtended by the same arc.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize, from personal explorations, the relationship between a perpendicular line segment from the centre of a circle to a chord and the chord.</p>
+          </indicator>
+          <indicator>
+            <p>Model how to find the diameter of a circle using an inscribed angle of 90° and explain why the strategy works.</p>
+          </indicator>
+          <indicator>
+            <p>Describe examples of where First Nations and Métis, past and present, lifestyles and worldviews demonstrate one or more of the circle properties (e.g., tipi and medicine wheel).</p>
+          </indicator>
+          <indicator>
+            <p>Solve a situational question involving the application of one or more of the circle properties.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS9.2</identifier>
+        <outcome_text>Extend understanding of area to surface area of right rectangular prisms, right cylinders, right triangular prisms, to composite 3-D objects. [CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe 3-D composite objects from the natural and constructed world, including objects relevant to First Nations and Métis people (e.g., Mesoamerican pyramids).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a composite 3-D object to identify areas of overlap and explain the impact of these areas on determining the surface area of the composite 3-D object.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “To find the surface area of a composite 3-D object, add together the surface areas of the individual 3-D objects from which the composite 3-D object is comprised”.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the surface area of composite 3-D objects.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions involving the surface area of composite 3-D objects.</p>
+          </indicator>
+          <indicator>
+            <p>Give dimensions for a single 3-D object that will have the same surface area as a composite 3-D object.</p>
+          </indicator>
+          <indicator>
+            <p>Approximate the surface area of a 3-D object from the natural environment using composites of standard 3-D objects such as right rectangular prisms, right cylinders, and right triangular prisms.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS9.3</identifier>
+        <outcome_text>Demonstrate understanding of similarity of 2-D shapes. [C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and describe 2-D shapes, relevant to self, family, or community, that are similar.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the difference between similarity and congruence of polygons.</p>
+          </indicator>
+          <indicator>
+            <p>Verify whether or not two polygons are similar.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how ratios and proportionality are related to similarity of polygons.</p>
+          </indicator>
+          <indicator>
+            <p>Draw a polygon similar to a given polygon and explain the strategies used.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions involving the similarity of polygons.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and describe situations relevant to self, family, or community that involve scale diagrams and explain the meaning of the scale factor involved.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how scale diagrams are related to similarity, ratios, and proportionality.</p>
+          </indicator>
+          <indicator>
+            <p>Draw a diagram to scale that represents an enlargement or reduction of a given 2-D shape and explain the strategies used.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how to determine the scale factor for a given 2-D shape and an enlargement or reduction of the shape.</p>
+          </indicator>
+          <indicator>
+            <p>Verify whether or not a given diagram is a scale diagram of a 2-D shape and, if it is, identify the scale factor for the diagram.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions involving scale diagrams and scale factors.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS9.4</identifier>
+        <outcome_text>Demonstrate understanding of line and rotation symmetry. [C, CN, PS, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and describe examples of line and rotation symmetry in situations relevant to self, family, or community.</p>
+          </indicator>
+          <indicator>
+            <p>Classify different 2-D shapes or designs made of 2-D shapes, according to the number of lines of symmetry.</p>
+          </indicator>
+          <indicator>
+            <p>Complete a 2-D shape or design given part of a shape or design and one or more lines of symmetry.</p>
+          </indicator>
+          <indicator>
+            <p>Determine, with justification, if a given 2-D shape or design has rotation symmetry about the point at the centre of the shape or design and, if it does, state the order and angle of rotation.</p>
+          </indicator>
+          <indicator>
+            <p>Identify a line of symmetry, or the order and angle of rotation symmetry, in a given tessellation.</p>
+          </indicator>
+          <indicator>
+            <p>Describe examples of the use and significance of line and rotation symmetry in First Nations and Métis art.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze different transformations of 2-D shapes on the Cartesian plane and describe the type of symmetry, if any, that results.</p>
+          </indicator>
+          <indicator>
+            <p>Determine whether or not two 2-D shapes on the Cartesian plane are related by either rotation or line symmetry and explain.</p>
+          </indicator>
+          <indicator>
+            <p>Create or provide an art work (such as a painting or dance) that demonstrates line and rotation symmetry, and identify the line(s) of symmetry and the order and angle of rotation.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Statistics and Probability</goal_heading>
+      <outcome>
+        <identifier>SP9.1</identifier>
+        <outcome_text>Demonstrate understanding of the effect of:biasuse of languageethicscosttime and timingprivacycultural sensitivity andpopulation or sample</outcome_text>
+        <outcome_text>on data collection. [C, PS, R, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze given case studies of data collection, including data pertaining to First Nations and Métis peoples, and identify potential problems related to bias, use of language, ethics, cost, time and timing, privacy, or cultural sensitivity.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples to illustrate how bias, use of language, ethics, cost, time and timing, privacy, or cultural sensitivity may influence the data collected.</p>
+          </indicator>
+          <indicator>
+            <p>Identify situations relevant to self, family, or community where a set of data was collected and classify each situation as involving a sample or the population.</p>
+          </indicator>
+          <indicator>
+            <p>Provide an example of a situation in which a population may be used to answer a question, and justify the choice.</p>
+          </indicator>
+          <indicator>
+            <p>Provide an example of a question where a limitation precludes the use of a population and describe the limitation (e.g., too costly, not enough time, limited resources).</p>
+          </indicator>
+          <indicator>
+            <p>Identify and critique given examples in which a generalization from a sample of a population, including from First Nations and Métis data, may or may not be valid for the population.</p>
+          </indicator>
+          <indicator>
+            <p>Explain different strategies for trying to minimize negative effects on data collection.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the importance of protocols for respectful data collection and information sharing.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SP9.2</identifier>
+        <outcome_text>Demonstrate an understanding of the collection, display, and analysis of data through a project. [C, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Devise a project plan related to a situation relevant to self, family, or community, that involves:formulating a question for investigationchoosing a data collection method that includes social considerationselecting a population or a sample, and justifying the choicecollecting the datadisplaying the collected data in an appropriate mannerdrawing conclusions to answer the question.</p>
+          </indicator>
+          <indicator>
+            <p>Create and apply a rubric to assess a project that includes the assessment of all requirements for the project.</p>
+          </indicator>
+          <indicator>
+            <p>Complete the project according to the plan, draw conclusions, and communicate findings to an audience.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SP9.3</identifier>
+        <outcome_text>Demonstrate an understanding of the role of probability in society. [C, CN, R, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe examples of probabilities that impact or influence aspects of one’s self, family, community, or environment and describe those impacts or influences.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the meaningfulness of a probability against the limitations of assumptions associated with that probability.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of how a single probability could be used to support opposing positions.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, how decisions based on probability may be a combination of theoretical probability, experimental probability, and subjective judgement.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SP9.4</identifier>
+        <outcome_text>Research and present how First Nations and Métis peoples, past and present, envision, represent, and make use of probability and statistics.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Gather and document information regarding the significance and use of probability and statistics for at least one First Nation or Métis peoples from a variety of sources such as Elders and traditional knowledge keepers.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the significance, representation, and use of probability and statistics for different First Nations and Métis peoples, and other cultures.</p>
+          </indicator>
+          <indicator>
+            <p>Communicate concretely, pictorially, orally, visually, physically, and/or in writing, what has been learned about the envisioning, representing, and use of probability and statistics by First Nations and Métis peoples and how these understandings parallel, differ from, and enhance one’s own mathematical understandings about probability and statistics.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

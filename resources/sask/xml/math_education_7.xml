@@ -1,0 +1,583 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181797_1</pdf>
+  <banner>mathematics/mathematics7.gif</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>mathematics/mathematics7aimsgoals.htm</goals>
+  <teaching>mathematics/mathematics7teaching.htm</teaching>
+  <curriculum_name>Mathematics 7</curriculum_name>
+  <classification_id>mathematics 7</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Number</goal_heading>
+      <outcome>
+        <identifier>N7.1</identifier>
+        <outcome_text>Demonstrate an understanding of division through the development and application of divisibility strategies for 2, 3, 4, 5, 6, 8, 9, and 10, and through an analysis of division involving zero. [C, CN, ME, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate division by 2, 3, 4, 5, 6, 8, 9, or 10 and generalize strategies for determining divisibility by those numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Apply strategies for determining divisibility to sort a set of numbers in Venn or Carroll diagrams.</p>
+          </indicator>
+          <indicator>
+            <p>Determine or validate the factors of a number by applying strategies for divisibility.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the result of dividing a quantity of zero by a non-zero quantity.</p>
+          </indicator>
+          <indicator>
+            <p>Explain (by generalizing patterns, analogies, and mathematical reasoning) why division of non-zero quantities by zero is not defined.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N7.2</identifier>
+        <outcome_text>Expand and demonstrate understanding of the addition, subtraction, multiplication, and division of decimals to greater numbers of decimal places, and the order of operations. [C, CN, ME, PS, R, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Provide a justification for the placement of a decimal in a sum or difference of decimals up to thousandths (e.g., for 4.5 + 0.73 + 256.458, think 4 + 256 so the sum is greater than 260; thus, the decimal will be placed so that the sum is in the hundreds).</p>
+          </indicator>
+          <indicator>
+            <p>Provide a justification for the placement of a decimal in a product (e.g., for $12.33 × 2.4, think $12 × 2, so the product is greater than $24; thus, the decimal in the final product would be placed so that the answer is in the tens).</p>
+          </indicator>
+          <indicator>
+            <p>Provide a justification for the placement of a decimal in a quotient (e.g., for 51.50 m ÷ 2.1, think 50 m ÷ 2 so the quotient is approximately 25 m; thus, the final answer will be in the tens). (Note: If the divisor has more than one digit, students should be allowed to use technology to determine the final answer.)</p>
+          </indicator>
+          <indicator>
+            <p>Solve a problem involving the addition, or subtraction, of two or more decimal numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a problem involving the multiplication or division of decimal numbers with 2-digit multipliers or 1-digit divisors (whole numbers or decimals) without the use of technology.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a problem involving the multiplication or division of decimal numbers with more than a 2-digit multiplier or 1-digit divisor (whole number or decimal), with the use of technology.</p>
+          </indicator>
+          <indicator>
+            <p>Check the reasonableness of solutions using estimation.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a problem that involves operations on decimals (limited to thousandths) taking into consideration the order of operations.</p>
+          </indicator>
+          <indicator>
+            <p>Explain by using examples why it is important to follow a specific order of operations when calculating with decimals and/or whole numbers.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N7.3</identifier>
+        <outcome_text>Demonstrate an understanding of the relationships between positive decimals, positive fractions (including mixed numbers, proper fractions and improper fractions), and whole numbers. [C, CN, ME, R, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Predict the decimal representation of a fraction based upon patterns and justify the reasoning (e.g., knowing the decimal equivalent of 1/8 and 2/8, predict and verify the decimal representation of 7/8).</p>
+          </indicator>
+          <indicator>
+            <p>Match a set of fractions to their decimal representations.</p>
+          </indicator>
+          <indicator>
+            <p>Sort a set of fractions into repeating or terminating decimals.</p>
+          </indicator>
+          <indicator>
+            <p>Explain and demonstrate how any terminating decimal can also be written as a repeating decimal.</p>
+          </indicator>
+          <indicator>
+            <p>Express a fraction as a terminating or repeating decimal.</p>
+          </indicator>
+          <indicator>
+            <p>Express a repeating decimal as a fraction.</p>
+          </indicator>
+          <indicator>
+            <p>Express a terminating decimal as a fraction.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the relationship between fractions, decimals, and division.</p>
+          </indicator>
+          <indicator>
+            <p>Provide an example where the decimal representation of a fraction is an approximation of its exact value.</p>
+          </indicator>
+          <indicator>
+            <p>Order a set of numbers containing decimals, fractions, and/or whole numbers in ascending or descending orders and justify the order determined.</p>
+          </indicator>
+          <indicator>
+            <p>Identify, with justification, a number that would be between two given numbers (decimal, fraction, and/or whole numbers) in an ordered sequence or shown on a number line.</p>
+          </indicator>
+          <indicator>
+            <p>Identify incorrectly placed numbers within an ordered sequence or shown on a number line.</p>
+          </indicator>
+          <indicator>
+            <p>Order the numbers in a set of numbers by using benchmarks on a number line such as 0, ½ , and 1.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N7.4</identifier>
+        <outcome_text>Expand and demonstrate an understanding of percent to include fractional percents between 1% and 100%. [C, PS, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create a representation (concrete, pictorial, physical or oral) of a fractional percent between 1% and 100%.</p>
+          </indicator>
+          <indicator>
+            <p>Express a percent as a decimal or fraction.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a problem that involves finding a percent.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a problem that involves finding percents of a value.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the answer to a percent problem where the answer requires rounding and explain why an approximate answer is needed, e.g., total cost including taxes.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the meaning of a percent given in a particular context.</p>
+          </indicator>
+          <indicator>
+            <p>Make and justify decisions, or suggest courses of action based upon known percents for the situation.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N7.5</identifier>
+        <outcome_text>Develop and demonstrate an understanding of adding and subtracting positive fractions and mixed numbers, with like and unlike denominators, concretely, pictorially, and symbolically (limited to positive sums and differences). [C, CN, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Estimate the sum or difference of positive fractions and/or mixed numbers and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Model addition and subtraction of positive fractions and/or mixed numbers using concrete or visual representations, and record the process used symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the sum or difference of two positive fractions or mixed numbers with like denominators and explain the strategy used.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how common denominators for fractions and/or mixed numbers and factors are related.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how a common denominator can help when adding fractions and/or mixed numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the sum or difference of two positive fractions or mixed numbers with unlike denominators and explain the strategy used.</p>
+          </indicator>
+          <indicator>
+            <p>Simplify a positive fraction or mixed number by identifying and dividing off the common factor between the numerator and denominator.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize and explain personal strategies for determining the sum or difference of positive fractions and/or mixed numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a problem involving the addition or subtraction of positive fractions or mixed numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how the sum or difference of positive fractions and/or mixed numbers can be represented symbolically in different ways.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N7.6</identifier>
+        <outcome_text>Demonstrate an understanding of addition and subtraction of integers, concretely, pictorially, and symbolically. [C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent opposite integers concretely, pictorially, and symbolically and explain why they are called opposite integers.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using concrete materials such as integer tiles and diagrams, that the sum of opposite integers is zero (e.g., a move in one direction followed by an equivalent move in the opposite direction results in no net change in position).</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate, using a number line, the results of adding or subtracting negative and positive integers.</p>
+          </indicator>
+          <indicator>
+            <p>Add two integers using concrete materials or pictorial representations and record the process symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Subtract two integers using concrete materials or pictorial representations and record the process symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate patterns in adding and subtracting integers to generalize personal strategies for adding and subtracting integers.</p>
+          </indicator>
+          <indicator>
+            <p>Solve problems involving the addition and subtraction of integers.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Patterns and Relations</goal_heading>
+      <outcome>
+        <identifier>P7.1</identifier>
+        <outcome_text>Demonstrate an understanding of the relationships between oral and written patterns, graphs and linear relations. [C, CN, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent a relationship found within an oral or written pattern using a linear relation.</p>
+          </indicator>
+          <indicator>
+            <p>Analyse whether an oral or written pattern is linear in nature.</p>
+          </indicator>
+          <indicator>
+            <p>Provide a context for a linear relation.</p>
+          </indicator>
+          <indicator>
+            <p>Identify a pattern from the environment that is linear in nature and write a linear relation to describe the pattern.</p>
+          </indicator>
+          <indicator>
+            <p>Identify assumptions made when writing a linear relation for a pattern.</p>
+          </indicator>
+          <indicator>
+            <p>Create a table of values for a linear relation by evaluating the relation for different variable values.</p>
+          </indicator>
+          <indicator>
+            <p>Create a table of values using a linear relation and graph the table of values (limited to discrete points).</p>
+          </indicator>
+          <indicator>
+            <p>Sketch the graph from a table of values created for a linear relation and describe the patterns found in the graph.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the relationship shown on a graph using everyday language in spoken or written form.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a graph in order to draw a conclusion or solve a problem.</p>
+          </indicator>
+          <indicator>
+            <p>Match a set of linear relations to a set of graphs and explain the strategies used.</p>
+          </indicator>
+          <indicator>
+            <p>Match a set of graphs to a set of linear relations and justify the selections made.</p>
+          </indicator>
+          <indicator>
+            <p>Describe a situation which could result in a graph similar to one that is shown.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P7.2</identifier>
+        <outcome_text>Demonstrate an understanding of equations and expressions by:distinguishing between equations and expressionsevaluating expressionsverifying solutions to equations.</outcome_text>
+        <outcome_text>[C, CN, ME]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain what a variable is and how it is used in an expression.</p>
+          </indicator>
+          <indicator>
+            <p>Provide an example of an expression and an equation, and explain how they are similar and different.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how to evaluate an expression and how that result is different from a solution to an equation.</p>
+          </indicator>
+          <indicator>
+            <p>Verify a possible solution to a linear equation using substitution and explain the result.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P7.3</identifier>
+        <outcome_text>Demonstrate an understanding of one- and two-step linear equations of the form ax/b + c = d (where a, b, c, and d are whole numbers, c ≤ d and b ≠ 0) by modeling the solution of the equations concretely, pictorially, physically, and symbolically and explaining the solution in terms of the preservation of equality. [C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Model the preservation of equality for each of the four operations using concrete materials or using pictorial representations, explain the process orally and record it symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize strategies for carrying out operations that involve the use of the preservation of equality.</p>
+          </indicator>
+          <indicator>
+            <p>Solve an equation by applying the preservation of equality.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and provide an example of a constant term, a numerical coefficient, and a variable in an expression and an equation.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a problem with a linear equation and solve the equation using concrete models, (e.g., counters, integer tiles) and record the process symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Draw a representation of the steps used to solve a linear equation.</p>
+          </indicator>
+          <indicator>
+            <p>Verify the solution to a linear equation using concrete materials or diagrams.</p>
+          </indicator>
+          <indicator>
+            <p>Explain what the solution for a linear equation means.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a problem situation using a linear equation.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a problem using a linear equation.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P7.4</identifier>
+        <outcome_text>Demonstrate an understanding of linear equations of the form (where a and b are integers) by modeling problems as a linear equation and solving the problems concretely, pictorially, and symbolically. [C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent a problem with a linear equation of the form where a and b are integers and solve the equation using concrete models (e.g., counters, integer tiles) and record the process symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Verify a solution to a problem involving a linear equation of the form where a and b are integers.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Shape and Space</goal_heading>
+      <outcome>
+        <identifier>SS7.1</identifier>
+        <outcome_text>Demonstrate an understanding of circles including circumference and central angles. [C, CN, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the characteristics of a circle.</p>
+          </indicator>
+          <indicator>
+            <p>Define and illustrate the relationship between the diameter and radius of a circle.</p>
+          </indicator>
+          <indicator>
+            <p>Answer the question “how many radii does a circle have and why?”</p>
+          </indicator>
+          <indicator>
+            <p>Answer the question “how many diameters does a circle have and why?”</p>
+          </indicator>
+          <indicator>
+            <p>Explain (with illustrations) why a specified point and radius length (or diameter length) describes exactly one circle.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate and explain the relationship between a radius and a diameter of a circle.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize, from investigations, the relationship between the circumference and the diameter of a circle.</p>
+          </indicator>
+          <indicator>
+            <p>Define pi (π) and explain how it is related to circles.</p>
+          </indicator>
+          <indicator>
+            <p>Sort a set of angles as central angles of a circle or not.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate that the sum of the central angles of a circle is 360°.</p>
+          </indicator>
+          <indicator>
+            <p>Draw a circle with a specific radius or diameter with and without a compass.</p>
+          </indicator>
+          <indicator>
+            <p>Solve problems involving circles.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS7.2</identifier>
+        <outcome_text>Develop and apply formulas for determining the area of:trianglesparallelogramscircles.</outcome_text>
+        <outcome_text>[CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Illustrate and explain how the area of a rectangle can be used to determine the area of a triangle.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize, using examples, a formula for determining the area of triangles.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate and explain how the area of a rectangle can be used to determine the area of a parallelogram.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize, using examples, a formula for determining the area of parallelograms.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate and explain how to estimate the area of a circle without the use of a formula.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate and explain how the area of a circle can be approximated by the circumference of the circle times its radius.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize a formula for finding the area of a circle.</p>
+          </indicator>
+          <indicator>
+            <p>Solve problems involving the area of triangles, parallelograms, or circles.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS7.3</identifier>
+        <outcome_text>Demonstrate an understanding of 2-D relationships involving lines and angles. [CN, R, V, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and describe examples of parallel line segments, perpendicular line segments, perpendicular bisectors, and angle bisectors in the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Identify, with justification, line segments on a diagram that are parallel or perpendicular.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and explain how paper, pencil, compass, and rulers can be used to construct parallel lines, perpendicular lines, angle bisectors, and perpendicular bisectors.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how paper folding can be used to construct parallel lines, perpendicular lines, angle bisectors, and perpendicular bisectors.</p>
+          </indicator>
+          <indicator>
+            <p>Use technology to construct parallel lines, perpendicular lines, angle bisectors, and perpendicular bisectors.</p>
+          </indicator>
+          <indicator>
+            <p>Draw a line segment perpendicular to another line segment and explain why they are perpendicular.</p>
+          </indicator>
+          <indicator>
+            <p>Draw a line segment parallel to another line segment and explain why they are parallel.</p>
+          </indicator>
+          <indicator>
+            <p>Draw the bisector of a given angle using more than one method and verify that the resulting angles are equal.</p>
+          </indicator>
+          <indicator>
+            <p>Draw the perpendicular bisector of a line segment using more than one method and verify the construction.</p>
+          </indicator>
+          <indicator>
+            <p>Use geometric constructions to create a design or picture, and identify the constructions present in the design.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS7.4</identifier>
+        <outcome_text>Demonstrate an understanding of the Cartesian plane and ordered pairs with integral coordinates. [C, CN, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Label the axes of a four quadrant Cartesian plane and identify the origin.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how orientation (the direction in a situation) can influence the labelling of the axes on a Cartesian plane.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the location of a point in any quadrant of a Cartesian plane using an ordered pair with integral coordinates.</p>
+          </indicator>
+          <indicator>
+            <p>Plot the point corresponding to an ordered pair with integral coordinates on a Cartesian plane with a scale of 1, 2, 5, or 10 on its axes.</p>
+          </indicator>
+          <indicator>
+            <p>Draw shapes and designs, using integral ordered pairs, in a Cartesian plane.</p>
+          </indicator>
+          <indicator>
+            <p>Create shapes and designs, and identify the points used to produce the shapes and designs in any quadrant of a Cartesian plane.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS7.5</identifier>
+        <outcome_text>Expand and demonstrate an understanding of transformations (translations, rotations, and reflections) of 2-D shapes in all four quadrants of the Cartesian plane. [CN, PS, T, V]</outcome_text>
+        <indicators>
+          <outer_text>
+            <i>(It is intended that the original shape and its image have vertices with integral coordinates.)</i>
+          </outer_text>
+          <indicator>
+            <p>Identify the coordinates of the vertices of a 2-D shape shown on a Cartesian plane.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the horizontal and vertical movement required to move from one point to another point on a Cartesian plane.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the positional change of the vertices of a 2-D shape to the corresponding vertices of its image as a result of a transformation or successive transformations on a Cartesian plane.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the distance between points along horizontal and vertical lines in a Cartesian plane.</p>
+          </indicator>
+          <indicator>
+            <p>Perform a transformation or consecutive transformations on a 2-D shape and identify coordinates of the vertices of the image.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the positional change of the vertices of a 2-D shape to the corresponding vertices of its image as a result of a transformation or a combination of successive transformations.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the image resulting from the transformation of a 2-D shape on a Cartesian plane by identifying the coordinates of the vertices of the image.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Statistics and Probability</goal_heading>
+      <outcome>
+        <identifier>SP7.1</identifier>
+        <outcome_text>Demonstrate an understanding of the measures of central tendency and range for sets of data. [C, CN, PS, R, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Concretely represent mean, median, and mode and explain the similarities and differences among them.</p>
+          </indicator>
+          <indicator>
+            <p>Determine mean, median, and mode for a set of data, and explain why these values may be the same or different.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the range of a set of data.</p>
+          </indicator>
+          <indicator>
+            <p>Provide a context in which the mean, median, or mode is the most appropriate measure of central tendency to use when reporting findings and explain the choice.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a problem involving the measures of central tendency.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a set of data to identify any outliers.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the effect of outliers on the measures of central tendency for a data set.</p>
+          </indicator>
+          <indicator>
+            <p>Identify outliers in a set of data and justify whether or not they should be included in the reporting of the measures of central tendency.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of situations in which outliers would and would not be used in reporting the measures of central tendency.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why qualitative data, such as colour or favourite activity, cannot be analyzed for all three measures of central tendency.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SP7.2</identifier>
+        <outcome_text>Demonstrate an understanding of circle graphs. [C, CN, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify common attributes of circle graphs, such as:title, label, or legendthe sum of the central angles is 360°the data is reported as a percent of the total and the sum of the percents is equal to 100%.</p>
+          </indicator>
+          <indicator>
+            <p>Create and label a circle graph, with and without technology, to display a set of data.</p>
+          </indicator>
+          <indicator>
+            <p>Find, describe, and compare circle graphs in a variety of print and electronic media such as newspapers, magazines, and the Internet.</p>
+          </indicator>
+          <indicator>
+            <p>Translate percents displayed in a circle graph into quantities to solve a problem.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret a circle graph to answer questions.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the characteristics of a set of data that make it possible to create a circle graph.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SP7.3</identifier>
+        <outcome_text>Demonstrate an understanding of theoretical and experimental probabilities for two independent events where the combined sample space has 36 or fewer elements. [C, ME, PS R, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain what a probability tells about the situation to which it refers.</p>
+          </indicator>
+          <indicator>
+            <p>Provide an example of two independent events, such as:spinning a four section spinner and an eight-sided dietossing a coin and rolling a twelve-sided dietossing two coinsrolling two dice</p>
+            <p>and explain why they are independent.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the sample space (all possible outcomes) for each of two independent events using a tree diagram, table, or another graphic organizer.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the theoretical probability of an outcome involving two independent events.</p>
+          </indicator>
+          <indicator>
+            <p>Conduct a probability experiment for an outcome involving two independent events, with and without technology, to compare the experimental probability to the theoretical probability.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a probability problem involving two independent events.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how theoretical and experimental probabilities are related and why they cannot be assumed to be equal.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a probability stated as a percent as a fraction or a decimal.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a probability stated as a fraction or decimal as a percent.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

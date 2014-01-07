@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181759_1</pdf>
+  <banner>arts/artseducation6.gif</banner>
+  <dark_colour>#0e6bb6</dark_colour>
+  <light_colour>#e7f0f8</light_colour>
+  <goals>arts/artseducation6aimsgoals.htm</goals>
+  <teaching>arts/artseducation6teaching.htm</teaching>
+  <curriculum_name>Arts Education 6</curriculum_name>
+  <classification_id>arts education 6</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Creative/Productive (CP)</goal_heading>
+      <outcome>
+        <identifier>CP6.1</identifier>
+        <outcome_text>Create dance compositions that express ideas about identity and how it is influenced (e.g., factors such as pop culture, cultural heritage, peer groups, personal and family interests, gender).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use inquiry in dance to extend understanding of identity (e.g., examine how pop culture trends influence youth identities):Generate key questions to guide inquiry in dance (e.g., How could we represent through dance the unique identities of different peer groups?).Summarize and focus knowledge of topic to determine information needs.Generate additional relevant questions for deeper exploration.Use the Internet and other relevant sources (e.g., print, digital, community) to research and gather ideas for dance-making.Use the dance-making process to explore the central questions and ideas (e.g., How could we show through movement that each peer group has a distinct identity? How can we use hip hop or other dance forms to communicate our individual or community identities?).Expand on dance and movement ideas in reflective records such as journals, blogs, and video or audio recordings.Keep a record of dance phrases using invented and/or traditional notation symbols, and video where possible, to explore, record, and reconstruct movements.Reflect, analyze, and make connections between the original topic or inquiry question and subsequent dance explorations.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how a single idea can be developed in many ways and directions (e.g., How could we represent in movement the idea of an individual feeling isolated or excluded from a peer group?).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate self-awareness in decision making about own movement selections.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on how movement and dance elements can be organized to convey meaning in dance (e.g., What messages or ideas does our movement or dance communicate to an audience about identity?).</p>
+          </indicator>
+          <indicator>
+            <p>Reflect upon choices made during dance-making process.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP6.2</identifier>
+        <outcome_text>Investigate and manipulate elements of dance and principles of composition including repetition and contrast.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate and demonstrate choreographic principles using the elements of actions, body, relationships, dynamics, and space.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze, discuss, and explore through movement, the principles of repetition and contrast in dance.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate ways that contrast creates interest or variety in dance.</p>
+          </indicator>
+          <indicator>
+            <p>Use inquiry questions to guide investigations into the elements of dance and the principles of repetition and contrast (e.g., How could we use repetition and contrast in the dance sequences to show how people often follow pop culture trends?).</p>
+          </indicator>
+          <indicator>
+            <p>Show how movements can be initiated from the centre or the periphery of the body and incorporated into dance.</p>
+          </indicator>
+          <indicator>
+            <p>Extend repertoire of actions for expressive purposes and to demonstrate repetition and contrast.</p>
+          </indicator>
+          <indicator>
+            <p>Create with own bodies various volumes and pathways on the floor and through space using repetition and contrast.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and apply biomechanical concepts and principles of force production, force absorption, and resistance (see grade 6 physical education curriculum outcome 6.7) during warm-ups and dance compositions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP6.3</identifier>
+        <outcome_text>Shape dance compositions using various choreographic forms (e.g., ABA).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate and demonstrate different ways of sequencing and developing movements and phrases.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate expressive transitional movements between dance phrases and sequences.</p>
+          </indicator>
+          <indicator>
+            <p>Explore various forms in own dance compositions (e.g., AABB, ABA, ABACA).</p>
+          </indicator>
+          <indicator>
+            <p>Apply understanding of form as an organizing structure in dance.</p>
+          </indicator>
+          <indicator>
+            <p>Experiment with the use of focus and apply to own work (i.e., where in space one’s gaze is directed).</p>
+          </indicator>
+          <indicator>
+            <p>Determine effectiveness of transitions and form in own dance compositions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP6.4</identifier>
+        <outcome_text>Initiate and develop roles in selected drama forms (e.g., contextual, improv, puppetry, radio drama).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Sustain belief in own roles and in the roles assumed by others.</p>
+          </indicator>
+          <indicator>
+            <p>Use language to achieve dramatic purposes when speaking and writing in role.</p>
+          </indicator>
+          <indicator>
+            <p>Assume different types of roles and fictional identities in drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate a willingness to take a risk in developing new roles.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on, and explain, how the various roles function and express different identities within the work.</p>
+          </indicator>
+          <indicator>
+            <p>Draw on own life experience and imagination when speaking and representing ideas in role.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP6.5</identifier>
+        <outcome_text>Select and use focus, tension, conflict, and symbol to convey ideas.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Support the focus during pair and group work, improvisations, and the development of dramatic episodes.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest various ways to create a sense of tension or conflict in the drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest various ways to use symbols in the drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Use the language and vocabulary of drama when reflecting on the work.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest ways to refine (e.g., their focus) and improve the work.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how ideas expressed through symbol, for example, in dramas and collective creations relate to own lives, cultures, and society.</p>
+          </indicator>
+          <indicator>
+            <p>Assess and evaluate use of tension, conflict, and symbol in own work, and apply conclusions to new work.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP6.6</identifier>
+        <outcome_text>Collaborate on a drama that expresses ideas about identity and how it is influenced (e.g., factors such as pop culture, cultural heritage, peer groups, personal and family interests, gender).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use inquiry in drama to extend understanding about identity and how it is influenced:Generate questions to guide inquiry in drama (e.g., What if we were to discover that we had suddenly switched identities with other people or creatures?).Use the Internet and other sources (e.g., print, digital, community) to research and gain information and ideas that will contribute to the authenticity and significance of the drama.</p>
+          </indicator>
+          <indicator>
+            <p>Contribute ideas to the topic, focus, and development of the drama.</p>
+          </indicator>
+          <indicator>
+            <p>Propose options and choose from among many possible drama strategies to help direct the course and quality of the work.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that dramas, and episodes within dramas, have focus; and help to identify and maintain that focus.</p>
+          </indicator>
+          <indicator>
+            <p>Understand how conflict and tension can impel a response or action in a drama.</p>
+          </indicator>
+          <indicator>
+            <p>Examine ways of creating contrast in a drama (e.g., movement/stillness, sound/silence, and light/darkness).</p>
+          </indicator>
+          <indicator>
+            <p>Use symbol to represent ideas about identity and to convey meaning in drama.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate a willingness to negotiate, accept the ideas of others, and work toward consensus in dramatic work.</p>
+          </indicator>
+          <indicator>
+            <p>Confer with peers to decide how work will be documented and shared.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how the drama conveys ideas about identity, and how the drama might be refined.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP6.7</identifier>
+        <outcome_text>Demonstrate increased skills and abilities in the use of voice and instruments.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Experiment with voice and instruments by creating a wide variety of sounds and sound patterns.</p>
+          </indicator>
+          <indicator>
+            <p>Extend skills in singing and expand ability to sing harmony and parts.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize, and be sensitive to, ways that voices change with age and musical experience.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish among diverse voice types, styles, and forms of vocal expression.</p>
+          </indicator>
+          <indicator>
+            <p>Sing, play, and create music that demonstrates a variety of techniques and styles.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate focused listening.</p>
+          </indicator>
+          <indicator>
+            <p>Change the feel, style, or add another part to an existing piece of music.</p>
+          </indicator>
+          <indicator>
+            <p>Prepare, rehearse, present, and assess own music performances.</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate on the identification and evaluation of performance criteria such as clarity, unity, and expression.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP6.8</identifier>
+        <outcome_text>Investigate and manipulate elements of music and principles of composition including repetition and variety.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use inquiry in music to extend understanding of the composition principles of repetition and variety:Pose questions to guide inquiry into how elements of music can be manipulated to create repetition and variety (e.g., How can we demonstrate repetition and variety using rhythm? How can we manipulate texture to create repetition and variety? How are we using repetition and variety in our techno or hip hop beats and lyrics?)Experiment with voice and instruments to explore the inquiry questions.Collaborate with peers to document the inquiry process (e.g., traditional and/or invented notation, audio or video recording).Rehearse and perform to share inquiry results with others.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how musicians and composers use principles of composition such as repetition and variety as tools to organize the elements of music (i.e., rhythm, melody/pitch, dynamics, timbre/tone colour, texture).</p>
+          </indicator>
+          <indicator>
+            <p>Identify repetition and variety in own music and the music of others, and analyze how it is achieved.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how phrases in vocal and instrumental music can be repeated or contrasted with other phrases to create larger structural units (e.g., call/response, question/answer, rounds).</p>
+          </indicator>
+          <indicator>
+            <p>Play rhythmic ostinatos inspired by music of various cultures, identifying how repetition and variety are achieved.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate ways that variety can add interest and repetition can hold a musical piece together.</p>
+          </indicator>
+          <indicator>
+            <p>Create and manipulate melodic phrases using repetition and variety.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate balance between repetition and variety in a melody.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate and discuss how increase in texture (e.g., the addition of melodic/rhythmic patterns or ostinatos) can make music more interesting.</p>
+          </indicator>
+          <indicator>
+            <p>Examine ways that silence can be used in compositions.</p>
+          </indicator>
+          <indicator>
+            <p>Use the Internet and other sources (e.g., guest musicians) to identify, analyze, and create repetition and variety in different styles of music.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP6.9</identifier>
+        <outcome_text>Create sound compositions that explore relationships between music and identity (e.g., influencing factors such as pop culture, cultural heritage, peer groups, personal and family interests, gender).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use inquiry in music to extend understanding of relationships between music and identity:Generate questions to guide inquiry into ways that adolescents’ identity might be influenced by, or reflected in, different musical styles.Access a broad range of resources (e.g., print, digital, interviews, community) as sources of information.Convey understanding of identity as expressed in own music compositions and/or performances.Collaborate with peers to document the inquiry and composition process.</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate on the creation of sound compositions that convey a sense of identity (e.g., country, rock, blues, rave or electronic compositions; hip hop or rap commentaries on youth identity; 50s, 60s, 80s eras; various cultural identities).</p>
+          </indicator>
+          <indicator>
+            <p>Explain how various compositions express identity.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect upon choices made during the composing process.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP6.10</identifier>
+        <outcome_text>Create visual art works that express ideas about identity and how it is influenced (e.g., factors such as pop culture, cultural heritage, peer groups, personal and family interests, gender).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use inquiry in visual art to extend understanding of identity (e.g., examine how pop culture trends such as clothing design, hair styles, and visual images in mass media influence youth identities):Generate key questions to guide inquiry in visual art (e.g., How could we visually represent the uniqueness and distinguishing attributes of different peer group identities?).Summarize and focus knowledge of topic to determine information needs.Generate additional relevant questions for deeper exploration.Use the Internet and other sources (e.g., print, digital, community) to gather ideas for visual art.Explore the central questions and ideas visually (e.g., How could we communicate visually that each peer group has a distinct identity but also share common concerns? In what ways do graffiti artists represent their identities? How could this mural or installation represent the diverse identities of students in our school?).Expand on ideas in reflective records such as visual journals, blogs, and video or audio recordings.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how a single idea can be developed in many ways and directions (e.g., How many different ways could we represent visually the idea of individual isolation or exclusion from a peer group?).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize valuable accidents in explorations and put them to use when appropriate.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate self-awareness in decision making about own choices of media, techniques, and subject matter.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect, analyze, and make connections between the original topic or inquiry question and subsequent visual art explorations.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on how images, elements of art, and principles of composition can be organized to convey meaning and express identity in visual art (e.g., What messages or ideas does our art work convey about identity?).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP6.11</identifier>
+        <outcome_text>Investigate and use various visual art forms, images, and art-making processes to express ideas about identity.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Select various visual art forms (e.g., drawing, mixed media sculpture) to express ideas about youth and identity.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how visual artists and popular media manipulate the elements of art (i.e., line, colour, texture, shape, form, and space) and principles of design (e.g., balance, rhythm, emphasis, variety, contrast, proportion/scale) to achieve intentions, and apply understanding to own work.</p>
+          </indicator>
+          <indicator>
+            <p>Make keen observations of detail, and increase skills in representing unique features of individual people, animals, plants, and objects.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and create visual patterns.</p>
+          </indicator>
+          <indicator>
+            <p>Examine ways of creating contrast (e.g., bold/subtle, rough/smooth, light/dark).</p>
+          </indicator>
+          <indicator>
+            <p>Observe, interpret, and discuss the use of symbols to represent ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Use the Internet and other sources (e.g., local artists) to gain information about the use of symbolic imagery and apply to own work.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how symbols and other images can be used to convey meaning (e.g., create a visual statement about personal and/or cultural identity).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP6.12</identifier>
+        <outcome_text>Demonstrate increased skills and problem-solving abilities in a variety of visual art media.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explore and determine appropriate media, technology, forms, and methods for visual expression.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate skillful use of a range of appropriate tools, technology, materials, and techniques.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that decision making and problem solving are essential to the creative process, and apply to own work.</p>
+          </indicator>
+          <indicator>
+            <p>Describe own critical and creative thinking, decision-making, and problem-solving processes.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Critical/Responsive (CR)</goal_heading>
+      <outcome>
+        <identifier>CR6.1</identifier>
+        <outcome_text>Create personal responses to a variety of arts expressions (e.g., respond to music using poetry, or respond to visual art using music).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate critical and creative thinking when responding to the work of Saskatchewan and other Canadian dance, drama, music, and visual artists (e.g., composers, graphic artists, architects, actors, filmmakers).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that cultural background and experiences affect responses to arts expressions and the understanding of symbols and meanings.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss interpretations of arts expressions and create own expressions in response to the original work.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how personal response and own arts expression connects to the original work.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR6.2</identifier>
+        <outcome_text>Investigate and identify ways that the arts can express ideas about identity.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze and describe how identity may be expressed through various styles and forms of art.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on and discuss the intentions, problem-solving processes, and interpretations of own and others’ arts expressions including how they relate to the concept of identity.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate awareness that artists are curious about their world and explore significant questions and concepts such as identity.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR6.3</identifier>
+        <outcome_text>Examine arts expressions and artists of various times and places.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe, analyze, interpret, and draw conclusions about the content and aesthetics of various arts expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret and evaluate art works in an informed manner, and expand arts vocabulary.</p>
+          </indicator>
+          <indicator>
+            <p>Support opinions about arts expressions with evidence found in the work and further study.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the many contributions artists make to community life (e.g., research and interview local artists).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate open-mindedness when responding to arts expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Consider informed opinions and worldviews that differ from their own.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss personal characteristics and career requirements of professional artists (e.g., self-discipline, passion, post-secondary education, contract and seasonal work, independent learners, entrepreneurial and grant writing abilities).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Cultural/Historical (CH)</goal_heading>
+      <outcome>
+        <identifier>CH6.1</identifier>
+        <outcome_text>Investigate how personal, cultural, or regional identity may be reflected in arts expressions.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Apply critical thinking when analyzing and describing how identity is expressed in arts expressions (e.g., hip hop, blues, country music).</p>
+          </indicator>
+          <indicator>
+            <p>Participate, when possible, in partnerships with Saskatchewan artists and arts organizations to increase understanding of arts content and practices, and to understand how identity may be expressed in various art forms.</p>
+          </indicator>
+          <indicator>
+            <p>Use inquiry and share findings about professional artists in Saskatchewan, examining their expressions and various identities.</p>
+          </indicator>
+          <indicator>
+            <p>Describe why personal and cultural identity is often an important influence in the creation of arts expressions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CH6.2</identifier>
+        <outcome_text>Identify ways that First Nations, Métis, and Inuit artists express cultural identity in contemporary work.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Formulate questions and conduct an inquiry to discover how the work of various contemporary First Nations, Métis, and Inuit dance, drama, music, and visual artists expresses cultural identity.</p>
+          </indicator>
+          <indicator>
+            <p>Observe, listen to, and inquire about the traditional protocols that may affect contemporary arts expressions (e.g., What do Saulteaux Elders think about the inclusion of sacred aspects of culture such as painting on tipis by contemporary artists?).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and discuss how artists reflect cultural identity in their work.</p>
+          </indicator>
+          <indicator>
+            <p>Make connections between traditional expressions of cultural identity (e.g., throat singing, quill work) and the ideas of contemporary artists.</p>
+          </indicator>
+          <indicator>
+            <p>Engage in research (e.g., interviewing a group of women contemporary fancy dancers) to deepen understanding of how cultural identity is expressed in contemporary work.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CH6.3</identifier>
+        <outcome_text>Investigate arts expressions from a range of cultures and countries, and analyze how cultural identity is reflected in the work.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>View and listen to a range of traditional and contemporary arts expressions from around the world.</p>
+          </indicator>
+          <indicator>
+            <p>Use the Internet, and other sources such as community resource people, to help identify, discuss, and analyze traditional and contemporary arts expressions from specific cultural groups.</p>
+          </indicator>
+          <indicator>
+            <p>Compare traditional and contemporary arts expressions from specific cultural groups (e.g., traditional Francophone music compared to contemporary Francophone music).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

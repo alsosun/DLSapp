@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181792_1</pdf>
+  <banner>mathematics/mathematics2.gif</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>mathematics/mathematics2-3aimsgoals.htm</goals>
+  <teaching>mathematics/mathematics2teaching.htm</teaching>
+  <curriculum_name>Mathematics 2</curriculum_name>
+  <classification_id>mathematics 2</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Number</goal_heading>
+      <outcome>
+        <identifier>N2.1</identifier>
+        <outcome_text>Demonstrate understanding of whole numbers to 100 (concretely, pictorially, physically, orally, in writing, and symbolically) by:representing (including place value)describingskip countingdifferentiating between odd and even numbersestimating with referentscomparing two numbersordering three or more numbers.</outcome_text>
+        <outcome_text>[C, CN, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe the patterns related to quantity and place value of adjacent digit positions moving from right to left within a whole number.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the meaning of quantities to 100 by relating them to self, family, or community and explain what effect each successive numeral position has on the actual quantity.</p>
+          </indicator>
+          <indicator>
+            <p>Pose and solve problems that explore the quantity of whole numbers to 100 (e.g., a student might wonder: “How many pets would there be if everyone in the class brought their pets to class”).</p>
+          </indicator>
+          <indicator>
+            <p>Represent quantities to 100 using proportional materials (e.g., tallies, ten frames, and base ten blocks) and explain how the representation relates to the numeral used to represent the quantity.</p>
+          </indicator>
+          <indicator>
+            <p>Represent quantities to 100 using non-proportional materials (e.g., stir sticks and popsicle sticks, and coins) and explain how the representation relates to the numeral used to represent the quantity.</p>
+          </indicator>
+          <indicator>
+            <p>Identify whole numbers to 100 stated as a numeral or word form in everyday situations and read the number out loud (e.g., 24 on the classroom door would be read as twenty-four, and read out loud “seventy-three” when found in a piece of writing being read in class).</p>
+          </indicator>
+          <indicator>
+            <p>Create different decompositions for a given quantity using concrete manipulatives or pictures and explain orally how the different decompositions represent the original quantity.</p>
+          </indicator>
+          <indicator>
+            <p>Write numbers to twenty in words when said out loud or given as a numeral.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a sequence of numbers in order to describe the sequence in terms of a skip counting strategy (by 2s, 5s, or 10s as well as forward and backward) and extend the sequence using the pattern.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze an ordered number sequence (including a hundred chart) for errors or omissions and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Sort a set of personally relevant numbers into odd and even numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Hypothesize and verify strategies for skip counting by 10s beginning at any whole number from 0 to 9 (e.g., in a hundred chart, the skip counted numbers always lie on a vertical line; using base ten blocks, skip counting by 10s always increases the number of rods by one; or using numerals, the tens place value always increases by 1 (meaning 10) when skip counting by 10s forwards).</p>
+          </indicator>
+          <indicator>
+            <p>Order a set of personally relevant numbers in ascending or descending order and verify the resulting sequence (e.g., using a hundred chart, number line, ten frames, or place value).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a number relevant to one’s self, family, or community to determine if it is odd or even and verify the conclusion by using concrete, pictorial, or physical representations.</p>
+          </indicator>
+          <indicator>
+            <p>Estimate a quantity from one’s life, family, or community by using a referent (known quantity), including 10, and explain the strategies used.</p>
+          </indicator>
+          <indicator>
+            <p>Select a referent for determining a particular quantity and explain the choice.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “A referent for 10 is always a good referent to use”.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a 2-digit numeral using ten frames or other proportional base ten materials.</p>
+          </indicator>
+          <indicator>
+            <p>Create representations of different decompositions of the same quantity and explain how the representations represent the same amount.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using concrete or pictorial representations, the meaning of each digit within a 2-digit numeral with both digits the same (e.g., for the numeral 22, the first digit represents two tens - twenty counters - and the second digit represents two ones - two counters).</p>
+          </indicator>
+          <indicator>
+            <p>Defend the statement “The value of a digit depends on its placement within a numeral”.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how to count objects using groupings of 10s and 1s and explain how those groups help in the writing of the 2-digit number that represents the quantity of objects.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N2.2</identifier>
+        <outcome_text>Demonstrate understanding of addition (limited to 1 and 2-digit numerals) with answers to 100 and the corresponding subtraction by:representing strategies for adding and subtracting concretely, pictorially, and symbolicallycreating and solving problems involving addition and subtractionestimatingusing personal strategies for adding and subtracting with and without the support of manipulativesanalyzing the effect of adding or subtracting zeroanalyzing the effect of the ordering of the quantities (addends, minuends, and subtrahends) in addition and subtraction statements.</outcome_text>
+        <outcome_text>[C, CN, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Generalize rules for adding when one addend is zero and for subtracting zero from a quantity and use concrete, pictorial, physical, or oral models to explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Verify rules generalized for addition and subtraction involving a quantity of zero.</p>
+          </indicator>
+          <indicator>
+            <p>Model concretely, pictorially, or physically situations that involve the addition or subtraction of 1 and 2-digit numbers (with answers to 100) and explain how to record the process shown in the model symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize and apply strategies for adding and subtracting 1 and 2-digit numbers (with answers to 100).</p>
+          </indicator>
+          <indicator>
+            <p>Create, model symbolically (and concretely, pictorially, or physically if desired), and solve addition and subtraction problems related to situations relevant to one’s self, family, or community.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “You can add or subtract numbers in any order and still get the same answer” and provide examples to support the critique.</p>
+          </indicator>
+          <indicator>
+            <p>Select and explain a mental mathematics strategy that can be used to determine a sum of up to 18 (or related difference):doubles (e.g., for 4 + 6, think 5 + 5)doubles plus one (e.g., for 4 + 5, think 4 + 4 + 1)doubles take away one (e.g., for 4 + 5, think 5 + 5 – 1)doubles plus two (e.g., for 4 + 6, think 4 + 4 + 2)doubles take away two (e.g., for 4 + 6, think 6 + 6 – 2)making 10 (e.g., for 7 + 5, think 7 + 3 + 2)building on a known double (e.g., 6 + 6 = 12, so 6 + 7 = 12 + 1 = 13)</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Patterns and Relations</goal_heading>
+      <outcome>
+        <identifier>P2.1</identifier>
+        <outcome_text>Demonstrate understanding of repeating patterns (three to five elements) by:describingrepresenting patterns in alternate modesextendingcomparingcreating patterns using manipulatives, pictures, sounds, and actions.</outcome_text>
+        <outcome_text>[C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and describe repeating patterns found in familiar situations and justify why the descriptions are those of repeating patterns (e.g., “Every day I get up, brush my hair, wash my face, have breakfast” - this is a repeating pattern because I do the same pattern over and over again).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a repeating pattern to identify the core of the pattern.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a repeating pattern for its core and extend the pattern so the core appears twice more.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze an intended repeating pattern to identify possible errors.</p>
+          </indicator>
+          <indicator>
+            <p>Create a repeating pattern and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Predict an upcoming element in a repeating pattern and verify the prediction.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze two repeating patterns that are represented using different materials or modes (e.g., a diagram of a repeating pattern with a core of red, red, blue, blue, blue and a sound pattern with a core of buzz, buzz, snap, snap, snap) and present ways in which the patterns are related (e.g., there are two different elements in the core of each pattern, and the core pattern is element 1, element 1, element 2, element 2, element 2 in both patterns).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P2.2</identifier>
+        <outcome_text>Demonstrate understanding of increasing patterns by:describingreproducingextendingcreating patterns using manipulatives, pictures, sounds, and actions (numbers to 100).</outcome_text>
+        <outcome_text>[C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and describe increasing patterns in familiar situations (e.g., hundred chart, number line, addition tables, calendar, a tiling pattern or drawings, apartment numbers, years, or age).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a numerical increasing pattern for its pattern rule and extend the pattern.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a non-numerical increasing pattern and extend the pattern.</p>
+          </indicator>
+          <indicator>
+            <p>Reproduce an increasing numerical pattern using an alternate form (e.g., sound, action, concrete objects, or diagrams) and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Reproduce a concrete or pictorial increasing pattern using numbers and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Solve problems involving increasing patterns (e.g., determine the house number for a particular house given the house numbers for the other homes on the block, or determining the number of cubes in the missing structure) and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Create an increasing pattern, represent the pattern in different modes (using manipulatives, diagrams, sounds, actions, and/or physical movements), and explain the pattern rule.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P2.3</identifier>
+        <outcome_text>Demonstrate understanding of equality and inequality concretely and pictorially (0 to 100) by:relating equality and inequality to balancecomparing setsrecording equalities with an equal signrecording inequalities with a not equal signsolving problems involving equality and inequality.</outcome_text>
+        <outcome_text>[C, CN, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Compare two quantities of the same object (same shape and mass) by using a balance scale to determine if the quantities are equal or not.</p>
+          </indicator>
+          <indicator>
+            <p>Construct two unequal sets using identical objects and verify orally and concretely that the sets are not equal.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the impact of changing one of two equal sets upon the equality of the two sets.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the impact of making changes (equal and unequal) to both of two equal sets upon the equality of the sets.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and sort sets according to equality and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Model two number expressions to determine if the expressions are equal (=) or not equal (≠) and write a number sentence to show the relationship (e.g., 3 + 2 and 4 + 1 are both equal to 5, so the two expressions are = and I write 3 + 2 = 4 + 1; 7 - 5 and 3 are not the same quantity, so I write 7 – 5 ≠ 3).</p>
+          </indicator>
+          <indicator>
+            <p>Create statements of equality and non-equality and model the statements to verify the relationship.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Shape and Space</goal_heading>
+      <outcome>
+        <identifier>SS2.1</identifier>
+        <outcome_text>Demonstrate understanding of non-standard units for linear measurement by:describing the choice and appropriate use of non-standard unitsestimatingmeasuringcomparing and analyzing measurements.</outcome_text>
+        <outcome_text>[C, CN, ME, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Defend the choice of a non-standard unit for measuring a length in a situation relevant to one’s self, family, or community.</p>
+          </indicator>
+          <indicator>
+            <p>Estimate a personally relevant length, including the distance around a space, using one’s own choice of standard unit.</p>
+          </indicator>
+          <indicator>
+            <p>Compare estimates of the same length made by different units and provide reasons for different values being stated for the measurements.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “It is possible to get an exact length measurement”.</p>
+          </indicator>
+          <indicator>
+            <p>Devise and apply strategies for determining estimates for linear and non-linear lengths using non-standard units.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why overlapping or leaving gaps does not result in accurate measurements.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why the same non-standard unit should be used to determine length measurements that are to be compared.</p>
+          </indicator>
+          <indicator>
+            <p>Compare and order sets of related objects, possibly including people, according to a length measurement.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS2.2</identifier>
+        <outcome_text>Demonstrate understanding of non-standard units for measurement of mass by:describing the choice and appropriate use of non-standard unitsestimatingmeasuringcomparing and analyzing measurements.</outcome_text>
+        <outcome_text>[C, CN, ME, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Defend the choice of a non-standard unit for measuring a mass in a situation relevant to one’s self, family, or community.</p>
+          </indicator>
+          <indicator>
+            <p>Estimate the mass of a personally relevant object using one’s own choice of standard unit.</p>
+          </indicator>
+          <indicator>
+            <p>Identify a non-standard unit for measuring mass that would not be a good choice in a particular situation and explain the reasoning (e.g., to measure the mass of a desk, it would not make sense to use an eraser as the standard unit because a desk has so much more mass than an eraser and so it would take too many erasers, or to measure the mass of a library book using the standard unit of a student in the class because the student already has a greater mass than the book).</p>
+          </indicator>
+          <indicator>
+            <p>Compare estimates of the mass of the same object determined using different standard units and provide reasons for different values being stated for the measurements.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why the same non-standard unit should be used to determine mass measurements that are to be compared.</p>
+          </indicator>
+          <indicator>
+            <p>Compare and order sets of related objects according to mass measurements and explain the reasoning.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS2.3</identifier>
+        <outcome_text>Describe, compare, and construct 3-D objects, including:cubesspheresconescylinderspyramids.</outcome_text>
+        <outcome_text>[C, CN, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify examples of cubes, spheres, cones, cylinders, and pyramids as found in the classroom, home, and community.</p>
+          </indicator>
+          <indicator>
+            <p>Sort a set of personally relevant 3-D objects and explain the sorting rule used.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the attributes of cubes, spheres, cones, cylinders, and pyramids and generalize descriptions of each category of 3-D objects.</p>
+          </indicator>
+          <indicator>
+            <p>Compare two 3-D objects of the same type (e.g., both are cylinders) and explain how the dimensions of the objects can be used to compare the objects (one-to-one correspondence or non-standard units).</p>
+          </indicator>
+          <indicator>
+            <p>Compare two 3-D objects in different orientations (e.g., “If I was to flip this object over, the two objects would have the same height.”).</p>
+          </indicator>
+          <indicator>
+            <p>Create and describe a concrete representation of a personally relevant 3-D object.</p>
+          </indicator>
+          <indicator>
+            <p>Sort 3-D objects according to two attributes and explain the sorting rule used.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS2.4</identifier>
+        <outcome_text>Describe, compare, and construct 2-D shapes, includingtrianglessquaresrectanglescircles.</outcome_text>
+        <outcome_text>[C, CN, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify examples of triangles, rectangles, squares, and circles as found in personal experiences.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the attributes of triangles, squares, rectangles, and circles and generalize descriptions of each category of 2-D shapes objects.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “A 2-D shape can either be a rectangle or a square, but not both”.</p>
+          </indicator>
+          <indicator>
+            <p>Compare two 2-D shapes of the same type (e.g., both are circles) and explain how the dimensions of the shapes can be used to compare the shapes (one-to-one correspondence or non-standard units).</p>
+          </indicator>
+          <indicator>
+            <p>Classify 2-D shapes arranged in different orientations according to the type (triangle, rectangle, square, or circle) and explain the impact of the orientation of shape on its classification.</p>
+          </indicator>
+          <indicator>
+            <p>Create a model to represent a 2-D shape.</p>
+          </indicator>
+          <indicator>
+            <p>Sort regular and irregular 2-D shapes according to two attributes and explain the sorting rule used.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS2.5</identifier>
+        <outcome_text>Demonstrate understanding of the relationship between 2-D shapes and 3-D objects. [C, CN, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze the differences between two pre-sorted sets of objects and/or pictures of shapes and explain how the objects and shapes were sorted.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a set of objects and/or pictures of shapes to identify two common attributes of each member of the set.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the faces of a personally relevant 3-D object by comparing the faces to 2-D shapes (such as triangles, squares, rectangles, or circles).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze (using concrete models of 3-D objects) a set of descriptions of the 2-D faces of a 3-D object to identify the 3-D object (e.g., “A 3-D object has one rectangular face and four triangular faces – what type of object is it?” “A pyramid.”).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and correct the statement “The tissue box is a rectangle”.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Statistics and Probability</goal_heading>
+      <outcome>
+        <identifier>SP2.1</identifier>
+        <outcome_text>Demonstrate understanding of concrete graphs and pictographs. [C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Formulate a question relevant to one’s self, family, or community that can be answered by gathering information from people.</p>
+          </indicator>
+          <indicator>
+            <p>Select an organizational structure, such as sets of concrete objects, tallies, checkmarks, charts, or lists, for the collection of data that are gathered.</p>
+          </indicator>
+          <indicator>
+            <p>Pose questions related to gathered data and explain how the data can be used to answer those questions.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze concrete graphs to identify and define the common attributes of a concrete graph.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze pictographs to identify and define the common attributes of a pictograph.</p>
+          </indicator>
+          <indicator>
+            <p>Create a concrete graph to display collected data and make and support conclusions based upon the graph.</p>
+          </indicator>
+          <indicator>
+            <p>Create a pictograph (using one-to-one correspondence) to display collected data and make and support conclusions based on the graph.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve a problem for which data can be collected from individuals in the class, at home, in the school, or within the community and give a presentation of how the collection, organization, display, and analysis of data were done to attain a solution to the problem.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

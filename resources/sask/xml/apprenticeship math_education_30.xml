@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-198677_1</pdf>
+  <banner>career/Workplace_and_apprenticeship_30.png</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>mathematics/workplace_apprenticeship20aimsgoals.htm</goals>
+  <teaching>mathematics/workplace_apprenticeship_30teaching.htm</teaching>
+  <curriculum_name>W &amp; A Math 30</curriculum_name>
+  <classification_id>Workplace and Apprenticeship Mathematics 30</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Workplace and Apprenticeship Mathematics 30 (WA)</goal_heading>
+      <outcome>
+        <identifier>WA30.1</identifier>
+        <outcome_text>Analyze puzzles and games that involve logical reasoning using problem-solving strategies. [C, CN, PS, R]</outcome_text>
+        <outcome_note>Note: This outcome is intended to be integrated throughout the course by using logical puzzles and games such as Chess, Sudoku, Mastermind, Nim, Reversi.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Determine, explain, and verify strategies to solve a puzzle or to win a game such as: guess and checklook for a patternmake a systematic listdraw or modeleliminate possibilitiesformulate and simplify a problem that is similar to the original problemwork backwardsdevelop alternative approaches.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and analyze errors in solutions to puzzles or in strategies for winning games, and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Create a variation on a puzzle or a game, and describe a strategy for solving the altered puzzle or winning the game.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA30.2</identifier>
+        <outcome_text>Demonstrate concretely, pictorially, and symbolically an understanding of limitations of measuring instruments including: [C, PS, R, T, V] precisionaccuracyuncertaintytolerance.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain, using concrete models and pictorial representations, the difference between precision and accuracy.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze given contexts to generalize and explain why: a certain degree of precision is requireda certain degree of accuracy is required.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the degree of accuracy of two or more given instruments used to measure the same attribute.</p>
+          </indicator>
+          <indicator>
+            <p>Relate the degree (margin) of accuracy to the uncertainty of a given measure.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and justify the degree of precision and accuracy required in contextual problems.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze given contexts to calculate maximum and minimum values, using a given degree (range) of tolerance.</p>
+          </indicator>
+          <indicator>
+            <p>Compare and describe, using examples, the limitations of measuring instruments used in a specific trade or industry, (e.g., tape measure versus Vernier caliper).</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve situational questions that involve precision, accuracy, or tolerance, and explain the reasoning and the strategy used to arrive at the solution.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA30.3</identifier>
+        <outcome_text>Solve problems that involve the sine law and cosine law, excluding the ambiguous case. [CN, PS, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and describe the use of the sine law and cosine law in construction, industrial, commercial, and artistic applications.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that involve the sine law or cosine law.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA30.4</identifier>
+        <outcome_text>Extend and apply understanding of the properties of triangles, quadrilaterals, and regular polygons to solve problems. [C, CN, PS, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze, generalize, and explain properties of polygons using illustrations, including: triangles (isosceles, equilateral, scalene, and right triangles)quadrilaterals in terms of angle measures, side lengths, diagonal lengths, and angles formed by the intersection of diagonalsregular polygons.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, why a given property does or does not apply to certain polygons (e.g., the diagonals of a square are perpendicular, but the diagonals of a rectangle are not even though squares are rectangles).</p>
+          </indicator>
+          <indicator>
+            <p>Identify and explain applications of the properties of polygons in construction, industry, commerce, domestic, and artistic contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve situational questions that involve the application of the properties of polygons.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA30.5</identifier>
+        <outcome_text>Extend and apply understanding of transformations on 2-D shapes and 3-D objects including: translationsrotationsreflectionsdilations.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze original 2-D shapes and 3-D objects and their images to identify and justify the single transformation that was performed.</p>
+          </indicator>
+          <indicator>
+            <p>Draw the image of 2-D shapes given: a single transformation including a translation, rotation, reflection, and justify why it is a translation, rotation, or reflection.a combination of successive transformations and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Create designs using translations, rotations, and reflections in all four quadrants of a coordinate grid.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and describe designs that involve translations, rotations, and reflections in all four quadrants of a coordinate grid, and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Research and present, orally, in writing, or using multimedia, applications of transformations using examples and illustrations in construction, industrial, commercial, domestic, and artistic contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and generalize the relationship between reflections and lines or planes of symmetry.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how and why the concept of similarity can be used to determine if an image is a dilation of a given shape, and provide examples.</p>
+          </indicator>
+          <indicator>
+            <p>Determine whether or not given images are dilations of given shapes and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Draw, with or without technology, a dilation image for a given 2-D shape and 3-D object, and explain how the original 2-D shape or 3-D object and its image are proportional.</p>
+          </indicator>
+          <indicator>
+            <p>Solve contextual problems that involve transformations and explain the reasoning.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA30.6</identifier>
+        <outcome_text>Demonstrate understanding of options for acquiring a vehicle including: purchasing without creditpurchasing with creditleasingleasing to purchase.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research and present various options for purchasing or leasing a vehicle (oral, written, multimedia, etc.).</p>
+          </indicator>
+          <indicator>
+            <p>Justify a decision related to buying, leasing, or leasing to buy a vehicle, based on factors such as personal finances, intended use, maintenance, warranties, mileage, and insurance.</p>
+          </indicator>
+          <indicator>
+            <p>Solve, with or without technology, situational questions that involve the purchase, lease, or lease to purchase of a vehicle.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA30.7</identifier>
+        <outcome_text>Explore and critique the viability of small business options with respect to: expensessalesprofit or loss.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze small businesses such as a hot dog stand to identify and describe expenses, and explain factors, such as seasonal variations and hours of operation that might impact their profitability.</p>
+          </indicator>
+          <indicator>
+            <p>Research and describe feasible small business options for a given community.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a small business to generate options that might improve its profitability, and report to an audience.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the break-even point for small businesses and explain the reasoning.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA30.8</identifier>
+        <outcome_text>Extend and apply understanding of linear relations including: patterns and trendsgraphstables of valuesequationsinterpolation and extrapolationproblem solving.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze graphs, tables of values, number patterns, and/or equations to generalize characteristics of linear relations.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze relations in sets of graphs, tables of values, number patterns, and/or equations to sort according to whether the relations are linear or nonlinear.</p>
+          </indicator>
+          <indicator>
+            <p>Represent and explain the linear relation in given contexts, including direct or partial variations, using equations, tables of values, and/or sketches of graphs.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze contexts and their graphs to explain why the points on the graphs should or should not be connected.</p>
+          </indicator>
+          <indicator>
+            <p>Create, with or without technology, a graph to represent a data set, including scatterplots.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze graphs of data sets, including scatterplots, to generalize and describe the trends.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and sort a set of scatterplots according to the trends represented (linear, nonlinear, or no trend).</p>
+          </indicator>
+          <indicator>
+            <p>Critique statements such as "Trends allow us to predict exactly what will happen in the near future."</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that require interpolation or extrapolation of information.</p>
+          </indicator>
+          <indicator>
+            <p>Relate slope and rate of change to linear relations.</p>
+          </indicator>
+          <indicator>
+            <p>Match given contexts with their corresponding graphs and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve situational problems that involve the application of a formula for a linear relation.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA30.9</identifier>
+        <outcome_text>Extend and apply understanding of measures of central tendency to solve problems including: mean, median, mode weighted mean,trimmed mean.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain, using examples, the advantages and disadvantages of each measure of central tendency.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the mean, median, and mode for sets of data and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze calculations of measures of central tendency to identify and correct errors if necessary.</p>
+          </indicator>
+          <indicator>
+            <p>Critique statements such as "It is not possible to have a set of data which displays a mean, a median, and a mode of the same value."</p>
+          </indicator>
+          <indicator>
+            <p>Identify the outlier(s) in a set of data, explain why they are outliers, and discuss their effect on the mean, median, and mode of that data set.</p>
+          </indicator>
+          <indicator>
+            <p>Calculate the trimmed mean for sets of data and justify the removal of the outliers.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples such as course marks, why some data in a set would be given a greater weighting in determining the mean.</p>
+          </indicator>
+          <indicator>
+            <p>Calculate the mean of a set of numbers after allowing the data to have different weightings (weighted mean) and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples from print and other media, how and why measures of central tendency and outliers are used to provide different interpretations of data.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve situational questions that involve measures of central tendency.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA30.10</identifier>
+        <outcome_text>Demonstrate understanding of percentiles. [C, CN, PS, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain, using examples, percentile ranks in a context.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how and why decisions can be made based on percentile rank.</p>
+          </indicator>
+          <indicator>
+            <p>Compare, using examples, percent and percentile rank.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and generalize the relationship between median and percentile.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that involve percentiles and percentile charts.</p>
+          </indicator>
+          <indicator>
+            <p>Critique statements such as "Predictions based on percentile ranks are always 100% accurate."</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA30.11</identifier>
+        <outcome_text>Extend and apply understanding of probability. [C, CN, PS, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research and present orally, in writing, or using multimedia, applications of probability (e.g., medication, warranties, insurance, lotteries, weather prediction, 100-year flood, failure of a design, failure of a product, vehicle recalls, approximation of area).</p>
+          </indicator>
+          <indicator>
+            <p>Calculate the probability of an event based on a data set, (e.g., determine the probability of a randomly chosen light bulb being defective).</p>
+          </indicator>
+          <indicator>
+            <p>Express given probabilities as fractions, decimals, percentages, and using words.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze, generalize, and compare odds and probability including part-whole and part-part relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the probability of an event, given the odds for or against.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, how decisions may be based on a combination of theoretical probability calculations, results of experimental probability, and subjective judgments.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that involve probability.</p>
+          </indicator>
+          <indicator>
+            <p>Critique statements such as, "It is not possible to express odds as fractions".</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

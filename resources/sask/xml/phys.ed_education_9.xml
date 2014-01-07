@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181824_1</pdf>
+  <banner>physical/PE9.png</banner>
+  <dark_colour>#936fb1</dark_colour>
+  <light_colour>#e9e2ef</light_colour>
+  <goals>physical/physicaleducation7-9aimsgoals.htm</goals>
+  <teaching>physical/physicaleducation9teaching.htm</teaching>
+  <curriculum_name>Physical Education 9</curriculum_name>
+  <classification_id>physical education 9</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Physical Education (PE)</goal_heading>
+      <goal>Goals: Active Living, Skillful Movement, Relationships</goal>
+      <outcome>
+        <identifier>PE9.1</identifier>
+        <outcome_text>Examine and apply the principles of training (i.e., overload, progression, specificity, adaptation, use/disuse) to personal action plans that incorporate daily moderate to vigorous movement activity and focus on the improvement and/or maintenance of self-selected components of health-related fitness (cardiovascular endurance, muscular endurance, muscular strength, flexibility).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Apply an understanding of the principles of training while participating in movement activities that focus on challenging one or more components of health-related fitness.</p>
+          </indicator>
+          <indicator>
+            <p>Assess personal level of fitness in health-related components of fitness, using a variety of fitness appraisals (e.g., fitness appraisals identified in written resource and technological sources such as Fitnessgrams/Activitygrams [Meredith &amp; Welk, 2007]), and credible health-related fitness standards.</p>
+          </indicator>
+          <indicator>
+            <p>Create, implement, evaluate, and revise a personal fitness plan that illustrates the use of the principles of training and incorporates at least 30 consecutive minutes of moderate to vigorous activity on a daily basis.</p>
+          </indicator>
+          <indicator>
+            <p>Willingly engage in a variety of movement activities at a moderate to vigorous level of effort daily for at least 12 consecutive minutes.</p>
+          </indicator>
+          <indicator>
+            <p>Identify, and incorporate into action plans, movement activities of personal preference that support increased fitness and enjoyment.</p>
+          </indicator>
+          <indicator>
+            <p>Assess fitness plans of others (e.g., classmate created, family member created) as to the effectiveness of the plans based on the incorporation of the principles of training to benefit specified components of health-related fitness.</p>
+          </indicator>
+          <indicator>
+            <p>Provide feedback to support others (e.g., classmate, family member) in making improvements to personal fitness plans.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on and incorporate feedback from others related to personal fitness plans.</p>
+          </indicator>
+          <indicator>
+            <p>Express insights in response to questions such as “What is your plan for remaining active for the rest of your life?”, “How do you know if you are in ‘good enough’ shape?”, and “How might your level of fitness affect your preferred future?”</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE9.2</identifier>
+        <outcome_text>Determine safe and credible publicly promoted options for managing body composition and weight (i.e., decrease body fat, increase muscle content) and analyze the influence of mass media on body image.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Appraise the safety and factual benefits of commercialized means promoted for managing body weight and composition (e.g., weight loss supplements, diet plans, fitness equipment) based on class-established criteria.</p>
+          </indicator>
+          <indicator>
+            <p>Propose conclusions as to why today’s society may be attracted to commercially promoted means of weight loss.</p>
+          </indicator>
+          <indicator>
+            <p>Locate proof of the uncertainty and lack of safety associated with various commercially promoted means of weight loss.</p>
+          </indicator>
+          <indicator>
+            <p>Debate the pros and cons of commercially promoted means of managing weight and body composition.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the fitness benefits related to body composition compared to other factors (e.g., financial commitment, access) of various commercially promoted pieces of fitness equipment (e.g., treadmills, bow-flex, home universal gym systems).</p>
+          </indicator>
+          <indicator>
+            <p>Propose how the “fitness and weight control” industry might affect body image.</p>
+          </indicator>
+          <indicator>
+            <p>Express insights in response to questions such as “How can we determine if something is really beneficial or, conversely, potentially dangerous to our physical well-being?” and “Why does society have a weight problem?”</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE9.3</identifier>
+        <outcome_text>Investigate and apply safe and effective strategies for developing the strength of core muscles and joint muscles.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate an understanding of the distinction between core muscles and joint muscles.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the safety issues that are common to, and unique to, the development of strength in the core muscles and the joint muscles.</p>
+          </indicator>
+          <indicator>
+            <p>Create and implement regular exercise routines that focus on the development and maintenance of core strength and include exercises for the upper abdominals, lower abdominals, obliques, and back.</p>
+          </indicator>
+          <indicator>
+            <p>Incorporate useful equipment and technology (e.g., stability balls, medicine balls, wobble boards, free weights, professionally led exercises on DVDs) into regular exercise routines that focus on the development of core strength.</p>
+          </indicator>
+          <indicator>
+            <p>Justify the advantages of focusing on the development of core strength as a means to support active living for life as well as performance in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the concept of core strength training as it relates to the body muscular system.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the safety issues related to the development of joint muscle strength.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and incorporate safe methods to develop joint muscle strength through multiple repetitions of low weight bearing exercises as opposed to few repetitions of high weight bearing exercises.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE9.4</identifier>
+        <outcome_text>Implement personal plans for improvement of a self-selected skill-related component of fitness (power, agility, speed, reaction time, balance, and coordination) as it applies to complex movement skills used in a sport or activity of interest (e.g., power in the legs to increase vertical jump for volleyball spike, agility for avoiding a pin in wrestling, balance used in ballet, coordination used in juggling or cup stacking).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research training techniques that focus on a self-selected skill-related component of fitness.</p>
+          </indicator>
+          <indicator>
+            <p>Implement a training plan that focuses on a self-selected skill- related component of fitness and connects to the skills of a movement activity of interest.</p>
+          </indicator>
+          <indicator>
+            <p>Implement self-created or pre-designed pre-assessment and post-assessment strategies for determining progress in a self-selected component of skill-related fitness.</p>
+          </indicator>
+          <indicator>
+            <p>Critique personal plan for improvement of self-selected skill- related component of fitness to determine what worked well and what did not work well.</p>
+          </indicator>
+          <indicator>
+            <p>Express insights in response to questions such as “Who is responsible for making sure that I know what I could do to enhance my abilities?”</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE9.5</identifier>
+        <outcome_text>Build skills towards proficiency in four self-selected complex movement skills including one from four of the following categories:</outcome_text>
+        <outcome_text_list>
+          <li>target games (e.g., bowling, curling, golf, archery)</li>
+          <li>striking/fielding games (e.g., long ball, softball, slo-pitch, cricket)</li>
+          <li>net/wall games (e.g., badminton, tennis, table tennis, volleyball)</li>
+          <li>invasion/territorial games (e.g., basketball, soccer, touch football, soft lacrosse, floor hockey, rugby, ultimate frisbee, double ball, team handball)</li>
+          <li>alternate environment activities (e.g., orienteering, skating, cross-country skiing, canoeing, roping, downhill skiing, dog sledding, wall climbing, in-line skating, skate boarding, cycling)</li>
+          <li>body management activities (e.g., dance, wrestling, track and field, pilates, martial arts, yoga, aerobics, gymnastics).</li>
+        </outcome_text_list>
+        <indicators>
+          <indicator>
+            <p>Apply principles of practice (e.g., whole-part-whole, part-whole) to a self-created or pre-designed plan to improve performance in self-selected complex skills.</p>
+          </indicator>
+          <indicator>
+            <p>Implement visual and oral strategies (e.g., sketch movement patterns, verbalize performance of skill while performing it) to support skill development for each of the four self-selected complex movement skills.</p>
+          </indicator>
+          <indicator>
+            <p>Identify complex skills that are at a level of automation (i.e., can perform with control, smoothly and without hesitation) and demonstrate the ability to perform these skills while participating in game situations.</p>
+          </indicator>
+          <indicator>
+            <p>View and provide meaningful feedback on skill performance, of self and others, that could be a focus for improvement.</p>
+          </indicator>
+          <indicator>
+            <p>Create and implement plans to improve performance.</p>
+          </indicator>
+          <indicator>
+            <p>Use feedback from classmates, teacher, and self-assessment strategies (e.g., video, checklists) to determine strengths and weaknesses in performance of self-selected complex skills.</p>
+          </indicator>
+          <indicator>
+            <p>Research, represent, and apply the biomechanical principles of selected skills to correct errors in skill performance as identified by self and/or others.</p>
+          </indicator>
+          <indicator>
+            <p>Identify both the health-related components of fitness and the skill-related components of fitness that are the significant influences on the performance of particular complex skills.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss and practise mental imagery as a means to internalize and apply performance cues that will support proficient performance of complex movement skills.</p>
+          </indicator>
+          <indicator>
+            <p>Assess level to which proficiency of performance of complex movement skills has been attained after repeated participation in the movement activities that incorporate the skills.</p>
+          </indicator>
+          <indicator>
+            <p>Willingly engage in opportunities for improvement by initiating and taking responsibility for learning how to support own skillful movement.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE9.6</identifier>
+        <outcome_text>Design and implement, collaboratively, plans to use effective tactics and strategies (while considering rules and skills when participating in a variety of movement activity situations) to enhance performance and enjoyment of self and others in each of the following:</outcome_text>
+        <outcome_text_list>
+          <li>target games (e.g., bowling, curling, golf, archery, bocce ball)</li>
+          <li>striking/fielding games (e.g., long ball, softball, slo-pitch)</li>
+          <li>net/wall games (e.g., badminton, tennis, table tennis, volleyball, pickleball)</li>
+          <li>invasion/territorial games (e.g., basketball, soccer, touch football, soft lacrosse, floor hockey, rugby, ultimate frisbee, double ball, team handball)</li>
+          <li>low-organizational, inventive, and cooperative games (e.g., capture the flag, prisoner’s base, speedball, kick the can, bombardment, dodgeball).</li>
+        </outcome_text_list>
+        <indicators>
+          <indicator>
+            <p>Participate, at moderate to vigorous levels, in a variety of game situations to practise the application of tactics, strategies, rules, and skills of play.</p>
+          </indicator>
+          <indicator>
+            <p>Consider tactical and strategic options, made alone and with others, as well as appropriate application of the rules and skills of the games, both full and lead-up (e.g., three-on-three soccer, half-court basketball, king’s court volleyball).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate a willingness to discuss with teammates and to make group decisions regarding options for tactics and strategies to be used in game situations (e.g., play to run in touch football, defense to use in basketball, call to make in curling, how to create distractions to support teammates in prisoner’s base).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate a personal understanding of effective tactical and strategic decisions to be used in given game situations.</p>
+          </indicator>
+          <indicator>
+            <p>Work towards a level of automation (i.e., can perform with control, smoothly and without hesitation) in the application of some self-specified, team-specified, and/or teacher-specified tactical decisions while participating in game situations.</p>
+          </indicator>
+          <indicator>
+            <p>Propose, and apply modifications to, rules of games to enhance the enjoyment and fitness benefits for all (e.g., two ‘spies’ allowed in prisoner’s base, one bounce allowed between contact in volleyball).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE9.7</identifier>
+        <outcome_text>Design and implement, collaboratively, plans to use effective tactics and strategies to enhance performance and enjoyment of self and others, while showing respect for the environment, when participating in a variety of alternate environment activities (e.g., orienteering, skating, cross-country skiing, canoeing, roping, downhill skiing, dog sledding, wall climbing, in-line skating, skate boarding, cycling, completing a challenge course, Quincy building).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Willingly participate at moderate to vigorous levels in a variety of alternate environment activities to practise the application of tactics and strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate responsible behaviours that reflect personal application of effective strategies to support the enjoyment of, and sustained involvement in, alternate environment activities (e.g., dress appropriately for outdoor activity, bring required supplies such as shovels for building a Quincy).</p>
+          </indicator>
+          <indicator>
+            <p>Consider requirements, make plans, and implement actions, alone and with others, to engage in a new-to-me (us) alternate environment activity.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate respectful treatment of the environment at all times when participating in alternate environment activities.</p>
+          </indicator>
+          <indicator>
+            <p>Collaboratively create and implement a plan to enhance the outdoor environment while being active (e.g., a clean up the school yard race, a tree planting hike).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE9.8</identifier>
+        <outcome_text>Express insights on the experience of participating in body management activities, including dance and gymnastics, as well as others (e.g., pilates, yoga, aquatics, karate, cross country running, aerobics, weight training, tai chi) as a means to support participation in recreational and leisure time activities for physical, emotional, mental, and spiritual well-being.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Willingly participate in a variety of social dances (e.g., polka, two-step, jive) or cultural dances that are associated with social events or cultural activities in own geographical location.</p>
+          </indicator>
+          <indicator>
+            <p>Willingly participate in body management activities (e.g., yoga, aerobics, swimming, karate, weight training, resistance training, tai chi) alone and with others.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the physical, emotional, mental, and spiritual well-being benefits of participation in body management activities.</p>
+          </indicator>
+          <indicator>
+            <p>Determine own preference for participation in body management activities and the pros and cons of this preference related to personal well-being.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the potential positive and negative outcomes of specific body management activities for supporting various dimensions of the whole person (e.g., how participation in social dance can positively and negatively affect emotional well-being; how weight lifting can positively and negatively affect physical well-being).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate emerging career options that are presenting themselves as a result of a trend towards increased participation in body management activities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE9.9</identifier>
+        <outcome_text>Plan, participate in, and lead, with others, a movement activity event (e.g., a tournament, a fitness-athon, an outdoor orienteering challenge, a winter carnival, Arctic Games, a team scavenger hunt) to engage others (e.g., peers, classmates, younger students, community members) in movement activity.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use a democratic decision-making process to select the best options for group-led movement activity event.</p>
+          </indicator>
+          <indicator>
+            <p>Brainstorm the aspects that must be considered in order to run a movement activity event for others.</p>
+          </indicator>
+          <indicator>
+            <p>Self-analyze and communicate personal skills that one can contribute to the group process for organizing and running a movement event.</p>
+          </indicator>
+          <indicator>
+            <p>Express insights into how personal skills related to planning and leading a movement activity might impact career choices in the future.</p>
+          </indicator>
+          <indicator>
+            <p>Follow through with a personal commitment to carrying out an aspect of organizing and running a movement activity event.</p>
+          </indicator>
+          <indicator>
+            <p>Brainstorm potential supports in the school and community for establishing partnerships to develop and promote movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate with others (e.g., peers, other classes, other schools, community members) in organizing, promoting, and running a movement activity event.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE9.10</identifier>
+        <outcome_text>Analyze the influences of mass media, advertising strategies, and other sources to determine their impact on promoting active living (e.g., commercials, sport and special events coverage, physical activity promotions such as fund-raising walkathons/runs).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the various mediums through which our understanding, beliefs, and attitudes regarding active living are influenced.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the impact of more recent promotional strategies (e.g., infommericals, pedometers in cereal boxes) on active living.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the diversity of the benefits (e.g., personal health, public health) associated with participation in publicly promoted movement activity events such as a charitable fund-raising movement activity event.</p>
+          </indicator>
+          <indicator>
+            <p>Tell a story (e.g., written, visual, audio, video, creative performance) of own involvement or another person’s involvement in a media-promoted organized movement activity (e.g., a local tournament, a charitable fund-raising event that involves movement activity).</p>
+          </indicator>
+          <indicator>
+            <p>Debate the influence of television on attitudes towards participation in movement activities and as a means of promoting mass participation in regular movement activity.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE9.11</identifier>
+        <outcome_text>Apply an understanding of how to prevent (e.g., using proper technique) and care for a variety of movement activity-related injuries (e.g., sprains, breaks, contusions, skin irritations, concussions).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and apply the biomechanical concepts of efficient movement (e.g., centre of gravity, body alignment) that are important for safe exercising in lifting and carrying activities (e.g., bend knees, hold object close to body, avoid twisting positions, keep head position neutral) to prevent injury while participating in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Respond appropriately to a variety of role-played and/or ‘teachable moment’ situations (e.g., injured teammate who has “rolled an ankle”, unconscious child in a playground) using basic first-aid procedures and techniques.</p>
+          </indicator>
+          <indicator>
+            <p>Propose options for how to support injured joints (e.g., tensor wrapping, taping) and practise applying options available.</p>
+          </indicator>
+          <indicator>
+            <p>Make connections between the understanding and skills that are being developed and career options that are associated with the prevention and care of activity-related injuries that result from participation in movement activities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE9.12</identifier>
+        <outcome_text>Demonstrate an understanding of and incorporate positive social behaviours into all aspects of personal involvement in movement activities, in the context of both a participant and a spectator, after examining the positive and negative influences of organized sports, movement competitions (e.g., dance competition), and mass media on the social behaviour of self and others.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze the impact that various issues associated with participation in sport have on society in general, and personal social behaviours specifically, including but not limited to violence and aggression in sport by athlete and spectators, abuse of officials, drug use including steroids and intravenous drugs, tobacco and alcohol sponsorship, and gambling.</p>
+          </indicator>
+          <indicator>
+            <p>Debate issues related to participation in movement activities (e.g., keeping accurate score in golf according to the rules, calling the boundaries correctly in badminton, acceptance of people of all body types in dance) that reflect individual standards for acceptable behaviour in social situations.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the characteristics of specific positive role models, locally, provincially, and globally, who are involved in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate a personal commitment to positive social behaviour while participating in and watching movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Present personal reflective opinions on highly publicized ethical controversies (e.g., steroid use by professional athletes, criminal charges against athletes as the result of actions during sporting competitions, fan abuse of or attacks on athletes and/or officials, gambling related inappropriate behaviours of athletes and/or officials) that have influenced societal thinking regarding social behaviour related to movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Express insights in response to questions such as “Why is there a shortage of minor officials and coaches in almost all sports played in Saskatchewan?” and “Do I ever do anything that would make someone else want to quit being involved in movement activities?”</p>
+          </indicator>
+          <indicator>
+            <p>Create a personal “Code of Ethics” for acceptable social behaviour related to participation in sport.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE9.13</identifier>
+        <outcome_text>Identify and analyze personal perspectives on how to manage the contemporary opportunities and challenges that influence one’s ability to develop as a skillful mover, to live a balanced, active lifestyle, and to develop and maintain safe and respectful relationships.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and analyze personal perspectives on how to manage the contemporary opportunities and challenges that influence one’s ability to develop as a skillful mover, to live a balanced, active lifestyle, and to develop and maintain safe and respectful relationships.Explore and discuss contemporary opportunities and challenges (e.g., medical advances to repair injuries, performance-enhancing drug use) that can influence personal standards and decisions related to participation in movement activities on a regular basis.</p>
+          </indicator>
+          <indicator>
+            <p>Propose and discuss connections between the types and levels of participation of self and others in movement activities (e.g., professional and amateur sport options; sport participation opportunities for women, minorities, and those with disabilities; physical education, fitness, and training; major national and international sporting competitions).</p>
+          </indicator>
+          <indicator>
+            <p>Express insights on how Canada’s success (or lack of) at World level athletic competitions impacts movement activity options at the provincial and local level (e.g., financial support for elite athletes versus financial support for physical activity options for all; emphasis on high performance training versus participation in a variety of movement activities; and emphasis on competition versus cooperative and social interaction).</p>
+          </indicator>
+          <indicator>
+            <p>Express insights in response to questions such as “Has society gone too far in its concern for safety and desire to protect children and youth from injury?” and “Is there a role for government to play in controlling the activity levels of its citizens?”</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

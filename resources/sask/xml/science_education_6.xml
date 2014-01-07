@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181920_1</pdf>
+  <banner>science/science6.gif</banner>
+  <dark_colour>#008164</dark_colour>
+  <light_colour>#e6f3f0</light_colour>
+  <goals>science/science6aimsgoals.htm</goals>
+  <teaching>science/science6-9teaching.htm</teaching>
+  <curriculum_name>Science 6</curriculum_name>
+  <classification_id>science 6</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Life Science: Diversity of Living Things (DL)</goal_heading>
+      <outcome>
+        <identifier>DL6.1</identifier>
+        <outcome_text>Recognize, describe, and appreciate the diversity of living things in local and other ecosystems, and explore related careers. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>State the characteristics that define all living things (e.g., are made up of one or more cells, require energy for life processes, respond to stimuli in their environment, and have the ability to reproduce).</p>
+          </indicator>
+          <indicator>
+            <p>Observe and document the diversity of living things in their local habitat through journaling, a nature walk, sketching, drawing, photographing, video recording, or other means.</p>
+          </indicator>
+          <indicator>
+            <p>Show respect for other people, living things, and the environment when observing ecosystems.</p>
+          </indicator>
+          <indicator>
+            <p>Document the diversity of living things in different terrestrial and aquatic habitats (e.g., grasslands, forests, tundra, deserts, rivers, ponds, and oceans) using print, video, and/or online resources.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how First Nations and Métis art and storytelling highlight movement and/or behaviour of living things and reflect a worldview that values all living things.</p>
+          </indicator>
+          <indicator>
+            <p>Identify examples of science and technology-related careers and workplaces which require an understanding of the diversity of living things (e.g., naturalist, zoo keeper, palaeontologist, and wildlife biologist).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DL6.2</identifier>
+        <outcome_text>Examine how humans organize understanding of the diversity of living things. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Construct and use a classification system to organize living things into groups and subgroups according to student-developed criteria.</p>
+          </indicator>
+          <indicator>
+            <p>Consider personal observations and ideas as well as those of others (including differing worldviews) when constructing classification systems by asking questions, sharing stories, and responding to classmates’ classification systems.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how different classification systems can be used to classify the same set of objects and explain how humans develop and refine classification systems to meet specific needs.</p>
+          </indicator>
+          <indicator>
+            <p>Explore local First Nations and Métis methods of organizing understanding of living things (e.g., two-leggeds, four-leggeds, winged-ones, swimmers, trees, and grasses) and the criteria underlying that understanding (e.g., where animals are found, how animals move, and the uses of plants).</p>
+          </indicator>
+          <indicator>
+            <p>Describe how aspects of First Nations and Métis worldviews (e.g., holistic, interconnectedness, valuing of place-based knowledge) shape their systems of organizing understanding of living things.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate the diversity of living things on Earth by constructing a visual representation (e.g., poster, mobile, slide show, and web page) showing examples from each kingdom of the five kingdom taxonomic model: monera, protists, fungi, plants, and animals.</p>
+          </indicator>
+          <indicator>
+            <p>Use appropriate scientific terminology to communicate ideas about the diversity of living things (e.g., biotic, abiotic, kingdom, phylum, monera, protist, fungi, plant, animal, vertebrate, and invertebrate).</p>
+          </indicator>
+          <indicator>
+            <p>Critique the use of biological classification systems to aid scientific understanding of living things rather than relying on common, local, or personally chosen names.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DL6.3</identifier>
+        <outcome_text>Analyze the characteristics and behaviours of vertebrates (i.e., mammals, birds, reptiles, amphibians, and fish) and invertebrates. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify characteristics of vertebrates and invertebrates and classify animals as vertebrates or invertebrates from drawings, videos, pictures, lists, and/or personal observations.</p>
+          </indicator>
+          <indicator>
+            <p>Compare and represent characteristics and behaviours (e.g., body shape, body description, method of respiration, method of reproduction, method of movement, and method of feeding) of student-selected examples of vertebrates.</p>
+          </indicator>
+          <indicator>
+            <p>Compare and represent characteristics and behaviours (e.g., body shape, body description, method of respiration, method of reproduction, method of movement, and method of feeding) of student-selected examples of invertebrates (e.g., arthropods, annelids, cnidarids, echinoderms, molluscs, and nematodes).</p>
+          </indicator>
+          <indicator>
+            <p>Propose questions for inquiry that arise from personal investigations of characteristics and behaviours of animals.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest reasons why current biological classification systems for living things are based on structural (internal) characteristics rather than solely on physical appearance or behaviour.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DL6.4</identifier>
+        <outcome_text>Examine and describe structures and behaviours that help:individual living organisms survive in their environments in the short termspecies of living organisms adapt to their environments in the long term.</outcome_text>
+        <outcome_text>[CP, DM, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Propose questions to investigate related to the structures and behaviours that help organisms survive in their environments (e.g., “What advantage are different beaks for birds?”, “Why do owls turn their heads to look sideways?”, “Why do rabbits change colour at different times of the year?”, “Why do caribou migrate?”, “Why do ground squirrels hibernate?”).</p>
+          </indicator>
+          <indicator>
+            <p>Show interest and curiosity in learning about organisms’ adaptations to different environments by journaling, participating in a nature walk, or sharing science-related information about adaptations (gathered from print or video resources or personal experience) with classmates.</p>
+          </indicator>
+          <indicator>
+            <p>Describe examples of structures and behaviours, including seasonal changes, which help living things survive in their environments during the lifetime of the organism.</p>
+          </indicator>
+          <indicator>
+            <p>Describe examples of adaptations to structures and behaviours (e.g., flippers, webbed feet, night-time vision, wide wings, camouflage colouring, migration, and hibernation) that have enabled living things to adapt to their environments in the long term.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how scientists use fossils and the fossil record as a source of information to identify changes or diversity in species over long periods of time.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest reasons why specific species of organisms have or might become endangered or extinct.</p>
+          </indicator>
+          <indicator>
+            <p>Gather information from a variety of sources (e.g., Elder, traditional knowledge keeper, naturalist, textbook, non-fiction book, museum display, encyclopaedia, and website) to answer student-generated questions about the structural and behavioural adaptations of organisms.</p>
+          </indicator>
+          <indicator>
+            <p>Compare closely-related animals that live in different parts of the world and propose explanations for any differences in their structures and behaviours.</p>
+          </indicator>
+          <indicator>
+            <p>Research the advantages of particular structures or behaviours of organisms that suit different environments (e.g., how different bird beaks are best suited to obtain different types of food, how different types of foot structure are best suited for different environments).</p>
+          </indicator>
+          <indicator>
+            <p>Suggest reasons to explain how results of similar and repeated studies of the adaptations of organisms may vary and suggest possible explanations for variations (e.g., independent studies may reveal different responses by polar bears to temperature changes or pollution).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DL6.5</identifier>
+        <outcome_text>Assess effects of micro-organisms on past and present society, and contributions of science and technology to human understanding of micro-organisms. [CP, DM, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Choose and correctly use appropriate tools (e.g., magnifying glasses, optical microscopes, and video microscopes) to study living organisms that cannot be seen with the naked eye.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and represent, using words and diagrams, characteristics of micro-organisms obtained from student- or teacher-collected water samples (e.g., bottled water, tap water, rain barrel, pond, creek, slough, and river water).</p>
+          </indicator>
+          <indicator>
+            <p>Explain how micro-organisms meet their basic needs, including moving around and obtaining food, water, and oxygen.</p>
+          </indicator>
+          <indicator>
+            <p>Design and conduct an investigation of the factors that influence how quickly micro-organisms break down organic matter (e.g., build a composter in a 2L plastic bottle and vary conditions such as the amount of water, soil, light, and combinations of waste products).</p>
+          </indicator>
+          <indicator>
+            <p>Compare cultural (including First Nations and Métis), historical, and scientific understandings and explanations of disease, including the contributions of scientists such as John Snow and Louis Pasteur to the germ theory.</p>
+          </indicator>
+          <indicator>
+            <p>Critique representations or depictions of micro-organisms in a variety of texts (e.g., science fiction, cartoons, movies, music, and poetry).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss positive and negative impacts of micro-organisms for humans (e.g., food production and spoilage, fermentation, pasteurization, water and sewage treatment, human digestion, composting, disease spread and prevention, and biological warfare).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science: Understanding Electricity (EL)</goal_heading>
+      <outcome>
+        <identifier>EL6.1</identifier>
+        <outcome_text>Assess personal, societal, economic, and environmental impacts of electricity use in Saskatchewan and propose actions to reduce those impacts. [CP, DM]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Provide examples of the types of energy sources used to provide heat and light to homes in the past and describe ways in which electricity-based technologies have changed the way people work, live, and interact with the environment in Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how electrical energy is generated from hydroelectric, coal, natural gas, nuclear, geothermal, biomass, solar, and wind sources and categorize these resources as renewable or non-renewable.</p>
+          </indicator>
+          <indicator>
+            <p>Locate and categorize by type the large-scale electrical energy generation facilities in Saskatchewan and explain how electrical energy is transmitted from those facilities to locations throughout the province.</p>
+          </indicator>
+          <indicator>
+            <p>Identify factors that affect electrical energy consumption at home, school, and in the workplace and propose methods of decreasing electrical energy consumption that can help to conserve natural resources and protect the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Explain potential dangers of electricity at home, school, and the workplace and suggest ways individuals can minimize those dangers.</p>
+          </indicator>
+          <indicator>
+            <p>Research employers and careers related to electrical energy generation, distribution, and conservation in Saskatchewan.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>EL6.2</identifier>
+        <outcome_text>Investigate the characteristics and applications of static electric charges, conductors, insulators, switches, and electromagnetism. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Conduct investigations to determine the attraction and repulsion of electrostatically charged materials and represent the results of those investigations using drawings, sketches, tables, charts, and/or other representations.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how results of similar and repeated investigations into the characteristics of static electric charges (e.g., the rubbing together of different substances) may vary and suggest possible explanations for identified variations.</p>
+          </indicator>
+          <indicator>
+            <p>Identify natural and man-made applications of static electric charge and discharge (e.g., lightning, photocopiers, laser printers, air filters, and electrostatic paint sprayers).</p>
+          </indicator>
+          <indicator>
+            <p>Pose questions related to the physical properties of conductors, insulators, simple circuits, and electromagnets (e.g., “How can we determine if an unknown material is a conductor or an insulator?”, “How does a switch work in a simple electric circuit?”, “What materials work best to create an electromagnet?”).</p>
+          </indicator>
+          <indicator>
+            <p>Make predictions, based on observed patterns of events, related to the physical properties of conductors, insulators, simple circuits, and electromagnets and conduct investigations to test those predictions.</p>
+          </indicator>
+          <indicator>
+            <p>Identify appropriate tools, instruments, and materials (e.g., bulbs, batteries, and wires) to use when investigating the properties of conductors, insulators, simple circuits, and electromagnets and use those tools and apparatus in a manner that ensures personal safety and the safety of others.</p>
+          </indicator>
+          <indicator>
+            <p>Test the conductivity of a variety of solids and liquids, following a given set of procedures, to identify which materials are conductors and which are insulators, and draw conclusions about the types of materials that work best as conductors and which work best as insulators.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the role of switches in electrical circuits.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the operation of an electromagnet and contrast magnets and electromagnets.</p>
+          </indicator>
+          <indicator>
+            <p>Plan a set of steps to carry out a fair test of a science-related idea related to electromagnets, such as how to increase the strength of an electromagnet.</p>
+          </indicator>
+          <indicator>
+            <p>Use evidence gathered through research and observation to answer questions related to the physical properties of conductors, insulators, simple circuits, and electromagnets.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the operation of common technologies based on properties of static electricity, current electricity, or electromagnetism.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>EL6.3</identifier>
+        <outcome_text>Explain and model the properties of simple series and parallel circuits. [SI, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>State the required characteristics of a simple electric circuit (e.g., a source of electrical energy, a closed path to conduct electrical energy, and a load to convert the electrical energy into another form of energy).</p>
+          </indicator>
+          <indicator>
+            <p>Compare a variety of electrical pathways by constructing simple circuits.</p>
+          </indicator>
+          <indicator>
+            <p>Contrast a closed circuit, open circuit, and short circuit.</p>
+          </indicator>
+          <indicator>
+            <p>Propose questions to investigate, and practical problems to solve, related to simple series and parallel circuits (e.g., “What happens when a light bulb is removed from a series or parallel circuit?”, “How can I create a simple circuit using only a battery, light bulb, and one wire?”, “How are light circuits in a house wired?”).</p>
+          </indicator>
+          <indicator>
+            <p>Construct and test various combinations of simple electric circuits to determine similarities and differences between series and parallel circuits.</p>
+          </indicator>
+          <indicator>
+            <p>Draw electrical circuit diagrams to represent simple series and parallel circuits using appropriate symbols (e.g., battery, conductor, light bulb, motor, and switch).</p>
+          </indicator>
+          <indicator>
+            <p>Construct simple circuits to demonstrate how electrical energy can be controlled to produce light, heat, sound, motion, and magnetic effects.</p>
+          </indicator>
+          <indicator>
+            <p>Design, construct, and troubleshoot an electrical circuit that meets one or more student-specified criteria.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science: Principles of Flight (FL)</goal_heading>
+      <outcome>
+        <identifier>FL6.1</identifier>
+        <outcome_text>Examine connections between human fascination with flight and technologies and careers based on the scientific principles of flight. [CP, DM, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and describe physical characteristics and adaptations that enable birds (e.g., ravens, hawks, loons, geese, hummingbirds, sandpipers, cranes, and sparrows), insects (e.g., mosquitoes, dragonflies, grasshoppers, bees, wasps, and butterflies), and bats to fly.</p>
+          </indicator>
+          <indicator>
+            <p>Show how First Nations and Métis art and storytelling highlight understanding of and respect for birds.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the role of inspiration and aesthetic design in the development of flying devices (e.g., initial attempts at trying to fly were based on observations of birds).</p>
+          </indicator>
+          <indicator>
+            <p>Research technological problems that had to be overcome to develop devices that fly (e.g., balloons, kites, gliders, airplanes, helicopters, and rockets) and explain how various creative solutions to those problems have resulted in the development of flying devices with different designs.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss historical and current contributions of individuals, including Canadians, who have contributed to scientific understanding and technological developments related to flight.</p>
+          </indicator>
+          <indicator>
+            <p>Describe examples of traditional and modern technologies developed by First Nations, Métis, and other cultures that are based on principles of flight (e.g., atlatl, bow and arrow, slingshot, catapult, boomerang, and trebuchet).</p>
+          </indicator>
+          <indicator>
+            <p>Explain how inventions based on principles of flight have changed the way people work, live, and interact with the environment locally, nationally, and globally (e.g., bush planes in northern Saskatchewan, scheduled airline travel, supply of cargo to remote communities and mine sites, and transoceanic air travel).</p>
+          </indicator>
+          <indicator>
+            <p>Describe career opportunities in Canada related to the science and technology of flight.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FL6.2</identifier>
+        <outcome_text>Investigate how the forces of thrust, drag, lift, and gravity act on living things and constructed devices that fly through the air. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Diagram how the forces of thrust, drag, lift, and gravity act on living things or devices that fly through the air.</p>
+          </indicator>
+          <indicator>
+            <p>Use scientific terminology appropriately (e.g., thrust, drag, lift, and gravity) when communicating ideas about the principles of flight.</p>
+          </indicator>
+          <indicator>
+            <p>Generate questions related to the principles of flight and rephrase those questions in a testable form (e.g., rephrase a question such as “Why can some gliders travel farther than others?” to “What effect does wing shape have on the distance a glider can travel?”).</p>
+          </indicator>
+          <indicator>
+            <p>Describe the role of lift in overcoming gravity and enabling devices or living things to fly.</p>
+          </indicator>
+          <indicator>
+            <p>Determine how lift is affected by the shape of a surface by planning and carrying out steps to investigate the effect of wing shape on lift.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and represent methods for altering drag in flying devices, such as a bird spreading wings or an airplane employing flaps.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of how science and technology have been used to solve problems related to drag in devices that fly.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the sources of thrust of various constructed flying devices including the propeller, jet engine, and solid or liquid-fuelled rocket.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FL6.3</identifier>
+        <outcome_text>Design a working prototype of a flying object that meets specified performance criteria. [TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Assess the characteristics of flying objects (e.g., balloon, kite, glider, airplane, helicopter, and rocket).</p>
+          </indicator>
+          <indicator>
+            <p>Construct a prototype of a flying object that meets student-specified performance and aesthetic criteria.</p>
+          </indicator>
+          <indicator>
+            <p>Work collaboratively with classmates to define criteria for judging the performance and aesthetics of a prototype of a flying object.</p>
+          </indicator>
+          <indicator>
+            <p>Select and carefully use appropriate tools in manipulating materials and in building prototypes.</p>
+          </indicator>
+          <indicator>
+            <p>Work collaboratively to collect relevant observations and data to evaluate the performance of a prototype of an object that will fly.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate and explain the importance of selecting appropriate processes for investigating scientific questions and solving technological problems (e.g., explain why it is important to change one variable while keeping others constant in designing and testing prototypes of flying objects).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze personally collected data and suggest improvements to a prototype design.</p>
+          </indicator>
+          <indicator>
+            <p>Communicate procedures and results of prototype design, construction, testing, and evaluation in a technical design report.</p>
+          </indicator>
+          <indicator>
+            <p>Identify new questions or problems about flight that arise through the prototype design process.</p>
+          </indicator>
+          <indicator>
+            <p>Propose designs for futuristic flying devices that meet a particular student-identified need.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Earth and Space Science: Our Solar System (SS)</goal_heading>
+      <outcome>
+        <identifier>SS6.1</identifier>
+        <outcome_text>Research and represent the physical characteristics of the major components of the solar system, including the sun, planets, moons, asteroids, and comets. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use a variety of sources and technologies to gather and compile pertinent information about the physical characteristics of the major components of the solar system.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze historical and current technological developments that have enabled human observation of the major components of the solar system.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a timeline of Canadian and worldwide research efforts related to understanding the major components of the solar system.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the validity and usefulness of different sources of information about the physical characteristics of the solar system.</p>
+          </indicator>
+          <indicator>
+            <p>Use star charts and astronomy guides to investigate the night sky, including constellations, and record observations using notes in point form, data tables, simple diagrams, and/or charts.</p>
+          </indicator>
+          <indicator>
+            <p>Describe objects in the heavens, as indicated through First Nations and Métis art and stories or by Elders or traditional knowledge keepers.</p>
+          </indicator>
+          <indicator>
+            <p>Create scale-distance and/or scale-size models to represent the major components of the solar system.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the usefulness and accuracy of scale-distance and scale-size models of the major components of the solar system.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how evidence is continually questioned in order to validate scientific knowledge about the solar system.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS6.2</identifier>
+        <outcome_text>Assess the efficacy of various methods of representing and interpreting astronomical phenomena, including phases, eclipses, and seasons. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine how people of different cultures, including First Nations, have recorded (e.g., medicine wheel, Mayan calendar, Stonehenge, pyramids) and used understandings of astronomical phenomena (e.g., positions of the stars and/or planets) to solve practical problems such as the appropriate time to plant and harvest crops, to support navigation on land and water, or to foretell significant events through stories and legends.</p>
+          </indicator>
+          <indicator>
+            <p>Examine ways in which humans have represented understanding of or interest in astronomical phenomena through music, dance, drama, visual art, or stories.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the importance of selecting appropriate processes for investigating scientific questions and solving technological problems by explaining why astronomy is considered a part of science but astrology is not.</p>
+          </indicator>
+          <indicator>
+            <p>Propose personal explanations for the causes of seasons, phases, and eclipses.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how Earth’s rotation causes the day and night cycle and how Earth’s 23.5° tilt and revolution around the sun causes the yearly cycle of seasons.</p>
+          </indicator>
+          <indicator>
+            <p>Propose explanations for how the yearly cycle of seasons might differ if Earth’s axis were not tilted.</p>
+          </indicator>
+          <indicator>
+            <p>Consider alternate models of seasons and explanations for those models (e.g., the six-season model of the Woodland Cree, the rainy and dry seasons of some tropical and subtropical regions).</p>
+          </indicator>
+          <indicator>
+            <p>Model the relative positions of the sun, Earth, and moon to demonstrate moon phases and lunar and solar eclipses.</p>
+          </indicator>
+          <indicator>
+            <p>Propose questions related to astronomical phenomena to investigate using models and simulations, such as “Do other planets exhibit phases?”, “How would seasons on Earth differ if Earth were not tilted?”, “How would patterns of eclipses change if the sun, Earth, or moon were different diameters or positioned at different locations?”.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS6.3</identifier>
+        <outcome_text>Evaluate past, current, and possible future contributions of space exploration programs including space probes and human spaceflight, which support living and working in the inner solar system. [DM, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Construct a timeline of Canadian and worldwide space exploration programs related to living and working in space, including collaborative efforts among countries.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how astronauts are able to meet their basic needs (e.g., food, water, shelter, and waste elimination) while living and working in space.</p>
+          </indicator>
+          <indicator>
+            <p>Research the various work roles and worldwide locations required to support human spaceflight programs.</p>
+          </indicator>
+          <indicator>
+            <p>Describe instances where scientific ideas and discoveries have led to new inventions and applications (e.g., lunar buggy, space shuttle, Canadarm, Dextre, and the International Space Station) that support human exploration of space and which have extended scientific knowledge related to living and working in space.</p>
+          </indicator>
+          <indicator>
+            <p>Identify potential personal, societal, technological, and environmental barriers to living and working in space.</p>
+          </indicator>
+          <indicator>
+            <p>Design a model of a habitable space vehicle that can travel to and return from a student-selected location in the inner solar system.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the work being done in preparation for future space travel and make predictions about future achievements related to living and working in space.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

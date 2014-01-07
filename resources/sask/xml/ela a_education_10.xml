@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181774_1</pdf>
+  <banner>english/ELAA10_flat.png</banner>
+  <dark_colour>#5493ad</dark_colour>
+  <light_colour>#dde9ef</light_colour>
+  <goals>english/englishlanguagearts10aimsgoals.htm</goals>
+  <teaching>english/englishlanguagearts10teaching.htm</teaching>
+  <curriculum_name>English Language Arts A10</curriculum_name>
+  <classification_id>english language arts A10</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Comprehend and Respond (CR)</goal_heading>
+      <outcome>
+        <identifier>CR A10.1</identifier>
+        <outcome_text>Comprehend and respond to a variety of visual, oral, print, and multimedia texts that address:identity (e.g., Foundational Stories);social responsibility (e.g., Destiny and Challenges of Life); andsocial action (agency) (e.g., Human Existence).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>View, listen to, read, and respond to First Nations and Métis resources and other texts that reflect diverse personal identities, worldviews, and backgrounds (e.g., appearance, culture, socio-economic status, ability, age, gender, language, social structures, and decision making).</p>
+          </indicator>
+          <indicator>
+            <p>Identify connections between self, texts, and culture.</p>
+          </indicator>
+          <indicator>
+            <p>Develop understanding and interpretations of a variety of texts by drawing upon personal experiences and prior knowledge of texts and language.</p>
+          </indicator>
+          <indicator>
+            <p>Comprehend key ideas and supporting details (both explicit and implicit), and determine their literal and implied meaning.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and evaluate effectiveness of text organization and elements.</p>
+          </indicator>
+          <indicator>
+            <p>Respond thoughtfully and critically to text providing support from text to justify response.</p>
+          </indicator>
+          <indicator>
+            <p>Generate significant and thought-provoking questions about what is viewed, listened to, and read.</p>
+          </indicator>
+          <indicator>
+            <p>Respond personally and critically to individuals, events, and ideas presented in a variety of First Nations, Métis, and other Canadian and international texts.</p>
+          </indicator>
+          <indicator>
+            <p>Generate relevant questions about texts on issues related to identity, social responsibility, and social action (agency).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss ways in which texts convey, challenge, or support and affirm individual and community values and behaviours.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR A10.2</identifier>
+        <outcome_text>View, interpret, summarize, and draw conclusions about the ideas and information presented in a variety of illustrations, charts, graphs, and television, film, and video presentations including a documentary or current affairs program.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>View, interpret, and summarize grade-appropriate literary and informational texts created by First Nations, Métis, Saskatchewan, Canadian, and international authors from various cultural communities.</p>
+          </indicator>
+          <indicator>
+            <p>Select, use, and evaluate purposefully a variety of before (page 24), during (page 25), and after (page 26) strategies to construct meaning when viewing.</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply language cues and conventions to construct and confirm meaning when viewing including:Pragmatic cues: recognizing and understanding formal English and how stylistic choices affect the meaning and impact of the message; recognizing different English dialects and problems inherent in “standard” English supremacy.Textual cues: recognizing and understanding the distinctive formats of a range of visual and multimedia texts and their textual and organizational features.Syntactic cues: recognizing and comprehending basic English sentence structures including common kernel structures and how they have been expanded with qualifiers and how they have been compounded and transformed (as questions, exclamations, inversions, negatives).Semantic/Lexical/Morphological cues: recognizing and comprehending when and how words are used in a concrete or abstract and a denotative or connotative way.Graphophonic cues: recognizing and comprehending the structure and patterns of high-frequency, topic-specific, and new words encountered in viewing.Other cues: recognizing and comprehending textual features such as graphic aids (e.g., diagrams, graphs, timelines, table of contents and index) and illustrations (e.g., photographs, images, drawings, sketches); recognizing intonation, nonverbal cues and body language; recognizing gestures, facial expression, sound, visual, and multimedia aids that were used to enhance presentation.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate active viewing behaviours including:determine what the text is representingidentify and analyze how the text was constructedidentify the intended audiences and points of view in the textinfer the assumptions, interests, beliefs, and values embedded in the text and the credibility and purpose of the authorrecognize language and media techniques and conventions in television, film, and video presentationsanalyze how the text uses argument, images, placement, editing, and music to create emotion and impactevaluate and critique the persuasive techniques.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze contrasting texts, evaluating the ways verbal and non-verbal (visual and multimedia) features are organized and combined for different meanings, effects, purposes, and audiences in different social contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the source of media presentation or production including who made it, why, and for whom it was made.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate how genders and various cultures and socio-economic groups are portrayed in mass media.</p>
+          </indicator>
+          <indicator>
+            <p>Prepare and present a critical response to what was viewed.</p>
+          </indicator>
+          <indicator>
+            <p>View and discuss the meaning and characterization implicit in the action of a scene from a play, film, television production (e.g., dialogue, movement, physical position of characters), noting visual features (e.g., set, costumes, and character appearance).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the characterization, mood, and historical setting achieved by an actor and director in a live performance or film version of a play.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR A10.3</identifier>
+        <outcome_text>Listen to, interpret, summarize, and draw conclusions about the ideas and information presented in a variety of literary and informational texts including group discussions, oral readings, interviews, and prepared talks about a topic being studied.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Listen to and interpret grade-appropriate literary and informational texts created by First Nations, Métis, Saskatchewan, Canadian, and international authors from various cultural communities.</p>
+          </indicator>
+          <indicator>
+            <p>Select, use, and evaluate purposefully a variety of before (page 24), during (page 25), and after (page 26) strategies to construct meaning when listening.</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply language cues and conventions to construct and confirm meaning when listening including:Pragmatic cues: recognizing and understanding formal English and how stylistic choices affect the meaning and impact of the message; recognizing different English dialects and problems inherent in “standard” English supremacy.Textual cues: recognizing and understanding the distinctive formats of a range of oral texts and their textual and organizational features.Syntactic cues: recognizing and comprehending basic English sentence structures including common kernel structures and how they have been expanded with qualifiers and how they have been compounded and transformed (as questions, exclamations, inversions, negatives).Semantic/Lexical/Morphological cues: recognizing and comprehending when and how words are used in a concrete or abstract and a denotative or connotative way; determining their meaning by context, structure (meanings of prefixes, roots, and suffixes), sound, or use of reference sources such as glossary, dictionary, thesauruses, and available technology to determine meanings and usage.Graphophonic cues: recognizing and comprehending the structure and patterns of high-frequency, topic-specific, and new words encountered in listening; identifying and explaining word structure and patterns that help support understanding.Other cues: recognizing non-verbal cues and body language, gestures, facial expression, sound, visual, and multimedia aids used to enhance presentation.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate active listening behaviours including:concentrating, focusing, and attendingfiltering distractionsanalyzing explicit and implicit messages, viewpoints, and conceptsrecognizing overall organizationidentifying and analyzing persuasive techniquesevaluating credibility and logicusing effective notemaking strategies and a variety of written or graphic forms to organize and share ideas acquired from what was listened topreparing and asking relevant questions and responding appropriatelyanalyzing the overall effectiveness of the text.</p>
+          </indicator>
+          <indicator>
+            <p>Engage in reflective, critical, empathic, and appreciative listening.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the language features and their effects in a range of oral and multimedia texts and describe and analyze their relationships to meaning, purpose, and audience.</p>
+          </indicator>
+          <indicator>
+            <p>Listen to and interact appropriately with others (e.g., consider others’ ideas) to communicate and explore understanding, information, ideas, and opinions.</p>
+          </indicator>
+          <indicator>
+            <p>Identify attitudes and beliefs, relating them to personal experience and knowledge of other texts; and compare texts listened to in terms of attitudes and beliefs, viewpoints, and explicit and implied messages.</p>
+          </indicator>
+          <indicator>
+            <p>Listen respectfully to an invited guest with expertise on the subject, and make notes on the key points as well as the speaker’s purpose, attitude, and organization of ideas for effect.</p>
+          </indicator>
+          <indicator>
+            <p>Listen to a recorded speech and note the language features that were employed.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR A10.4</identifier>
+        <outcome_text>Read, interpret, and draw conclusions about the ideas, information, concepts, and themes presented in a variety of literary (including poems, plays, essays, short stories, novels) and informational (including magazines, newspapers, and on-line information) texts.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Read, comprehend, and explain the human experiences and values reflected in various literary and informational texts created by First Nations, Métis, Saskatchewan, Canadian, and international authors from various cultural communities.</p>
+          </indicator>
+          <indicator>
+            <p>Select, use, and evaluate purposefully a variety of before (page 24), during (page 25), and after (page 26) strategies to construct meaning when reading.</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply language cues and conventions to construct and confirm meaning when reading including:Pragmatic cues: recognizing and understanding formal English and how stylistic choices affect the meaning and impact of the message; recognizing different English dialects and problems inherent in “standard” English supremacy.Textual cues: recognizing and understanding the distinctive formats of a range of written texts and their textual and organizational features.Syntactic cues: recognizing and comprehending basic English sentence structures including common kernel structures and how they have been expanded with qualifiers and how they have been compounded and transformed (as questions, exclamations, inversions, negatives).Semantic/Lexical/Morphological cues: recognizing and comprehending when and how words are used in a concrete or abstract and a denotative or connotative way; determining their meaning by context, structure (meanings of prefixes, roots, and suffixes), sound, or use of reference sources such as glossary, dictionary, thesauruses, and available technology to determine meanings and usage.Graphophonic cues: recognizing and comprehending the structure and spelling patterns of high-frequency, topic-specific, and new/unfamiliar words encountered in reading; identifying and explaining word structure and spelling patterns that help support understanding.Other cues: recognizing and comprehending textual features such as graphic aids (e.g., diagrams, graphs, timelines, table of contents and index) and illustrations (e.g., photographs, images, drawings, and sketches) that enhance text.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate active reading behaviours including:establishing a purpose for reading such as to learn, interpret, and enjoyskimming, scanning, and reading closelyidentifying and analyzing explicit and implicit messages, viewpoints, and conceptsrecognizing and analyzing text structures and elements (e.g., description, compare/contrast, cause and effect, chronological sequence)relating understanding of a range of texts to personal experiences, purposes, audiences, and other textsidentifying and analyzing persuasive techniquesevaluating credibility and logictesting ideas and valuesrecognizing and comprehending allusions and symbolsconstructing images based on text descriptionsdiscussing and analyzing meanings, ideas, language, and literary and informational quality in a range of contemporary and historical textsusing notemaking and outlining to enhance understanding of texts.</p>
+          </indicator>
+          <indicator>
+            <p>Read and interpret critically the main ideas, events, and themes of a variety of literary texts including stories, novels, scripts, poetry, and non-fiction works, and prepare, present, and defend critical responses to what is read.</p>
+          </indicator>
+          <indicator>
+            <p>Read and make generalizations, supported by specific details and examples, about key concepts, characters, themes, and techniques in literary texts.</p>
+          </indicator>
+          <indicator>
+            <p>Select and read independently for information and enjoyment a wide variety of classical and contemporary literary and informational texts.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the structure and format of functional workplace documents (e.g., memos, proposals, reports, correspondence), and explain how authors use the structure and features to achieve their purposes.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret, explain, analyze, and discuss how the literary qualities and the distinctive conventions, structures, and language features of a range of texts suit the topic and purpose.</p>
+          </indicator>
+          <indicator>
+            <p>Use available technologies to retrieve, select, and interpret information from a variety of sources.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Compose and Create (CC)</goal_heading>
+      <outcome>
+        <identifier>CC A10.1</identifier>
+        <outcome_text>Compose and create a range of visual, multimedia, oral, and written texts that explore:identity (e.g., Foundational Stories);social responsibility (e.g., Destiny and Challenges of Life); andsocial action (agency) (e.g., Human Existence).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use representing, speaking, and writing to respond to experiences or texts (e.g., a staged dramatic scene, a television episode, a significant personal event).</p>
+          </indicator>
+          <indicator>
+            <p>Create spoken, written, and other representations that include:a clear thesis and logical points to support messages and argumentsappropriate details to support thesisa style and voice appropriate to audience and purposecoherence, logical progression, and support for ideasclear patterns of organizationconvincing conclusion.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and present a project-based inquiry related to a theme or topic of the course:collaborate to determine group knowledge base and to define inquiry or research purpose and parametersformulate questions to focus and guide inquiry or researchdevelop and use an inquiry or research plan to identify and access relevant ideas and information from a variety of sourcesdetermine the credibility, accuracy, completeness, and usefulness of a variety of information sources for a particular inquiry or research planaccess information using a variety of tools (e.g., electronic networks, libraries, taped oral histories)organize information using appropriate forms (e.g., charts, diagrams, outlines, electronic databases)analyze and understand implications and consequences of plagiarism (i.e., ethical, legal, professional)draw logical conclusion from information and consider how to best present to identified audiencedocument sources accurately using standard format (such as Modern Language Association [MLA], and American Psychological Association [APA])cite reference for all sources of information including summarized and paraphrased ideas from other authors.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC A10.2</identifier>
+        <outcome_text>Explain and present to a familiar audience the key ideas and events (actual or based on a text studied) through an appropriate combination of charts, diagrams, sound, models, drama, and print.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Prepare and deliver visual and multimedia presentations that:exhibit logical structures appropriate to audience, purpose, and contexthave a central foci and strong messagesorganize ideas in logical and appropriate sequencesinclude smooth transitionsuse a variety of forms and technologies such as sound, photographs, and modelsprovide logical and convincing conclusions.</p>
+          </indicator>
+          <indicator>
+            <p>Select, use, and evaluate purposefully a variety of before (page 28), during (page 29), and after (page 30) strategies to construct and communicate meaning when using other forms of representing.</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply the language cues and conventions to construct and communicate meaning when using various forms of representing.Pragmatic cues and conventions: selecting and using language register appropriate for the subject, context, audience, and purpose; using conventional “standard” English when required.Textual cues and conventions: selecting and using text form appropriate for subject, purpose, and audience.Syntactic cues and conventions: selecting and using formal spoken and written sentences that are meaningful, clear, correctly punctuated, and devoid of ambiguous expressions; demonstrating control over such elements as subject-verb agreement, pronoun-antecedent agreement, verb forms, and parallelism.Semantic/Lexical/Morphological cues and conventions: using words precisely, accurately, and for effect (e.g., to create imagery, to communicate figuratively, to communicate symbolically, as an allusion).Graphophonic cues and conventions: using the sounds of letters and syllables and the placement of accents to determine the pronunciation and spelling of words.Other cues and conventions: using communication elements such as handwriting, consistent font, neatness, underlining, indentations, spacing, and margins to enhance the clarity and the legibility of communication; using appropriate visual and multimedia aids to enhance presentation; choosing appropriate font size and style when word processing.</p>
+          </indicator>
+          <indicator>
+            <p>Prepare, rehearse, and confidently deliver a visual or multimedia presentation, explaining key ideas and events (actual or based on text studied) using appropriate combination of charts, diagrams, pictures, sounds, models, drama, and print with:An effective introduction that sets the direction for presentation by getting attention of audience, introducing the topic, presenting the central idea or purpose, identifying the main point, and making audience eager to see and hear the rest of the presentation.A body that organizes information logically so audience can follow.A conclusion that helps audience understand what is important in the presentation.</p>
+          </indicator>
+          <indicator>
+            <p>Present information using print and non-print aids to engage and inform a familiar audience.</p>
+          </indicator>
+          <indicator>
+            <p>Use props, visual aids, graphics, and electronic media to enhance the appeal and accuracy of presentations.</p>
+          </indicator>
+          <indicator>
+            <p>Use a variety of technological functions (including computer software) to publish original work.</p>
+          </indicator>
+          <indicator>
+            <p>Use and adapt production techniques and technologies to communicate information, ideas, narrative, or other messages, integrating verbal, visual, and dramatic features to achieve a range of effects.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze, organize, and convert information into different forms (e.g., charts, graphs, drawings).</p>
+          </indicator>
+          <indicator>
+            <p>Experiment with a variety of text forms (e.g., advertisement, tableau, drama) and techniques (e.g., graphics).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC A10.3</identifier>
+        <outcome_text>Use oral language to express a range of information and ideas in formal (including a prepared talk on a familiar topic, an oral presentation of a passage of prose or poetry, and a retelling of a narrative or a recounting of an experience or event) and informal (discussion and group work) situations.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Participate in small- and large-group discussions, observing the courtesies of group discussion, and demonstrate effective group interaction skills and strategies:understand the purpose and direction of the groupadjust to roles in groupdevelop harmony, listen, observe, and respond to and clarify one another’s ideasbe respectful but also criticalbuild upon and extend the thoughts of otherswork co-operatively and collaboratively with others in small groups on structured tasksquestion others, exploring the potential of their contributions, and offer clarification and elaboration upon own ideas when necessaryassume some of the work necessary to maintain discussion and advance it (e.g., by summarizing, raising questions, extracting significant points, making connections, setting agenda)assume the responsibility for independent and individual summary and closure.</p>
+          </indicator>
+          <indicator>
+            <p>Select, use, and evaluate purposefully a variety of before (page 28), during (page 29), and after (page 30) strategies to construct and communicate meaning when speaking.</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply the language cues and conventions to construct and communicate meaning when speaking including:Pragmatic cues and conventions: selecting and using language register appropriate for the subject, context, audience, and purpose; using conventional “standard” English when required.Textual cues and conventions: selecting and using mode of discourse (e.g., descriptive, narrative, expository, or persuasive) and text form appropriate for subject, purpose, and audience.Syntactic cues and conventions: selecting and using formal spoken sentences that are meaningful and devoid of ambiguous expressions; demonstrating control over such elements as subject-verb agreement, pronoun-antecedent agreement, verb forms, and parallelism (average spoken sentence length – 10.9 words).Semantic/Lexical/Morphological cues and conventions: using words precisely, accurately, and for effect (e.g., to create imagery, to communicate figuratively, to communicate symbolically).Graphophonic cues and conventions: using the sounds of letters and syllables to correctly pronounce words.Other cues and conventions: using appropriate volume and intonation; using appropriate non-verbal cues and body language; using appropriate gestures, facial expression, sound, visual, and multimedia aids to enhance presentation.</p>
+          </indicator>
+          <indicator>
+            <p>Prepare, rehearse, and deliver a talk on a familiar topic that includes:An effective introduction that sets the direction for speech by getting attention of audience, introducing the topic, stating the central idea or purpose, identifying the main point, and making audience eager to hear what else you have to say.An attention getter (e.g., an amazing fact or startling statement; an attention-grabbing illustration; a short demonstration or colourful visual aid; a series of questions or a short history of the topic; a strong statement of why the topic is important to you and audience).A body logically and coherently organized so audience can follow.A conclusion that helps audience understand what they listened to and why it was important.</p>
+          </indicator>
+          <indicator>
+            <p>Prepare, rehearse, and deliver an oral reading/interpretation of prose, poetry, or other texts including:arranging materials effectivelyusing techniques of speech and delivery to interpret possible meaningsthinking about how the ideas and characters in the text could be communicated with voiceusing voice (e.g., expression, pacing, tone, dialect) for characterization and effect.</p>
+          </indicator>
+          <indicator>
+            <p>Support the ongoing discourse of the classroom by contributing to the talk; listening attentively to the offerings of others; refraining from sarcasm or insult that silences others; and helping, when necessary, to draw others into the discussion.</p>
+          </indicator>
+          <indicator>
+            <p>Plan a class meeting on a real topic of concern with the aim of reaching a consensus about the action that might be taken.</p>
+          </indicator>
+          <indicator>
+            <p>Speak confidently, clearly, and persuasively to communicate and explore information, ideas, and opinions.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, explain, and justify opinions.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and adjust oral presentation elements effectively (i.e., articulation, pronunciation, volume, tempo, pitch, stress, gestures, eye contact, facial expression, and poise) in keeping with purpose, audience needs, and individual cultural and linguistic background.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC A10.4</identifier>
+        <outcome_text>Compose and create a variety of written literary (including a historical persona essay and a review) and informational (including an observation [eye-witness] report and researched or technical report) texts attending to various elements of discourse (e.g., purpose, speaker, audience, form).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Write essays that:have a central foci and strong messagesstructure material in appropriate styles for different audiencesdefine the main idea by selecting relevant, logical details to achieve the purpose and to meet the reader’s perceived needsorganize ideas in a logical and appropriate sequenceinclude smooth transitionsprovide logical and convincing conclusions.</p>
+          </indicator>
+          <indicator>
+            <p>Select, use, and evaluate purposefully a variety of before (page 28), during (page 29), and after (page 30) strategies to construct and communicate meaning when writing.</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply the language cues and conventions to construct and communicate meaning when writing including:Pragmatic cues and conventions: selecting and using language register appropriate for the subject, context, audience, and purpose; using conventional “standard” English when required.Textual cues and conventions: selecting and using mode of discourse (e.g., descriptive, narrative, expository, or persuasive) and text form appropriate for subject, purpose, and audience.Syntactic cues and conventions: selecting and using formal written sentences that are meaningful, clear, correctly punctuated, and devoid of ambiguous expressions; demonstrating control over such elements as subject-verb agreement, pronoun-antecedent agreement, verb forms, and parallelism (average written sentence length – 11.7 words).Semantic/Lexical/Morphological cues and conventions: using words precisely, accurately, and for effect (e.g., to create imagery, to communicate figuratively, to communicate symbolically, as an allusion).Graphophonic cues and conventions: using the sounds of letters and syllables and the placement of accents to determine the pronunciation and spelling of words.Other cues and conventions: using communication elements such as handwriting, consistent font, neatness, underlining, indentations, spacing, and margins to enhance the clarity and the legibility of communication; writing legibly with appropriate speed and control; choosing appropriate font size and style when word processing.</p>
+          </indicator>
+          <indicator>
+            <p>Retell a narrative or recount an experience or event (e.g., a memory, an essay of experience) that:introduces the action and draws in the readeridentifies the story’s main character and establishes the settinguses dialogue to establish characters and create the dramaprovides an effective ending that logically “winds up” the events.</p>
+          </indicator>
+          <indicator>
+            <p>Write an observation report/eyewitness account (e.g., an incident report, an event report) that:tells when and where the event happenedaccounts the details of an event in a logical orderuses descriptive details (including sights, sounds, tastes, textures, and smells) that show the reader what happened, as if he or she were seeing it firsthanduses order of location (top to bottom, front to back, left to right, head to toe) or time order (first, next, then, and so on) to organize detailsuses specific verbsestablishes the time and the placeanswers 5W and H (who, what, when, where, why, and how) questions for facts about what happenedincludes thoughts and comments that bring experience to lifeuses an engaging voice that sounds interested and knowledgeable.</p>
+          </indicator>
+          <indicator>
+            <p>Write an inquiry report (e.g., research report, an I-Search, a technical report) that:addresses what makes the subject worth investigatingputs central ideas into a focus or thesis statementincludes information related to focus or thesis, is current, and drawn from reliable, relevant sources that are citedpresents an introduction (revealing story or quotation; important background information; interesting or surprise facts; reason for choosing subject)includes a body that develops logically the details of the subjectprovides a conclusion that leaves reader with a clear understanding of the importance of research and draws a conclusion with a final statement.</p>
+          </indicator>
+          <indicator>
+            <p>Write a historical persona essay (e.g., biographical narrative, response to a historical photo) that:includes a historic persondefines important moments in the historic person’s life so essay is well-focused and organizedshows understanding of the person, the events, and gathered details about the place and timeincludes reflections and observations about person’s life and experiencesincludes the people the person might have met and creates accurate depictions of those individualsuses the “I” voice (imagined self to be the person and to be part of these events) in order to get a feel for the experience.includes thoughts and feelingsuses dialogue to bring characters to lifeemploys an easy-to-follow organization.</p>
+          </indicator>
+          <indicator>
+            <p>Write a review (e.g., evaluating a literary work) that:includes thoughtful explanations and specific references to the text itselfexpresses opinion about the value or worth of the subject in order to help audience decideexplores strengths and weaknesses of work and includes passages from text as examplesjustifies opinionaddresses what makes the text interesting, exciting, engaging, believable, unforgettable, and significantdoes not retell plot but recognizes theme (general observation about life or human nature) of the text and the relevance of literary techniques (e.g., setting, characters, point of view, basic conflicts, plot development, and use of literary elements such as figurative language and sound).</p>
+          </indicator>
+          <indicator>
+            <p>Experiment with and explore a variety of written text forms (such as poems, memorandums, legends) and techniques (such as foreshadowing, flashback, imagery, allegory, figurative language, symbolism, point of view, parallelism, hyperbole) and explain their appeal.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Assess and Reflect (AR)</goal_heading>
+      <outcome>
+        <identifier>AR A10.1</identifier>
+        <outcome_text>Establish and apply criteria to evaluate own and others’ work.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use feedback to evaluate own effectiveness and set goals in language learning and use.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate own and others’ contributions to group process and provide support where needed.</p>
+          </indicator>
+          <indicator>
+            <p>Contribute to the creation of rubrics and other assessment and evaluation tools used to assess visual, oral, written, multimedia, and other products submitted.</p>
+          </indicator>
+          <indicator>
+            <p>Consider alternative ways of reaching goals.</p>
+          </indicator>
+          <indicator>
+            <p>Celebrate special accomplishments by using language to congratulate and encourage, to publicly recognize, and to properly recount the achievement.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>AR A10.2</identifier>
+        <outcome_text>Set personal language learning goals and select strategies to enhance growth in language learning.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use feedback to evaluate own effectiveness and set goals in language learning and use.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate own and others’ contributions to group process and provide support where needed.</p>
+          </indicator>
+          <indicator>
+            <p>Contribute to the creation of rubrics and other assessment and evaluation tools used to assess visual, oral, written, multimedia, and other products submitted.</p>
+          </indicator>
+          <indicator>
+            <p>Consider alternative ways of reaching goals.</p>
+          </indicator>
+          <indicator>
+            <p>Celebrate special accomplishments by using language to congratulate and encourage, to publicly recognize, and to properly recount the achievement.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

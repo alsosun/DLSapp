@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181757_1</pdf>
+  <banner>arts/AE4.png</banner>
+  <dark_colour>#0e6bb6</dark_colour>
+  <light_colour>#e7f0f8</light_colour>
+  <goals>arts/artseducation1-5aimsgoals.htm</goals>
+  <teaching>arts/artseducation4teaching.htm</teaching>
+  <curriculum_name>Arts Education 4</curriculum_name>
+  <classification_id>arts education 4</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Creative/Productive (CP)</goal_heading>
+      <outcome>
+        <identifier>CP4.1</identifier>
+        <outcome_text>Create dance compositions that express ideas about Saskatchewan using collaborative inquiry and movement problem solving.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Collaborate on the creation of dance compositions using stimuli drawn from Saskatchewan sources such as local stories, personal experience, land and geography, feelings, memories, music, observation, imagination, or movement itself (e.g., How could we represent what life is like in rural Saskatchewan or an urban inner city? How could we represent through dance the timelines or immigration patterns of Saskatchewan peoples? In what ways could we show people arriving and leaving?).</p>
+          </indicator>
+          <indicator>
+            <p>Select, or negotiate with other students, specific stimuli as starting points for dance compositions.</p>
+          </indicator>
+          <indicator>
+            <p>Use research, including guided Internet searches, as part of the dance-making process (e.g., access Statistics Canada information about historic migration patterns in Saskatchewan, analyze dances of cultural groups).</p>
+          </indicator>
+          <indicator>
+            <p>Improvise to generate and develop movement ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Select movements from explorations, with increasing discernment, to create dance phrases.</p>
+          </indicator>
+          <indicator>
+            <p>Engage in movement problem solving, and sequence repeating and contrasting dance phrases.</p>
+          </indicator>
+          <indicator>
+            <p>Record dance and movement ideas in reflective records such as journals, drawings, or videos.</p>
+          </indicator>
+          <indicator>
+            <p>Appraise how own dance compositions have meaning and are unique expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect upon choices made during and after dance-making process.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP4.2</identifier>
+        <outcome_text>Express ideas using the elements of dance including: actions (identify basic dance steps such as schottische, polka, grapevine, and step hop)body (body parts leading movements)dynamics (duration, speed, and force continuum)relationships (alone, partner, small groups)space (asymmetrical and symmetrical shapes, creating and recalling pathways).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and use the elements of dance (actions, body, dynamics, relationships, and space) to express ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate various ways that body parts may initiate (lead) a movement.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and identify basic dance steps such as schottische, polka, grapevine, and step hop.</p>
+          </indicator>
+          <indicator>
+            <p>Copy movement phrases as demonstrated, and create own movement phrases.</p>
+          </indicator>
+          <indicator>
+            <p>Move with varying speeds (fast to slow), duration (short to long), and force (strong to light).</p>
+          </indicator>
+          <indicator>
+            <p>Move expressively in time to different time signatures such as 4/4 and 3/4.</p>
+          </indicator>
+          <indicator>
+            <p>Create a variety of dance relationships, alone (e.g., body parts to body parts, using a prop), with a partner (e.g., mirroring, beside), and in small groups (e.g., meeting and parting).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that alignment means the relationship of body parts to each other, and practise proper alignment.</p>
+          </indicator>
+          <indicator>
+            <p>Create asymmetrical and symmetrical shapes in dance expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Create and recall pathways on the floor and through the air.</p>
+          </indicator>
+          <indicator>
+            <p>Use a wide range of movements considering personal expression, strength, and balance.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP4.3</identifier>
+        <outcome_text>Assume a range of roles and strategies in drama work, using a Saskatchewan context as inspiration.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Generate ideas for potential topics and dramatic contexts related to Saskatchewan sources such as local stories, personal experience, land and geography, observations, and current or historical events.</p>
+          </indicator>
+          <indicator>
+            <p>Sustain belief in own roles and the fictional situation of the drama.</p>
+          </indicator>
+          <indicator>
+            <p>Accept and respond imaginatively and thoughtfully to others in role.</p>
+          </indicator>
+          <indicator>
+            <p>Devise a variety of roles, improvisations, and dramatic episodes drawing on imagination and own observations and experiences of life in Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate confidence in using a variety of strategies (e.g., flashback, flashforward, structured improvisation) within dramatic situations.</p>
+          </indicator>
+          <indicator>
+            <p>Use language purposefully when speaking and writing in role.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on, and discuss, how roles function within a drama.</p>
+          </indicator>
+          <indicator>
+            <p>Recall and respond to the drama work, both in and out of role (e.g., fictional diary entries in role; discussion or learning logs out of role).</p>
+          </indicator>
+          <indicator>
+            <p>Examine connections between personal experiences and own contributions to the work.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP4.4</identifier>
+        <outcome_text>Contribute ideas, when in and out of role, and further the development of the drama by participating in consensus building, choice of strategies, and selection of dramatic alternatives.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use imagination when contributing ideas and when developing or extending the dramatic context.</p>
+          </indicator>
+          <indicator>
+            <p>Actively participate in an inquiry process in drama, asking questions, researching, and investigating dramatic possibilities arising from the questions (e.g., What if this recent event were to inspire a huge change in our community? What might be the consequences of those actions?).</p>
+          </indicator>
+          <indicator>
+            <p>Document the inquiry process in drama journals or other means.</p>
+          </indicator>
+          <indicator>
+            <p>Listen at all times within a drama and recognize the value of doing so.</p>
+          </indicator>
+          <indicator>
+            <p>Work co-operatively within dramatic contexts, demonstrate respect for the contributions of others, and appreciate the responsibilities and satisfaction of doing so.</p>
+          </indicator>
+          <indicator>
+            <p>Choose specific alternatives in order to further the drama’s development.</p>
+          </indicator>
+          <indicator>
+            <p>Build on new or surprise information as a way to make the drama more interesting.</p>
+          </indicator>
+          <indicator>
+            <p>Contribute to problem solving within the dramatic context.</p>
+          </indicator>
+          <indicator>
+            <p>Use research, including guided Internet searches, as part of drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Refine and develop the drama through reflection and constructive feedback.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP4.5</identifier>
+        <outcome_text>Demonstrate increased skills and abilities in the use of voice and instruments (traditional and/or homemade) and develop compositions using Saskatchewan as inspiration.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Sing in tune and begin to develop the ability to sing harmony.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between the head voice and the chest voice in singing.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize different voice classifications in singing and own voice qualities (e.g., soprano, alto).</p>
+          </indicator>
+          <indicator>
+            <p>Sing expressively, using proper breath support, vowel sounds, consonants, and tone production.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate increasing independence when playing various sound objects and instruments.</p>
+          </indicator>
+          <indicator>
+            <p>Experiment with sounds and music concepts to express ideas derived from Saskatchewan sources such as local stories, poems, visual art works, photos, land and geography, observations, and current or historical events.</p>
+          </indicator>
+          <indicator>
+            <p>Select and organize sounds, instruments, and ideas for composition.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and describe decisions made and problems solved in own and group compositions (e.g., choice of instruments, and organization of form, tempo, and dynamics).</p>
+          </indicator>
+          <indicator>
+            <p>Keep a record of sound/music ideas (e.g., invented and traditional notation, audio recording, learning logs).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize accidental discoveries in own compositions and put them to use where appropriate.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP4.6</identifier>
+        <outcome_text>Create and perform music (voice and instrumental) that demonstrates knowledge of:form (e.g., round, call/response, verse/chorus, rondo)rhythm, beat, and metre (e.g., triplets, 3/4 metre, syncopation; expressive use of tempo and dynamics)pitch, melody, and pentatonic scale (do, re, mi, sol, la, do)harmony and texture (e.g., layers of sound and patterns, partner songs)timbre (e.g., instrument classifications).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Sing, play, and identify common music forms (e.g., four bar phrase, round, call and response, verse/chorus/bridge, rondo).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how the elements of music are used to establish form in music.</p>
+          </indicator>
+          <indicator>
+            <p>Ask questions to initiate inquiry into use of the elements and other music concepts under study (e.g., What might happen if we play this section together and then take turns playing each phrase by ourselves? How can we record these ideas using a combination of invented and traditional notation?).</p>
+          </indicator>
+          <indicator>
+            <p>Use research, including guided Internet searches, to investigate how professional composers use the elements of music and concepts currently under study (e.g., when creating own call and response patterns, when comparing a pop song call and response with a gospel song call and response).</p>
+          </indicator>
+          <indicator>
+            <p>Incorporate triplets and syncopation into own music compositions.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how tempo, dynamics, tone colour, and silence can be used expressively.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate shape/contours of melody by exploring pitches and rhythms in songs and music, and arranging pitches and rhythms in own compositions.</p>
+          </indicator>
+          <indicator>
+            <p>Sing partner songs and experiment with layering two or more pitches to create harmony.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and analyze the arrangement of ascending and descending pitch patterns/scales.</p>
+          </indicator>
+          <indicator>
+            <p>Classify and distinguish between various instruments and their sound characteristics.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP4.7</identifier>
+        <outcome_text>Create visual art works that express own ideas and draw on sources of inspiration from Saskatchewan.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions about Saskatchewan and determine ways to investigate the questions individually and/or collectively through visual art (e.g., How could we use the land or geography of Saskatchewan, or our neighbourhood, as inspiration for our art work? Where will we find our research information? How have other artists represented similar ideas?).</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate with other students to plan, document, and share the results of the visual art inquiry (e.g., portfolios of works in progress, photographs, art exhibitions).</p>
+          </indicator>
+          <indicator>
+            <p>Use research, including guided Internet searches, as part of the inquiry process.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss how artists are often influenced by cultural and artistic traditions, and consider incorporating heritage or artistic conventions in own work.</p>
+          </indicator>
+          <indicator>
+            <p>Create the illusion of three dimensions through drawing observations of the Saskatchewan environment.</p>
+          </indicator>
+          <indicator>
+            <p>Describe various sources of ideas for visual art such as memory, research, observation, feelings, or imagination.</p>
+          </indicator>
+          <indicator>
+            <p>Record ideas for visual art to use as research and inspiration for own work (e.g., visual journals, sketchbooks, learning logs, scanning favourite images on the computer).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize accidental discoveries in own work and put them to use, where appropriate.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss how own art works express ideas about self and Saskatchewan in unique ways, and describe how problem solving and personal reflection are important parts of the creative process.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP4.8</identifier>
+        <outcome_text>Create art works using a variety of visual art concepts (e.g., organic shapes), forms (e.g., kinetic sculpture, mural), and media (e.g., wood, wire, and found objects).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate imaginative use of the elements of art including line, colour, texture, shape, form, and space.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize complementary colours as being opposite each other on the colour wheel.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize analogous colours as those that share a common hue.</p>
+          </indicator>
+          <indicator>
+            <p>Create many different textures within various classifications (e.g., rough, smooth).</p>
+          </indicator>
+          <indicator>
+            <p>Identify and use geometric and organic shapes and forms; symmetrical and asymmetrical shapes and forms.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the use and effects of formal and informal patterns, and create patterns through techniques such as repetition.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the ability to perceive visual details, and include details to enhance depictions of plants, animals, people, and objects.</p>
+          </indicator>
+          <indicator>
+            <p>Apply knowledge of size relationships in own drawings.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how the illusion of three dimensions is created through drawing.</p>
+          </indicator>
+          <indicator>
+            <p>Use contour lines to draw people, animals, and objects.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate understanding that overlapping objects is a way to show their placement in space.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and reflect on own decision making about methods and materials.</p>
+          </indicator>
+          <indicator>
+            <p>Expand skills and abilities in using various visual art tools and materials.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Critical/Responsive (CR)</goal_heading>
+      <outcome>
+        <identifier>CR4.1</identifier>
+        <outcome_text>Analyze how dance, drama, music, and visual art works represent unique ideas and perspectives.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Discuss a variety of arts expressions comparing similarities (e.g., similar styles from specific movements or eras) and unique characteristics (e.g., individual artist’s style or perspective).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and describe how various arts elements and techniques are applied in own and others’ arts expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate how arts expressions reflect and affect the daily lives of people (e.g., graphic designs, cultural events, popular music, music videos, drama and films, architecture) and apply this understanding in own work.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR4.2</identifier>
+        <outcome_text>Respond thoughtfully to a variety of contemporary Saskatchewan arts expressions.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate critical and creative thinking when responding to dance, drama, music, and visual art expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Express personal responses in various ways (e.g., written critique, using presentation software, through own arts expressions).</p>
+          </indicator>
+          <indicator>
+            <p>Describe why it is important to support opinions of arts expressions with reasons related to the work itself.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the role and influence of the arts (including mass media and popular culture) in own daily lives and communities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Cultural/Historical (CH)</goal_heading>
+      <outcome>
+        <identifier>CH4.1</identifier>
+        <outcome_text>Investigate and share discoveries about the arts in Saskatchewan through collaborative inquiry.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Ask questions about Saskatchewan arts expressions to initiate, develop, and document inquiry learning.</p>
+          </indicator>
+          <indicator>
+            <p>Research, using the Internet and other methods, and report on the careers and contributions of Saskatchewan artists.</p>
+          </indicator>
+          <indicator>
+            <p>Practise and perform music and dances of various styles and cultural groups represented in Saskatchewan, and discuss what the work tells about the cultural heritages of Saskatchewan people.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how the arts tell something about the society in which they are created.</p>
+          </indicator>
+          <indicator>
+            <p>Research and discuss why people become involved with artistic production in own community.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CH4.2</identifier>
+        <outcome_text>Analyze and respond to arts expressions of various Saskatchewan First Nations and Métis artists.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate awareness that arts expressions (e.g., drum groups, birchbark biting, beadwork, powwow dances, quilts, storytelling) from different First Nations often have strong foundations in traditional lifestyles and worldviews.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate, analyze, and describe features (e.g., media, techniques, use of symbols and imagery) of traditional and evolving First Nations and Métis arts expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the effects that unfulfilled treaty promises had, and continue to have, upon arts expressions and daily lives of First Nations people (e.g., respond to work of First Nations artists whose arts expressions reflect these issues).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

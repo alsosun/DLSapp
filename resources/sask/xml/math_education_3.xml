@@ -1,0 +1,490 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181793_1</pdf>
+  <banner>mathematics/mathematics3.gif</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>mathematics/mathematics2-3aimsgoals.htm</goals>
+  <teaching>mathematics/mathematics3teaching.htm</teaching>
+  <curriculum_name>Mathematics 3</curriculum_name>
+  <classification_id>mathematics 3</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Number</goal_heading>
+      <outcome>
+        <identifier>N3.1</identifier>
+        <outcome_text>Demonstrate understanding of whole numbers to 1000 (concretely, pictorially, physically, orally, in writing, and symbolically) including:representing (including place value)describingestimating with referentscomparing two numbersordering three or more numbers.</outcome_text>
+        <outcome_text>[C, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe, represent, and state the sequence of numbers for a given skip counting pattern (forwards or backwards) including:by 5s, 10s, or 100s using any starting pointby 3s, 4s, or 25s using starting points that are multiples of 3, 4, and 25 respectively.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a sequence of numbers to identify the skip counting pattern (forwards or backwards) including:by 5s, 10s, or 100s using any starting pointby 3s, 4s, or 25s using starting points that are multiples of 3, 4, and 25 respectively.</p>
+          </indicator>
+          <indicator>
+            <p>Create and explain the reasoning for a sequence of numbers that have different skip counting patterns in it (e.g., 3, 6, 9, 12, 16, 20, 24).</p>
+          </indicator>
+          <indicator>
+            <p>Explore and present First Nations and Métis methods of determining and representing whole number quantities (e.g., in early Cree language, quantity was a holistic concept addressing sufficiency for a group such as none/nothing, a little bit/not many, and a lot).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a proposed skip counting sequence for errors (including omissions and incorrect values) and explain the errors made.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions involving the value of coins or bills and explain the strategies used (such as grouping or skip counting).</p>
+          </indicator>
+          <indicator>
+            <p>Identify errors (such as the use of commas or the word ‘and’) made in speech or in the writing of quantities that occur in conversations (personal), recordings (such as TV, radio, or podcasts) and written materials (such as the Internet, billboards, or newspapers).</p>
+          </indicator>
+          <indicator>
+            <p>Write (in numerals for all quantities, and in words if the quantity is a multiple of 10 and less than 100 or a multiple of 100 and less than 1000) and read aloud statements relevant to one’s self, family, or community that contain quantities up to 1000 (e.g., a student might write, “Our town has a population of 852” and read the numeral as eight hundred fifty-two).</p>
+          </indicator>
+          <indicator>
+            <p>Create different decompositions of the same quantity (concretely using proportional or non-proportional materials, physically, orally, or pictorially), explain how the decompositions represent the same overall amount, and record the decompositions as symbolic expressions (e.g., 300 – 44 and 236 + 20 are two possible decompositions that could be given for 256).</p>
+          </indicator>
+          <indicator>
+            <p>Sort a set of numbers into ascending or descending order and justify the result (e.g., using hundred charts, a number line, or by explaining the place value of the digits in the numbers).</p>
+          </indicator>
+          <indicator>
+            <p>Create as many different 3-digit numerals as possible, given three non-repeating digits, and sort the numbers in ascending or descending order.</p>
+          </indicator>
+          <indicator>
+            <p>Select and use referents for 10 or 100 to estimate the number of groups of 10 or 100 in a set of objects.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a sequence of numbers and justify the conclusion of whether or not the sequence is ordered.</p>
+          </indicator>
+          <indicator>
+            <p>Identify missing whole numbers on a section of a number line or within a hundred chart.</p>
+          </indicator>
+          <indicator>
+            <p>Record, in more than one way, the quantity represented by proportional (e.g., base ten blocks) or non-proportional (e.g., coins) concrete materials.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using concrete materials or pictures, the meaning of each digit in a given 3-digit numeral with all the same digits.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of how different representations of quantities, including place value, can be used to determine sums and differences of whole numbers.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N3.2</identifier>
+        <outcome_text>Demonstrate understanding of addition of whole numbers with answers to 1000 and their corresponding subtractions (limited to 1, 2, and 3-digit numerals) including:representing strategies for adding and subtracting concretely, pictorially, and symbolicallysolving situational questions involving addition and subtractionestimating using personal strategies for adding and subtracting.</outcome_text>
+        <outcome_text>[CN, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe personal mental mathematics strategies that could be used to determine a given basic fact, such as:doubles (e.g., for 6 + 8, think 7 + 7)doubles plus one (e.g., for 6 + 7, think 6 + 6 + 1)doubles take away one (e.g., for 6 + 7, think 7 + 7 – 1)doubles plus two (e.g., for 6 + 8, think 6 + 6 + 2)doubles take away two (e.g., for 6 + 8, think 8 + 8 – 2)making 10 (e.g., for 6 + 8, think 6 + 4 + 4 or 8 + 2 + 4)commutative property (e.g., for 3 + 9, think 9 + 3)addition to subtraction (e.g., for 13 – 7, think 7 + ? = 13)</p>
+          </indicator>
+          <indicator>
+            <p>Observe and generalize personal strategies from different types of representations for adding 2-digit quantities (given concrete materials, pictures, and symbolic decompositions) such as:Adding from left to right (e.g., for 23 + 46 think 20 + 40 and 3 + 6)Taking one or both addends to the nearest multiple of 5 or 10 (e.g., for 28 + 47, think 30 + 47 - 2, 50 + 28 – 3, or 30 + 50 – 2 – 3)Using doubles (e.g., for 24 + 26, think 25 + 25, or for 25 + 26, think 25 + 25 + 1).</p>
+          </indicator>
+          <indicator>
+            <p>Observe and generalize personal strategies for subtracting 2-digit quantities (given concrete materials, pictures, and symbolic decompositions) such as:Taking the subtrahends to the nearest multiple or 10 (e.g., for 48 - 19, think 48 – 20 + 1)Thinking of addition (e.g., 62 – 45, think 45 + 5, 50 + 12 to get from 45 to 62, so the difference is 5 + 12)Using doubles (e.g., for 25 - 12, think 12 + 12 = 24 and 24 is one less than 25, so difference is 12 + 1).</p>
+          </indicator>
+          <indicator>
+            <p>Apply and explain personal mental mathematics strategies to determine the sums and differences of two-digit quantities.</p>
+          </indicator>
+          <indicator>
+            <p>Create a situational question that involves either addition or subtraction and that has a given quantity as the solution.</p>
+          </indicator>
+          <indicator>
+            <p>Model (concretely or pictorially) a process for the addition of two or more given quantities (with a sum less than 1000) and record the process symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Model (concretely or pictorially) a process for the subtraction of two or more quantities (less than 1000) and record the process symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize (orally, in writing, concretely, or pictorially) personal strategies for estimating the sum or difference of two 2-digit quantities.</p>
+          </indicator>
+          <indicator>
+            <p>Extend personal mental mathematics strategies to determine sums and differences (of quantities less than 1000) and explain the reasoning used.</p>
+          </indicator>
+          <indicator>
+            <p>Transfer knowledge of the basic addition facts up to 18 and the related subtraction facts to determine the sums and differences of quantities less than 1000.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize rules for the addition and subtraction of zero.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples to show why knowing about place value is useful when adding and subtracting quantities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N3.3</identifier>
+        <outcome_text>Demonstrate understanding of multiplication to 5 x 5 and the corresponding division statements including:representing and explaining using repeated addition or subtraction, equal grouping, and arrayscreating and solving situational questionsmodelling processes using concrete, physical, and visual representations, and recording the process symbolicallyrelating multiplication and division.</outcome_text>
+        <outcome_text>[C, CN, PS, R]</outcome_text>
+        <outcome_note>Note: The focus of this outcome is for the students to become familiar with multiplication and division and strategies for mentally determining products and quotients. It is not intended that students memorize the basic facts.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Observe and describe situations relevant to self, family, or community that can be represented by multiplication and write and solve a multiplication statement for each situation.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and describe situations relevant to self, family, or community that can be represented by equal sharing or grouping and write and solve a division statement for each situation.</p>
+          </indicator>
+          <indicator>
+            <p>Explain and represent concretely, pictorially, orally, or physically, as well as symbolically, the relationship between repeated addition and multiplication and the relationship between repeated subtraction and division.</p>
+          </indicator>
+          <indicator>
+            <p>Represent and solve an orally presented multiplication or division statement, concretely, physically, or pictorially, using equal groupings, an array, repeated addition, or repeated subtraction (e.g., 3 x 4 shown using equal groupings of snowballs).</p>
+          </indicator>
+          <indicator>
+            <p>Apply and explain personal strategies for determining products and quotients.</p>
+          </indicator>
+          <indicator>
+            <p>Model the commutative property of multiplication and write the symbolic multiplication equation represented.</p>
+          </indicator>
+          <indicator>
+            <p>Represent and solve an orally presented situational question that involves division.</p>
+          </indicator>
+          <indicator>
+            <p>Relate multiplication and division orally and by using concrete, physical, or pictorial models, including repeated addition/subtraction and arrays/dimensions.</p>
+          </indicator>
+          <indicator>
+            <p>Create multiplication or division statements and determine the resulting products or quotients related to a given situational question.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve a situational question that relates to a given symbolic multiplication or division statement.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N3.4</identifier>
+        <outcome_text>Demonstrate understanding of fractions concretely, pictorially, physically, and orally including:representingobserving and describing situationscomparingrelating to quantity.</outcome_text>
+        <outcome_text>[C, CN, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and observe situations relevant to self, family, or community in which fractional quantities would be measured or used and explain what the fraction quantifies.</p>
+          </indicator>
+          <indicator>
+            <p>Explore First Nations and Métis methods of observing and representing fractional quantities (e.g., consider the concept of sharing from a First Nations or Métis holistic worldview).</p>
+          </indicator>
+          <indicator>
+            <p>Explain the relationship of a representation of a fraction to both a quantity of zero and a quantity of one (the whole or entire group, region, or length).</p>
+          </indicator>
+          <indicator>
+            <p>Divide a whole, group, region, or length into equal parts (concretely, physically, or pictorially), demonstrate that the parts are equal in quantity, and name the quantity represented by each part.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a set of diagrams or concrete representations to sort the representations into those that represent the same fraction and those that do not, and explain the sorting.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze representations of a set of fractions of a whole, group, region, or length that all have the same numerator (e.g., 2/3, 2/4, 2/5) and explain what about the fractional quantities is similar and what is different.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze representations of a set of fractions of a whole, group, region, or length that all have the same denominator (e.g., 0/5, 1/5, 2/5, 3/5, 4/5, 5/5) and explain what about the fractional quantities is similar and what is different.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the role of the numerator and denominator in a fraction.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how a fraction can represent a different amount if a different size of whole, group, region, or length is used.</p>
+          </indicator>
+          <indicator>
+            <p>Compare, concretely, pictorially, physically, or orally, and order a set of fractions with either equivalent denominators or equivalent numerators.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a fraction as part of a whole, group, region, or length and explain the representation.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how a region can be divided into unequal parts, but the parts still represent a fraction of the region (e.g., Canada divided into provinces and territories which are not equal in area).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Patterns and Relations</goal_heading>
+      <outcome>
+        <identifier>P3.1</identifier>
+        <outcome_text>Demonstrate understanding of increasing and decreasing patterns including:observing and describingextendingcomparingcreating patterns using manipulatives, pictures, sounds, and actions.</outcome_text>
+        <outcome_text>[C, CN, PS, R, V]</outcome_text>
+        <outcome_note>Note: It is intended that decreasing patterns will not go past zero.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Identify and observe situations relevant to self, family, and community that contain an increasing or decreasing pattern, identify the starting value of the pattern, and describe the rule for the pattern and how the pattern would continue.</p>
+          </indicator>
+          <indicator>
+            <p>Verify (concretely, visually, orally, pictorially, or physically) whether or not a given sequence of numbers represents an increasing or decreasing pattern.</p>
+          </indicator>
+          <indicator>
+            <p>Observe various patterns (increasing or decreasing) found on a hundred chart, such as horizontal, vertical, and diagonal patterns, and describe the pattern rule.</p>
+          </indicator>
+          <indicator>
+            <p>Compare visual patterns for skip counting (forwards or backwards) by 2s, 5s, 10s, 25s, and 100s and relate to increasing and decreasing patterns.</p>
+          </indicator>
+          <indicator>
+            <p>Visualize and create oral, concrete, physical, pictorial, or symbolic representations for a given increasing or decreasing pattern rule and explain how the representations are related.</p>
+          </indicator>
+          <indicator>
+            <p>Create a concrete, physical, pictorial, or symbolic pattern (increasing or decreasing) and describe the pattern rule.</p>
+          </indicator>
+          <indicator>
+            <p>Describe strategies used to solve situational questions involving increasing or decreasing patterns, including determining missing elements within the pattern.</p>
+          </indicator>
+          <indicator>
+            <p>Research (e.g., through Elders, traditional knowledge keepers, naturalists, and media) and present about the role and significance of increasing and decreasing patterns (e.g., making of a star blanket, beading, music, and patterns found in nature) in First Nations and Métis practices, lifestyles, and worldviews.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P3.2</identifier>
+        <outcome_text>Demonstrate understanding of equality by solving one-step addition and subtraction equations involving symbols representing an unknown quantity. [C, CN, ME, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Share, compare, and distinguish between understandings and uses of the word equal, including those represented in First Nations and Métis worldviews.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and describe situations relevant to self, family, or community in which a symbol could be used to represent an unknown quantity.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the purpose of the symbol, such as a triangle or a circle, in an addition or subtraction equation.</p>
+          </indicator>
+          <indicator>
+            <p>Compare two equations involving the same operations and quantities, but using different symbols.</p>
+          </indicator>
+          <indicator>
+            <p>Solve addition and subtraction equations concretely, pictorially, or physically.</p>
+          </indicator>
+          <indicator>
+            <p>Verify (concretely, pictorially, or physically) which of a set of given quantities is the solution to a one-step addition or subtraction equation and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize strategies, including guess and test, for solving one-step addition and subtraction equations and verify the strategies concretely, pictorially, or physically.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why the unknown in a given addition or subtraction equation has only one value.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve one-step equations related to situational questions.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve situational questions that relate to given one-step equations.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Shape and Space</goal_heading>
+      <outcome>
+        <identifier>SS3.1</identifier>
+        <outcome_text>Demonstrate understanding of the passage of time including:relating common activities to standard and non-standard unitsdescribing relationships between unitssolving situational questions.</outcome_text>
+        <outcome_text>[C, CN, PS, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and describe activities relevant to self, family, and community that would involve the measurement of time.</p>
+          </indicator>
+          <indicator>
+            <p>Explore the meaning and use of time-keeping language from different cultures, including First Nations and Métis.</p>
+          </indicator>
+          <indicator>
+            <p>Select and use a personally relevant non-standard unit of measure for the passage of time (such as television shows, a pendulum swing, sunrise, sundown, moon cycles, and hunger patterns) and explain the choice.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest and sort activities into those that can or cannot be accomplished in a minute, hour, day, month, or year.</p>
+          </indicator>
+          <indicator>
+            <p>Select and justify personal referents for minutes and hours.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve situational questions using the relationship between the number of minutes in an hour, days in a particular month, days in a week, hours in a day, weeks in a year, or months in a year (e.g., “A student was on holiday for 10 days. Is that more or less than one week long?”).</p>
+          </indicator>
+          <indicator>
+            <p>Identify the day of the week, the month, and the year for an indicated date on a calendar.</p>
+          </indicator>
+          <indicator>
+            <p>Identify today’s date, and then explain how to determine yesterday’s and tomorrow’s date.</p>
+          </indicator>
+          <indicator>
+            <p>Locate a stated or written date (day, month, and year) on a calendar and explain the strategy used.</p>
+          </indicator>
+          <indicator>
+            <p>Identify errors in the ordering of the days of the week and the months of the year.</p>
+          </indicator>
+          <indicator>
+            <p>Create a calendar using the days of the week, the calendar dates, and personally relevant events.</p>
+          </indicator>
+          <indicator>
+            <p>Describe ways in which the measurement of time is cyclical.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS3.2</identifier>
+        <outcome_text>Demonstrate understanding of measuring mass in g and kg by:selecting and justifying referents for g and kgmodelling and describing the relationship between g and kgestimating mass using referentsmeasuring and recording mass.</outcome_text>
+        <outcome_text>[C, CN, ME, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and describe situations relevant to self, family, and community that involve measuring mass.</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve situational questions that involve the estimating or measuring of mass using g or kg.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze 3-D objects to determine personal referents for 1 kg, 100 g, 10 g, and 1 g.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the relationships between 1 g, 10 g, 100 g, 1000 g, and 1 kg and explain the strategies used (e.g., 1 kg is heavier than 100 g, 10 g, and 1 g, or 1 kg is the same mass as 1000 g.)</p>
+          </indicator>
+          <indicator>
+            <p>Select, with justification, an appropriate unit for measuring the mass of a given 3-D objects (e.g., kg would be used to measure a motorbike).</p>
+          </indicator>
+          <indicator>
+            <p>Determine, using a scale, and record the mass of an object relevant to one’s self, family, or community.</p>
+          </indicator>
+          <indicator>
+            <p>Estimate the mass of an object relevant to one’s self, family, or community and explain the strategy used.</p>
+          </indicator>
+          <indicator>
+            <p>Directly compare the mass of two 3-D objects and then verify the comparison by measuring the actual masses using a scale.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize statements about the mass of a specific amount of matter when reformed into different shapes or sizes (e.g, use clay to make an object, measure the mass of the object, reform the clay into another object and measure the mass of the two objects; an empty balloon versus a full balloon; or water versus ice).</p>
+          </indicator>
+          <indicator>
+            <p>Observe and document conversations, mass media reports, and other forms of text that use the term “weight” rather than “mass”.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS3.3</identifier>
+        <outcome_text>Demonstrate understanding of linear measurement (cm and m) including:selecting and justifying referentsgeneralizing the relationship between cm and mestimating length and perimeter using referentsmeasuring and recording length, width, height, and perimeter.</outcome_text>
+        <outcome_text>[C, CN, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and describe situations relevant to self, family, and community that involve measuring lengths, including perimeter, in cm or m.</p>
+          </indicator>
+          <indicator>
+            <p>Measure and compare different lengths on 3-D objects to select personally relevant referents for 1 cm, 10 cm, and 1 m.</p>
+          </indicator>
+          <indicator>
+            <p>Create models to generalize a numerical relationship between cm and m (i.e., 100 cm is equivalent to 1 metre).</p>
+          </indicator>
+          <indicator>
+            <p>Pose and solve situational questions that involve the estimating or measuring of length (including perimeter) using cm or m.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and determine the length of the dimensions of a personally relevant 2-D shape or 3-D object.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why sometimes different names are used for different length measurements (e.g., height, width, or depth).</p>
+          </indicator>
+          <indicator>
+            <p>Sketch a line segment of an estimated length and describe the strategy used.</p>
+          </indicator>
+          <indicator>
+            <p>Draw a line segment of a given length and explain the process used.</p>
+          </indicator>
+          <indicator>
+            <p>Relate measuring using a referent for 10 cm to skip counting quantities by 10s.</p>
+          </indicator>
+          <indicator>
+            <p>Create a picture of a 2-D shape with specified length and width (or length and height) and explain whether the 2-D shape was constructed using estimates or actual lengths.</p>
+          </indicator>
+          <indicator>
+            <p>Measure and record the perimeter of regular 2-D polygons and circles located on 3-D objects, and explain the strategy used.</p>
+          </indicator>
+          <indicator>
+            <p>Measure and record the perimeter of a given irregular 2-D shape, and explain the strategy used.</p>
+          </indicator>
+          <indicator>
+            <p>Construct or draw more than one 2-D shape for the same given perimeter (cm, m).</p>
+          </indicator>
+          <indicator>
+            <p>Estimate the perimeter of a given 2-D shape (cm, m) using personal referents and explain the strategies used.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “perimeter is a linear measurement”.</p>
+          </indicator>
+          <indicator>
+            <p>Sort a set of 2-D shapes into groups with equal perimeters.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS3.4</identifier>
+        <outcome_text>Demonstrate understanding of 3-D objects by analyzing characteristics including faces, edges, and vertices. [C, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and describe the faces, edges, and vertices of given 3-D objects, including cubes, spheres, cones, cylinders, pyramids, and prisms (e.g., drum, tipi, South American Pyramids, and other objects from the natural environment).</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “the face of a 3-D object is always a 2-D shape”.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and describe the 2-D shapes found on a 3-D object.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a skeleton of a given 3-D object and describe how the skeleton relates to the 3-D object.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the number of faces, edges, and vertices of a given 3-D object and explain the reasoning and strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “a vertex is where three faces meet”.</p>
+          </indicator>
+          <indicator>
+            <p>Sort a set of 3-D objects according to the faces, edges, or vertices and explain the sorting rule used.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS3.5</identifier>
+        <outcome_text>Demonstrate understanding of 2-D shapes (regular and irregular) including triangles, quadrilaterals, pentagons, hexagons, and octagons including:describingcomparingsorting.</outcome_text>
+        <outcome_text>[C, CN, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the sorting rule used on a pre-sorted set of polygons.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize definitions for regular and irregular polygons based on a concept attainment activity or from pre-sorted sets.</p>
+          </indicator>
+          <indicator>
+            <p>Observe, describe the characteristics of, and sort polygons found in situations relevant to self, family, or community (including First Nations and Métis), into irregular and regular polygons (e.g., the bottom of a kamatiq, the screen of a TV, the bottom of a curling broom, and an arrowhead).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze irregular and regular polygons in different orientations in terms of the characteristics of the polygons (such as number or measurement of sides and angles).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Statistics and Probability</goal_heading>
+      <outcome>
+        <identifier>SP3.1</identifier>
+        <outcome_text>Demonstrate understanding of first-hand data using tally marks, charts, lists, bar graphs, and line plots (abstract pictographs), through:collecting, organizing, and representingsolving situational questions.</outcome_text>
+        <outcome_text>[C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and describe situations relevant to self, family, or community in which a particular type of data recording or organizing strategy might be used, including tally marks, charts, lists, and knots on a sash.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a set of line plots to determine the common attributes of line plots.</p>
+          </indicator>
+          <indicator>
+            <p>Create a line plot from a pictograph.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a set of bar graphs to determine the common attributes of bar graphs.</p>
+          </indicator>
+          <indicator>
+            <p>Answer questions related to the data presented in a bar graph or line plots.</p>
+          </indicator>
+          <indicator>
+            <p>Collect and represent data using bar graphs or line plots.</p>
+          </indicator>
+          <indicator>
+            <p>Pose and solve situational questions related to self, family, or community by collecting and organizing data, representing the data using a bar graph or line plot, and interpreting the data display.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze interpretations of bar graphs or line plots and explain whether or not the interpretation is valid based on the data display.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how various cultures past and present, including First Nations and Métis, collect, represent, and use first-hand data.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

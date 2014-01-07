@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <dark_colour>#008164</dark_colour>
+  <light_colour>#e6f3f0</light_colour>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-199478_1</pdf>
+  <banner>corefrench/Core_french_7.png</banner>
+  <fondements>core_french/fondements_core_french_6to9.html</fondements>
+  <matiere>core_french/matiere_core_french_6to9.html</matiere>
+  <curriculum_name>Core French</curriculum_name>
+  <lexicon>lexicons/core_french_7_lex.xml</lexicon>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Goal : Communication Skills (CS)</goal_heading>
+      <outcome>
+        <identifier>7.CS.1</identifier>
+        <outcome_text>Demonstrate understanding of the main idea of oral French multi-sentence presentations on a variety of familiar topics in semi-structured situations. [L] [V] [S] [W] [RP]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Selects the main idea and key information of a listening or viewing presentation such as by choosing from three or more one-sentence options.</p>
+          </indicator>
+          <indicator>
+            <p>Compares and contrasts three to five items based on the information given in an oral presentation (e.g., weather forecasts for different days of the week, restaurants, performances).</p>
+          </indicator>
+          <indicator>
+            <p>Retrieves details from a video or live conversation among three people (e.g., with note-taking or advance organizers).</p>
+          </indicator>
+          <indicator>
+            <p>Represents understanding of a presentation (e.g., by demonstrations, charts, graphs, or concept maps).</p>
+          </indicator>
+          <indicator>
+            <p>Responds to questions beginning with or with a sentence starter (e.g., ). est-ce que, qu’est-ce que, qui, oùquandOù sont ces personnes? Elles sont…Qui est le personnage principal? Le personnage principal est…</p>
+          </indicator>
+          <indicator>
+            <p>Completes a 6 - 8 item supported cloze activity while listening to a French song.</p>
+          </indicator>
+          <indicator>
+            <p>Selects key details from an audio or video interview in French.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>7.CS.2</identifier>
+        <outcome_text>Discuss a variety of information on familiar topics through modeled oral expression in structured situations. [S]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Interviews another student with familiar questions and phrases, either face-to-face or with technology such as webcams or videophones.</p>
+          </indicator>
+          <indicator>
+            <p>Answers questions posed by another student during an interview or conversation.</p>
+          </indicator>
+          <indicator>
+            <p>Answers familiar questions with several modeled phrases (e.g., regarding relationships, another country, a consumer product, or a performance).</p>
+          </indicator>
+          <indicator>
+            <p>Engages in conversations with a small group of 3- 4 people with the use of modeled phrases or sentence stems such as: A: Bonjour Denis! B: Bonjour Éric. C: Salut Denis et Éric! Pouvez-vous m’aider? A &amp; B: Oui, bien sur! C: J’ai perdu mon sac à dos. B: Qu’est-ce qu’il y a dans ton sac à dos? C: Mon baladeur est dans mon sac à dos! C’est urgent! A: On va t’aider! B: Voici un sac à dos avec un baladeur. C’est de la marque ___. C: Ce n’est pas mon sac à dos! A: Voici un autre sac à dos avec un baladeur. C’est de la marque ___. C: Fiou! C’est mon sac à dos! Merci!</p>
+          </indicator>
+          <indicator>
+            <p>Presents information with modeled sentences (e.g., describing a restaurant floor plan, a restaurant design or menu, a musical performance, or a consumer product), such as: Q. Quels produits compares-tu? A. Je compare des souliers de sport. Q. Vous préférez la marque A ou la marque B? A. Hmmm. Les souliers de la marque A sont plus confortables que la marque B. Les lacets de la marque B sont plus solides que la marque A. Et la marque B est plus attrayante que la marque A. Mais le prix de la marque A est moins cher que la marque B. Donc, je vais acheter la marque A. Q. Pourquoi? A. Je vais acheter les souliers de la marque A parce qu’ils sont moins chers et plus confortables. La marque A est mon soulier préféré. Je vais au magasin aujourd’hui!</p>
+          </indicator>
+          <indicator>
+            <p>Reports on the incidents in a legend or story with the use of modeled phrases and questions, such as: Q. Qu’est-ce qui se passe dans l’histoire? A. Marc voit quelque chose dans le lac. La ‘chose’ a un long cou et elle nage lentement. Soudainement, elle n’est plus là! Q. Qu’est-ce que c’est? A. C’est le monstre Ogopogo du lac Okanagan!</p>
+          </indicator>
+          <indicator>
+            <p>Presents a reader’s theatre presentation based on a script. (see e.g. 7CS.4)</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>7.CS.3</identifier>
+        <outcome_text>Demonstrate understanding of the main idea and supporting details in illustrated 100 - 120 word, two-paragraph expository, procedural, persuasive and narrative text. [R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identifies the main idea of an illustrated 100 - 120 word, two-paragraph text, such as: Mon amie Mariko Mariko est japonaise et il y a cinq personnes dans sa famille. J’aime beaucoup son père, sa mère, son frère et sa sœur. Le repas préféré de Mariko est les hamburgers, mais le reste de sa famille préfère les mets traditionnels du Japon, tels que le sushi, les nouilles udon, et le teriaki. Ils mangent souvent ensemble à la maison, mais ils aiment manger au restaurant japonais aussi. Quand nous sommes ensemble, Mariko et moi écoutons nos baladeurs. Nous allons souvent au restaurant aussi. Nous sommes dans la même classe à l’école, donc on fait les devoirs ensemble. Des fois, nous faisons des projets de français. J’aime beaucoup mon amie Mariko. : C’est la description de la famille de Mariko et les activités que Mariko fait avec son amie.</p>
+          </indicator>
+          <indicator>
+            <p>Selects key supporting details in a 100 -120 word, illustrated, two-paragraph text, such as: Un Saskapogo en Saskatchewan? Beaucoup de personnes voient un monstre dans le lac Turtle en Saskatchewan. Le lac Turtle est à 120 kilomètres au nord-ouest de North Battleford. Tout le monde dit que le monstre est gros! Il a un long cou, et un corps vert ou peut-être brun. Sa tête ressemble à un cheval. Le monstre mesure environ 30 mètres de longueur et il nage vite! Il y a aussi des légendes des Premières nations qui parlent de ce monstre. Toutes les personnes qui voient le monstre ont peur! Mais il y a d’autres personnes qui disent que le monstre est un poisson géant. D’autres disent que c’est un plésiosaure. Est-ce que la Saskatchewan a vraiment un monstre comme Ogopogo en Colombie-Britannique? Est-ce que nous avons un Saskapogo ici en Saskatchewan? : un monstre, gros, brun/vert, un long cou, 30 mètres, un cheval, peur, un poisson géant, un plésiosaure, Ogopogo, Saskapogo, les légendes.</p>
+          </indicator>
+          <indicator>
+            <p>Determines the total cost of food items chosen from a menu.</p>
+          </indicator>
+          <indicator>
+            <p>Identifies the main idea of another student’s writing (e.g., in a French blog or webpage, or written document posted in the classroom).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>7.CS.4</identifier>
+        <outcome_text>Produce 60 - 80 word expository, narrative, or procedural two- paragraph texts or scripts in French based on a combination of models. [W]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Writes a modeled 60 - 80 word, two-paragraph description, journal entry, procedure, or story, such as: Alain et moi faisons de la planche à neige au fameux Mont Whistler, site des Jeux Olympiques de Vancouver 2010. Nous allons utiliser une planche à neige, des lunettes de protection et des gants. C’est important de garder l’équilibre sur la planche à neige. Si on tombe, c’est dangereux. On va peut être rencontrer des obstacles comme des arbres, des autres planchistes, et de la glace. On ne sait jamais! Nous aimons beaucoup faire de la planche à neige.</p>
+          </indicator>
+          <indicator>
+            <p>Writes a 60 – 80 word script with sound effects, based on and modeled from a text previously read in class: Le monstre du Lac Turtle Narrateur : C’est le 12 juillet 1990. Il est neuf heures du soir au Lac Turtle. Un père et ses deux enfants sont à la pêche. Soudainement, le père voit quelque chose de bizarre dans le lac. Père : Aïe, les enfants, je vois quelque chose de bizarre là-bas! Enfant 1 : Qu’est-ce que c’est? Enfant 2 : Il a un long cou et il est vert…ou brun! Père : Il ressemble à un hippocampe! Enfant 1 : Il nage vite. [floush!] C’est un serpent de mer? Il plonge! [plouf!] Enfant 2 : J’ai peur! Papa!!!!!!!!!!!!!!!!! Aaaaaah! Père: Nous allons retourner à la plage tout de suite! Courage, les enfants! [broumbroumbroum] Narrateur : Quelques personnes ont de différentes explications. Personne 1 : C’est un poisson géant! Personne 2 : C’est un plésiosaure! Personne 3 : C’est un monstre! Narrateur : Est-ce que la Saskatchewan a un Saskapogo?</p>
+          </indicator>
+          <indicator>
+            <p>Writes a French menu for a particular type of restaurant (e.g., ). la pizzeria, le restaurant français, le restaurant japonais, le restaurant grec, le restaurant québécois, le restaurant chinois</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Goal : General Language Strategies (GL) Communication Skills (CS)</goal_heading>
+      <outcome>
+        <identifier>7.GL.1</identifier>
+        <outcome_text>Select listening or viewing strategies in highly structured situations, such as: asking and answering questions,making predictions,verifying comprehension,making connections, visualizing, summarizing, synthesizing, analyzing and evaluating [L] [V] [S] [RP]</outcome_text>
+        <indicators>
+          <outer_text>
+            <p>
+              <b>Before listening or viewing:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>Before listening or viewing: Identifies the listening intention from a number of options presented in class.</p>
+          </indicator>
+          <indicator>
+            <p>Before listening or viewing: Anticipates the information a presentation might contain, with the selection of limited choices from an anticipation checklist.</p>
+          </indicator>
+          <indicator>
+            <p>Before listening or viewing: Activates prior knowledge about a topic from a limited list of possible prior experiences.</p>
+          </indicator>
+          <indicator>
+            <p>Before listening or viewing: Establishes connections to own experiences from a limited list of possible situations.</p>
+          </indicator>
+          <indicator>
+            <p>Before listening or viewing: Establishes connections to a previous conversation, presentation, audio, or video clip from a list of possible related features (e.g., title, topic, or details).</p>
+          </indicator>
+          <indicator>
+            <p>Before listening or viewing: Selects a pre-listening or pre-viewing strategy previously used in ELA.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>During listening or viewing:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>During listening or viewing: Uses comprehension aids (e.g., word walls, posters, personal vocabulary lists, or dictionaries).</p>
+          </indicator>
+          <indicator>
+            <p>During listening or viewing: Develops own understanding of the message with the identification of cognates, familiar words, key thematic words, and previously learned expressions.</p>
+          </indicator>
+          <indicator>
+            <p>During listening or viewing: Interprets spoken language with auditory and visual context clues.</p>
+          </indicator>
+          <indicator>
+            <p>During listening or viewing: Seeks assistance from other students, such as with questioning.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>After listening or viewing:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>After listening or viewing: Asks the speaker to repeat part of the presentation.</p>
+          </indicator>
+          <indicator>
+            <p>After listening or viewing: Asks questions about unclear words or expressions.</p>
+          </indicator>
+          <indicator>
+            <p>After listening or viewing: Identifies with a French sentence several strategies used to facilitate comprehension of the listening or viewing experience.</p>
+          </indicator>
+          <indicator>
+            <p>After listening or viewing: Verifies anticipatory statements concerning the content of the viewing or listening experience with a French sentence (e.g., ). Oui, on parle des différents pays. Non, on ne parle pas des restaurants.</p>
+          </indicator>
+          <indicator>
+            <p>After listening or viewing: Represents the main idea of a listening experience with graphic representations (e.g., with a story map, illustrations, or photos).</p>
+          </indicator>
+          <indicator>
+            <p>After listening or viewing: Summarizes a listening experience with a familiar French sentence.</p>
+          </indicator>
+          <indicator>
+            <p>After listening or viewing: Answers questions about a listening or viewing experience, with a French sentence.</p>
+          </indicator>
+          <indicator>
+            <p>After listening or viewing: Self-evaluates own understanding of the main idea of listening or viewing experience, such as with a rubric or a rating scale.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>7.GL.2</identifier>
+        <outcome_text>Select speaking strategies in highly structured situations, such as: modeled language, shared practice, guided practice, independent practice [S] [RP] [R]</outcome_text>
+        <indicators>
+          <outer_text>
+            <p>
+              <b>Before speaking:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>Before speaking: Identifies the speaking intention with teacher support.</p>
+          </indicator>
+          <indicator>
+            <p>Before speaking: Finds different ways of conveying a message (e.g., with synonyms, familiar expressions, or visuals).</p>
+          </indicator>
+          <indicator>
+            <p>Before speaking: Develops own dialogue scripts from a combination of models.</p>
+          </indicator>
+          <indicator>
+            <p>Before speaking: Chooses own presentation or speaking guidelines from a list (e.g., ). Parle fort! Utilise des gestes! Regarde l’auditoire! Regarde ton partenaire! Prends des pauses!</p>
+          </indicator>
+          <indicator>
+            <p>Before speaking: Acquires new vocabulary (e.g., maintenance and use of a personal dictionary, repetition of new words or phrases).</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>During speaking:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>During speaking: Participates in oral activities with partners or small groups of students with support.</p>
+          </indicator>
+          <indicator>
+            <p>During speaking: Chooses memory aids to deliver a presentation (e.g., posters, index cards, or notes).</p>
+          </indicator>
+          <indicator>
+            <p>During speaking: Portrays meaning and emotion when representing a character in a skit (e.g., facial expressions, voice change, body language, or intonations).</p>
+          </indicator>
+          <indicator>
+            <p>During speaking: Integrates corrective feedback from the teacher or other students through correct use of a word, sentence, or phrase.</p>
+          </indicator>
+          <indicator>
+            <p>During speaking: Practices new words and phrases as they are encountered.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>After speaking:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>After speaking: Self-evaluates group or partner exchanges, prepared dialogues, or presentations using a checklist or rubric.</p>
+          </indicator>
+          <indicator>
+            <p>After speaking: Sets goals for the next speaking experience by selecting an item from presentation guidelines in a checklist or rubric.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>7.GL.3</identifier>
+        <outcome_text>Use reading strategies in semi-guided situations. (see 7.GL.1 for strategies) [R] [RP] [W] [S]</outcome_text>
+        <indicators>
+          <outer_text>
+            <p>
+              <b>Before reading:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>Before reading: Predicts the content of the text using a sentence stem (e.g., ). Je pense que c’est une histoire de…Je pense que le texte va parler de…</p>
+          </indicator>
+          <indicator>
+            <p>Before reading: Anticipates specific aspects of content of the text (e.g., selection of or labels of possible content sentences). oui/nonvrai/faux</p>
+          </indicator>
+          <indicator>
+            <p>Before reading: Makes connections to preferences and own experiences using a sentence stem (e.g., ). C’est comme moi. Je préfère le….aussi. Je fais un lien entre le… et moi.</p>
+          </indicator>
+          <indicator>
+            <p>Before reading: Makes connections to a similar text previously shared in class using a French sentence such as . Cette histoire ressemble à l’histoire de …</p>
+          </indicator>
+          <indicator>
+            <p>Before reading: Asks questions about the text and possible context clues (e.g., ). Quel est le titre? Quel est le thème? Quels sont les mots-amis (congénères)? Quels sont les mots importants?</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>During reading:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>During reading: Identifies context clues to aid comprehension (e.g., key words or cognates contained in other sentences of the paragraph, information sidebars, titles and subtitles, photographs, drawings, graphs, and tables).</p>
+          </indicator>
+          <indicator>
+            <p>During reading: Groups parts of a sentence into manageable parts with teacher support.</p>
+          </indicator>
+          <indicator>
+            <p>During reading: Monitors comprehension of a text with a questioning checklist on understanding of content groupings, such as Est-ce que je comprends cette partie, oui ou non?</p>
+          </indicator>
+          <indicator>
+            <p>During reading: Repairs own comprehension when the sense of a text is lost (e.g., re-reading a sentence or a paragraph, re-examination of context clues, skipping unknown words).</p>
+          </indicator>
+          <indicator>
+            <p>During reading: Pauses reading periodically for verification of initial predictions.</p>
+          </indicator>
+          <indicator>
+            <p>During reading: Explains visualization with a French sentence, such as . Il y a un monstre brun et il a un long cou</p>
+          </indicator>
+          <indicator>
+            <p>During reading: Copies or highlights unknown words or phrases for verification.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>After reading:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>After reading: Responds personally to the text with a complete French sentence.</p>
+          </indicator>
+          <indicator>
+            <p>After reading: Summarizes the main idea of the text with a complete French sentence, such as L’ídée principale est une description de la performance de Julie.</p>
+          </indicator>
+          <indicator>
+            <p>After reading: Represents understanding of the text with visuals (e.g., a storyboard, a story map, or a pictorial web).</p>
+          </indicator>
+          <indicator>
+            <p>After reading: Organizes a list of new vocabulary words discovered in reading.</p>
+          </indicator>
+          <indicator>
+            <p>After reading: Reinforces vocabulary gained from reading by grouping them in different ways (e.g., concept maps, word walls, or word sorts).</p>
+          </indicator>
+          <indicator>
+            <p>After reading: Practices new vocabulary in limited speaking or writing situations.</p>
+          </indicator>
+          <indicator>
+            <p>After reading: Verifies sentences from anticipation exercises.</p>
+          </indicator>
+          <indicator>
+            <p>After reading: Answers several familiar questions using modeled phrases.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>7.GL.4</identifier>
+        <outcome_text>Implement stages of the writing process in semi-guided situations, including: idea generation, drafting, editing, and publishing. [W] [S] [R] [RP]</outcome_text>
+        <indicators>
+          <outer_text>
+            <p>
+              <b>Before writing:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>Before writing: Generates writing ideas in French using pre-writing strategies (e.g., with a web, a graphic organizer, or a list).</p>
+          </indicator>
+          <indicator>
+            <p>Before writing: Selects, with support, a graphic organizer for planning, based on the text type.</p>
+          </indicator>
+          <indicator>
+            <p>Before writing: Selects the audiences for which a text is intended from a list of possibilities (e.g., students in the class, or other students in the school).</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>During writing:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>During writing: Selects, with support, reference material to help locate an equivalent word or expression (e.g., an English-French dictionary, a word wall, a personal vocabulary list, or an illustrated dictionary).</p>
+          </indicator>
+          <indicator>
+            <p>During writing: Relies on several models, with support, to write a 10 -12 sentence, two-paragraph expository, narrative or procedural text.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>After writing:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>After writing: Proofreads the text with support for accuracy and meaning.</p>
+          </indicator>
+          <indicator>
+            <p>After writing: Implements changes to the text based on a conference with the teacher leading to a final copy.</p>
+          </indicator>
+          <indicator>
+            <p>After writing: Connects stages of the writing process to visual models, such as (a web), (draft), (edits), (final copy). un diagramme en toile d’araignéeun brouillonune correctionune copie finale</p>
+          </indicator>
+          <indicator>
+            <p>After writing: Evaluates own or another student’s written work based on the descriptors in a French rubric, or from a French checklist.</p>
+          </indicator>
+          <indicator>
+            <p>After writing: Sets goals, with support, for the next writing experience.</p>
+          </indicator>
+          <indicator>
+            <p>After writing: Selects written texts for inclusion in an assessment portfolio.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Goal : Language Knowledge (LK)</goal_heading>
+      <outcome>
+        <identifier>7.LK.1</identifier>
+        <outcome_text>Demonstrate acquisition of French language concepts and vocabulary related to themes, including: numbers to 10 000 theme-related present tense regular –ir verbs, (singular and plural forms) theme-related present tense irregular –ir verbs, (singular and plural forms),immediate future tense verbs, (singular and plural forms),prepositions relating to provinces and selected countries,common adverbs,onomatopoeic expressions,verb and with infinitive verbs devoirpouvoir,commands and instructions in the second person plural,question transformations,conjunctions,comparative qualifiers,French monetary representations. [S] [R] [W]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identifies individual numbers to 10 000 in French.</p>
+          </indicator>
+          <indicator>
+            <p>Reads numbers orally from a table, chart, graph, or text (e.g., population figures, sales in dollars, or distances).</p>
+          </indicator>
+          <indicator>
+            <p>Meets thematic unit needs with regular –ir verbs, singular and plural forms in the present tense.</p>
+          </indicator>
+          <indicator>
+            <p>Meets thematic unit needs with irregular–ir verbs, singular and plural forms in the present tense.</p>
+          </indicator>
+          <indicator>
+            <p>Indicates immediate future actions with the use of the verb aller (e.g., ). Je vais aller chez ma grand-mère en fin de semaine. Nous allons jouer une partie de soccer ce soir. Ils vont aller en ville demain.</p>
+          </indicator>
+          <indicator>
+            <p>Expresses residence in or travel to cities, Canadian provinces/territories or selected countries with the use of the prepositions en, au, and aux (e.g., ). Je vais en Alberta. Il va au Manitoba. Elle habite en Saskatchewan. Je vais à Ottawa. Ils habitent aux Territoires du Nord-Ouest</p>
+          </indicator>
+          <indicator>
+            <p>Describes movement using common adverbs in sentences (e.g., ). Il marche vite. Nous nageons maintenant. Vous allez tout de suite?</p>
+          </indicator>
+          <indicator>
+            <p>Illustrates script sounds, character reactions, animal noises, machine noises, actions, and sounds in nature with French onomatopoeic expressions (e.g., ). Clac! Badaboum! Cuicui! Vroumvroum, Paf! Toc Toc, Bang, Clic, Tut Tut, Tic Tac, Aïe</p>
+          </indicator>
+          <indicator>
+            <p>Communicates obligation or ability with verbs devoir and pouvoir + infinitive (e.g., ). Je dois aller. Je peux travailler. Il doit arrêter. Nous pouvons chanter.</p>
+          </indicator>
+          <indicator>
+            <p>Relays instructions and commands with the second person plural form (e.g., ). Allez! Chantez!</p>
+          </indicator>
+          <indicator>
+            <p>Asks questions using inversion (e.g., ). Aimes-tu la musique rock? Allons-nous maintenant?</p>
+          </indicator>
+          <indicator>
+            <p>Uses the conjunctions or in compound sentences. “et”, “ou”,“mais”</p>
+          </indicator>
+          <indicator>
+            <p>Uses comparative qualifiers (e.g., ). plus, moins, meilleur, pire</p>
+          </indicator>
+          <indicator>
+            <p>Represents monetary amounts with the correct notation, such as 43,98 $.</p>
+          </indicator>
+          <indicator>
+            <p>Uses key words and phrases related to 4 of the following themes: Travel to a Francophone Country – Voyager dans un pays francophone Friends – Les amis My Restaurant – Mon restaurant Consumer Evaluation of a Product – Consommateur averti School Talent Search – À la recherche de talent Canadian Mysteries and Legends – Mystères et légendes du Canada</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Goal : Culture (C) Communication Skills (CS)</goal_heading>
+      <outcome>
+        <identifier>7.C.1</identifier>
+        <outcome_text>Relate the influence and contributions of Francophone, First Nations, and Métis languages and cultures to Canadian legends and stories. [R] [L] [W] [V] [RP] [S]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Discusses authentic French, First Nations, or Métis legends, stories, or mysteries shared in class, such as: , the lake creature reported to live in in ; MemphréLac MemphrémagogQuébec , the lake creature said to live in ; ChampLac Champlain, Québec , the lake creature said to live in ; PonikLac Pohénégamook, Québec Ogopogo or Naitaka (Salish: , “lake demon”) is the name given to a lake creature reported to live in Okanagan Lake in British Columbia; n’ha-a-itk Sasquatch or Bigfoot ( in Dakota), large ape-man said to inhabit the forest; revered in some First Nations cultures; Chiha-tanka Flaming ships said to be seen off the coast of Prince Edward Island and New Brunswick ( ); le feu du mauvais temps Manipogo, the lake creature said to live in Lake Manitoba, Manitoba; Unnamed lake creature said to live in Turtle Lake, Saskatchewan; Thabeeszus and the Wolverine Legend (Métis); and Thunderbird legends on the Great Plains of North America.</p>
+          </indicator>
+          <indicator>
+            <p>Identifies cultural beliefs and values (e.g., fear of the unknown, fear of some animals, belief in the supernatural, respect for various animals) in traditional Francophone, First Nations or Métis legends and mysteries (e.g., or flying canoe legend of Québécois folklore; the “Who Calls” legend of Saskatchewan Cree folklore (as portrayed in the ); the or Rugaru (also spelled Rougarou) is a Michif pronunciation of the French phrase “loup garou,” or werewolf.). (Note: Some stories about Rugaru come from French werewolf legends, some are adaptations of Algonquian Wendigo/Witiko legends about man-eating ice monsters, and others are combinations of the two. In most Rugaru stories, a Métis person is turned into a Rugaru by catching sight of another Rugaru, not being bitten by one as in French werewolf legends, or by committing acts of cannibalism or greed, as described in Algonquian Windigo legends.) la chasse-gallerieMy Town – Fort Qu’Appelle bookletloup-garou</p>
+          </indicator>
+          <indicator>
+            <p>Shares information about a Canadian legend or story with a single French sentence such as . Memphré est un monstre dans une légende québécoise et il habite dans le lac Memphrémagog au Québec</p>
+          </indicator>
+          <indicator>
+            <p>Integrates elements of Francophone culture for the production of cultural activities in French (e.g., games, songs, shadow plays, skits, readers’ theatre, storytelling, French or cuisine, clothing from French catalogues or websites). Québécois</p>
+          </indicator>
+          <indicator>
+            <p>Self-evaluates participation in cultural activities on a rating scale or rubric.</p>
+          </indicator>
+          <indicator>
+            <p>Sets goals for future participation in cultural activities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

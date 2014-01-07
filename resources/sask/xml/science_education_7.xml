@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181921_1</pdf>
+  <banner>science/science7.gif</banner>
+  <dark_colour>#008164</dark_colour>
+  <light_colour>#e6f3f0</light_colour>
+  <goals>science/science7-9aimsgoals.htm</goals>
+  <teaching>science/science6-9teaching.htm</teaching>
+  <curriculum_name>Science 7</curriculum_name>
+  <classification_id>science 7</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Life Science: Interactions within Ecosystems (IE)</goal_heading>
+      <outcome>
+        <identifier>IE7.1</identifier>
+        <outcome_text>Relate key aspects of Indigenous knowledge to their understanding of ecosystems. [CP]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Gather information about traditional Indigenous practices with respect to the relationships and connections between people and their ecological environment.</p>
+          </indicator>
+          <indicator>
+            <p>Examine key aspects of Indigenous knowledge and First Nations and Métis people’s practices that contribute to understanding of ecosystems and the interactions of their components.</p>
+          </indicator>
+          <indicator>
+            <p>Provide specific examples of Indigenous knowledge in understanding the components of their ecosystems.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the ways that traditional Indigenous knowledge about respect and responsibility for the land, self, and others has been transmitted over many years, including the oral tradition.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IE7.2</identifier>
+        <outcome_text>Observe, illustrate, and analyze living organisms within local ecosystems as part of interconnected food webs, populations, and communities. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Illustrate the ecological organization of life within the biosphere, using specific examples of species, populations, communities, ecosystems, and biomes.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of ecosystems of varying sizes and locations, including their biotic and abiotic components.</p>
+          </indicator>
+          <indicator>
+            <p>Conduct a field study to observe, record (using sketches, notes, tables, photographs, and/or video recordings), and identify biotic and abiotic components of a local ecosystem.</p>
+          </indicator>
+          <indicator>
+            <p>Show respect for all forms of life when examining ecosystems.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the biotic and abiotic components of distant ecosystems using photographs, videos, or online resources.</p>
+          </indicator>
+          <indicator>
+            <p>Choose and use appropriate instruments (e.g., magnifying glass, thermometer, light meter, hand-held microscope, and digital camera) safely, effectively, and accurately to observe and illustrate biotic and abiotic components of ecosystems.</p>
+          </indicator>
+          <indicator>
+            <p>Compile and display ecological data to illustrate the various interactions that occur among biotic and abiotic components of ecosystems.</p>
+          </indicator>
+          <indicator>
+            <p>Identify strengths and weaknesses of different methods of collecting and displaying ecological data (e.g., compare field observations of an ecosystem with observations from a video or television program, compare a food chain with a food web).</p>
+          </indicator>
+          <indicator>
+            <p>Classify organisms in a variety of ecosystems as producers, consumers, or decomposers and further classify consumers as herbivores, carnivores, or omnivores.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret interdependence within natural systems by constructing food chains and food webs to illustrate the interactions among producers, consumers, and decomposers in a particular ecosystem.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a classification key, using appropriate scientific terminology, which will enable classmates to differentiate between producers, consumers, and decomposers.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of organizations in Canada that support scientific research related to ecosystems (e.g., environmental conservation groups, federal and provincial government departments, agricultural and marine institutes, universities, and colleges).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IE7.3</identifier>
+        <outcome_text>Evaluate biogeochemical cycles (water, carbon, and nitrogen) as representations of energy flow and the cycling of matter through ecosystems. [CP,SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Illustrate how energy is supplied to and flows through a food web using the concept of ecological pyramids (e.g., pyramid of energy, pyramid of numbers, and pyramid of biomass).</p>
+          </indicator>
+          <indicator>
+            <p>Model the carbon, nitrogen, and water cycles to illustrate how matter cycles through ecosystems.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the strengths and limitations of models in science generally, and then apply these criteria to evaluate the efficacy of a student model of a biogeochemical cycle.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the role of decomposers in recycling matter in an ecosystem.</p>
+          </indicator>
+          <indicator>
+            <p>Describe examples of how scientists collect evidence, search for patterns and relationships in data, and propose explanations to further the development of scientific knowledge about energy and matter flow in ecosystems.</p>
+          </indicator>
+          <indicator>
+            <p>Design and conduct an experiment to investigate the conditions essential for the growth of plants (e.g., determine whether nutrients in soil are sufficient to support plant growth, determine the influence of sunlight or other forms of light on plant growth).</p>
+          </indicator>
+          <indicator>
+            <p>Consider observations and ideas from a variety of sources during investigations and before drawing conclusions related to biogeochemical cycles.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how energy passes through ecosystems during the processes of photosynthesis and cellular respiration.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and evaluate potential impacts on energy flow and the cycling of matter by the removal of one or more living organisms from a specific ecosystem.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of scientific knowledge that have resulted in the development of technologies designed to assist in managing aspects of ecosystems (e.g., understanding the effect of nitrogen, phosphorus, and potassium on plant growth led to the production of specific formulations of fertilizers, knowledge of how micro-organisms help break down matter led to the development of composting bins).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IE7.4</identifier>
+        <outcome_text>Analyze how ecosystems change in response to natural and human influences, and propose actions to reduce the impact of human behaviour on a specific ecosystem. [DM, CP]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify evidence of ecological succession in ecosystems, using the concepts of pioneer species, climax community, primary succession, and secondary succession, and by identifying changes in plant and animal life in the ecosystem.</p>
+          </indicator>
+          <indicator>
+            <p>Propose ecological questions to investigate arising from practical problems and issues (e.g., “What is the impact of clearing land for farming?”, “How could a community prolong the life of its landfill site?”, “How could a community reduce the amount of garbage it produces?”, “What is the impact of a sports field being constructed in a particular location?”).</p>
+          </indicator>
+          <indicator>
+            <p>Predict what a specific ecosystem (e.g., clear-cut forest, abandoned sports field, abandoned farm yard, abandoned rail line, ditch, driveway, or sidewalk) will look like in the future (e.g., 5, 10, and 25 years) based on characteristics of the area and long-term changes observed in similar ecosystems.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and refine questions and problems related to the effects of natural or human influences on a particular ecosystem.</p>
+          </indicator>
+          <indicator>
+            <p>Select and synthesize information from various sources to develop a response to specific questions related to natural or human influences on a particular ecosystem.</p>
+          </indicator>
+          <indicator>
+            <p>Propose a course of action or defend a given position on a local ecological issue or problem related to natural or human influences on a particular ecosystem, taking into account scientific, societal, technological, and environmental factors.</p>
+          </indicator>
+          <indicator>
+            <p>Be sensitive and responsible in maintaining a balance between human needs and a sustainable environment by considering both immediate and long-term effects of their course of action or stated position.</p>
+          </indicator>
+          <indicator>
+            <p>Provide specific examples to illustrate that scientific and technological activities related to ecosystems take place in a variety of individual or group settings, locally and globally, and by men and women from a variety of cultural backgrounds (e.g., individual and community gardening, impact studies done by environmental engineers, and research done by teams of international scientists).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science: Mixtures and Solutions (MS)</goal_heading>
+      <outcome>
+        <identifier>MS7.1</identifier>
+        <outcome_text>Distinguish between pure substances and mixtures (mechanical mixtures and solutions) using the particle model of matter. [SI, CP]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine a variety of objects and materials, and record qualitative (e.g., colour, texture, and state of matter) and quantitative (e.g., density, melting point, and freezing point) physical properties of those objects in a chart or data table.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the characteristics of pure substances, mechanical mixtures, and solutions.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a graphic organizer for the classification of matter that includes mixtures, pure substances, elements, compounds, mechanical mixtures, and solutions.</p>
+          </indicator>
+          <indicator>
+            <p>Classify common substances (e.g., Kool-Aid, vinegar, bubble bath, soft drinks, juice, chocolate chip cookies, salad dressings, hand lotion, shampoos, tea, bread, soil, and concrete) as pure substances, mechanical mixtures, or solutions.</p>
+          </indicator>
+          <indicator>
+            <p>Listen to and consider the ideas of classmates when classifying materials as pure substances or mixtures.</p>
+          </indicator>
+          <indicator>
+            <p>Create mechanical mixtures and solutions using common materials and compare the physical properties of the original materials and the resultant mixture or solution.</p>
+          </indicator>
+          <indicator>
+            <p>State the four main ideas of the particle model of matter.</p>
+          </indicator>
+          <indicator>
+            <p>Create models and/or physical representations that depict the nature of particles in pure substances, mechanical mixtures, and solutions according to the particle model of matter.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the usefulness of personally constructed representations of particles and the strengths and limitations of models in science generally.</p>
+          </indicator>
+          <indicator>
+            <p>Generate questions related to differences between mixtures and solutions and rephrase in a testable form (e.g., rephrase a question such as “How sweet is iced tea?” to “What is the most iced tea that can be dissolved in 500 mL of water at 23°C?”).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>MS7.2</identifier>
+        <outcome_text>Investigate methods of separating the components of mechanical mixtures and solutions, and analyze the impact of industrial and agricultural applications of those methods. [SI, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe methods used to separate the components of mechanical mixtures and solutions, including mechanical sorting, filtration, evaporation, distillation, magnetism, and chromatography.</p>
+          </indicator>
+          <indicator>
+            <p>Trace the historical development of a technology or process used to separate mixtures (e.g., settling, sifting, filtering, fusion, distillation, and chromatography).</p>
+          </indicator>
+          <indicator>
+            <p>Describe common household examples of technologies that are used to separate components of mechanical mixtures or solutions (e.g., kitchen strainer, oil and air filters).</p>
+          </indicator>
+          <indicator>
+            <p>Design and conduct an experiment to determine the effectiveness and/or efficiency of one or more methods of separating mechanical mixtures and solutions.</p>
+          </indicator>
+          <indicator>
+            <p>Report the strengths and limitations of a chosen experimental design to determine the effectiveness and/or efficiency of one or more methods of separating mechanical mixtures and solutions.</p>
+          </indicator>
+          <indicator>
+            <p>Use tools and apparatus (e.g., safety glasses, glassware, and Bunsen burners) safely when conducting investigations into methods of separating mixtures.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate knowledge of WHMIS standards by using proper techniques for handling and disposing of lab materials and following warning label symbols, including common household product symbols, when separating mixtures.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the scientific principles underlying a past or present industrial technology designed to separate mixtures (e.g., petroleum refining, sewage treatment plant, recycling station, combine, and cream separator).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss intended and unintended consequences of a particular industrial or agricultural technology or process used for separating materials.</p>
+          </indicator>
+          <indicator>
+            <p>Use a technological problem-solving process to design, construct, and evaluate a prototype of a process or device for separating a mechanical mixture or solution (e.g., purifying drinking water, separating household waste).</p>
+          </indicator>
+          <indicator>
+            <p>Identify new questions and problems that arise from what was learned about solutions and mixtures (e.g., “Are there mixtures that cannot be separated?”, “What techniques are used to remove pollutants from air and water?”), including questions that science cannot answer.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>MS7.3</identifier>
+        <outcome_text>Investigate the properties and applications of solutions, including solubility and concentration. [SI, DM]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Provide examples of solid, liquid, and gaseous solutions and identify which substance is the solute and which is the solvent in each solution.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the characteristics of solutions using the terms solute, solvent, soluble, and insoluble, based on the particle model of matter.</p>
+          </indicator>
+          <indicator>
+            <p>Create and describe the concentration of student-prepared dilute, concentrated, saturated, and supersaturated solutions using those qualitative terms and quantitative measurements (e.g., parts per million [ppm], g/L, and g/100 mL).</p>
+          </indicator>
+          <indicator>
+            <p>Value accuracy, precision, and honesty when collecting and reporting data related to concentrations of solutions.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the factors that determine how quickly a solute dissolves in a solvent.</p>
+          </indicator>
+          <indicator>
+            <p>Gather and interpret information from various resources (e.g., nutrition labels on foods, newspaper or magazine articles) related to solutions and concentrations of solutions.</p>
+          </indicator>
+          <indicator>
+            <p>Design and implement an experiment to investigate the effect of temperature on the solubility of a solution.</p>
+          </indicator>
+          <indicator>
+            <p>Predict the solubility of a solute by interpolating or extrapolating from student-generated solubility curves.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the effects of technological inventions or processes related to solutions (e.g., water softeners, water treatment plants, solution mining, agricultural sprays, insecticides, bleaches, and drain cleaners) on self, community, and the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Research how various science disciplines and engineering fields study and apply scientific knowledge related to solutions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science: Heat and Temperature (HT)</goal_heading>
+      <outcome>
+        <identifier>HT7.1</identifier>
+        <outcome_text>Assess the impact of past and current heating and cooling technologies related to food, clothing, and shelter on self, society, and the environment. [TPS, DM, CP]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Illustrate the historical development and the underlying scientific principles of technologies designed to address practical problems regarding human heating and cooling needs for food, shelter, and clothing (e.g., oven mitts, survival suits, air conditioning, central heating, thermos, refrigerators, stoves, heaters, home insulation, fleece jackets, and toques).</p>
+          </indicator>
+          <indicator>
+            <p>Communicate questions, ideas, intentions, plans, and results of inquiries related to heat transmission using lists, notes in point form, sentences, data tables, graphs, drawings, oral language, and other means.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the impact of the design and function of a heating- or cooling-related technology on self and society.</p>
+          </indicator>
+          <indicator>
+            <p>Compare, in qualitative terms, the heat capacities of some common materials, including water, and explain how heat capacity influences choices of materials used in the development of technologies related to clothing, food, and shelter.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the efficiency of different types of home insulation (e.g., sod, straw bales, fibreglass, cellulose, mineral wool, polystyrene, and polyurethane foam) with respect to criteria such as R-value, cost, and resistance to water and air infiltration.</p>
+          </indicator>
+          <indicator>
+            <p>Use a technological problem-solving process to design, construct, and evaluate a prototype of a device that will provide a solution to a practical problem related to heating or cooling (e.g., cooking food, keeping food warm or cool for an extended period, keeping a shelter warm or cool, keeping a person warm or cool).</p>
+          </indicator>
+          <indicator>
+            <p>Assess the design of a personally constructed heating or cooling prototype using collaboratively developed criteria.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of problems related to heating and cooling that arise at home, in an industrial setting, or in the environment, that cannot be solved using scientific and technological knowledge.</p>
+          </indicator>
+          <indicator>
+            <p>Create a photo journal of science- and technology-based careers in the community related to heating and cooling, such as heating systems and equipment contractors, and boiler engineers.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>HT7.2</identifier>
+        <outcome_text>Explain how understanding differences between states of matter and the effect of heat on changes in state provide evidence for the particle theory. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Provide examples from daily life that illustrate the effects of heating and cooling on solids, liquids, and gases.</p>
+          </indicator>
+          <indicator>
+            <p>Conduct experiments to determine the effects of changes in temperature on solids, liquids, and gases.</p>
+          </indicator>
+          <indicator>
+            <p>Construct and label a heating curve for water, using student-collected data, indicating states of matter and changes of state.</p>
+          </indicator>
+          <indicator>
+            <p>Create a visual or dramatic representation to explain changes of state of matter (e.g., melting, freezing, evaporation, condensation, and sublimation) according to the particle model of matter.</p>
+          </indicator>
+          <indicator>
+            <p>Choose appropriate instruments (e.g. alcohol thermometer, temperature probe, and thermocouple) and use them safely, effectively, and accurately for collecting temperature data when investigating states of matter and changes of state.</p>
+          </indicator>
+          <indicator>
+            <p>Trace the historical development of different scales (e.g., Kelvin, Celsius, Fahrenheit, and Rankine) and instruments used to measure temperature (e.g., liquid-in-glass thermometers, bi-metallic strips, digital thermometers, liquid crystal thermometers, thermocouples, and computer sensors) and discuss the need for standardized measurements of temperature.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between heat and temperature using the concept of kinetic energy and the particle model of matter.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how evidence gathered while investigating states of matter and changes in states of matter supports or refutes the particle theory of matter.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>HT7.3</identifier>
+        <outcome_text>Investigate principles and applications of heat transfer via the processes of conduction, convection, and radiation. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate and explain how heat is transferred by the processes of conduction, convection, and radiation in solids, liquids, and gases.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a visual or dramatic representation of heat transfer via conduction in a solid.</p>
+          </indicator>
+          <indicator>
+            <p>Model convection currents in fluids (liquid or gas) and discuss the effectiveness of the model.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the impacts on self, society, and the environment, of conduction, convection, and radiation in the natural and constructed world (e.g., heating over cities, temperature layers in lakes, thunderstorms, radiant heaters, refrigerators, and convection currents in air or water).</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate applications of technologies designed to enhance or restrict the transfer of heat energy via conduction, convection, or radiation (e.g., metal frying pans, radiant heaters, home insulation, ovens, convection ovens, thermoses, winter parkas, and heat exchangers) using student-developed criteria.</p>
+          </indicator>
+          <indicator>
+            <p>Design and carry out an experiment to determine differences in the ability of various surfaces to absorb and reflect radiant heat.</p>
+          </indicator>
+          <indicator>
+            <p>Select appropriate methods and tools for collecting and displaying data and information related to radiant heat.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate safe and responsible work practices, including keeping the work area uncluttered with only appropriate materials present when investigating heat transfer via conduction, convection, and radiation.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Earth and Space Science: Earth’s Crust and Resources (EC)</goal_heading>
+      <outcome>
+        <identifier>EC7.1</identifier>
+        <outcome_text>Analyze societal and environmental impacts of historical and current catastrophic geological events, and scientific understanding of movements and forces within Earth’s crust. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Trace the development of plate tectonics theory as an explanation for movement of Earth’s lithosphere in light of new geological evidence, including knowledge of tectonic plates and movement at plate boundaries.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of past theories and ideas, including cultural mythology, that explain geological phenomena such as volcanic activity, earthquakes, and mountain building.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a visual representation of the composition of Earth, including the crust, upper and lower mantle, core, and inner core.</p>
+          </indicator>
+          <indicator>
+            <p>Create models or simulations of the processes of mountain formation and the folding and faulting of Earth’s surface, including movements at diverging, converging, and transform plate boundaries.</p>
+          </indicator>
+          <indicator>
+            <p>Describe societal and environmental impacts of some catastrophic geological events, including earthquakes, tsunamis, and volcanic eruptions, which have occurred on or near Earth’s surface and predict the impacts of future events.</p>
+          </indicator>
+          <indicator>
+            <p>Work cooperatively with group members to research catastrophic geological events and integrate individual findings into a chronological model or time scale of major events in Earth’s geological history.</p>
+          </indicator>
+          <indicator>
+            <p>Organize data on the geographical and chronological distribution of earthquakes, tsunamis, and volcanic eruptions to determine patterns and trends in data and relationships among variables.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the operation of tools scientists use to measure and describe the effects of catastrophic geological events, including earthquakes and volcanoes (e.g., seismograph, Mercalli intensity scale, and Richter magnitude scale).</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of how science and technology affect self and community through understanding, predicting, and minimizing the effects of catastrophic geological events (e.g., earthquake resistant construction, earthquake and tsunami preparedness, and minimizing climatic effects of volcanic eruptions).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>EC7.2</identifier>
+        <outcome_text>Identify locations and processes used to extract Earth’s geological resources and examine the impacts of those locations and processes on society and the environment. [SI, DM, CP]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify questions to investigate arising from practical problems and issues related to the study of Earth’s geological resources (e.g., “What types of rocks are best for cement-making or road construction?” and “What are some environmental concerns related to open-pit mining?”).</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between rocks and minerals using physical samples, pictures, and/or video recordings and identify the minerals most often found in rocks in Saskatchewan and around the world (e.g., quartz, calcite, feldspar, mica, hornblende).</p>
+          </indicator>
+          <indicator>
+            <p>Classify rocks and minerals based on physical properties such as colour, hardness, cleavage, lustre, and streak.</p>
+          </indicator>
+          <indicator>
+            <p>Identify locations of Saskatchewan’s primary mineral resources (e.g., potash, gold, diamond, salt, uranium, copper, and graphite) and their primary uses.</p>
+          </indicator>
+          <indicator>
+            <p>Relate processes used to extract primary mineral resources in Saskatchewan (e.g., open-pit mining, underground mining, and solution mining) to the location, type, and depth of the resource.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of technologies used to further scientific research related to extracting geological resources (e.g., satellite imaging, magnetometer, and core sample drilling).</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate different approaches taken to answer questions, solve problems, and make decisions when searching for geological resources within Earth (e.g., trial-and-error prospecting versus core sampling).</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of Canadian contributions to the scientific understanding and technological developments related to surface and sub-surface geology and mining, and identify societal and economic factors that drive such exploration and research.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest solutions to economic and environmental issues related to the extraction of geological resources in Saskatchewan (e.g., managing mine tailings and pollutants; reclaiming open pit mining sites; ecological impact of pipelines; resource depletion; maintaining water quality; and increasing urbanization).</p>
+          </indicator>
+          <indicator>
+            <p>Identify uses for rocks and minerals, such as healing, recuperative powers, and ceremonies, which include ideas not explained by science.</p>
+          </indicator>
+          <indicator>
+            <p>Research Saskatchewan careers directly and indirectly related to resource exploration.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>EC7.3</identifier>
+        <outcome_text>Investigate the characteristics and formation of the surface geology of Saskatchewan, including soil, and identify correlations between surface geology and past, present, and possible future land uses. [DM, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Model the processes of formation of the three major types of rocks: sedimentary, igneous, and metamorphic.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how geologists use the fossil record to provide evidence of geological history.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a visual representation of the rock cycle (e.g., formation, weathering, sedimentation, and reformation) and relate this representation to the surface geology of Saskatchewan and Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and use a classification key for rocks based on physical characteristics and method of formation.</p>
+          </indicator>
+          <indicator>
+            <p>Describe examples of mechanical and chemical weathering of rocks.</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate between weathering and erosion, and explain the role of water in each process.</p>
+          </indicator>
+          <indicator>
+            <p>Document the natural surface geological features of the local environment and provide explanations for the origin of those features.</p>
+          </indicator>
+          <indicator>
+            <p>Relate mechanical (e.g., wind and water), chemical (e.g., acid rain and rusting), and biological (e.g., lichens, mosses, and tree roots) weathering processes to the formation of soils.</p>
+          </indicator>
+          <indicator>
+            <p>Collect, with permission, and examine samples of local soils to determine their physical properties (e.g., colour, odour, texture, presence of organic matter, pore size, and air and water holding capacity).</p>
+          </indicator>
+          <indicator>
+            <p>Classify soil samples according to their characteristics (e.g., sand, loam, and clay composition) and research ways to enrich soils for specific uses (e.g., vegetable garden, road building, dam construction, waste management, and sports field).</p>
+          </indicator>
+          <indicator>
+            <p>Identify predominant soil types (e.g., black, dark brown, brown, and grey) and corresponding land uses in Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Assess environmental and economic impacts of past and current land use practices in Saskatchewan (e.g., agriculture, urban development, recreation, and road construction), and describe intended and unintended consequences of those practices on self, society, and the environment, including soil degradation.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

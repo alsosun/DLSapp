@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181941_1</pdf>
+  <banner>social/SS8.png</banner>
+  <dark_colour>#8f3b67</dark_colour>
+  <light_colour>#e9d8e1</light_colour>
+  <goals>social/socialstudies7-9aimsgoals.htm</goals>
+  <teaching>social/socialstudies8teaching.htm</teaching>
+  <curriculum_name>Social Studies 8</curriculum_name>
+  <classification_id>social studies 8</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Interactions and Interdependence of Nations</goal_heading>
+      <outcome>
+        <identifier>IN8.1</identifier>
+        <outcome_text>Investigate the meaning of culture and the origins of Canadian cultural diversity.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create an inventory of cultural elements people throughout the world have in common, regardless of where they live (e.g., transmission of values through education, spiritual systems, ways of governing themselves, ways of satisfying needs and wants, family structure, means of self-expression, strategies for recreation and play).</p>
+          </indicator>
+          <indicator>
+            <p>Formulate a definition of culture from responses to the question, “What is culture?” (e.g., A group’s beliefs, norms, institutions, and communication patterns; a learned way of living shared by a group of people).</p>
+          </indicator>
+          <indicator>
+            <p>Examine the extent to which cultural groups are able to retain their cultural identity in Canada, with reference to elements of culture, including kinship patterns (e.g., how children are perceived, relationship to the aged, family networks, living arrangements, rites of passage), artistic patterns (e.g., self-expression in visual art, music, literature, dance, fashion), religious patterns (e.g., tenets of doctrine, worship habits, place of religion in daily life), education patterns (e.g., methods of passing on the culture, who attends school, who is eligible for higher education), recreational and play patterns (e.g., sports, games, traditions, celebrations).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze shared characteristics among First Nations, Inuit, and Métis cultures in Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate why First Nations, Inuit, and Métis communities strive to preserve and revitalize their languages, and determine the consequences of the disappearance of cultures and languages.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the purposes and results of heritage languages and bilingualism policies in Canada and Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Identify questions and issues of importance to Francophone people in Canada and Saskatchewan (e.g., linguistic and educational rights, changing demographics), and assess the impact of language and education laws on the Francophone community.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the impact of language and education laws on minority groups in Canada.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IN8.2</identifier>
+        <outcome_text>Appraise the influence of immigration as a factor in Canadian cultural diversity.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research reasons for diverse peoples choosing Canada as a home (e.g., economic opportunity, economic hardship or war in the country of origin, reunification of family, escape from religious or political oppression).</p>
+          </indicator>
+          <indicator>
+            <p>Construct a timeline of the historical immigration patterns in Western Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the evolution of Canada’s immigration policy and assess the impact on historic and contemporary immigration patterns.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the fairness of Canada’s current immigration policy by conducting an inquiry to determine if the ancestor of a student or a community member would be admitted to Canada by today’s criteria (recognize that not all students will be descendants of immigrants, such as Aboriginal students or those who are recent immigrants).</p>
+          </indicator>
+          <indicator>
+            <p>Assess the benefits and challenges of the multicultural policy in Canada.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Dynamic Relationships</goal_heading>
+      <outcome>
+        <identifier>DR8.1</identifier>
+        <outcome_text>Develop an understanding of the significance of land on the evolution of Canadian identity.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine the influence of the land on the Canadian personality depicted in literary texts, songs, media presentations, visual art and dance, sport and recreation.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the relationship between the traditional Aboriginal concept of land (an animate being; the source of life) and the contemporary Western European notion of land (a resource to be owned and exploited) through the centuries.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate on a map various designated lands in Canada (e.g., lands set aside such as reserve lands, settlement lands, heritage sites, homesteads, wildlife refuges, parks, crown land and trans-boundary areas) and explain such designations.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the importance of the land in the Canadian economy (e.g., agriculture, trapping, hydroelectricity, fishing, mining, forestry, tourism), and speculate about the impact on the identity of Canadians.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the impact of land on the identity of First Nations, Métis, and Inuit peoples.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR8.2</identifier>
+        <outcome_text>Describe the influence of the treaty relationship on Canadian identity.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe the influence of varying views of the land in motivating the treaty relationship.</p>
+          </indicator>
+          <indicator>
+            <p>Explore unfulfilled aspects of Treaty (e.g., education, health care) in Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Explore the Treaty Land Entitlement process in Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Relate land claims and fishing and hunting rights to treaty provisions.</p>
+          </indicator>
+          <indicator>
+            <p>Represent the benefits of the treaties for all Canadians.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR8.3</identifier>
+        <outcome_text>Assess how historical events in Canada have affected the present Canadian identity</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe Canada’s role in world conflicts since the beginning of the 20th century (e.g., World War I, World War II, the Korean War, the Suez Crisis, the Gulf War, the UN mission in Bosnia, the Afghanistan mission).</p>
+          </indicator>
+          <indicator>
+            <p>Assess the impact of a variety of important historical events in shaping the Canadian identity (e.g., the effect of the Royal Proclamation 1763 on Francophone and Aboriginal peoples; the fur trade economy; Quebec Act 1774; the Acadian deportation; the Loyalist migration; the War of 1812; Canada’s role in World War I; the creation of the health care system; peace-keeping activities; the role of the RCMP in the development of the Canadian West; Canadian Confederation 1867; the building of the national railroad; the Métis resistance 1870 and 1885; John A. Macdonald’s National Policy 1879; October Crisis 1970; the development of the Canadarm; the development of the music and film industry in French and in English in Canada).</p>
+          </indicator>
+          <indicator>
+            <p>Examine the influence of American mass media and popular culture on the Canadian way of life.</p>
+          </indicator>
+          <indicator>
+            <p>Analyse the similarities and differences in the values, beliefs, and ways of life of Canadians and Americans.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the perspectives taken in cases of injustice in Canadian history (e.g., the vote for women, vote for Aboriginal peoples, Chinese head tax, internment of Japanese and Ukrainian Canadians, restrictions on immigration of Jews during World War II).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Power and Authority</goal_heading>
+      <outcome>
+        <identifier>PA8.1</identifier>
+        <outcome_text>Contemplate the implications of Canadian citizenship on the life of Canadians.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Trace the changes in how citizenship has occurred for Canadians over time, including current categories of citizenship.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the contribution of two historical events in the evolution of Canadian citizenship to the nature of citizenship in Canada today (e.g., Elections Act, 1900; “blue bird” nurses in WWI obtain the vote in the 1917 federal election; Canadian women obtain the right to sit in the House of Commons, 1919; the contribution of the Famous Five; Federal Elections Act, 1920; Saskatchewan Bill of Rights, 1947; Canadian Bill of Rights, 1960; the Charter of Rights and Freedoms in Canada, 1982).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the effects of the Canadian Charter of Rights and Freedoms on individuals and groups (e.g., language rights; right to reasonable access to justice in trials; same sex marriage; civil protections).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the provisions of the Indian Act, and its affects on people of Aboriginal ancestory.</p>
+          </indicator>
+          <indicator>
+            <p>Compare and evaluate the citizenship processes in place for a person born in Canada and a person entering the country (including the citizenship test and the oath of citizenship).</p>
+          </indicator>
+          <indicator>
+            <p>Examine the personal implications of the rights and responsibilities of Canadian citizenship.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA8.2</identifier>
+        <outcome_text>Examine the role of power and authority in the application of diverse decision-making processes in a variety of contexts.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Contribute to classroom decision making by using the majority-rule model and the consensus model.</p>
+          </indicator>
+          <indicator>
+            <p>Formulate contexts in which the majority-rule model and the consensus model would be effective.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and describe the consensus decision-making model employed in traditional Aboriginal communities or jurisdictions.</p>
+          </indicator>
+          <indicator>
+            <p>Describe traditional First Nations, Inuit, and Métis models of governance and selection of leaders.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the structure of leadership and decision-making process in an Aboriginal community to that of the parliamentary system in Canada.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA8.3</identifier>
+        <outcome_text>Present the evolution of a piece of legislation, from its first conception to its implementation.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Report to the class on the evolution of a rule or a policy presently used in an area of the school (e.g., playground: a student riding his bicycle on the school grounds before parking it hits another student, which causes parent phone calls, staff meetings, school board concern, and a policy which prevents students from riding bicycles on the school ground).</p>
+          </indicator>
+          <indicator>
+            <p>Formulate a plan for the recommendation of a new policy for the student body, including the issue requiring resolution, identification of the policy options providing resolution, explanation of how the proposed options might resolve the issue, and recording the process of the selection of the recommended option.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the catalyst for a law recently enacted, tracing the need and process for enacting the new law.</p>
+          </indicator>
+          <indicator>
+            <p>Represent the roles and responsibilities of various players in executive government, including the Prime Minister, the House of Commons, the Senate, and the Governor-General.</p>
+          </indicator>
+          <indicator>
+            <p>Outline the processes of a bill becoming law.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA8.4</identifier>
+        <outcome_text>Assess the impact of citizens’ willingness and ability to actively engage in the Canadian political processes.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Present the reasons community members have chosen to run for office or to accept a leadership appointment (e.g., student representative council member; municipal or band council member; Member of the Legislative Assembly; school board member; health board member; community service organization leader).</p>
+          </indicator>
+          <indicator>
+            <p>Describe examples of legislation or policy at a variety of governance levels (federal, provincial, First Nation, or Métis) which were initiated, modified, or rejected as a result of public pressure.</p>
+          </indicator>
+          <indicator>
+            <p>Review the website of a provincial or federal political party, and propose and justify a redesign of the website in order to engage adolescents in political activity.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the political involvement of community members, including why people choose to vote or not vote, and why people choose to join or not join a political party.</p>
+          </indicator>
+          <indicator>
+            <p>Articulate the reasons a person would get involved in the Canadian political system and the possible actions which might be taken (e.g., lobby Members of Parliament, hold elected members accountable, work for a political party, be informed).</p>
+          </indicator>
+          <indicator>
+            <p>Analyse the obstacles to political involvement (e.g., language, culture, disability, socio-economic status, gender, time constraints, apathy).</p>
+          </indicator>
+          <indicator>
+            <p>Propose avenues for people to individually and collectively influence the Canadian political system (e.g., voting, civil disobedience, participation in political parties, labour organizations, non-governmental organizations).</p>
+          </indicator>
+          <indicator>
+            <p>Speculate about the characteristics of the school or community environment without the involvement of people in its leadership and decision-making processes (e.g., What if no one runs for student council office; no one participates in SRC planned events; no one runs for local government office; no one belongs to community organizations).</p>
+          </indicator>
+          <indicator>
+            <p>Research and report on the consequences of the non-engagement in the electoral process (e.g., 1932 German election).</p>
+          </indicator>
+          <indicator>
+            <p>Construct an action plan for his or her personal involvement in the Canadian political system.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Resources and Wealth</goal_heading>
+      <outcome>
+        <identifier>RW8.1</identifier>
+        <outcome_text>Analyze the social and environmental consequences of living in the Canadian mixed market economy based on consumerism.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate the goods and services produced in the local economy and the consumers of those goods and services (e.g., hospital, hairdressers, manufacturers, farmers, exporters).</p>
+          </indicator>
+          <indicator>
+            <p>Categorize the producers of goods and services in the local economy as belonging to the public or private sector, and define the differences of the two groupings.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the purpose and characteristics of:public enterpriseprivate enterprise.</p>
+          </indicator>
+          <indicator>
+            <p>Represent the characteristics of a mixed market economy including the roles of the producer, consumer, and government.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate the elements of a mixed market economy present in the lives of students.</p>
+          </indicator>
+          <indicator>
+            <p>Appraise the role of advertising in the mixed market economy.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the positive and negative social and environmental consequences for family, school, and community in the Canadian mixed market economy.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize the impact of living in situations in which assets are collectively or communally owned (e.g., First Nations, Hutterian communities).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RW8.2</identifier>
+        <outcome_text>Assess the implications of personal consumer choices.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Determine the effects on the local community of the purchasing patterns of its members (e.g., the origins of products used in daily life).</p>
+          </indicator>
+          <indicator>
+            <p>Create a catalogue of locally-produced products and of fair-trade products available in local businesses.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the advantages and disadvantages of buying locally, buying fair-trade products, and buying mass-produced products.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate the effects of excessive consumption in personal, community, and national contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Propose a definition of responsible consumerism, and publish a list of strategic actions leading to responsible consumerism.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a personal change related to responsible consumption integrated into personal life.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RW8.3</identifier>
+        <outcome_text>Critique the approaches of Canada and Canadians to environmental stewardship and sustainability.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent on a timeline the evolution of Canadian policy on global environmental issues, including historical First Nations approaches to environmental stewardship.</p>
+          </indicator>
+          <indicator>
+            <p>Outline the issues involved in finding solutions to an environmental challenge (e.g., sharing water resources with the US, logging in Canadian forests, expansion of nuclear energy, development of tar sands).</p>
+          </indicator>
+          <indicator>
+            <p>Tell the story of changes made in his or her behaviour to protect the environment (e.g., walking, purchasing locally-produced or seasonal products, recycling; composting; disposing responsibly of garbage; using less paper; using less plastic; factoring packaging into purchases).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

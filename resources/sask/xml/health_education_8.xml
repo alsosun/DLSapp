@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181801_1</pdf>
+  <banner>health/HE8.png</banner>
+  <dark_colour>#9bc4b2</dark_colour>
+  <light_colour>#ebf3f0</light_colour>
+  <goals>health/healtheducation6-9aimsgoals.htm</goals>
+  <teaching>health/healtheducation8teaching.htm</teaching>
+  <curriculum_name>Health Education 8</curriculum_name>
+  <classification_id>health education 8</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Understanding, Skills, and Confidences (USC)</goal_heading>
+      <outcome>
+        <identifier>USC8.1</identifier>
+        <outcome_text>Analyze and establish effective strategies of support for purposes of helping others increase health-enhancing behaviours.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Locate and evaluate, according to student-generated criteria, both sources of and information about support strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the benefits one receives from helping others.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the functions of support persons and networks.</p>
+          </indicator>
+          <indicator>
+            <p>Compare informal and formal community supports and how to access them.</p>
+          </indicator>
+          <indicator>
+            <p>Compare past and present examples (including traditional First Nations and Métis cultures) of how people support/supported the health of others.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the traits and skills of an effective support person.</p>
+          </indicator>
+          <indicator>
+            <p>Assess personal aptitudes for supporting others.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze personal preferences for receiving support.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize times and situations in which others might appreciate help.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss concepts such as learned dependence and empowerment or “helping others to help themselves”.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between help that supports greater independence and that which creates dependence.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC8.2</identifier>
+        <outcome_text>Analyze how personal prejudices/biases, and habits of mind shape assumptions about family identities, structures, roles, and responsibilities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe a variety of family structures (e.g., nuclear, mixed, childless, foster, same-sex, single parent, extended).</p>
+          </indicator>
+          <indicator>
+            <p>Examine family member roles and how they are established.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze gender roles that exist in many families.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the family responsibilities associated with family roles.</p>
+          </indicator>
+          <indicator>
+            <p>Explore the expectations that parents/caregivers and children/youth have of one another.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze personal beliefs about family structures, roles, and responsibilities.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the prejudices/biases that exist in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how the differences that exist in families are respected and protected in Canadian human rights legislation.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how prejudices/biases are learned attitudes and behaviours.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize, name, and challenge instances of inequity, bias, intolerance, and discrimination related to family identities, structures, roles, and responsibilities.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on personal prejudices and their influences on assumptions about families.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how stereotyping and social constructions (e.g., gender, “poor bashing”, white privilege) affect the well-being of self, family, and community.</p>
+          </indicator>
+          <indicator>
+            <p>Question examples of injustice towards families in own communities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC8.3</identifier>
+        <outcome_text>Investigate and analyze the impact of in/formal supports and services (including testing/diagnostic services) available to individuals, families, and communities infected with/affected by non-curable infections/diseases (including HIV and Hepatitis C).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Locate and evaluate, according to student-generated criteria, both sources of and information about the supports needed/wanted by individuals, families, and communities infected with/affected by non-curable infections/diseases (including HIV and Hepatitis C).</p>
+          </indicator>
+          <indicator>
+            <p>Describe the effects of non-curable infections/diseases, including HIV and Hepatitis on families and communities.</p>
+          </indicator>
+          <indicator>
+            <p>Explore the consequences of having/not having supports (both formal and informal) for self, family, and community.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that some non-curable infections, including HIV, are linked to risky behaviours and not to particular groups of people, and use this knowledge to determine when people should be tested for HIV.</p>
+          </indicator>
+          <indicator>
+            <p>Explore the recommended follow-up procedures and supports for those who test positive for the HI virus.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how misinformation and/or lack of understanding may influence the kinds of supports available to people infected with/affected by non-curable infections.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and critique the kinds of supports needed to mitigate some of the behaviours associated with acquiring non-curable infections/diseases (e.g., needle exchanges, safer sex practices).</p>
+          </indicator>
+          <indicator>
+            <p>Examine the types of informal and formal community supports available for people infected and/or affected by non-curable infections/diseases, including HIV/AIDS and Hepatitis C.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate sources of and information about testing for HIV/AIDS and Hepatitis C.</p>
+          </indicator>
+          <indicator>
+            <p>Consider the impact that education has on the kinds of supports available in communities for people infected with/affected by non-curable infections.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss HIV testing as a support service.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC8.4</identifier>
+        <outcome_text>Demonstrate an understanding of the impact of violence (including but not limited to emotional abuse, physical abuse, sexual abuse, spiritual abuse, and neglect) on the well-being of and the supports needed for self, family, and community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Locate and evaluate, according to student-generated criteria, both sources of and information about violence and abuse in families and communities.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss common definitions of “abuse” and “violence” and develop informed personal definitions of both.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the impact of physical, emotional, spiritual, and sexual abuse on families and communities.</p>
+          </indicator>
+          <indicator>
+            <p>Determine that age does not protect one from abuse (e.g., parental, spousal, child, elder abuse).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the factors that are known to contribute to abuse (e.g., stress, exposure to violence, addictions, mental health issues, poverty).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the “cycle of abuse”.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate ways to support those who may be experiencing abuse or living with an abusive family member.</p>
+          </indicator>
+          <indicator>
+            <p>Examine why victims of abuse sometimes keep the abuse a secret, and analyze the impact that these “secrets” have on self, family, and community.</p>
+          </indicator>
+          <indicator>
+            <p>Determine that a victim of violence/abuse is never at fault or to blame for the abuse.</p>
+          </indicator>
+          <indicator>
+            <p>Examine threats to personal safety and well-being at home, school, or in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Research sources of support for and ways of protecting oneself and others from abuse.</p>
+          </indicator>
+          <indicator>
+            <p>Examine historical factors that may contribute to the disharmony within individuals, families, and communities.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate sources of help for young people who behave in violent ways.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate sources of help for an abused child, an abused peer, an abused parent/spouse, an abused grandparent/elder, or a family who has a mixture of violent behaviours.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC8.5</identifier>
+        <outcome_text>Assess how body image satisfaction/dissatisfaction and over-reliance on appearance as a source of identity and self-esteem affects the quality of life of self and family.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Locate and evaluate, according to student-generated criteria, both sources of and information about healthy weights, body image, and self-esteem.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and evaluate common adolescent and adult eating and exercise habits.</p>
+          </indicator>
+          <indicator>
+            <p>Determine reasons for specific eating and/or exercise habits/patterns (e.g., time, access, preferences, allergies).</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate personal habits and practices that influence body image satisfaction (e.g., clothing, tanning, piercings).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss body image to include one’s feelings, attitudes, and perceptions towards his/her body and physical appearance.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the motivations for and the consequences of being satisfied or dissatisfied with how we look.</p>
+          </indicator>
+          <indicator>
+            <p>Explore the different attitudes and behaviours related to self-perception (e.g., body image satisfaction, body image investment, body image behaviour, body image perception) and how difficulties in one or all of these areas creates disturbances in body image.</p>
+          </indicator>
+          <indicator>
+            <p>Understand the pressures/influences that promote unrealistic images of desirable body shape and weight.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the relationships between self-esteem and body image.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze techniques used by industries (e.g., plastic surgery, weight loss products, diets) and the mass media to influence judgement and values about the way we look.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC8.6</identifier>
+        <outcome_text>Examine and assess the concept of sustainability from many perspectives, and develop an understanding of its implications for the well-being of self, others, and the environment.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Locate and evaluate, according to student-generated criteria, both sources of and information about sustainability.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the connections between the health of the environment and the health of people.</p>
+          </indicator>
+          <indicator>
+            <p>Examine and appreciate the ways natural environments meet physical, aesthetic, and spiritual needs.</p>
+          </indicator>
+          <indicator>
+            <p>Examine practices and activities that pose a threat to the environment and to the health of people.</p>
+          </indicator>
+          <indicator>
+            <p>Question family and community norms and expectations regarding caring for the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze rules, regulations, and laws related to environmental health and the health of individuals.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how one’s behaviour related to the concept of sustainability, might affect the well-being of others and other things.</p>
+          </indicator>
+          <indicator>
+            <p>Consider the kinds of changes needed to protect the environment and the health of people.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate three or more examples of perceptions on what is believed to be healthy/sustainable for the environment (i.e., examine local and provincial perspectives).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate past and present practices that focus/focused on sustainability for the health of people and the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate social action groups/networks that exist to protect the environment and to support people in achieving optimal health.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss contributions of traditional First Nations and Métis people to environmental health.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC8.7</identifier>
+        <outcome_text>Assess the social, cultural, and environmental influences on and supports for sexual health knowledge, attitudes, behaviours, and decisions.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Compare the perceived and actual sexual attitudes/norms in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Locate and evaluate, according to student-generated criteria, both sources of and information about sexual health.</p>
+          </indicator>
+          <indicator>
+            <p>Examine influences that shape community norms about sexual health.</p>
+          </indicator>
+          <indicator>
+            <p>Compare sexual attitudes/norms of adults to those of youth in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the possible consequences of not knowing and questioning community attitudes/norms.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how the social, cultural, and environmental influences may determine people’s knowledge and access to sexual health information.</p>
+          </indicator>
+          <indicator>
+            <p>Examine and develop an understanding of influences on responsible sexual health decisions (e.g., family, culture, social, religion).</p>
+          </indicator>
+          <indicator>
+            <p>Appraise the strategies of personal commitment (see grade 7) that are required to commit to one’s standards and to respond to the social, cultural, and environmental influences.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze ways to support others and their dignity in decisions related to sexual health.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze sexual health supports and services in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Determine how access to sexual health supports and services influence personal and community sexual health.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Decision Making (DM)</goal_heading>
+      <outcome>
+        <identifier>DM8.8</identifier>
+        <outcome_text>Appraise the role of “support” in making healthy decisions related to family roles and responsibilities, non-curable infections/diseases, violence and abuse, body image, sustainability, and sexual health.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Review the kinds of support that one may need when making healthy decisions.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the various kinds of support.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss ways to determine when support is needed.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between wanting and needing support.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the implications or consequences of support strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize the kinds of support that may be needed at various stages/steps when making decisions.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the influencing factors on providing and receiving support.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DM8.9</identifier>
+        <outcome_text>Analyze the health opportunities and challenges, and establish “support others” personal goal statements, related to family roles and responsibilities, non-curable infections/diseases, violence and abuse, body image, sustainability, and sexual health.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Assess current skills and abilities to be a support person.</p>
+          </indicator>
+          <indicator>
+            <p>Examine possible health opportunities and health challenges related to each unit of study. Discuss and evaluate various al</p>
+          </indicator>
+          <indicator>
+            <p>ternatives to address health opportunities/challenges.</p>
+          </indicator>
+          <indicator>
+            <p>Examine factors that affect the support one may give or receive.</p>
+          </indicator>
+          <indicator>
+            <p>Design a personal goal statement that supports others in each unit of study.</p>
+          </indicator>
+          <indicator>
+            <p>Determine strategies for meeting individual “support” goals.</p>
+          </indicator>
+          <indicator>
+            <p>Predict the consequences of such strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Establish multiple and authentic supports in planning for healthy decision making.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Action Planning (AP)</goal_heading>
+      <outcome>
+        <identifier>AP8.10</identifier>
+        <outcome_text>Design, implement, and evaluate three seven-day action plans that establish multiple supports for responsible health action related to family roles and responsibilities, non-curable infections/diseases, violence and abuse, body image, sustainability, and sexual health.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Determine the elements of effective “support” action plans (e.g., who, what, where, when, how, why).</p>
+          </indicator>
+          <indicator>
+            <p>Plan the required steps to complete action plans that support others.</p>
+          </indicator>
+          <indicator>
+            <p>Identify criteria and use them to assess the design elements of “supporting others” action plans.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish, with others, criteria to evaluate the implementation of “supporting others” action plans.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and use criteria to evaluate growth in one’s ability to establish supports for health.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

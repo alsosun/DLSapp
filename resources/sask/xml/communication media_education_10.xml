@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181832_1</pdf>
+  <banner>career/Communications_media_10_20_30.png</banner>
+  <dark_colour>#a24c3d</dark_colour>
+  <light_colour>#ecdbd8</light_colour>
+  <goals>paa/communication_media_aimsgoals.htm</goals>
+  <teaching>paa/communication_media_teaching.htm</teaching>
+  <curriculum_name>Communication Media 10, 20, 30</curriculum_name>
+  <classification_id>communication media 10 20 30</classification_id>
+  <module_overview_chart>https://www.edonline.sk.ca/bbcswebdav/xid-181832_1#page=18</module_overview_chart>
+  <outcomes>
+    <goal_section collapsable="true">
+      <goal_heading>Communication Media 10</goal_heading>
+      <outcome>
+        <identifier>Module 1</identifier>
+        <outcome_text labeled="true">Identify various roles and influences of communication media in school and society.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Discuss and clarify the purposes for communication media including established examples such as video, audio, and interactive media and emerging examples such as blogs, wikis, social networking, and multiple platforms.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and explain a communications model which includes aspects such as the message, the sender, the mode of transmission, the receiver, and any interactivity.</p>
+          </indicator>
+          <indicator>
+            <p>Describe specific examples where there is emphasis on communication in society (e.g., school, community, home).</p>
+          </indicator>
+          <indicator>
+            <p>Provide some judgement of and justification for effective communications processes and practices (e.g., ads, business, embedded media).</p>
+          </indicator>
+          <indicator>
+            <p>Reflect and articulate personal learning goals for using communication media.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 2A</identifier>
+        <outcome_text labeled="true">Investigate and articulate legal issues related to media such as copyright, privacy, and consent.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Define the term “copyright” in relation to Canadian law and assess its impact on a Communication Media class.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the three factors that place some works in the public domain and cite some examples of these works along with reasons for their inclusion.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and report on current issues and resources connected to copyright law such as “open source”, “creative commons”, and stock resources.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and report on the need for consent in various circumstances such as location, appearance, material, and music.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 3</identifier>
+        <outcome_text labeled="true">Investigate and articulate the tasks and skills, including project management, required by various media during the stages of preproduction, production, and postproduction.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create broad definitions of preproduction, production, and postproduction as they pertain to communication media.</p>
+          </indicator>
+          <indicator>
+            <p>Compare two different media in terms of the work done during preproduction, production, and postproduction.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the key roles in various types of media productions and generate a list of their functions during preproduction.</p>
+          </indicator>
+          <indicator>
+            <p>Explain project management concepts including timelines, breakdown into smaller tasks, budget, roles, responsibilities, and delivery.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 4</identifier>
+        <outcome_text labeled="true">Assess the career opportunities in existing and emerging communication media in Saskatchewan, Canada, and globally including post-secondary education and training programs.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify specific examples of skills required in Communication Media courses that fall into the categories identified by Human Resources and Skills Development Canada (HRSDC) as Essential Skills and by the Conference Board of Canada (CBofC) as Employability Skills.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the Essential Skills from HRSDC and Employability Skills from the CBofC and correlate them to the skills needed to build a successful career in communication media.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate programming offered by the universities inside and outside of Saskatchewan as well as SIAST and other technical institutes to examine the breadth of post-secondary education programs available in communication media studies including industry association programming such as the Saskatchewan Motion Picture Industry Association and the Saskatchewan Music Association.</p>
+          </indicator>
+          <indicator>
+            <p>Contribute to the collective knowledge of the class through research and sharing on the general activities and opportunities for careers in media production including entrepreneurial aspects.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 5</identifier>
+        <outcome_text labeled="true">Clearly articulate and demonstrate an understanding of the preproduction process.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and explain effective strategies to create the production elements during preproduction such as creating the production, determining the intention, identifying the content, predicting the audience effect, creating a treatment, writing a script, and making a storyboard.</p>
+          </indicator>
+          <indicator>
+            <p>Identify types of hardware and software used in media communications and explain how they are used effectively to produce communications.</p>
+          </indicator>
+          <indicator>
+            <p>Apply critical thinking and decision making regarding the relationship among the production intention, the target audience, and the technology format.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 6A</identifier>
+        <outcome_text labeled="true">Develop and demonstrate increasing skill through the practice and use of equipment (e.g., camera, lights) and processes (e.g., camera work, set lighting) during the typical steps of the production stage of shooting video and beginning postproduction.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the key components of a video camera and explain the function of each as well as the benefits of turning off the automatic settings for the camera.</p>
+          </indicator>
+          <indicator>
+            <p>Identify various video formats and explain their current general usage.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and demonstrate industry standard practices of video camera use for positioning (e.g., eye level, high and low angles, point of view), framing (e.g., wide shot, close-up, two shot), movement (e.g., tilt, pan, zoom), and depth of field.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the purposes of lighting in a video and reasons why different lighting would be used (e.g., mood, clarity of images).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate an understanding of motivated lighting effects such as ambient, manipulated, one, two, and three-point lighting.</p>
+          </indicator>
+          <indicator>
+            <p>Understand and explain the challenges for the recording of audio in a single system video production.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate postproduction techniques by editing video shot to complete a simple cut such as an entrance or exit cut.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 7A</identifier>
+        <outcome_text labeled="true">Produce audio through interpretation and application of accepted practices in audio concepts, processes, and equipment selection.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Critique the importance of quality sound in a variety of audio applications.</p>
+          </indicator>
+          <indicator>
+            <p>Assess audio equipment needs in a variety of situations and choose the best microphone application to meet those needs.</p>
+          </indicator>
+          <indicator>
+            <p>Effectively employ audio production equipment to produce a variety of audio formats such as MP3, AIFF, and WAV.</p>
+          </indicator>
+          <indicator>
+            <p>Practise using audio equipment to produce recordings of increasing quality and complexity.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and discuss the analog and digital elements of audio collection and manipulation.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 8A</identifier>
+        <outcome_text labeled="true">Develop and demonstrate skill to create and produce interactive media.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use a variety of planning techniques (e.g., research, design briefs, task lists, mock-ups, storyboards, site maps) to design an interactive media project such as web pages, social media, or a blog.</p>
+          </indicator>
+          <indicator>
+            <p>Use application software and equipment to perform a variety of production tasks (e.g., inputting, manipulating, and outputting audio; embedding and linking graphics; posting media on the Internet).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 9A</identifier>
+        <outcome_text labeled="true">Create an effective production project based on a personal or group vision for communicating with the larger society beyond your classroom.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Determine class production ideas and participate in preproduction planning as part of a production team with defined roles.</p>
+          </indicator>
+          <indicator>
+            <p>Create a project description which includes goals, intended audience, equipment requirements, software requirements, treatment, storyboard, detailed timeline, and assessment criteria.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate skill with the use of video, audio, and/or interactive media.</p>
+          </indicator>
+          <indicator>
+            <p>Assess personal and group goals through a process of reflection and self-assessment.</p>
+          </indicator>
+          <indicator>
+            <p>Engage classmates and/or others in an exhibition of the project.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 12</identifier>
+        <outcome_text labeled="true">Generate an increased level of engagement of an audience through imaginative use of visual effects.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify an example of visual effects and justify why the production is or is not effective in terms of communication to the audience.</p>
+          </indicator>
+          <indicator>
+            <p>Research types of visual effects used such as optical, chemical, and mechanical effects to share with the class.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and review effects from a variety of sources.</p>
+          </indicator>
+          <indicator>
+            <p>Incorporate visual effects into personal or group projects, as appropriate, to increase audience engagement.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 13</identifier>
+        <outcome_text labeled="true">Effectively use audio to increase the engagement of an audience.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify an example of audio effects and/or use of music and provide an opinion of why the example is more effective in engaging the audience.</p>
+          </indicator>
+          <indicator>
+            <p>Research sources and production techniques for audio effects.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and review audio effects from a variety of sources.</p>
+          </indicator>
+          <indicator>
+            <p>Incorporate effects and/or music into personal or group projects, as appropriate, to increase audience engagement.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 99A</identifier>
+        <outcome_text labeled="true">The extended study module is designed to provide schools and teachers with an opportunity to meet current and future demands not provided for in current modules in the PAA curriculum.</outcome_text>
+        <outcome_note>Note: The extended study module may be used only once in each 100 hour course. In the Student Data System, record 99A for the first extended study module offered in the course series, and, if needed, 99B for the second and 99C for the third.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Module Overview: Evolving societal and personal needs, advances in technology, and demands to solve current problems require a flexible curriculum that can accommodate new ways and means to support learning in the future. The extended study module is designed to provide schools and teachers with an opportunity to meet current and future demands not provided for in current modules in the PAA curriculum. This flexibility allows a school or teacher to design one new module per credit to complement or extend the study of the core and optional modules to meet the specific needs of students or the community. The extended study module is designed to extend the content of the pure courses and to offer survey course modules beyond the scope of the available selection of PAA modules. The list of possibilities for topics of study or projects for the extended study module approach is as varied as the imagination of those involved in using the module. The optional extended study module guidelines should be used to strengthen the knowledge, skills, and processes advocated in the PAA curriculum.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

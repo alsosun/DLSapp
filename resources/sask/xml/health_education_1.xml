@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181694_1</pdf>
+  <banner>health/HE1.png</banner>
+  <dark_colour>#9bc4b2</dark_colour>
+  <light_colour>#ebf3f0</light_colour>
+  <goals>health/healtheducation1aimsgoals.htm</goals>
+  <teaching>health/healtheducation1teaching.htm</teaching>
+  <curriculum_name>Health Education 1</curriculum_name>
+  <classification_id>health education 1</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Understanding, Skills, and Confidences (USC)</goal_heading>
+      <outcome>
+        <identifier>USC1.1</identifier>
+        <outcome_text>Examine healthy behaviours and opportunities and begin to determine how these behaviours and opportunities may affect personal well-being.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use common and respectful language to talk about healthy behaviours (e.g., habits, choices, actions).</p>
+          </indicator>
+          <indicator>
+            <p>Communicate observations of what “healthy” and “unhealthy” looks like, sounds like, and feels like.</p>
+          </indicator>
+          <indicator>
+            <p>Ask questions and seek answers about healthy/unhealthy behaviours and opportunities.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that making healthy choices can be difficult at times.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate the importance of basic daily behaviours (e.g., washing hands, brushing teeth, eating fruits and vegetables, wearing sun screen and sun protective clothing, being physically active, playing, drinking water, respecting other living things) for good health.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the daily healthy behaviours that can be performed individually and those that may need support (e.g., washing hands on own, applying sun screen with support, smudging with support).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize daily opportunities for demonstrating healthy behaviours (e.g., drinking water as a thirst quencher, walking on the sidewalk, flossing teeth, helping others).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss a variety of healthy behaviours over which one has control (e.g., brushing teeth, being active, engaging in quiet time, seeking shade).</p>
+          </indicator>
+          <indicator>
+            <p>Consider opportunities to access support for healthy behaviours (e.g., recess time provides opportunities to play and be physically active, a trusted peer walks with you to school which provides safety and friendship).</p>
+          </indicator>
+          <indicator>
+            <p>Examine factors influencing own healthy choices (e.g., allergies, cultural traditions, money, family habits, fear).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC1.2</identifier>
+        <outcome_text>Determine, with support, the importance of the brain, heart, and lungs and examine behaviours that keep these organs healthy.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use common and accurate language to talk about the brain, heart, and lungs (e.g., heart beat, blood, oxygen, breath, thoughts).</p>
+          </indicator>
+          <indicator>
+            <p>Identify where the heart, brain, and lungs are located.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that the heart is a “pump” about the size of a clenched fist.</p>
+          </indicator>
+          <indicator>
+            <p>Feel and describe the sensation of one’s heart beat (i.e. chest, neck, wrist) while standing still and after physical activity.</p>
+          </indicator>
+          <indicator>
+            <p>Establish that blood is pumped through the body by the heart.</p>
+          </indicator>
+          <indicator>
+            <p>Identify that people have two lungs.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate the sensation of lungs filling with air (i.e., hold rib cage and take deep breaths).</p>
+          </indicator>
+          <indicator>
+            <p>Describe the function of the lungs to breathe air/oxygen.</p>
+          </indicator>
+          <indicator>
+            <p>Determine that blood carries “food” and oxygen for the body.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on the connection between lungs and voice (i.e., breathe to make sounds, words, and songs – recognizing that many First Nations cultures have teachings about the “gift of breath”).</p>
+          </indicator>
+          <indicator>
+            <p>Realize that the brain is the part of ourselves that helps us manage personal thoughts, feelings, and actions.</p>
+          </indicator>
+          <indicator>
+            <p>Describe what happens if one or more of our brain, heart, and lungs is/are not healthy.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC1.3</identifier>
+        <outcome_text>Analyze, with support, feelings and behaviours that are important for nurturing healthy relationships at school.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use common and respectful language to talk about feelings (e.g., happy, angry, scared), actions (e.g., smiling, crying, crossing arms), and relationships (e.g., friendships, cooperation, communication).</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate what particular feelings sound like, feel like, and look like.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that individuals make choices about how to express feelings (e.g., anger - raise voice level and/or take time out, happiness - smile and/or hug).</p>
+          </indicator>
+          <indicator>
+            <p>Observe and communicate observations about how the school staff and students treat each other (e.g., help each other, respect personal space).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that people have numerous kinds of relationships (e.g., family, friends, trusted adults, neighbours, teammates).</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate what being a good friend looks like, sounds like, and feels like (e.g., sharing, caring, cooperating, listening, supporting).</p>
+          </indicator>
+          <indicator>
+            <p>Identify healthy ways to respond to someone who is not yet a friend.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and discuss helpful/hurtful words and behaviours in relationships (e.g., not/saying thank you, not/taking turns).</p>
+          </indicator>
+          <indicator>
+            <p>Represent a basic understanding of own “needs” and those of others (e.g., right to privacy).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and role play healthy ways to express feelings (e.g., using “I” messages, naming the feeling, illustrations, dance, movement).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the relationship skills that make the classroom a healthy place for learning (e.g., cooperation, participation, paying attention, sharing).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how people communicate in ways other than speaking (e.g., gestures, facial expressions, drawings, written words).</p>
+          </indicator>
+          <indicator>
+            <p>Examine how own behaviours may “influence” how others think and feel, but recognize that one “owns” personal thoughts and feelings.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC1.4</identifier>
+        <outcome_text>Determine and practise safe pedestrian/street behaviours and examine related safety challenges in the community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use common and respectful language to talk about pedestrian/street safety (e.g., danger, risk, stop, look, and listen).</p>
+          </indicator>
+          <indicator>
+            <p>Examine what is meant by danger (i.e., harmful consequences).</p>
+          </indicator>
+          <indicator>
+            <p>Observe and identify safe/unsafe practices in own family and community (e.g., crossing at corners or crosswalks as opposed to crossing wherever one wants to).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize possible street dangers (e.g., stray animals, traffic, strangers, gang behaviours, isolated areas, dangerous items including needles).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss what is meant by “risk” (i.e., a state of uncertainty where some of the possibilities involve a loss, danger, or harm).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and respond to pedestrian safety signs and representations.</p>
+          </indicator>
+          <indicator>
+            <p>Identify possible factors that make situations safe/unsafe (e.g., light/dark, fatigue, time of day, age, temperature/weather).</p>
+          </indicator>
+          <indicator>
+            <p>Describe additional expectations for pedestrian safety (e.g., know parents’/caregivers’ telephone number or other ways to make contact; always let a trusted adult know where you are going and the ‘path’ you are taking; walk with a buddy; follow established bussing, walking, and biking routes; cross at pedestrian crossings, “Point, Pause, Proceed” at cross walks/corners).</p>
+          </indicator>
+          <indicator>
+            <p>Identify and practise ways to exercise avoidance, caution, and/or refusal in potentially dangerous situations (e.g., seek out a safe adult, say no, walk away, “be a tree” around strange dogs [fold your branches – hands, watch your roots grow – feet, count in your head until the dog goes away or help comes], stay away from animals if they are feeding or with their young).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC1.5</identifier>
+        <outcome_text>Explore the association between a healthy sense of “self” and one’s positive connection with others and the environment.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use common and respectful language to talk about self and others (e.g., appearance, abilities, gender, behaviours, culture).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize “self” as an individual who has particular physical and inherited attributes (e.g., height, freckles) and particular experiences that may or may not be similar to those of others (e.g., traditions).</p>
+          </indicator>
+          <indicator>
+            <p>Identify factors that influence one’s sense of self (e.g., gender, culture).</p>
+          </indicator>
+          <indicator>
+            <p>Examine similarities and differences in people (i.e., gender, age, appearance, abilities, culture, language) and understand that differences do not make one person or group superior to another.</p>
+          </indicator>
+          <indicator>
+            <p>Begin to understand that every person has value that is not dependent upon her/his appearance, physical characteristics, or behaviours.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize a personal connection to other living things (e.g., gardening - food, love and affection - pets).</p>
+          </indicator>
+          <indicator>
+            <p>Examine stories, traditions, and celebrations of others that foster a sense of self and a connection to others and the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and represent one’s many accomplishments in various authentic activities (e.g., “I can …”).</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate behaviours (e.g., compliments, acknowledgements, asking for more information) that embrace the uniqueness of others.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate thoughts and behaviours that show a healthy connection to the environment.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Decision Making (DM)</goal_heading>
+      <outcome>
+        <identifier>DM1.1</identifier>
+        <outcome_text>Examine initial steps (i.e., Stop, Think, Do) for making basic choices regarding healthy behaviours; healthy brain, heart, and lungs; healthy relationships; pedestrian/street safety; and a healthy sense of self.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Recall routine daily choices and discuss how these choices were made.</p>
+          </indicator>
+          <indicator>
+            <p>Examine and record simple ways self and others make routine healthy choices.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss similarities in the ways people make healthy choices.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize the importance of thinking before acting.</p>
+          </indicator>
+          <indicator>
+            <p>Build on what is already known to critique choices made by characters in literature.</p>
+          </indicator>
+          <indicator>
+            <p>Build on what is already known to justify steps for making routine basic health choices (i.e., stop, think, do).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Action Planning (AP)</goal_heading>
+      <outcome>
+        <identifier>AP1.1</identifier>
+        <outcome_text>Apply the steps of Stop, Think, and Do (with guidance) to develop healthy behaviours related to a healthy brain, heart, and lungs; healthy relationships; pedestrian/ street safety; and a healthy sense of self.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Review the healthy choices over which individuals have control.</p>
+          </indicator>
+          <indicator>
+            <p>Practise the steps of “stop, think, and do” in a variety of situations and contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Select and apply routine healthy choices.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on personal choices in order to guide further application.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

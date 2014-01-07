@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181935_1</pdf>
+  <banner>social/SS2.png</banner>
+  <dark_colour>#8f3b67</dark_colour>
+  <light_colour>#e9d8e1</light_colour>
+  <goals>social/socialstudies1-5aimsgoals.htm</goals>
+  <teaching>social/socialstudies2teaching.htm</teaching>
+  <curriculum_name>Social Studies 2</curriculum_name>
+  <classification_id>social studies 2</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Interactions and Interdependence of Nations (IN)</goal_heading>
+      <outcome>
+        <identifier>IN2.1</identifier>
+        <outcome_text>Determine characteristics of a community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and record characteristics common to the school community (e.g., Who leads the school community? Who keeps the school community clean and physically pleasant? What kinds of special events happen in the school community?).</p>
+          </indicator>
+          <indicator>
+            <p>Compile a list of various communities to which students belong (e.g., cultural, recreational, faith, sports, arts).</p>
+          </indicator>
+          <indicator>
+            <p>Compare characteristics of other communities to which students belong with those of the school community, identifying the similarities in meeting needs and achieving common purpose.</p>
+          </indicator>
+          <indicator>
+            <p>Identify needs met by the local community that cannot be met independently or individually, and describe the concept of interdependence.</p>
+          </indicator>
+          <indicator>
+            <p>Create an inventory of ways in which individuals and groups contribute to the well-being of the school and local community.</p>
+          </indicator>
+          <indicator>
+            <p>Identify characteristics common to local communities (e.g., transportation and communication networks, educational and health care systems, arts, culture, sport, and recreation infrastructure).</p>
+          </indicator>
+          <indicator>
+            <p>Create a representation exemplifying interdependence within the local community.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IN2.2</identifier>
+        <outcome_text>Create a representation of the diversity of cultural groups in the local community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe diverse characteristics within the school and local communities, and describe similarities within and between diverse groups.</p>
+          </indicator>
+          <indicator>
+            <p>Retell the shared experiences and stories of members of the local community experienced through active listening, viewing, and reading of stories in various formats.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the significance of a variety of cultural traditions, festivals, and celebrations in the school and local communities.</p>
+          </indicator>
+          <indicator>
+            <p>Describe ways in which diverse individuals and groups contribute to the well-being of the local community (e.g., storekeepers, medical practitioners, law enforcement personnel, school support workers, spiritual or faith leaders, artisans, trades people, bus drivers, community maintenance workers).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Dynamic Relationships (DR)</goal_heading>
+      <outcome>
+        <identifier>DR2.1</identifier>
+        <outcome_text>Investigate stories of significant events and persons in the local community’s history to describe the contribution of those who lived in the community in earlier times.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Plan and implement a process to learn about the past experiences of members of the local community (e.g., talk to long term residents, view pictures or other artistic interpretations, visit an historic site).</p>
+          </indicator>
+          <indicator>
+            <p>Research and represent the history of the local school and the local community (e.g., events, people).</p>
+          </indicator>
+          <indicator>
+            <p>Describe events of the past in the local community that affect life today (e.g., Why was the current location chosen for the school? Other buildings? Why are streets or buildings named as they are?).</p>
+          </indicator>
+          <indicator>
+            <p>Represent ways in which life in the local community has changed over time (e.g., change of place names, demographics, services, industries, businesses, transportation networks).</p>
+          </indicator>
+          <indicator>
+            <p>Research the origins of, and reasons for, the names of public sites and landmarks in the local community (e.g., streets, rivers, buildings, parks).</p>
+          </indicator>
+          <indicator>
+            <p>Research the heritage of various individuals and groups within the community, and why people came to live in the community.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR2.2</identifier>
+        <outcome_text>Analyze the influence of the natural environment on the local community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe natural features of the local community and speculate upon their importance (e.g., landforms, climate, vegetation, waterways).</p>
+          </indicator>
+          <indicator>
+            <p>Compile examples of natural resources in the local community and explain the importance of conserving or restoring natural resources.</p>
+          </indicator>
+          <indicator>
+            <p>Inventory ways in which the natural environment influences lifestyles of the local community.</p>
+          </indicator>
+          <indicator>
+            <p>Identify ways that technology has been and is used to enable people to adapt to the natural environment (e.g., building technology, clothing, industrial equipment, personal care).</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate ways in which the natural landscape shapes daily life in the local community.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR2.3</identifier>
+        <outcome_text>Identify physical representations as constructed models of real things.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe constructed features of the local community and examine the value and purpose of such constructions (e.g., bridges, buildings, statues, parks, water systems, roads).</p>
+          </indicator>
+          <indicator>
+            <p>Locate the local community on a map of Saskatchewan and Canada, and the community’s relative location on a globe.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret basic features of maps and globes.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret artistic representations of the land in and around the local community.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR2.4</identifier>
+        <outcome_text>Describe the influence of Treaty and First Nations people on the local community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Share stories of the heritage of the community.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the relationship of traditional First Nations to the land</p>
+          </indicator>
+          <indicator>
+            <p>Identify on a map the Treaty territory within which the local community is situated.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the reasons for Treaty from the perspective of the First Nations and the government.</p>
+          </indicator>
+          <indicator>
+            <p>Trace the evolution of the Treaty relationship in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Present oral, visual, or other interpretation or representation of historical understanding gained through oral history.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Power and Authority (PA)</goal_heading>
+      <outcome>
+        <identifier>PA2.1</identifier>
+        <outcome_text>Analyze how decisions are made within the local community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Review examples of communities to which students belong, and identify leaders in those communities (e.g., sports teams, artistic groups, school clubs, classroom, school, family).</p>
+          </indicator>
+          <indicator>
+            <p>Give examples of leadership in the local community, and describe ways leadership is demonstrated (e.g., mayor, reeve, chief, Elders, community volunteers).</p>
+          </indicator>
+          <indicator>
+            <p>Identify decision makers in the local community in government, economic, community, faith, and cultural organizations, and the roles of each.</p>
+          </indicator>
+          <indicator>
+            <p>Research processes for decision making in local community organizations, and describe similarities and differences.</p>
+          </indicator>
+          <indicator>
+            <p>Research formal decision-making process for governance of the local community.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA2.2</identifier>
+        <outcome_text>Assess and practise various approaches to resolving conflicting interests within the community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Recognize that the existence of conflicting interests does not necessarily result in conflict, and that harmonious communities resolve conflicting interests in peaceful ways.</p>
+          </indicator>
+          <indicator>
+            <p>Review processes for resolving conflicting interests in the classroom and school.</p>
+          </indicator>
+          <indicator>
+            <p>Identify possible sources of conflict in groups to which students belong, and in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and describe diverse viewpoints and perspectives in the local community.</p>
+          </indicator>
+          <indicator>
+            <p>Identify ways of maintaining safety and harmony within communities (e.g., police, firefighters, signage).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate processes for resolving conflicting interests in the local government and community organizations.</p>
+          </indicator>
+          <indicator>
+            <p>Identify attributes of successful approaches to resolution of conflicting interests.</p>
+          </indicator>
+          <indicator>
+            <p>Apply successful approaches to resolving conflicting interests in the classroom and school communities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA2.3</identifier>
+        <outcome_text>Analyze rights and responsibilities of citizens in the school and local community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Differentiate between the nature of the rights of children and of adult citizens in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Identify Treaty rights of members of the community.</p>
+          </indicator>
+          <indicator>
+            <p>Relate the rights of citizens in the community to their responsibilities to the community.</p>
+          </indicator>
+          <indicator>
+            <p>Identify opportunities for sharing responsibility in the school and community.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Resources and Wealth (RW)</goal_heading>
+      <outcome>
+        <identifier>RW2.1</identifier>
+        <outcome_text>Describe ways in which the local community meets needs and wants of its members.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Define the term resource, and inventory resources in the community that help to meet needs and wants.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how quality of life is influenced by individuals, businesses, and groups in the local community.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RW2.2</identifier>
+        <outcome_text>Analyze various worldviews regarding the natural environment.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate traditional First Nations worldviews of the relationship between humanity and the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Describe traditional western European worldviews of the relationship between humanity and the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate traditional Métis worldviews of the natural environment.</p>
+          </indicator>
+          <indicator>
+            <p>Assess worldviews of how to achieve balance and harmony.</p>
+          </indicator>
+          <indicator>
+            <p>Describe current worldviews in the community of the relationship between humanity and the natural environment.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RW2.3</identifier>
+        <outcome_text>Contribute to initiating and guiding change in local and global communities regarding environmental, social, and economic sustainability.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent through visual art, music, dance, writing, or other forms, the contribution of individuals and communities to initiate change that supports sustainability.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how individual local consumer choices may affect people elsewhere in the world (e.g., child labour, enslavement, sweat shops, consumption of scarce resources, prosperity through employment).</p>
+          </indicator>
+          <indicator>
+            <p>Develop a classroom action plan for harmonizing personal lifestyles with collective needs regarding social, environmental, and economic sustainability.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

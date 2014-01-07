@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-197984_1</pdf>
+  <banner>mathematics/mathematicsk.png</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>kindergarten/math_aimsgoals_k.htm</goals>
+  <curriculum_name>Mathematics K</curriculum_name>
+  <classification_id>kindergarten</classification_id>
+  <classification_entry>mathematics</classification_entry>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Number Strand (N)</goal_heading>
+      <outcome>
+        <identifier>NK.1</identifier>
+        <outcome_text>Say the whole number sequence by 1s starting anywhere from 0 to 10 and from 10 to 0. [C, CN, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>State the whole number that comes after a given number, zero to nine.</p>
+          </indicator>
+          <indicator>
+            <p>State the whole number that comes before a given number, one to ten.</p>
+          </indicator>
+          <indicator>
+            <p>Recite the whole number names from a given number to a stated number (forward - zero to ten, backward - ten to zero) using visual aids.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>NK.2</identifier>
+        <outcome_text>Recognize, at a glance, and name familiar arrangements of 1 to 5 objects, dots, or pictures. [C, CN, ME, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Look briefly at a given familiar arrangement of 1 to 5 objects or dots, and identify the whole number that represents the number of objects or dots without counting.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the whole number that represents an arrangement of objects, dots, or pictures on a five frame.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>NK.3</identifier>
+        <outcome_text>Relate a numeral, 0 to 10, to its respective quantity. [C, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Construct or draw a set of objects corresponding to a given numeral.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the number of objects in a set.</p>
+          </indicator>
+          <indicator>
+            <p>Hold up the appropriate number of fingers for a given numeral.</p>
+          </indicator>
+          <indicator>
+            <p>Match numerals with pictorial representations.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>NK.4</identifier>
+        <outcome_text>Represent the partitioning of whole numbers (1 to 10) concretely and pictorially. [C, CN, ME, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Show a whole number in two parts, using fingers, counters, or other objects and name the number of objects in each part.</p>
+          </indicator>
+          <indicator>
+            <p>Show a whole number in two parts, using pictures, and name the number of objects in each part.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>NK.5</identifier>
+        <outcome_text>Compare quantities, 0 to 10, using one-to-one correspondence. [C, CN, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Construct a set to show more than, fewer than, or as many objects as in a given set of objects.</p>
+          </indicator>
+          <indicator>
+            <p>Compare two sets through direct comparison, and describe the relationship between the sets using words such as: more, fewer, as many as, or the same number.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Patterns and Relations Strand (P)</goal_heading>
+      <outcome>
+        <identifier>PK.1</identifier>
+        <outcome_text>Demonstrate an understanding of repeating patterns (two or three elements) by: identifying, reproducing, extending, and creating patterns, using manipulatives, sounds, and actions. [C, CN, PS, V].</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Distinguish between repeating patterns and non-repeating sequences by identifying the part that repeats.</p>
+          </indicator>
+          <indicator>
+            <p>Copy a repeating pattern (e.g., action, sound, colour, size, shape, or orientation) and describe the pattern.</p>
+          </indicator>
+          <indicator>
+            <p>Extend repeating patterns by two more repetitions.</p>
+          </indicator>
+          <indicator>
+            <p>Create a repeating pattern, using manipulatives, musical instruments, or actions and describe the pattern.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and describe a repeating pattern in the classroom, the school, and outdoors (e.g., in a familiar song, in a nursery rhyme, in a game, on the street, on the playground).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Shape and Space Strand (SS)</goal_heading>
+      <outcome>
+        <identifier>SSK.1</identifier>
+        <outcome_text>Use direct comparison to compare two objects based on a single attribute, such as: length including height, mass, volume, capacity. C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Compare the length or height of two objects and explain how they compare using the words shorter, longer, taller, or almost the same.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the mass of two objects and explain how they compare using the words lighter, heavier, or almost the same.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the volume of two objects or capacity of two containers and explain how they compare using the words less, more, bigger, smaller, or almost the same.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SSK.2</identifier>
+        <outcome_text>Sort 3-D objects using a single attribute. [C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Sort a set of familiar 3-D objects using a single attribute, such as size or shape, and explain the sorting rule.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the difference between two pre-sorted sets by identifying the sorting rule used to sort each of them.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SSK.3</identifier>
+        <outcome_text>Build and describe 3-D objects. [C, PS, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create a representation of a 3-D object using materials such as modelling clay and building blocks, and compare the representation to the original 3-D object.</p>
+          </indicator>
+          <indicator>
+            <p>Describe a 3-D object using words such as big, little, round, like a box, and like a can.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

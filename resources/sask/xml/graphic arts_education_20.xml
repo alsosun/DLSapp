@@ -1,0 +1,326 @@
+<curriculum>
+<pdf>https://www.edonline.sk.ca/bbcswebdav/xid-197593_1</pdf>
+  <outcomes>
+    <goal_section collapsable="true">
+      <goal_heading>Graphic Arts 20</goal_heading>
+      <outcome>
+        <identifier>Module 1</identifier>
+        <outcome_text labeled="true">Demonstrate an understanding of graphic arts through investigating the history, the present, and potential innovations in the future.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Construct a definition of graphic arts through research and discussion.</p>
+          </indicator>
+          <indicator>
+            <p>Research and demonstrate a personal and shared understanding of the need for graphic arts as communication.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and describe the historical development of aspects of graphic design such as typography.</p>
+          </indicator>
+          <indicator>
+            <p>Explore a variety of media (e.g., websites, books, advertisements) to identify components of effective graphic design.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 2A</identifier>
+        <outcome_text labeled="true">Demonstrate a working understanding of the elements and principles of design as a means of visual communication.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate, identify, and compare the elements and principles of design.</p>
+          </indicator>
+          <indicator>
+            <p>Critique an existing composition using the elements and principles of design.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss statements regarding design such as, “The elements and principles of design always have been the same, regardless of the medium”; “Design is about making the correct element and principle choices” , or “The principles of design govern how we use the elements”.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 3A</identifier>
+        <outcome_text labeled="true">Demonstrate a basic understanding of layout as an effective aspect of visual communication.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate and identify the components of layout for a variety of applications such as brochures, posters, business cards, and web pages.</p>
+          </indicator>
+          <indicator>
+            <p>Critique existing applications of layout from commonly found media using the above components.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 4A</identifier>
+        <outcome_text labeled="true">Utilize selected typography to communicate a message effectively.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and accurately use the vocabulary associated with typography (e.g., serif, kern, letterform).</p>
+          </indicator>
+          <indicator>
+            <p>Identify and demonstrate important factors in developing a font such as readability and legibility.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the typography of existing work for effectiveness in communicating the message.</p>
+          </indicator>
+          <indicator>
+            <p>Select and utilize text in an effective and personally satisfying way.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 5A</identifier>
+        <outcome_text labeled="true">Explore colour theory and its relationship to the elements and principles of design, layout, and typography.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and accurately use the vocabulary associated with colour (e.g., hue, transparency, opacity, tint, saturation).</p>
+          </indicator>
+          <indicator>
+            <p>Accurately use technical terminology associated with colour such as RGB, CMYK, and pantone colour.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and demonstrate an understanding of colour theory basics (e.g., monochromatic, complementary, analogous, and triadic colour combinations).</p>
+          </indicator>
+          <indicator>
+            <p>Critique a visual image using personal knowledge of colour theory.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 6</identifier>
+        <outcome_text labeled="true">Develop a basic knowledge of the tools used to create graphic designs.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify traditional and contemporary tools used in graphic design and their purposes.</p>
+          </indicator>
+          <indicator>
+            <p>Explore historic and contemporary artists and how they use(d) various tools.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 7</identifier>
+        <outcome_text labeled="true">Compare a variety of design software including file management capability.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Assess the available software (e.g., purchased, web-based, open source) and its capability to create a graphic design including features and usability.</p>
+          </indicator>
+          <indicator>
+            <p>Create a graphic design to demonstrate both utility of software and effectiveness of communication.</p>
+          </indicator>
+          <indicator>
+            <p>Justify personal software selection through application of agreed upon criteria.</p>
+          </indicator>
+          <indicator>
+            <p>Effectively utilize file management systems of the selected software.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 9A</identifier>
+        <outcome_text labeled="true">Develop a graphic design project from a given list of examples to communicate a key message.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Brainstorm key messages and graphic design concepts which communicate effectively to an audience.</p>
+          </indicator>
+          <indicator>
+            <p>Use concept development techniques from Module 8 to design the overall concepts including a logo.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate knowledge of elements and principles of design, typography, layout, and colour through designing and creating an effective promotion package (e.g., a business plan which could include business cards, brochures, package design, posters, and advertisements).</p>
+          </indicator>
+          <indicator>
+            <p>Participate in development of personal and peer assessments of projects.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 10A</identifier>
+        <outcome_text labeled="true">Create a traditional block print using a raised or incised surface.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create a design using positive and negative space.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the ability to simplify a design into separate one- or two-colour blocks.</p>
+          </indicator>
+          <indicator>
+            <p>Transfer the design to a printing plate (e.g., foam, lino, wood, plexiglass, collograph, metal plate).</p>
+          </indicator>
+          <indicator>
+            <p>Register and print the plate.</p>
+          </indicator>
+          <indicator>
+            <p>Create an edition.</p>
+          </indicator>
+          <indicator>
+            <p>Participate in the development and application of a personal and peer critique with assessment of products.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 11A</identifier>
+        <outcome_text labeled="true">Create a traditional screenprint using a single colour stencil.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the equipment and materials used to produce a silkscreen print image such as screen material, print board, stencil material, cutting tools, squeegee, and inks.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate an effective cutting technique to produce a stencil (e.g., handcut, photoemulsion, or other process).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how to prepare the screen fabric to ensure stencil adherence.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate an effective technique to produce a series of single-colour prints.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 12A</identifier>
+        <outcome_text labeled="true">Demonstrate skills associated with the equipment, materials, and techniques used in airbrushing to produce an image.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate and explain the differences in operating characteristics of airbrushes (i.e., single acting and double acting).</p>
+          </indicator>
+          <indicator>
+            <p>Disassemble and assemble an airbrush and use correct terminology to identify the parts.</p>
+          </indicator>
+          <indicator>
+            <p>Identify possible health risks and how to ventilate a workspace properly including the use of an exhaust fan and spray booth.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the proper technique to start and stop paint flow as well as the starting and stopping stroke techniques.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the use of painting shields and masks.</p>
+          </indicator>
+          <indicator>
+            <p>Create a three-dimensional image on a two-dimensional surface using shading and shadows.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 13</identifier>
+        <outcome_text labeled="true">Optimize images for print or display.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain and demonstrate the various print file formats and their uses.</p>
+          </indicator>
+          <indicator>
+            <p>Use the correct print file format (e.g., TIFF, JPEG, PSD, PDF) for a defined purpose.</p>
+          </indicator>
+          <indicator>
+            <p>Select the optimum resolution and scale for a defined purpose.</p>
+          </indicator>
+          <indicator>
+            <p>Understand and explain the different colour settings between monitors, software, and printers.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 14</identifier>
+        <outcome_text labeled="true">Explore a variety of careers involving graphic design.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research careers within Saskatchewan involving skills learned in Graphic Arts courses.</p>
+          </indicator>
+          <indicator>
+            <p>Identify a number of graphic design careers which are not readily available in Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Compare post-secondary education program opportunities available within Saskatchewan with those of another jurisdiction (e.g., province, country).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 16A</identifier>
+        <outcome_text labeled="true">Explore 2-D animation as a means to enhance the message of a graphic design project.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate the history of animation.</p>
+          </indicator>
+          <indicator>
+            <p>Incorporate the 12 principles of animation into an intended message.</p>
+          </indicator>
+          <indicator>
+            <p>Translate an idea into a message by developing a storyboard.</p>
+          </indicator>
+          <indicator>
+            <p>Design and develop a character.</p>
+          </indicator>
+          <indicator>
+            <p>Create a set design to support the intended message.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and utilize animation enhancing software such as ActionScripting through Flash.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and use a rubric, which includes assessment of why and how animation enhances the effectiveness of the message, for self and peer assessment of the project.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 18</identifier>
+        <outcome_text labeled="true">Identify and assess the elements and principles of design for effective web design.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Critique an existing website through the lens of the elements and principles of design.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the intended audience of an existing website.</p>
+          </indicator>
+          <indicator>
+            <p>Create an alternate look for an existing product or service with a new home page design.</p>
+          </indicator>
+          <indicator>
+            <p>Design and create a personal website (which may serve as a portfolio) that showcases the effective use of the elements and principles of design.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 19A</identifier>
+        <outcome_text labeled="true">Investigate and articulate legal issues such as copyright, privacy, and consent related to graphic arts and other media.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain the term “copyright” in relation to Canadian law and assess its impact on a Graphic Arts class.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the three factors that place some works in the public domain and cite some examples with reasons for their inclusion.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and report on current issues and resources connected to copyright law such as “open source”, “creative commons”, and stock resources.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and report on the need for consent in various circumstances such as location, appearance, and material.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 20</identifier>
+        <outcome_text labeled="true">Demonstrate an understanding and follow environmentally sound and sustainable practices with respect to equipment, material, and facilities throughout the graphic design process.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate an awareness of safety systems including air quality.</p>
+          </indicator>
+          <indicator>
+            <p>Dispose of waste materials (e.g., ink, ink cartridges, computer hardware) in an environmentally sustainable way.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate an awareness of ergonomic issues such as proper seating and work stations.</p>
+          </indicator>
+          <indicator>
+            <p>Develop strategies for effective and efficient material usage such as ink and paper products, including purchasing green products and reusing and recycling other materials.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 99A</identifier>
+        <outcome_text>Note: The extended study module may be used only once in each 100-hour course. In the Student Data System, record 99A for the first extended study module offered in the course series and, if needed, 99B for the second.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Evolving societal and personal needs, advances in technology, and demands to solve current problems require a flexible curriculum that can accommodate new ways and means to support learning in the future. The extended study module is designed to provide schools and teachers with an opportunity to meet current and future demands not provided for in current modules in the Graphic Arts curriculum. This flexibility allows a school or teacher to design one new module per credit to complement or extend the study of the core and optional modules to meet the specific needs of students or the community. The extended study module is designed to extend the content of the pure courses and to offer survey course modules beyond the scope of the available selection of the Graphic Arts modules. The list of possibilities for topics of study or projects for an extended study is as varied as the imagination of those involved in using the module. The optional extended study module guidelines should be used to strengthen the knowledge, skills, and processes advocated in the Graphic Arts curriculum. For more information on the guidelines for the extended study module, see the Practical and Applied Arts Handbook.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

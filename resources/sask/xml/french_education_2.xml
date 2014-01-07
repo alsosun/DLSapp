@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <dark_colour>#008164</dark_colour>
+  <light_colour>#e6f3f0</light_colour>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181675_1</pdf>
+  <banner>corefrench/Core_french_2.png</banner>
+  <fondements>core_french/fondements_core_french.html</fondements>
+  <matiere>core_french/matiere_core_french.html</matiere>
+  <curriculum_name>Core French</curriculum_name>
+  <lexicon>lexicons/core_french_2_lex.xml</lexicon>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Communication Skills (CS) Language Knowledge (LK)</goal_heading>
+      <outcome>
+        <identifier>2.CS.1</identifier>
+        <outcome_text>Demonstrate understanding of basic oral French messages in a short concrete sentence, a familiar question, statement, request, instruction or accolade. [L] [RP] [S]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Shares information about feelings, needs, and personal data with an English response, a drawing, gestures, or a French word routinely used in class.</p>
+          </indicator>
+          <indicator>
+            <p>Identifies the day, month and date on a calendar in a statement such as Aujourd’hui c’est le mercredi cinq octobre.</p>
+          </indicator>
+          <indicator>
+            <p>Responds to the questions Qu’est-ce que c’est? Qui est-ce? (e.g., with gestures, drawings, known French words, or using English).</p>
+          </indicator>
+          <indicator>
+            <p>Responds to a sentence ending in s’il vous plaît (e.g., with an action, gesture or with a simple oui/non response).</p>
+          </indicator>
+          <indicator>
+            <p>Responds to accolades such as Très bien! Excellent! (e.g., with a gesture, facial expression, or with a word such as Merci!).</p>
+          </indicator>
+          <indicator>
+            <p>Responds to instructions for several classroom routines, such as Écoutez! (stopping the activity) or Répétez! (repeating the word or phrase).</p>
+          </indicator>
+          <indicator>
+            <p>Matches a spoken French word with an action or a gesture.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>2.CS.2</identifier>
+        <outcome_text>Provide personal information through oral expression supported by extensive prompting. [S] [L]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Makes a simple modeled sentence related to the vocabulary of a theme (e.g., C’est un lion. Voici un crayon. J’ai un chien).</p>
+          </indicator>
+          <indicator>
+            <p>Describes people or oneself doing actions using a model (e.g., Elle saute. Il court. Je marche.).</p>
+          </indicator>
+          <indicator>
+            <p>Uses learned politeness phrases for various situations (e.g., S’il vous plaît. Merci! Excusez-moi!).</p>
+          </indicator>
+          <indicator>
+            <p>Gives a short modeled response to questions (e.g., Qu’est-ce que c’est? C’est un chien. Qui est-ce? C’est maman. Quel temps fait-il? Il fait beau.).</p>
+          </indicator>
+          <indicator>
+            <p>Indicates preferences and non-preferences in a simple sentence, based on models (e.g., J’aime… Je déteste…).</p>
+          </indicator>
+          <indicator>
+            <p>Describes weather with memorized global expressions (e.g., Il fait froid. Il fait chaud. Il fait soleil. Il vente. Il pleut. Il neige. C’est nuageux.).</p>
+          </indicator>
+          <indicator>
+            <p>Expresses feelings by using expressions (e.g., Je suis content(e). Je suis triste.).</p>
+          </indicator>
+          <indicator>
+            <p>Participates in an oral language game with a previously learned word or phrase.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>2.CS.3</identifier>
+        <outcome_text>Demonstrate understanding of key words in a simple, concrete sentence supported by an illustration or photo. [R] [RP]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Locates key words and cognates with support (e.g., on a chart, bulletin board, or interactive whiteboard).</p>
+          </indicator>
+          <indicator>
+            <p>Sorts key words on cards according to criteria with support (e.g., animals, school objects, or foods).</p>
+          </indicator>
+          <indicator>
+            <p>Responds to a shared reading experience (e.g., with drawings, physical actions, matching pictures to words, or by saying an English word).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>2.CS.4</identifier>
+        <outcome_text>Produce a simple French sentence from a model. [W]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Writes a simple, concrete sentence by substituting words (e.g., C’est un lion becomes C’est un tigre).</p>
+          </indicator>
+          <indicator>
+            <p>Labels pictures and illustrations with a simple sentence.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Goal : General Language Strategies (GL)</goal_heading>
+      <outcome>
+        <identifier>2.GL.1</identifier>
+        <outcome_text>Use listening or viewing strategies in highly structured situations. [L] [V] [RP]</outcome_text>
+        <indicators>
+          <outer_text>
+            <p>
+              <b>Before listening or viewing:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>Before listening or viewing: Prepares for the presentation (e.g., pays attention to a signal, looks at the speaker, is quiet and attentive).</p>
+          </indicator>
+          <indicator>
+            <p>Before listening or viewing: Makes connections to own experiences in English (e.g., when shown a picture, photograph or book cover).</p>
+          </indicator>
+          <indicator>
+            <p>Before listening or viewing: Anticipates the content of the listening experience by making predictions in English.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>During listening or viewing:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>During listening or viewing: Guesses at the meaning of an unknown word or phrase with support.</p>
+          </indicator>
+          <indicator>
+            <p>During listening or viewing:Tolerates ambiguity by focusing on a familiar word.</p>
+          </indicator>
+          <indicator>
+            <p>During listening or viewing: Associates a gesture, action, or facial image with a message.</p>
+          </indicator>
+          <indicator>
+            <p>During listening or viewing: Associates intonation and expression with a message.</p>
+          </indicator>
+          <indicator>
+            <p>During listening or viewing: finds a cognate in a sentence (e.g., animal for animal, or bleu for blue).</p>
+          </indicator>
+          <indicator>
+            <p>During listening or viewing: Draws a representation of a mental image about the message.</p>
+          </indicator>
+          <indicator>
+            <p>During listening or viewing: Tells about a mental image in English.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>After listening or viewing:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>After listening or viewing: Identifies, with some teacher support, the content of the listening experience (e.g., drawing pictures or using puppets).</p>
+          </indicator>
+          <indicator>
+            <p>After listening or viewing: Identifies, in English with teacher support, the strategies used to interpret the message, such as watching speaker’s face and gestures, using context clues, listening to the speaker’s intonation and expression.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>2.GL.2</identifier>
+        <outcome_text>Use speaking strategies in highly structured situations. [L] [V] [S]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Imitates the teacher’s gestures and expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Finds words in environmental print (e.g., on charts, in books, posters, and pictures posted on classroom walls).</p>
+          </indicator>
+          <indicator>
+            <p>Practises new phrases in a large group setting.</p>
+          </indicator>
+          <indicator>
+            <p>Makes a gesture to accompany a word.</p>
+          </indicator>
+          <indicator>
+            <p>Self-evaluates participation in oral language games with the use of satisfaction indicators (e.g., Pas trop bien. Assez bien. Bien. Très bien. Excellent. or with an icon).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>2.GL.3</identifier>
+        <outcome_text>Use reading strategies for sentences in modeled situations. [L] [V] [R]</outcome_text>
+        <indicators>
+          <outer_text>
+            <p>
+              <b>Before shared reading:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>Before shared reading: Makes connections to own experiences in English.</p>
+          </indicator>
+          <indicator>
+            <p>Before shared reading: Predicts content in English or by using a familiar French word.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>During shared reading:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>During shared reading: Looks at illustrations as a context clue.</p>
+          </indicator>
+          <indicator>
+            <p>During shared reading: Recognizes key words such as names and familiar expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Follows word to print correspondence as the teacher reads a line from a familiar song or poem.</p>
+          </indicator>
+          <indicator>
+            <p>During shared reading: Examines word walls, labeled objects or illustrated charts to find meaning.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>After shared reading:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>After shared reading: Verifies predictions by saying oui or non.</p>
+          </indicator>
+          <indicator>
+            <p>After shared reading: Discusses in English what the reading experience was about.</p>
+          </indicator>
+          <indicator>
+            <p>After shared reading: Asks questions in English about story elements needing clarification.</p>
+          </indicator>
+          <indicator>
+            <p>After shared reading: Discusses in English a strategy used to understand the story such as focusing on a familiar word.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>2.GL.4</identifier>
+        <outcome_text>Use writing strategies for sentences in modeled learning situations. [W] [S] [R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Interacts with the teacher as the teacher writes a sentence.</p>
+          </indicator>
+          <indicator>
+            <p>Examines references (e.g., picture dictionaries, word lists, word walls, charts or bulletin boards).</p>
+          </indicator>
+          <indicator>
+            <p>Writes a short text, filling in a repetitive template.</p>
+          </indicator>
+          <indicator>
+            <p>Writes a short repetitive text, following a template (e.g., C’est maman. C’est papa. C’est moi.).</p>
+          </indicator>
+          <indicator>
+            <p>Contributes a page of repetitive text for a class book based on a theme.</p>
+          </indicator>
+          <indicator>
+            <p>Self-evaluates writing using representative icons or phrases (e.g., ☺ ☹ or C’est bien. C’est comme ci, comme ça. Ce n’est pas bien.).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Goal : Language Knowledge (LK)</goal_heading>
+      <outcome>
+        <identifier>2.LK.1</identifier>
+        <outcome_text>Demonstrate acquisition of French language concepts, including:S] [R] [RP]numbers 1-20common question beginningscommon articles and their placement pronouns, their use and placementknowledge of key vocabulary words and phrases linked to themes.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Counts to 20.</p>
+          </indicator>
+          <indicator>
+            <p>Names numbers 1-20 in French.</p>
+          </indicator>
+          <indicator>
+            <p>Names the number of objects in a set of up to 20 objects.</p>
+          </indicator>
+          <indicator>
+            <p>Responds to qui, qu’est-ce que, est-ce que questions using learned expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Identifies and uses un/une and le/la orally in front of common nouns.</p>
+          </indicator>
+          <indicator>
+            <p>Identifies and uses pronouns orally before verbs in a sentence (e.g., je, tu, il, elle, on).</p>
+          </indicator>
+          <indicator>
+            <p>Uses key words from the following themes in a simple sentence, such as Je mange une pomme.Calendar and WeatherMy FamilyMy BackpackZoo or Wild AnimalsSeasonal ClothingHealthy Snack FoodRecreational ActivitiesAlternate Transportation</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Goal : Culture</goal_heading>
+      <outcome>
+        <identifier>2.C.1</identifier>
+        <outcome_text>Identify elements of Francophone, First Nations, and Métis family cultures. [S] [RP]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represents Francophone cultures by saying a rhyme or singing a song such as a familiar French song commonly sung to children in Francophone families (e.g., Fais dodo, Frère Jacques, Alouette, Sur le pont d’Avignon) or a comptine (e.g., Un et un, deux or J’ai dix petits doigts).</p>
+          </indicator>
+          <indicator>
+            <p>Describes some aspects of Francophone families, such as names of family members (e.g., maman for mère, papa for père, grand-papa for grand-père, grand-maman for grand-mère) as well as aspects of First Nations families (e.g., moshom for grandmother and kokum for grandfather).</p>
+          </indicator>
+          <indicator>
+            <p>Names some Francophone foods or snacks and tells what holiday or meal they are traditionaly associated to (e.g., la tourtière after midnight during the Christmas season, la poutine for a meal or a snack, la brioche for breakfast).</p>
+          </indicator>
+          <indicator>
+            <p>Names food containers common to Francophone cultures (e.g., le panier à provisions (shopping basket), le panier à salade (salad basket), le sac à provisions (shopping bag), as well as containers common to traditional First Nations cultures such as le pare-flèche (parfleche), le panier au saule rouge (red willow basket), le panier à l’écorce de bouleau (birchbark basket).</p>
+          </indicator>
+          <indicator>
+            <p>Examines clothing items common to Francophone cultures (e.g., le béret, une robe haute-couture, un t-shirt baba-cool (France : t-shirt with imprinted images and slogans), la ceinture fléchée (common to both Métis and Francophone cultures)).</p>
+          </indicator>
+          <indicator>
+            <p>Uses knowledge of Francophone cultures to participate in cultural activities, such as games, singing, and rhymes.</p>
+          </indicator>
+          <indicator>
+            <p>Self-evaluates participation in cultural activities through the use of satisfaction indicators (e.g., Pas trop bien. Assez bien. Bien. Très bien. Excellent. or with an icon).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

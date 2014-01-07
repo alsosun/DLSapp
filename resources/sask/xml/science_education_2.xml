@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181916_1</pdf>
+  <banner>science/Science_2.png</banner>
+  <dark_colour>#008164</dark_colour>
+  <light_colour>#e6f3f0</light_colour>
+  <goals>science/science7-9aimsgoals.htm</goals>
+  <teaching>science/science6-9teaching.htm</teaching>
+  <curriculum_name>Science 2</curriculum_name>
+  <classification_id>science 2</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Life Science: Animal Growth and Changes (AN)<br />All outcomes in this unit contribute to the development of all K-12 science goals.</goal_heading>
+      <outcome>
+        <identifier>AN2.1</identifier>
+        <outcome_text>Analyze the growth and development of familiar animals, including birds, fish, insects, reptiles, amphibians, and mammals, during their life cycles. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions about the growth and development of familiar animals.</p>
+          </indicator>
+          <indicator>
+            <p>Use a variety of resources (e.g., Elder, naturalist, zookeeper, park warden, pet store, books, pictures, and videos) to find information about the life cycles of living things.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the names of the offspring (e.g., cub, pup, calf, kitten, chick, fawn, fingerling, maggot, tadpole, gosling, and infant) of familiar animals.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize the cyclic nature of Mother Earth expressed by the Medicine Wheel, including life cycles and seasonal behaviours of animals.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the length and stages of life cycles of familiar animals.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the characteristics common to each stage (e.g., birth, youth, adulthood, and old age) of the life cycle of familiar animals (e.g., dog, cat, beaver, frog, fish, bird, ant, wasp, and chicken).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze which traits (e.g., body size, head size to body ratio, and number of limbs) remain relatively constant and which change in specific animals as they grow and develop.</p>
+          </indicator>
+          <indicator>
+            <p>Create a physical, visual, or dramatic representation of the growth and development of familiar animals during their life cycles.</p>
+          </indicator>
+          <indicator>
+            <p>Predict how big a specific animal will grow based on observed patterns of animal growth and changes.</p>
+          </indicator>
+          <indicator>
+            <p>Design an animal suited for life in a particular environment (real or imaginary) and represent its growth and changes throughout its life cycle.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>AN2.2</identifier>
+        <outcome_text>Compare the growth and development of humans with that of familiar animals. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions about similarities and differences between animal and human growth.</p>
+          </indicator>
+          <indicator>
+            <p>Predict ways in which humans change as they grow.</p>
+          </indicator>
+          <indicator>
+            <p>Create representations of changes in the growth and development of humans throughout their life cycle (e.g., baby, preschooler, elementary student, teenager, adult, and elderly person).</p>
+          </indicator>
+          <indicator>
+            <p>Sequence pictures or illustrations of humans and familiar animals according to stage of life cycle.</p>
+          </indicator>
+          <indicator>
+            <p>Compare patterns in human growth and development to that of familiar animals.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the implications of traditional and contemporary food choices and eating habits on human growth and development.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the food choices and eating habits of various familiar animals as they relate to growth and development.</p>
+          </indicator>
+          <indicator>
+            <p>Communicate personal thoughts and feelings related to personal growth and change, including transitions that are celebrated in various cultures.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>AN2.3</identifier>
+        <outcome_text>Assess the interdependence of humans and animals in natural and constructed environments. [CP, DM]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Predict which animals live in various locations (e.g., tree, underground, nest, cave, water, and soil) within a variety of natural and constructed environments.</p>
+          </indicator>
+          <indicator>
+            <p>Observe familiar animals in natural (e.g., tree, stream, pond, forest, and beneath a rock) and constructed (e.g., garden, sports field, zoo, aquarium, and city) environments safely and respectfully.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the importance and sacredness of animals in First Nations, Métis, and other cultures.</p>
+          </indicator>
+          <indicator>
+            <p>Assess features of natural (e.g., woodland, stream, grassland, and forest) and constructed (e.g., backyard, zoo, schoolyard, and classroom) environments that support or hinder the health and growth of familiar animals.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze ways in which human activities intentionally or unintentionally can help or harm wild and domesticated animals.</p>
+          </indicator>
+          <indicator>
+            <p>Examine ways in which humans and animals interact with each other (e.g., pet, companionship, transportation guide dog, search and rescue, and providing food), including ways in which animals can cause harm to humans.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the care and handling of wild and domesticated animals (e.g., fish, dog, bird, horse, cow), including keeping animals as pets, housing animals in zoos and aquariums, and identifying careers related to animal care.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science: Liquids and Solids (LS)</goal_heading>
+      <outcome>
+        <identifier>LS2.1</identifier>
+        <outcome_text>Investigate properties (e.g., colour, taste, smell, shape, and texture) of familiar liquids and solids. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions that lead to investigation and exploration of the properties of familiar liquids and solids.</p>
+          </indicator>
+          <indicator>
+            <p>Classify objects in various natural and constructed environments as liquids or solids.</p>
+          </indicator>
+          <indicator>
+            <p>Identify examples of how liquids, in all three states of matter, are used at home, in the school, and throughout their communites.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret safety symbols (e.g., WHMIS and consumer chemical hazard symbols) and labels that are used on hazardous product containers for liquids and solids.</p>
+          </indicator>
+          <indicator>
+            <p>Select and safely use materials and tools (e.g., magnifier, scale, measuring cup, and spatula) to carry out explorations of the observable physical properties of familiar liquids and solids.</p>
+          </indicator>
+          <indicator>
+            <p>Record and compare observable physical properties (e.g., colour, taste, smell, shape, texture, transparency, and ability to adapt to the shape of container) of familiar liquids and solids.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between properties of familiar liquids and solids.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate that liquids and solids are matter because they have mass and take up space.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate to determine whether properties of familiar liquids and solids depend on factors such as the amount of substance present.</p>
+          </indicator>
+          <indicator>
+            <p>Group or sequence liquids and solids according to one or more observable physical properties (e.g., colour, state, texture, smell, transparency, and buoyancy).</p>
+          </indicator>
+          <indicator>
+            <p>Predict and test changes in characteristics (e.g., shape, colour, and volume) of liquids when they are changed into solids or gases.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>LS2.2</identifier>
+        <outcome_text>Investigate interactions between liquids and solids, and technologies based on those interactions. [CP, SI, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions that lead to exploration and investigation of combining liquids and solids.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how liquids change when they are poured into different containers.</p>
+          </indicator>
+          <indicator>
+            <p>Describe examples of useful objects and materials in their environment that are made by combining different liquids or solids and liquids.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and describe the changes in characteristics of familiar solids and liquids resulting from processes such as mixing and dissolving liquids with liquids, solids with solids, and liquids with solids.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between familiar solids (e.g., sand, sugar, salt, gravel, soil, and drink crystals) that dissolve in water and those that do not.</p>
+          </indicator>
+          <indicator>
+            <p>Carry out an investigation to determine the relative viscosity of different liquids (e.g., water, milk, and syrup) when placed on various surfaces (e.g., paper, paper towel, cotton, plastic, and wax paper).</p>
+          </indicator>
+          <indicator>
+            <p>Design and carry out an investigation to determine the rate and ability of various materials (e.g., paper, paper towel, cotton, plastic, and wax paper) to absorb liquids and explain how these capabilities determine their uses.</p>
+          </indicator>
+          <indicator>
+            <p>Use a variety of sources (e.g., newspapers, Elders, anglers, books, videos, and Internet) to gather information about objects that sink and float (e.g., canoes, kayaks, barges, boats, buoys, and fishing lures).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate an understanding of sinking and floating by solving a related practical problem such as building an object that will float, carry a load, and be stable.</p>
+          </indicator>
+          <indicator>
+            <p>Assess ways people use knowledge of solids and liquids to maintain a clean and healthy environment (e.g., filtering water, sorting solids for recycling, cleaning up a kitchen spill, washing dishes, cleaning paint brushes, using hand cleaners, wearing a paint smock).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science: Motion and Relative Position (MP)</goal_heading>
+      <outcome>
+        <identifier>MP2.1</identifier>
+        <outcome_text>Analyze methods of determining the position of objects relative to other objects. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe the position of an object relative to other positions or stationary objects, including themselves, using appropriate vocabulary such as above, below, between, beside, on top, close to, far from, behind, in front of, to the right of, and to the left of.</p>
+          </indicator>
+          <indicator>
+            <p>Place an object in an identified position (e.g., four steps to the right and one step forward, close, far, right, left, forward, back, up, down) relative to another object or position.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the use of common objects (e.g., hand, step, and book) to describe the position of an object using non-standard units.</p>
+          </indicator>
+          <indicator>
+            <p>Use appropriate tools (e.g., rulers and string) safely for observing and recording objects’ positions.</p>
+          </indicator>
+          <indicator>
+            <p>Record observations and measurements of an object’s position, using oral and written language, diagrams, and tables.</p>
+          </indicator>
+          <indicator>
+            <p>Represent the position of objects as seen from different perspectives (e.g., top, side, and bottom) using words, diagrams, and actions.</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate with other students to describe the position of an object from different positions using drawings, and written and oral descriptions.</p>
+          </indicator>
+          <indicator>
+            <p>Explore how changing one’s own position affects one’s perspective of position relative to self and other objects.</p>
+          </indicator>
+          <indicator>
+            <p>Create a set of directions (e.g., treasure hunt map) that other students can follow to locate a specified position.</p>
+          </indicator>
+          <indicator>
+            <p>Follow directions to move in a specified way to different positions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>MP2.2</identifier>
+        <outcome_text>Investigate factors, including friction, which affect the motion of natural and constructed objects, including self. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions about the motion of natural and constructed objects in their environment (e.g., How do we know if something is moving? What are some different types of motion? Why is it difficult to walk on some surfaces?).</p>
+          </indicator>
+          <indicator>
+            <p>Describe examples of the motion of natural (e.g., birds flying, leaves falling, tree branches swaying, icicles melting, fish swimming, wind blowing, and creeks flowing) and constructed (e.g., vehicles moving, clock hands rotating, balls bouncing, playground swings, and tools operating) objects in their environment.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the motion of an object in terms of a change in position relative to other objects (e.g., faster, slower, towards, away, closer, and further).</p>
+          </indicator>
+          <indicator>
+            <p>Examine a variety of toys, playground equipment, and other objects that move or which have components that move and ask questions that lead to exploration and investigation of the motion of objects.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate, describe, and represent different patterns of movement (e.g., walking, running, swinging, bouncing, sliding, rotating, spinning, crawling, and rolling) of familiar objects, including themselves.</p>
+          </indicator>
+          <indicator>
+            <p>Relate the types of motion (e.g., crawling, walking, running, flying, swimming, slithering, galloping, crab walking, and rolling) to the physical characteristics of humans and familiar animals.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how pushes and pulls can cause an object to speed up, slow down, stop, or change direction.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the movement of a specified object using appropriate vocabulary so that other students can duplicate the movement.</p>
+          </indicator>
+          <indicator>
+            <p>Carry out a procedure to investigate the effects of pushes and pulls on the motion of objects using various objects and surfaces (e.g., paper, carpet, sandpaper, desktop, tile floor, wooden board, ice, sidewalk, grass, soil, and sand).</p>
+          </indicator>
+          <indicator>
+            <p>Observe and record the effects of different textured surfaces on the friction between two objects or surfaces.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of technologies (e.g., skate, snowshoe, bicycle, ski, kayak, curling slider, and wheelchair) that are designed to make it easier for people and constructed objects to move on different surfaces.</p>
+          </indicator>
+          <indicator>
+            <p>Generate new questions about the motion of objects that arise from what was learned (e.g., Do objects move the same way in space or in water or in another liquid? What causes motion?).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science: Air and Water in the Environment (AW)</goal_heading>
+      <outcome>
+        <identifier>AW2.1</identifier>
+        <outcome_text>Investigate properties of air and water (in all three states of matter) within their environment. [SI, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe, using all of their senses, physical properties of air (e.g., generally invisible, odourless, and fills and assumes shape of container) and of water (e.g., assumes shape of container, clear, tasteless, and odourless).</p>
+          </indicator>
+          <indicator>
+            <p>Select appropriate tools (e.g., thermometer, wind sock, rain gauge, garden hose, fan, oar, propeller, and vacuum) and materials to carry out safely their own explorations of air and water in their environment through processes such as collecting dew, rainfall, and snow; measuring wind speed; and measuring temperature.</p>
+          </indicator>
+          <indicator>
+            <p>Measure amounts of air and water using non-standard measurements (e.g., dropper, spoonful, container, pop bottle, garbage can, aquarium, straw, and zip-lock bag).</p>
+          </indicator>
+          <indicator>
+            <p>Provide evidence indicating air takes up space, has mass, and can be felt when it moves.</p>
+          </indicator>
+          <indicator>
+            <p>Categorize examples of water in indoor and outdoor environments, and in living things, including themselves, according to state of matter (i.e., solid, liquid, and gaseous).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate physical (e.g., mass, shape, texture, colour, and odour) changes in water during each change of state (i.e., freezing, melting, evaporation, condensation, sublimation, and deposition).</p>
+          </indicator>
+          <indicator>
+            <p>Carry out procedures to investigate methods of increasing or decreasing the rate water changes state (i.e., freezing or boiling).</p>
+          </indicator>
+          <indicator>
+            <p>Collaboratively design and construct a device that is powered by wind or water and that meets a student-identified purpose.</p>
+          </indicator>
+          <indicator>
+            <p>Classify or sequence materials according to attributes such as how quickly they absorb water, how much water they absorb, and whether they are waterproof or water repellent.</p>
+          </indicator>
+          <indicator>
+            <p>Communicate procedures and results of observations of the physical properties of air and water, using drawings, demonstrations, and written and oral descriptions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>AW2.2</identifier>
+        <outcome_text>Assess the importance of air and water for the health and survival of living things, including self, and the environment. [CP, DM]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions that lead to exploration and investigation about air and water conditions (e.g., Why does skin feel wet in the summer? Why is it harder to breathe in winter than in summer? Why might people wear a filter over their nose and mouth?).</p>
+          </indicator>
+          <indicator>
+            <p>Describe changes in the location, amount, and form of moisture in different locations in the environment, and factors such as exposure to heat and moving air that can affect these conditions.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize the importance of air and water as two of the four elements (i.e., air, water, earth, fire) in Mother Earth in First Nations, Métis, and other cultures.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how living things, including humans, require clean air and water for breathing, cooling, drinking, cooking, bathing, and prevention of illness to maintain a healthy body.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how water is obtained, distributed, and used in personal, local, and regional environments (e.g., home, classroom, school, town, city, and province).</p>
+          </indicator>
+          <indicator>
+            <p>Communicate questions, ideas, and intentions while conducting personal and group explorations of air and water in the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Record, using tables, diagrams, pictographs, or bar graphs, individual, classroom, and/or household use of water for a given period.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest explanations for how air and water in the environment can become polluted.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest ways that individuals can contribute to protecting and improving the quality of air and water in their environment (e.g., conserving water, not pouring chemicals down the drain, not burning hazardous materials, and reducing travel via motorized vehicles).</p>
+          </indicator>
+          <indicator>
+            <p>Propose an answer to a question or problem related to the importance of air and water for living things.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

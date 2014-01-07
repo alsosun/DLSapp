@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <dark_colour>#008164</dark_colour>
+  <light_colour>#e6f3f0</light_colour>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181674_1</pdf>
+  <banner>corefrench/Core_french_1.png</banner>
+  <fondements>core_french/fondements_core_french.html</fondements>
+  <matiere>core_french/matiere_core_french.html</matiere>
+  <curriculum_name>Core French</curriculum_name>
+  <lexicon>lexicons/core_french_1_lex.xml</lexicon>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Communication Skills (CS) Language Knowledge (LK)</goal_heading>
+      <outcome>
+        <identifier>1.CS.1</identifier>
+        <outcome_text>Demonstrate an understanding of a number of oral key words, familiar phrases, questions, and basic classroom instructions in French. [L] [RP]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Responds to a greeting or farewell with a gesture, by nodding or by answering in English.</p>
+          </indicator>
+          <indicator>
+            <p>Responds to Quel âge as-tu ? by showing fingers, writing a number, saying a French number or by answering in English.</p>
+          </indicator>
+          <indicator>
+            <p>Locates the day of the week on a calendar.</p>
+          </indicator>
+          <indicator>
+            <p>Points to numbers 1-10 on a calendar or number line.</p>
+          </indicator>
+          <indicator>
+            <p>Says name when asked Comment t’appelles-tu?</p>
+          </indicator>
+          <indicator>
+            <p>Responds to Comment ça va? by pointing to an emotion icon, illustration or photo, answering in English, or making a gesture to indicate feelings.</p>
+          </indicator>
+          <indicator>
+            <p>Responds to Quel temps fait-il? by pointing to a weather icon or picture.</p>
+          </indicator>
+          <indicator>
+            <p>Matches spoken words for colours, food, pets, transportation, body parts, or clothing by drawing a picture, pointing to an icon, illustration or photo.</p>
+          </indicator>
+          <indicator>
+            <p>Responds to class instructions (e.g., Levez-vous. Assoyez-vous. Sortez vos crayons. Venez-ici.) by doing the requested action.</p>
+          </indicator>
+          <indicator>
+            <p>Uses gestures to accompany words in songs, rhymes, games, and oral phrases.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>1.CS.2</identifier>
+        <outcome_text>Provide basic personal information through oral expression supported by constant prompting. [S]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Names and correctly pronounces the French word for some familiar classroom objects, dates, animals, and people for theme-related words.</p>
+          </indicator>
+          <indicator>
+            <p>Names the correct colours (e.g., familiar objects or animals).</p>
+          </indicator>
+          <indicator>
+            <p>Responds to a question with a short sentence (e.g., Comment t’appelles- tu? Je m’appelle Sarah. Quel âge as-tu? J’ai six ans.).</p>
+          </indicator>
+          <indicator>
+            <p>Indicates thanks by saying Merci!, and you’re welcome by saying De rien.</p>
+          </indicator>
+          <indicator>
+            <p>Expresses feelings with a short sentence (e.g., Ça va bien. Ça va mal. Ça va comme ci, comme ça.).</p>
+          </indicator>
+          <indicator>
+            <p>Explains preferences with short sentences such as J’aime le chocolat.</p>
+          </indicator>
+          <indicator>
+            <p>Uses the culturally correct form of greetings and farewells such as Salut! for both greetings and farewells, as well as Bonjour! for a greeting, and Au revoir! for a farewell.</p>
+          </indicator>
+          <indicator>
+            <p>Uses a previously learned word or phrase to participate in a game with others.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>1.CS.4</identifier>
+        <outcome_text>Reproduce, with prompting and support, a single French key word in print. [W]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Labels illustrations, photos or icons by copying single words (verbs, common adjectives, articles + nouns) from a word wall, poster, or chart (e.g., colours, animals, classroom objects, self, actions).</p>
+          </indicator>
+          <indicator>
+            <p>Makes illustrations with labels for inclusion in a class book or slideshow (e.g., copying a word from an illustrated list, a book, a sheet, a picture dictionary).</p>
+          </indicator>
+          <indicator>
+            <p>Labels graphics on an interactive whiteboard.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>General Language Strategies (GL)</goal_heading>
+      <outcome>
+        <identifier>1.GL.1</identifier>
+        <outcome_text>Use visual and auditory clues with prompting for the interpretation of a listening or viewing experience. [L] [RP] [V]</outcome_text>
+        <indicators>
+          <outer_text>
+            <p>
+              <b>Before listening or viewing:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>Before listening or viewing: Responds to a signal to begin listening (e.g., stopping activity and looking at the teacher).</p>
+          </indicator>
+          <indicator>
+            <p>Before listening or viewing: Makes prompted connections to own experiences (e.g., responds to images, illustrations, topics in English).</p>
+          </indicator>
+          <indicator>
+            <p>Before listening or viewing: Anticipates, with teacher prompting, the content of the listening experience in English.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>During listening or viewing:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>Du ring listening or viewing:Shows interest in the listening experience (e.g., looks at the speaker, the book, an illustration, a photo, a screen or board, leans forward to show interest, or sits quietly).</p>
+          </indicator>
+          <indicator>
+            <p>During listening or viewing: Shows interest in the listening experience (e.g., looks at the speaker, the book, an illustration, a photo, a screen or board, leans forward to show interest, or sits quietly).</p>
+          </indicator>
+          <indicator>
+            <p>During listening or viewing: Points to or manipulates real objects or illustrations when requested.</p>
+          </indicator>
+          <indicator>
+            <p>During listening or viewing: Points to or manipulates digital objects on an interactive whiteboard when requested.</p>
+          </indicator>
+          <outer_text>
+            <p>
+              <b>After listening or viewing:</b>
+            </p>
+          </outer_text>
+          <indicator>
+            <p>After listening or viewing: Identifies the content of the listening experience with teacher prompting (e.g., pointing to an illustration, using a gesture, drawing pictures, using puppets or responding in English).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>1.GL.2</identifier>
+        <outcome_text>Use speaking strategies in modeled learning situations. [RP] [L] [S]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Repeats new words and phrases.</p>
+          </indicator>
+          <indicator>
+            <p>Repeats parts of songs or messages.</p>
+          </indicator>
+          <indicator>
+            <p>Makes gestures accompanying new words and expressions following a model.</p>
+          </indicator>
+          <indicator>
+            <p>Participates in games, songs and chants using modeled language and gestures.</p>
+          </indicator>
+          <indicator>
+            <p>Self-evaluates participation in oral activities (e.g., with a thumbs-up or thumbs-down gesture or with icons).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Language Knowledge (LK)</goal_heading>
+      <outcome>
+        <identifier>1.LK.1</identifier>
+        <outcome_text>Demonstrate acquisition of French language concepts, related to themes. [S] [L] [R] [RP]numbers 1-10the difference between an oral question using intonation and a statementknowledge of key words.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Counts to ten.</p>
+          </indicator>
+          <indicator>
+            <p>Names the number of objects in a set, up to 10 objects.</p>
+          </indicator>
+          <indicator>
+            <p>Identifies any of the numbers from 1 to 10.</p>
+          </indicator>
+          <indicator>
+            <p>Responds to questions such as Ça va bien? Oui, ça va bien.</p>
+          </indicator>
+          <indicator>
+            <p>Identifies pictures of key words when asked from the following themes:Calendar, Colours, and ShapesGreetingsClassroom Routines and ObjectsWinter ClothingPetsFoodBodyTransportation.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Culture (C)</goal_heading>
+      <outcome>
+        <identifier>1.C.1</identifier>
+        <outcome_text>Identify elements of Francophone, First Nations, and Métis cultures with prompting. [S] [RP]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Recites a French comptine, sings a First Nations chant, Métis or French song.</p>
+          </indicator>
+          <indicator>
+            <p>Employs French forms of address such as Monsieur, Madame appropriately to males or females.</p>
+          </indicator>
+          <indicator>
+            <p>Locates cultural artifacts in the classroom, such as books, posters and flags.</p>
+          </indicator>
+          <indicator>
+            <p>Sings the Happy Birthday song as Bonne fête (for younger students), Bon anniversaire, or Gens du pays (for older students).</p>
+          </indicator>
+          <indicator>
+            <p>Names lundi as the first day of the week on a French calendar.</p>
+          </indicator>
+          <indicator>
+            <p>Names traditional transportation common to First Nations and Métis cultures, such as la charrette de la Rivière Rouge (Red River Cart, le travois (horse or dog drawn skis), le traineau (sled).</p>
+          </indicator>
+          <indicator>
+            <p>Names items of traditional First Nations, or Métis winter clothing such as l’anorak (hooded waterproof parka), l’atiqik (goose down parka), une cape de bison (bison cape).</p>
+          </indicator>
+          <indicator>
+            <p>Participates in Francophone or First Nations and Métis cultural activities, such as games, singing, rhymes, and chants.</p>
+          </indicator>
+          <indicator>
+            <p>Self-evaluates participation in cultural activities (e.g., with a thumbs-up or thumbs-down gesture, or with icons).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

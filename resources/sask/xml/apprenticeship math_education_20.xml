@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-182867_1</pdf>
+  <banner>mathematics/WAM20.png</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>mathematics/workplace_apprenticeship20aimsgoals.htm</goals>
+  <teaching>mathematics/workplace_apprenticeship_20.htm</teaching>
+  <curriculum_name>W &amp; A Math 20</curriculum_name>
+  <classification_id>Workplace and Apprenticeship Mathematics 20</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Workplace and Apprenticeship Mathematics (WA)</goal_heading>
+      <outcome>
+        <identifier>WA20.1</identifier>
+        <outcome_text>Expand and apply understanding of the preservation of equality including solving problems that involve the manipulation and application of formulae for volume and capacity, surface area, slope and rate of change, simple interest, and finance charges. [C,CN,ME,PS,R,T]</outcome_text>
+        <indicators>
+          <outer_text>Note: It is intended that this outcome be integrated with other outcomes throughout the course.</outer_text>
+          <indicator>
+            <p>Verify, using examples, and explain why different forms of the same formula are equivalent.</p>
+          </indicator>
+          <indicator>
+            <p>Verify whether given forms of the same formula are equivalent and justify the conclusion.</p>
+          </indicator>
+          <indicator>
+            <p>Describe, using examples, how a given formula is used in a trade or an occupation.</p>
+          </indicator>
+          <indicator>
+            <p>Create, solve, and verify the reasonableness of solutions to situational questions that involve the use of a formula relevant to self, family, or community.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze solutions to questions that involve formulae to verify the preservation of equality, correct if necessary, and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Solve, with or without the use of technology, situational questions that involve the application of a formula that:does not require manipulationdoes require manipulation.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA20.2</identifier>
+        <outcome_text>Demonstrate the ability to analyze puzzles and games that involve numerical reasoning and problem solving strategies. [C,CN,PS,R]</outcome_text>
+        <indicators>
+          <outer_text>Note: It is intended that this outcome be integrated throughout the course by using puzzles and games such as cribbage, magic square, Yahtzee, Sudokos, and Kakuro.</outer_text>
+          <indicator>
+            <p>Determine, explain, and verify strategies to solve a puzzle or to win a game such as:guess and checklook for a patternmake a systematic listdraw or modeleliminate possibilitiesformulate and simplify a problem that is similar to the original problemwork backwardsdevelop alternative approaches.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and analyze errors in solutions to puzzles or in strategies for winning games to identify and correct errors, if necessary, and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Create a variation of a puzzle or a game, and describe a strategy for solving the puzzle or winning the game.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA20.3</identifier>
+        <outcome_text>Extend and apply understanding of surface area, volume, and capacity using concrete and pictorial models and symbolic representations (SI or imperial units of measurement). [C,CN,ME,PS,V]</outcome_text>
+        <indicators>
+          <outer_text>Note: It is intended that contextual situations involve the four arithmetic operations on decimals or on fractions, and that students do not convert from one to the other when performing calculations unless required within the particular question.</outer_text>
+          <outer_text>It is also intended that units of measure should be those that are appropriate to the workplace or apprenticeship context being considered. These units include:<ul><li><b>metres, grams, litres, and seconds along with appropriate prefixes such as kilo, hecto, deci, centi, and milli, as well as hectare, tonne, and degrees Celsius (SI system).</b></li><li><b>inch, foot, board foot, yard, mile, acre, teaspoon, tablespoon, cup, pint, quart, gallon, bushel, ton, and degrees Fahrenheit (British and US systems where appropriate).</b></li></ul></outer_text>
+          <indicator>
+            <p>Observe, analyze, generalize, and explain using examples including nets, the relationships between area, surface area, and volume.</p>
+          </indicator>
+          <indicator>
+            <p>Observe, analyze, and compare volume and capacity using examples.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement: “Volume and capacity represent the same attribute to measure so the same units of measure can be used for either volume or capacity”.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and describe situations in which given SI or imperial volume or capacity units would be used.</p>
+          </indicator>
+          <indicator>
+            <p>Justify and compare the choice of personal referents for surface area, volume, and capacity measurements in both SI and imperial units, (e.g., The bottom half of a two-litre carton of milk has a capacity of one litre, a surface area of 500 cm² or if a top was added to make a prism it would have a surface area of 600 cm² and a volume of about 1000 cm³, or the volume of a box for hockey helmets is approximately 1 ft³ [1800 in³] and the surface area is about 6 ft² [900 in²]).</p>
+          </indicator>
+          <indicator>
+            <p>Justify and apply strategies including use of personal referents to estimate the surface area and volume of 3-D objects, and the capacity of containers.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that involve:the volume of 3-D objects and composite 3-D objects in a variety of contextsthe capacity of containers.</p>
+          </indicator>
+          <indicator>
+            <p>Convert given volume, surface area, and capacity measurements:expressed in one SI unit to another SI unit (including units squared and units cubed)expressed in one imperial unit to another imperial unit (including units squared and units cubed).</p>
+          </indicator>
+          <indicator>
+            <p>Determine the surface area and volume of prisms, cones, cylinders, pyramids, spheres, and composite 3-D objects, using a variety of measuring tools such as rulers, tape measures, callipers, and micrometers and explain the strategy used including the manipulation of formulae.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the capacity of prisms, cones, pyramids, spheres, and cylinders, using a variety of measuring tools and methods, such as graduated cylinders, measuring cups, measuring spoons, and displacement and explain the strategy used.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and generalize the relationship between the volumes of:cones and cylinders with the same base and heightpyramids and prisms with the same base and height.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and illustrate, using examples, the effect of dimensional changes on area, surface area, and volume.</p>
+          </indicator>
+          <indicator>
+            <p>Solve using a variety of strategies, including the manipulation of formulae, situational questions that involve:the surface area of 3-D objects, including spheresthe volume of 3-D objects, including composite 3-D objectsthe capacity of containers.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA20.4</identifier>
+        <outcome_text>Solve problems that involve at least two right triangles. [CN,PS,T,V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze and sort a set of illustrations of triangles in a given context according to whether they are right triangles or not, and justify the sort.</p>
+          </indicator>
+          <indicator>
+            <p>Apply personal strategies to determine, with justification, if solutions to problems that involve two or three right triangles are reasonable.</p>
+          </indicator>
+          <indicator>
+            <p>Sketch representations of 2-D shapes or 3-D objects from given contexts or situations.</p>
+          </indicator>
+          <indicator>
+            <p>Apply personal strategies including the primary trigonometric ratios to solve situational questions that involve:angles of elevation or angles of depression, and explain the reasoningmore than two right triangles and explain the reasoning.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA20.5</identifier>
+        <outcome_text>Extend and apply understanding of 3-D objects including:top, bottom, and side viewsexploded viewscomponent partsscale diagrams.</outcome_text>
+        <outcome_text>[CN, R, T, V]</outcome_text>
+        <indicators>
+          <outer_text>
+            <outer_normal>Note: It is intended that the concepts in this outcome be explored and developed through relevant contexts such as flat-packed furniture or sewing patterns.</outer_normal>
+          </outer_text>
+          <indicator>
+            <p>Describe and sketch or draw, with or without technology, using a variety of strategies including the use of isometric paper:2-D representations of 3-D objects relevant to self, family, and community3-D objects, given the top, front, and side viewsa one-point perspective view of given 3-D objectsthe components of given exploded diagrams, and explain their relationship to the original 3-D objects2-D representations of 3-D objects, given their exploded view.</p>
+          </indicator>
+          <indicator>
+            <p>Draw to scale:top, front, and side views of given actual 3-D objectsthe components of a 3-D object.</p>
+          </indicator>
+          <indicator>
+            <p>Construct models of 3-D objects, given the top, front, and side views.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a set of views of 3-D objects to determine if they represent a given object and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and justify the point of perspective of given one-point perspective drawings of 3-D objects.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA20.6</identifier>
+        <outcome_text>Demonstrate understanding of personal budgets and their importance for financial planning. [CN,PS,R,T,V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and justify income and expenses that could be included in a personal budget.</p>
+          </indicator>
+          <indicator>
+            <p>Explain considerations that must be made when developing a budget (e.g., prioritizing, recurring and unexpected expenses).</p>
+          </indicator>
+          <indicator>
+            <p>Create a personal budget based on given income and expense data or from personally collected data and justify the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Modify a budget to achieve a set of personal goals.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and analyze, with or without technology, “what if …” questions related to personal budgets.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, the advantages of creating personal budgets.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA20.7</identifier>
+        <outcome_text>Demonstrate understanding of compound interest. [CN, ME, PS, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Solve situational questions that involve simple interest, given three of the four values in the formula I=prt and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and generalize the relationship between simple interest and compound interest.</p>
+          </indicator>
+          <indicator>
+            <p>Solve, using a formula, situational questions that involve compound interest.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, the effect of changing different factors on compound interest such as different compounding periods, different interest rates, and starting at a younger age.</p>
+          </indicator>
+          <indicator>
+            <p>Estimate, using the Rule of 72, the time required for a given investment to double in value and explain the reasoning.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA20.8</identifier>
+        <outcome_text>Demonstrate understanding of financial institution services used to access and manage personal finances, including credit options. [C,ME,CN,PS,R,T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research and present orally, with the aid of visuals (electronic or other), various types of banking services available from various financial institutions, such as online services, different types of accounts, telephone banking, mobile banking, ATM banking, or credit cards.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze given or personal situations to determine the type of account that best meets the needs of the criteria for each of the situations.</p>
+          </indicator>
+          <indicator>
+            <p>Research and explain various automated teller machine (ATM) service charges.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the advantages and disadvantages of:online bankingdebit card purchasesdifferent types of credit options, including bank and store credit cards, personal loans, lines of credit, and overdraft.</p>
+          </indicator>
+          <indicator>
+            <p>Describe ways that try to ensure the security of personal and financial information (e.g., passwords, encryption, protection of personal identification number (PIN) and other personal identity information).</p>
+          </indicator>
+          <indicator>
+            <p>Research, compare, and report on credit card options from various companies and financial institutions.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze credit options related to the use of credit, such as service charges, interest, payday loans, and sales promotions, to make informed decisions and plans and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Describe strategies to use credit effectively, such as negotiating interest rates, planning payment timelines, reducing accumulated debt, and timing purchases.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that involve credit linked to sales promotions, credit cards, or loans.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement, “It is always better to have the lowest possible limit on a credit card.”</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA20.9</identifier>
+        <outcome_text>Demonstrate concretely, pictorially, and symbolically (with and without the use of technology) an understanding of slope with respect to:rise over runrate of changesolving problems.</outcome_text>
+        <outcome_text>[C, CN, PS, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research and present contexts that involve slope including the mathematics involved (e.g., ramps, roofs, road grade, flow rates within a tube, skateboard parks, ski hills).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and generalize relationships between slopes in given contexts such as 3:1 and a 1:3 roof pitch or slopes that are usually described by a colour for downhill skiing and snowboarding, and explain implications of each slope including safety and functionality.</p>
+          </indicator>
+          <indicator>
+            <p>Describe conditions under which a slope will be either 0 or undefined and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement, “It requires less effort to independently use a wheelchair to climb a ramp of a certain height that has a slope of 1:12 rather than a slope of 1:18."</p>
+          </indicator>
+          <indicator>
+            <p>Justify, using examples and illustrations:slope as rise over runslope as rate of change.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze slopes of objects, such as ramps or roofs, to determine if the slope is constant and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze, generalize, and explain, using illustrations, the relationship between slope and angle of elevation (e.g., for a ramp (or pitch of a roof, grade on a road, slope in pipes for plumbing, azimuth in the sky) that has a slope of 7:100, the angle of elevation is approximately 4 degrees).</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that involve slope or rate of change, verify and explain why solutions are reasonable or not.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA20.10</identifier>
+        <outcome_text>Extend and apply proportional thinking to solve problems that involve unit analysis and scale. [C,CN,PS,R,T,V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain the process of unit analysis used to solve a problem (e.g., given km/h and time in hours, determine how many km; given revolutions per minute, determine the number of revolutions per second).</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions, using unit analysis, and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, how unit analysis and proportional reasoning are related (e.g., to change km/h to km/min, multiply by 1h/60min because hours and minutes are proportional or have a constant relationship).</p>
+          </indicator>
+          <indicator>
+            <p>Solve, using personal strategies such as applying proportions or interpreting tables, situational questions that involve conversions of units within and between SI and/or imperial systems of measurement (e.g., km to m or km/h to ft/sec).</p>
+          </indicator>
+          <indicator>
+            <p>Describe, using examples, contexts in which scale representations are used.</p>
+          </indicator>
+          <indicator>
+            <p>Determine, using proportional reasoning, the dimensions of objects, given scale drawings or models.</p>
+          </indicator>
+          <indicator>
+            <p>Construct models of 3-D objects, given the scale.</p>
+          </indicator>
+          <indicator>
+            <p>Draw, with or without technology, a scale diagram of 3-D objects.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that involve scale and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the importance of scale in mathematical drawings and/or in situational applications.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA20.11</identifier>
+        <outcome_text>Extend and apply understanding of representing data using graphs including:bar graphshistogramsline graphscircle graphs.</outcome_text>
+        <outcome_text>[C, CN, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions that could be answered using histograms, construct the histogram, and draw conclusions.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and compare sets of bar graphs and histograms.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze sets of data in a variety of contexts to determine and create, with or without technology, possible graphs that could be used to represent the data and explain the advantages and disadvantages of each graph.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement, “All histograms are bar graphs and all bar graphs are histograms."</p>
+          </indicator>
+          <indicator>
+            <p>Analyze graphs including bar graphs, histograms, line graphs, and circle graphs to determine and describe trends.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples:how the same graph can be used to justify more than one conclusionhow different graphic representations of the same data set can be used to emphasize a point of viewwhat happens if the graph is drawn to the wrong scalewhy the graph selected is not reflective of the data set.</p>
+          </indicator>
+          <indicator>
+            <p>Solve, using a variety of strategies including interpolation and extrapolation, contextual problems that involve data analysis and graphs.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

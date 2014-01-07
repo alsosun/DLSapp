@@ -1,0 +1,583 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181796_1</pdf>
+  <banner>mathematics/mathematics6.gif</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>mathematics/mathematics6aimsgoals.htm</goals>
+  <teaching>mathematics/mathematics6teaching.htm</teaching>
+  <curriculum_name>Mathematics 6</curriculum_name>
+  <classification_id>mathematics 6</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Number</goal_heading>
+      <outcome>
+        <identifier>N6.1</identifier>
+        <outcome_text>Demonstrate understanding of place value including:greater than one millionless than one thousandth , with and without technology. [C, CN, R, PS, T]</outcome_text>
+        <outcome_text>
+        </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain, concretely, pictorially, or orally, how numbers larger than one million found in mass media and other contexts are related to one million by referencing place value and/or extending concrete or pictorial representations.</p>
+          </indicator>
+          <indicator>
+            <p>Change the representation of numbers larger than one million given in decimal and word form to place value form (e.g., $1.8 billion would be changed to $1 800 000 000) and vice versa.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, concretely, pictorially, or orally, how numbers smaller than one thousandth found in mass media and other contexts are related to one thousandth by referencing place value and/or extending concrete or pictorial representations.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how the pattern of the place value system (e.g., the repetition of ones, tens, and hundreds), makes it possible to read and write numerals for numbers of any magnitude.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions involving operations on quantities larger than one million or smaller than one thousandth (with the use of technology).</p>
+          </indicator>
+          <indicator>
+            <p>Estimate the solution to a situational question, without the use of technology, involving operations on quantities larger than one million or smaller than one thousandth and explain the strategies used to determine the estimate.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N6.2</identifier>
+        <outcome_text>Demonstrate understanding of factors and multiples (concretely, pictorially, and symbolically) including:determining factors and multiples of numbers less than 100relating factors and multiples to multiplication and divisiondetermining and relating prime and composite numbers.</outcome_text>
+        <outcome_text>[C, CN, ME, PS, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Determine the whole-numbered dimensions of all rectangular regions with a given whole-numbered area and explain how those dimensions are related to the factors of the whole number.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a set of whole-numbered multiples for a given quantity concretely, pictorially, or symbolically and explain the strategy used to create the representation.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how skip counting and multiples are related.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why 0 and 1 are neither prime nor composite.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a whole number to determine if it is a prime number or composite and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the prime factors of a whole number and explain the strategy used to determine the factors.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how the composite factors of a whole number can be determined from the prime factors of the whole number and vice versa.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions involving factors, multiples, and prime factors.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze two whole numbers for their common factors.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze two whole numbers to determine at least one multiple (greater than both whole numbers) that is common to both.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N6.3</identifier>
+        <outcome_text>Demonstrate understanding of the order of operations on whole numbers (excluding exponents) with and without technology. [CN, ME, PS, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain, with the support of examples, why there is a need to have a standardized order of operations.</p>
+          </indicator>
+          <indicator>
+            <p>Verify, by using repeated addition and repeated subtraction for multiplication and division respectively, whether or not the simplification of an expression involving the use of the order of operations is correct.</p>
+          </indicator>
+          <indicator>
+            <p>Verify, by using technology, whether or not the simplification of an expression involving the use of the order of operations is correct.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions involving multiple operations, with and without the use of technology.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the simplification of multiple operation expressions for errors in the application of the order of operations.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N6.4</identifier>
+        <outcome_text>Extend understanding of multiplication and division to decimals (1-digit whole number multipliers and 1-digit natural number divisors). [C, CN, ME, PS, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and describe situations in which multiplication and division of decimals would occur.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, with justification, where the decimal place should be placed in the solution of a multiplication statement.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, with justification, where the decimal place should be placed in the solution of a division statement.</p>
+          </indicator>
+          <indicator>
+            <p>Estimate products and quotients involving decimals.</p>
+          </indicator>
+          <indicator>
+            <p>Develop a generalization about the impact on overall quantity when multiplied by a decimal number between 0 and 1.</p>
+          </indicator>
+          <indicator>
+            <p>Develop a generalization about the impact on overall quantity when a decimal number is divided by a whole number.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a given situational question that involves multiplication and division of decimals, using multipliers from 0 to 9 and divisors from 1 to 9.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N6.5</identifier>
+        <outcome_text>Demonstrate understanding of percent (limited to whole numbers to 100) concretely, pictorially, and symbolically. [C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and describe examples of percents (whole numbered to 100) relevant to self, family, or community, represent the percent concretely or pictorially (possibly physically), and explain what the percent tells about the context in which it is being used.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions, and provide justification for possible decisions, using whole-numbered percents to 100.</p>
+          </indicator>
+          <indicator>
+            <p>Create and explain representations (concrete, visual, or both) that establish relationships between whole number percents to 100, fractions, and decimals.</p>
+          </indicator>
+          <indicator>
+            <p>Write the percent modeled within a concrete or pictorial representation.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why 100 is an important number when relating fractions, percents, and decimals.</p>
+          </indicator>
+          <indicator>
+            <p>Describe a situation in which 0% or 100% might be stated.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N6.6</identifier>
+        <outcome_text>Demonstrate understanding of integers concretely, pictorially, and symbolically. [C, CN, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explore and explain the representation and meaning of negative quantities in First Nations and Métis peoples, past and present.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and describe examples of integers relevant to self, family, or community and explain the meaning of those quantities within the contexts they are found.</p>
+          </indicator>
+          <indicator>
+            <p>Compare two integers and describe their relationship symbolically using &lt;, &gt;, or =.</p>
+          </indicator>
+          <indicator>
+            <p>Represent integers concretely, pictorially, or physically.</p>
+          </indicator>
+          <indicator>
+            <p>Order a set of integers in increasing or decreasing order and explain the reasoning used.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and correct errors in the ordering of integers on a number line.</p>
+          </indicator>
+          <indicator>
+            <p>Extend a given number line by adding numbers less than zero and explain the pattern on each side of zero.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the role of zero within integers and how it is different from other integers.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N6.7</identifier>
+        <outcome_text>Extend understanding of fractions to improper fractions and mixed numbers. [CN, ME, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and describe situations relevant to self, family, or community in which quantities greater than a whole, but which are not whole numbers, occur and describe those situations using either an improper fraction or a mixed number.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate, concretely, pictorially, or physically, how an improper fraction and a mixed number can be used to represent the same quantity.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, with the use of concrete or visual representations, how to express an improper fraction as a mixed number (and vice versa) and write the resulting equality in symbolic form.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the meaning of a given improper fraction or mixed number by setting it into a situation.</p>
+          </indicator>
+          <indicator>
+            <p>Place a set of fractions, including whole numbers, mixed numbers, and improper fractions, on a number line and explain strategies used to determine position.</p>
+          </indicator>
+          <indicator>
+            <p>Respond to the question “Can quantities less than 1 be represented by a mixed number or improper fraction?”.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N6.8</identifier>
+        <outcome_text>Demonstrate an understanding of ratio concretely, pictorially, and symbolically. [C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe situations relevant to self, family, or community which could be described using a ratio, write the ratio, and explain what the ratio means in that situation.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “Ratios and fractions are the same thing”.</p>
+          </indicator>
+          <indicator>
+            <p>Create representations of and compare part/whole and part/part ratios (e.g., from a group of 3 boys and 5 girls, compare the representations boys to girls, boys to entire group, and girls to entire group – 3:5, 3:8, and 5:8 respectively).</p>
+          </indicator>
+          <indicator>
+            <p>Express a ratio in colon and word form.</p>
+          </indicator>
+          <indicator>
+            <p>Describe a situation in which a ratio (given in colon, word, or fractional form) might occur.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions involving ratios (e.g., the ratio of students from a Grade 6 class going to a movie this weekend to those not going to a movie is 15:8. How many students are likely in the class and why?)</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N6.9</identifier>
+        <outcome_text>Research and present how First Nations and Métis peoples, past and present, envision, represent, and use quantity in their lifestyles and worldviews.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Gather and document information regarding the significance and use of quantity for at least one First Nation or Métis peoples from a variety of sources such as Elders and traditional knowledge keepers.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the significance, representation, and use of quantity for different First Nations, Métis peoples, and other cultures.</p>
+          </indicator>
+          <indicator>
+            <p>Communicate to others concretely, pictorially, orally, visually, physically, and/or in writing, what has been learned about the envisioning, representing, and use of quantity by First Nations and Métis peoples and how these understandings parallel, differ from, and enhance one’s own mathematical understandings about numbers.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Patterns and Relationships</goal_heading>
+      <outcome>
+        <identifier>P6.1</identifier>
+        <outcome_text>Extend understanding of patterns and relationships in tables of values and graphs. [C, CN, PS, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create and describe a concrete or visual model of a table of values.</p>
+          </indicator>
+          <indicator>
+            <p>Create a table of values to represent a concrete or visual pattern.</p>
+          </indicator>
+          <indicator>
+            <p>Determine missing values and correct errors found within a table of values and describe the strategy used.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the relationship between consecutive values within each of the columns in a table of values and describe the relationship orally and symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the relationship between the two columns in a table of values and describe the relationship orally and symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Create a table of values for a given equation.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze patterns in a table of values to solve a given situational question.</p>
+          </indicator>
+          <indicator>
+            <p>Translate a concrete, visual, or physical pattern into a table of values and a graph (limit graphs to linear relations with discrete elements).</p>
+          </indicator>
+          <indicator>
+            <p>Describe how a graph and a table of values are related.</p>
+          </indicator>
+          <indicator>
+            <p>Identify errors in the matching of graphs and tables of values and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Describe, using everyday language (orally or in writing), the relationship shown on a graph (limited to linear relations with discrete elements).</p>
+          </indicator>
+          <indicator>
+            <p>Describe a situation that could be represented by a given graph (limited to linear relations with discrete elements).</p>
+          </indicator>
+          <indicator>
+            <p>Research a current or past topic of interest relevant to First Nations and Métis peoples and present the data as a table of values or a graph.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P6.2</identifier>
+        <outcome_text>Extend understanding of preservation of equality concretely, pictorially, physically, and symbolically. [C, CN, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Model, and explain orally, the preservation of equality for addition, subtraction, multiplication, and division concretely (e.g., balances), pictorially, or physically.</p>
+          </indicator>
+          <indicator>
+            <p>Create, and record symbolically, equivalent forms of an equation by applying the preservation of equality (of a single operation) and verify the results concretely or pictorially (e.g., 3b = 12 is the same as 3b + 5 = 12 + 5 or 2r = 7 is the same as 3(2r) = 3(7)).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P6.3</identifier>
+        <outcome_text>Extend understanding of patterns and relationships by using expressions and equations involving variables. [C, CN, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze patterns arising from the determination of perimeter of rectangles and generalize an equation describing a formula for the perimeter of all rectangles.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze patterns arising from the determination of area of rectangles and generalize an equation describing a formula for the area of all rectangles.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and represent geometric patterns and relationships relevant to First Nations and Métis peoples and explain how those patterns or relationships could be represented mathematically.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and justify equations using letter variables that illustrate the commutative property of addition and multiplication (e.g., a + b = b + a or a × b = b × a).</p>
+          </indicator>
+          <indicator>
+            <p>Generalize an expression that describes the relationship between the two columns in a table of values.</p>
+          </indicator>
+          <indicator>
+            <p>Write an equation to represent a table of values.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize an expression or equation that describes the rule for a pattern (e.g., the expression 4d or the equation 2n + 1 = 8).</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples to explain the difference between an expression and an equation, both in terms of what each looks like and what each means.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Shape and Space</goal_heading>
+      <outcome>
+        <identifier>SS6.1</identifier>
+        <outcome_text>Demonstrate understanding of angles including:identifying examples classifying anglesestimating the measuredetermining angle measures in degreesdrawing anglesapplying angle relationships in triangles and quadrilaterals.</outcome_text>
+        <outcome_text>[C, CN, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe, and sort by approximate measure, a set of angles relevant to self, family, or community.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and present how First Nations and Métis peoples, past and present, measure, represent, and use angles in their lifestyles and worldviews.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and apply strategies for sketching angles including 0°, 22.5°, 30°, 45°, 60°, 90°, 180°, 270°, and 360°.</p>
+          </indicator>
+          <indicator>
+            <p>Identify referents for angles of 45°, 90°, and 180° and use the referents to approximate the measure of other angles and to classify the angles as acute, obtuse, straight, or reflex.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the relationship between 0° and 360°.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how measuring an angle is different from measuring a length.</p>
+          </indicator>
+          <indicator>
+            <p>Measure angles in different orientations using a protractor.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and provide examples for different uses of angles, such as the amount of rotation or as the angle of opening between two sides of a polygon.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize a relationship for the sum of the measures of the angles in any triangle.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize a relationship for the sum of the measures of the angles in any quadrilateral.</p>
+          </indicator>
+          <indicator>
+            <p>Provide a visual, concrete, and/or oral informal proof for the sum of the measures of the angles in a quadrilateral being 360° (assuming that the sum of the measures of the angles in a triangle is 180°).</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions involving angles in triangles and quadrilaterals.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS6.2</identifier>
+        <outcome_text>Extend and apply understanding of perimeter of polygons, area of rectangles, and volume of right rectangular prisms (concretely, pictorially, and symbolically) including:relating area to volumecomparing perimeter and areacomparing area and volumegeneralizing strategies and formulaeanalyzing the effect of orientationsolving situational questions.</outcome_text>
+        <outcome_text>[CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Generalize formulae and strategies for determining the perimeter of polygons, including rectangles and squares.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize a formula for determining the area of rectangles.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using models, the relationship between the area of the base of a right rectangular prism and the volume of the same 3-D object.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize a rule (formula) for determining the volume of right rectangular prisms.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the effect of orientation on the perimeter of polygons, area of rectangles, and volume of right rectangular prisms.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a situational question involving the perimeter of polygons, the area of rectangles, and/or the volume of right rectangular prisms.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the following statements using concrete or pictorial models:“For any two right rectangular prisms, the one with the greater volume will be the prism that has the greatest base area”.“For any two rectangles, the rectangle with the greatest perimeter will also have the greatest area”.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS6.3</identifier>
+        <outcome_text>Demonstrate understanding of regular and irregular polygons including:classifying types of trianglescomparing side lengthscomparing angle measuresdifferentiating between regular and irregular polygonsanalyzing for congruence.</outcome_text>
+        <outcome_text>[C, CN, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe examples of polygons, including triangles, found in situations relevant to self, family, or community and sort the polygons into irregular and regular polygons.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the types of triangles (scalene, isosceles, equilateral, right, obtuse, and acute) to determine which, if any, represent regular polygons.</p>
+          </indicator>
+          <indicator>
+            <p>Compare two regular polygons (using superimposing or measuring) to determine whether or not the two polygons are congruent.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a set of regular polygons and a set of irregular polygons to identify the characteristics of regular polygons.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the following statement: “When viewed from different perspectives, the same triangle can be classified in different ways.”</p>
+          </indicator>
+          <indicator>
+            <p>Draw and classify examples of different types of triangles (scalene, isosceles, equilateral, right, obtuse, and acute) and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Replicate a polygon in a different orientation and informally prove that the new polygon is congruent and explain the reasoning.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS6.4</identifier>
+        <outcome_text>Demonstrate understanding of the first quadrant of the Cartesian plane and ordered pairs with whole number coordinates. [C,CN, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain why the axes of the Cartesian plane should be labelled.</p>
+          </indicator>
+          <indicator>
+            <p>Plot a point in the first quadrant of the Cartesian plane given its ordered pair.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the coordinates of the ordered pairs of points that lie on the horizontal axis and generalize a strategy for identifying the ordered pairs of points on the horizontal axis without plotting them.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the coordinates of the ordered pairs of points that lie on the vertical axis and generalize a strategy for identifying the ordered pairs of points on the vertical axis without plotting them.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how to plot points on the Cartesian plane given the scale to be used on the axes (by 1, 2, 5, or 10).</p>
+          </indicator>
+          <indicator>
+            <p>Create a design in the first quadrant of the Cartesian plane, identify the coordinates of points on the design, and write or record orally directions for recreating the design.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize and apply strategies for determining the distance between pairs of points on the same horizontal or vertical line.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS6.5</identifier>
+        <outcome_text>Demonstrate understanding of single, and combinations of, transformations of 2-D shapes (with and without the use of technology) including:identifyingdescribingperforming.</outcome_text>
+        <outcome_text>[C, CN, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and classify different transformations found in situations relevant to self, family, or community.</p>
+          </indicator>
+          <indicator>
+            <p>Model the translation, rotation, or reflection of 2-D shapes.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze 2-D shapes and their respective transformations to determine if the original shapes and their transformed images are congruent.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the resulting image of applying a series of transformations upon a 2-D shape.</p>
+          </indicator>
+          <indicator>
+            <p>Describe a set of transformations, that when applied to a given 2-D shape, would result in a given image.</p>
+          </indicator>
+          <indicator>
+            <p>Verify whether or not a given set of transformations would transform a given 2-D shape into a given image.</p>
+          </indicator>
+          <indicator>
+            <p>Identify designs within situations relevant to self, family, or community that could be described in terms of transformations of one or more 2-D shapes.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a given design created by transforming one or more 2-D shapes, and identify the original shape(s) and the transformations used to create the design.</p>
+          </indicator>
+          <indicator>
+            <p>Create a design using the transformation of two or more 2-D shapes and write, or record orally, instructions that could be followed to reproduce the design.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the creation and use of single and multiple transformations in First Nations and Métis lifestyles (e.g., birch bark biting).</p>
+          </indicator>
+          <indicator>
+            <p>Identify the coordinates of the vertices of a given 2-D shape (limited to the first quadrant of the Cartesian plane).</p>
+          </indicator>
+          <indicator>
+            <p>Perform a transformation on a given 2-D shape and identify the coordinates of the vertices of the image (limited to the first quadrant).</p>
+          </indicator>
+          <indicator>
+            <p>Describe a transformation of a 2-D shape shown in the first quadrant of the Cartesian plane that would result in the image of the 2-D shape also being in the first quadrant.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Statistics and Probability</goal_heading>
+      <outcome>
+        <identifier>SP6.1</identifier>
+        <outcome_text>Extend understanding of data analysis to include:line graphsgraphs of discrete datadata collection through questionnaires, experiments, databases, and electronic mediainterpolation and extrapolation.</outcome_text>
+        <outcome_text>[C, CN, PS, R, V, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain the importance of accurate labelling of line graphs.</p>
+          </indicator>
+          <indicator>
+            <p>Determine whether a set of data should be represented by a line graph (continuous data) or a series of points (discrete data) and explain why.</p>
+          </indicator>
+          <indicator>
+            <p>Describe patterns seen in a given line graph or a graph of discrete data points, and describe a situation that the graph might represent.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a graph (line graph or a graph of discrete data points) to represent data given in a table for a particular situation.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret (through interpolation and extrapolation) the line graph or graphs of discrete data points for a situation to make decisions or solve problems.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and describe situations relevant to self, family, or community in which data might be collected through questionnaires, experiments, databases, or electronic media.</p>
+          </indicator>
+          <indicator>
+            <p>Select a method for collecting data to answer a given question and justify the choice.</p>
+          </indicator>
+          <indicator>
+            <p>Answer a self-generated question by performing an experiment, recording the results, graphing the data, and drawing a conclusion.</p>
+          </indicator>
+          <indicator>
+            <p>Answer a self-generated question using databases or electronic media to collect data, then graphing and interpreting the data to draw a conclusion.</p>
+          </indicator>
+          <indicator>
+            <p>Justify the selection of a type of graph for a set of data collected through questionnaires, experiments, databases, or electronic media.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SP6.2</identifier>
+        <outcome_text>Demonstrate understanding of probability by:determining sample spacedifferentiating between experimental and theoretical probabilitydetermining the theoretical probabilitydetermining the experimental probabilitycomparing experimental and theoretical probabilities.</outcome_text>
+        <outcome_text>[C, PS, R, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe situations relevant to self, family, or community where probabilities are stated and/or used to make decisions.</p>
+          </indicator>
+          <indicator>
+            <p>List the sample space (possible outcomes) for an event (such as the tossing of a coin, rolling of a die with 10 sides, spinning a spinner with five sections, random selection of a classmate for a special activity, or guessing a hidden quantity) and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Explain what a probability of 0 for a specific outcome means by providing an example.</p>
+          </indicator>
+          <indicator>
+            <p>Explain what a probability of 1 for a specific outcome means by providing an example.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and describe examples of the use and importance of probability in traditional and modern games of First Nations and Métis peoples.</p>
+          </indicator>
+          <indicator>
+            <p>Predict the likelihood of a specific outcome occurring in a probability experiment by determining the theoretical probability for the outcome and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the results of a probability experiment to the expected theoretical probabilities.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how theoretical and experimental probabilities are related.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement: “You can determine the sample space for an event by carrying out an experiment.”</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

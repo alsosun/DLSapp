@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181755_1</pdf>
+  <banner>arts/AE2.png</banner>
+  <dark_colour>#0e6bb6</dark_colour>
+  <light_colour>#e7f0f8</light_colour>
+  <goals>arts/artseducation1-5aimsgoals.htm</goals>
+  <teaching>arts/artseducation2teaching.htm</teaching>
+  <curriculum_name>Arts Education 2</curriculum_name>
+  <classification_id>arts education 2</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Creative/Productive (CP)</goal_heading>
+      <outcome>
+        <identifier>CP2.1</identifier>
+        <outcome_text>Create and connect dance phrases using ideas about community as stimuli (e.g., our school, community events, farm life, city life, cultural heritage).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Select and connect movements from explorations to create dance phrases.</p>
+          </indicator>
+          <indicator>
+            <p>Create dance phrases that have a beginning position and an end position.</p>
+          </indicator>
+          <indicator>
+            <p>Extend own body’s range of movement and strength.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and use dance ideas drawn from sources in own community (e.g., occupations, vehicles, or nature in and around our community).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize how various stimuli such as personal observations, stories, poems, music, or objects can be used as starting points for own dance explorations.</p>
+          </indicator>
+          <indicator>
+            <p>Ask questions related to the stimuli to contribute to dance-making inquiry process (e.g., How can we show this idea in our movement?).</p>
+          </indicator>
+          <indicator>
+            <p>Identify and compare characteristics of own and peers’ dances.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect and discuss ideas with peers to help make decisions about own dances.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP2.2</identifier>
+        <outcome_text>Create and connect dance phrases using the elements of dance including: actions (identify variety), body (bases), dynamics (move with varying speeds, duration, forces), relationships (using own words, classify variety of relationships with partner or object such as above, below, beside), space (straight or curved pathways or combinations).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Seek a variety of solutions in movement explorations (improvisation).</p>
+          </indicator>
+          <indicator>
+            <p>Observe the motion of objects and people and incorporate these observations in movement explorations.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and solve movement problems, or inquiry questions, in several different ways (e.g., How many different ways can we use the scarves or streamers in straight pathways and curved pathways?).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate and discuss how movement patterns can repeat and contrast.</p>
+          </indicator>
+          <indicator>
+            <p>Identify how various parts of the body can act as a base to support the rest of the body (e.g., supporting the body with one foot and one hand).</p>
+          </indicator>
+          <indicator>
+            <p>Identify and investigate different kinds of locomotor (travelling) and non-locomotor actions, and explore a variety of ways to walk, run, leap, slide, gallop, jump, hop, turn, twist, bend, stretch, and pause.</p>
+          </indicator>
+          <indicator>
+            <p>Move with a variety of speeds (fast and slow), duration (short and long), and varying forces (push and pull, strong and light) for expressive purposes.</p>
+          </indicator>
+          <indicator>
+            <p>
+              Classify even and uneven rhythmic patterns of various movements.</p>
+          </indicator>
+          <indicator>
+            <p>Use straight or curved pathways or combinations of both in movement explorations.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and identify a variety of directions, levels, sizes, and shapes in personal and general space.</p>
+          </indicator>
+          <indicator>
+            <p>Using own words, classify and investigate movement relationships with a partner or an object (e.g., beside, behind, above, below).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP2.3</identifier>
+        <outcome_text>Adopt roles and collaborate with others in role within dramatic contexts, using community as inspiration (e.g., contexts inspired by local stories and songs, photographs of local people and places, or events from real or fictional communities).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate a willingness to enter into the fiction provided by the drama.</p>
+          </indicator>
+          <indicator>
+            <p>Adopt roles in dramatic situations and interact appropriately with others in roles drawing on imagination and own understanding of the context (e.g., community).</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate with others and recognize the need to work together within dramatic contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Listen to and respect the contributions of others.</p>
+          </indicator>
+          <indicator>
+            <p>Use imagination to explore various possibilities in dramatic contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Accept surprises in the drama and be willing to incorporate new information into unfolding episodes of the contextual drama.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss how some roles may display more power and authority than others at different times during the drama (e.g., Max’s mother displays power over him when she sends him to bed, and Max displays his own power when he becomes King on the Wild Things’ island community in a drama inspired by ‘Where the Wild Things Are’).</p>
+          </indicator>
+          <indicator>
+            <p>Use observations of own community as inspiration when working in and out of role (e.g., local rodeo event or farmers’ conversation on coffee row).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP2.4</identifier>
+        <outcome_text>Contribute ideas when engaged in a variety of drama strategies (e.g., role, parallel play, journeys, meetings) and during periods of reflection.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use inquiry processes to explore a question or topic that is of individual or group interest for contextual drama (e.g., questions and research about how animals change in winter might inspire a drama about an animal community preparing for a harsh winter).</p>
+          </indicator>
+          <indicator>
+            <p>Use libraries, resource people, the Internet, and other sources of information for drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the main ideas of each dramatic episode.</p>
+          </indicator>
+          <indicator>
+            <p>Use visual images and language to represent ideas, both in and out of role.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize, with guidance, how characters/roles, objects, and places can represent ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Recall and respond to the drama work, both in and out of role.</p>
+          </indicator>
+          <indicator>
+            <p>Contribute to drama discussions with stories of own experience (e.g., talk about connections among thoughts, feelings, and actions).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss how strategies such as role, flashback, or tableau worked in the drama and begin to use the correct terminology.</p>
+          </indicator>
+          <indicator>
+            <p>Use strategies other than discussion to reflect on drama work (e.g., use tableaux to recall the time order of the sequence of events, or use drawings or flashbacks to further explore previous experience).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate use of imagination when exploring various possibilities in dramatic contexts.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP2.5</identifier>
+        <outcome_text>Create sound compositions using communities as inspiration.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Experiment with a variety of simple found objects and selected instruments, both pitched and unpitched (e.g., two notes on a xylophone vs. sounds that have no discernible pitch, such as a tambourine or slapping a thigh).</p>
+          </indicator>
+          <indicator>
+            <p>Describe the elemental characteristics of sounds from a variety of settings in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Make distinctions between different voices and voice qualities in speech and song.</p>
+          </indicator>
+          <indicator>
+            <p>Sing and create songs and chants using ideas sourced from the students’ communities (e.g., songs about farms, cities, or the environment) and from various cultural communities, controlling breathing, pitch, rhythm, and dynamics.</p>
+          </indicator>
+          <indicator>
+            <p>Describe sources of ideas for music compositions (e.g., sounds of machines, parks, playgrounds, or neighbourhoods).</p>
+          </indicator>
+          <indicator>
+            <p>Make decisions (individually and collaboratively) about ideas, sounds, instruments, and order in creating a music expression.</p>
+          </indicator>
+          <indicator>
+            <p>Select and create sounds for composition with purpose, recognizing that different combinations of instruments, voices, or sound objects create different effects.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss images and expressive qualities evoked by music expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Use reflection and discussion to learn and make decisions about own music expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Describe decisions made in selection and use of sounds, instruments, and order.</p>
+          </indicator>
+          <indicator>
+            <p>Experiment with invented and traditional notation as a way of preserving compositions, recognizing that sounds/music may be represented through a variety of notation devices.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP2.6</identifier>
+        <outcome_text>Create and perform music that demonstrates understanding of: form (repetition and contrast), beat (strong and weak beats/accents) and meter (2/4 and 4/4), rhythm (create ostinati), tempo (fast/slow paces), dynamics (loud/soft), pitch (high/low sounds) and pitch direction (moving up/down/staying the same), texture (layers of sounds), tone colour (variety).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Contribute to music inquiry questions and processes to explore form and the elements of music (e.g., How could each group represent AB (i.e., binary) form using voices, bodies, or instruments in different ways?).</p>
+          </indicator>
+          <indicator>
+            <p>Explore contrasts between sounds with voice and instruments.</p>
+          </indicator>
+          <indicator>
+            <p>Incorporate different sounds from a single sound source in music compositions.</p>
+          </indicator>
+          <indicator>
+            <p>Maintain a steady beat (pulse) and identify accents with a strong movement.</p>
+          </indicator>
+          <indicator>
+            <p>Perform and create various grade-appropriate melodic and rhythmic osintati (patterns) using repetition and contrast.</p>
+          </indicator>
+          <indicator>
+            <p>Compare and use different tempos (fast/slow, faster/slower paces) and dynamics (loud/soft, louder/softer sounds) in speech and music.</p>
+          </indicator>
+          <indicator>
+            <p>Compare and use different pitches (high/low sounds) and pitch direction (moving up/down, staying the same) in speech and music.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate various ways of creating harmony (combining pitch and rhythm) and texture, and recognize differences in sounds heard alone and sounds heard together.</p>
+          </indicator>
+          <indicator>
+            <p>Compare and use varieties of tone colour/timbre in speech and music.</p>
+          </indicator>
+          <indicator>
+            <p>Use own words, and music terminology, to develop common understanding and use of the language (e.g., introduce terminology such as rhythm, dynamics, pitch as required in grade-appropriate repertoire).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP2.7</identifier>
+        <outcome_text>Create visual art works that draw on observations and express ideas about own communities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use inquiry processes to explore a question or topic related to interest in own community.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and represent details in the appearance of plants, animals, people, and objects (e.g., lines, textures, shapes, shadows).</p>
+          </indicator>
+          <indicator>
+            <p>Explore size relationships by measuring using non-standard referents or comparisons.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the difference between two dimensions and three dimensions.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and observe how people, animals, and objects look different from different points of view.</p>
+          </indicator>
+          <indicator>
+            <p>Compare differing ideas in art works, including own and peers’ visual expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how ideas for visual expressions come from many different sources.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect and discuss to help make decisions about own art works.</p>
+          </indicator>
+          <indicator>
+            <p>Identify sources of inspiration and describe decisions made in creating own art works</p>
+          </indicator>
+          <indicator>
+            <p>Recognize, with guidance, how own visual images communicate non-verbally.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP2.8</identifier>
+        <outcome_text>Create art works using a variety of visual art concepts (e.g., secondary colours), forms (e.g., collage, drawing, painting, sculpture, mobile, traditional art), and media (e.g., paper, found objects, paint, crayons).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Make basic decisions about own methods (e.g., scratching into the surface) and materials (e.g., fabrics, found objects).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate safety, co-ordination, and skills in using simple visual art tools and materials.</p>
+          </indicator>
+          <indicator>
+            <p>Classify a large variety of lines using own words (e.g., wavy, jagged) and apply in own work.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate how secondary colours are created when combining two primary colours.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and illustrate how the same colour can be light or dark.</p>
+          </indicator>
+          <indicator>
+            <p>Classify different kinds of textures using own words (e.g., rough, smooth, soft) and apply observations to own work.</p>
+          </indicator>
+          <indicator>
+            <p>Classify different kinds of shapes using own words (e.g., rounded, lumpy, square) and apply to own work.</p>
+          </indicator>
+          <indicator>
+            <p>Identify basic forms such as cubes and spheres, and recognize that forms have space all around them.</p>
+          </indicator>
+          <indicator>
+            <p>Classify different kinds of patterns using own words (e.g., striped, dotted, mixed up) and apply to own work.</p>
+          </indicator>
+          <indicator>
+            <p>Identify examples of contrast in own surroundings and in art works.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and represent the position of objects relative to other objects (e.g., space and size).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Critical/Responsive (CR)</goal_heading>
+      <outcome>
+        <identifier>CR2.1</identifier>
+        <outcome_text>Examine arts expressions to determine how ideas for arts expressions may come from artists’ own communities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe or infer how art works are created for a variety of reasons.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss, with guidance, how the arts tell something about the society or community in which they were created.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that an audience will not see or hear everything in an arts expression at first introduction.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate sensitivity to differing responses and interpretations, recognizing that not everyone responds the same way to a work of art.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and describe how artists and their work affect our visual environment and other forms of daily interactions (e.g., graphic design, radio, media, clothing).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and discuss why arts expressions are created in various communities (e.g., purpose for traditional Ukrainian dances).</p>
+          </indicator>
+          <indicator>
+            <p>Respond to arts expressions in own communities, both verbally and non-verbally.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR2.2</identifier>
+        <outcome_text>Use inquiry and technology to investigate a variety of arts expressions.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use libraries, community resources, and the Internet as sources of information about artists and their work.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate various arts expressions in own communities, throughout the world, and in different eras (e.g., pyramids, cathedrals, public sculptures) using technology.</p>
+          </indicator>
+          <indicator>
+            <p>Pose questions about the arts and determine which questions are compelling enough to investigate as a group (e.g., Who are the artists who live, or have lived, in our community? What does, or did, their work say about our community?).</p>
+          </indicator>
+          <indicator>
+            <p>Plan how to answer some or all of the questions posed as a whole group or in small groups.</p>
+          </indicator>
+          <indicator>
+            <p>Locate information about the arts from various sources (e.g., interviews, books, local resource people, the Internet).</p>
+          </indicator>
+          <indicator>
+            <p>Manage information discovered about the arts using different methods including technology (e.g., audio recorders, portfolios of pictures, word processors).</p>
+          </indicator>
+          <indicator>
+            <p>Document and share collaborative inquiry findings with other students or with a community audience.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Cultural/Historical (CH)</goal_heading>
+      <outcome>
+        <identifier>CH2.1</identifier>
+        <outcome_text>Identify key features of arts and cultural traditions in own community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe how, from earliest times, human beings have influenced their communities through the creation of arts expressions (e.g., architecture, music, theatre, storytelling, and dance).</p>
+          </indicator>
+          <indicator>
+            <p>Respond to a variety of arts expressions (e.g., contemporary, historical, cultural, and popular) in own communities (i.e., local, geographic, cultural).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize there are a variety of arts expressions in Saskatchewan (e.g., film, dance, theatre, music, photography, graphic design, sculpture, architecture).</p>
+          </indicator>
+          <indicator>
+            <p>View and listen to the work of artists from various cultural groups.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how people in own community participate in the arts in a variety of ways.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the arts and cultural traditions found in own community.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and analyze key features of arts and cultural traditions found in own community (e.g., heritage dances, country music bands, children’s theatre productions).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CH2.2</identifier>
+        <outcome_text>Describe key features of traditional arts expressions of Saskatchewan First Nations and Métis artists.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Compare differences among traditional arts expressions (e.g., Métis sash weaving, porcupine quillwork, and beadwork designs).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the distinct characteristics of First Nations and Métis dances and dance regalia including connections to history (e.g., historic banning of traditional dance and other cultural practices).</p>
+          </indicator>
+          <indicator>
+            <p>Identify characteristics of individual dance styles (e.g., grass dance vs. traditional or fancy dance, Métis jigging).</p>
+          </indicator>
+          <indicator>
+            <p>Identify characteristics of traditional music styles (e.g., traditional powwow music, Métis fiddling).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

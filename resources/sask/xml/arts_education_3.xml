@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181756_1</pdf>
+  <banner>arts/AE3.png</banner>
+  <dark_colour>#0e6bb6</dark_colour>
+  <light_colour>#e7f0f8</light_colour>
+  <goals>arts/artseducation1-5aimsgoals.htm</goals>
+  <teaching>arts/artseducation3teaching.htm</teaching>
+  <curriculum_name>Arts Education 3</curriculum_name>
+  <classification_id>arts education 3</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Creative/Productive (CP)</goal_heading>
+      <outcome>
+        <identifier>CP3.1</identifier>
+        <outcome_text>Generate a variety of alternatives and solutions in movement explorations (improvisation) using the environment (e.g., natural, constructed, imagined) as stimuli.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Generate ideas for stimuli as starting points for dance compositions (e.g., plant growth in science, lines in a poem, music, personal experience, tradition, memory).</p>
+          </indicator>
+          <indicator>
+            <p>Ask questions about the stimuli to contribute to dance-making inquiry (e.g., How else could we represent that same feeling in movement?).</p>
+          </indicator>
+          <indicator>
+            <p>Create a wide variety of movements to a given stimuli.</p>
+          </indicator>
+          <indicator>
+            <p>Generate a range of alternatives for representing movement ideas and solving movement problems.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on which movements worked best and adjust own work accordingly.</p>
+          </indicator>
+          <p>Combine movements into dance phrases that have a beginning position, a middle, and end position.</p>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP3.2</identifier>
+        <outcome_text>Create dance phrases and sequences that demonstrate understanding of the elements of dance including:actions (five basic jumps)body (zones and areas)dynamics (extremes of speed, duration, varying forces)relationships (range)space (create and recall combinations of pathways and directions).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Generate movements in order to represent own movement ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Apply knowledge of body zones including right side, left side, front, back, upper half, and lower half to own movements.</p>
+          </indicator>
+          <indicator>
+            <p>Apply a wide variety of actions including the five basic jumps of leap, hop, jump (from two feet to land on two feet), sissone (from two feet to land on one foot), and assemble (from one foot to land on two feet).</p>
+          </indicator>
+          <indicator>
+            <p>Apply a variety of dynamics including moving with the extremes of speed (fast and slow), duration (short and long), and varying forces (strong and light).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate that energy is on a continuum of a little to a lot and apply to own movement explorations and dances.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate ways of grouping speed and duration to form rhythmic patterns.</p>
+          </indicator>
+          <indicator>
+            <p>Apply a range of relationships to dance compositions (e.g., beside, above, in front, behind).</p>
+          </indicator>
+          <indicator>
+            <p>Create and recall a variety of combinations of straight and curved pathways on the floor, and illustrate differences.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP3.3</identifier>
+        <outcome_text>Sustain roles in dramatic situations and accept/respond to others in role, using the environment (e.g., natural, constructed, imagined) as inspiration.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate commitment to roles and the fiction represented in the dramatic situation (i.e., suspend disbelief).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate ability to maintain a role throughout one or more dramatic episodes.</p>
+          </indicator>
+          <indicator>
+            <p>Respond appropriately and imaginatively to others in role to further the dramatic work.</p>
+          </indicator>
+          <indicator>
+            <p>Use language purposefully when speaking and writing in role.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP3.4</identifier>
+        <outcome_text>Use imagination, a variety of drama strategies, and reflection to further the drama’s development.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Support contributions to drama discussions with stories of own or community experience.</p>
+          </indicator>
+          <indicator>
+            <p>Work together within dramatic contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss advantages of working collaboratively.</p>
+          </indicator>
+          <indicator>
+            <p>Ask questions to contribute to inquiry of the topic through drama (e.g., What could we do to find out how different people would feel and react in that situation?).</p>
+          </indicator>
+          <indicator>
+            <p>Listen at all times within a drama and discuss how this behaviour contributes to the drama’s success.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate respect for the contributions of others.</p>
+          </indicator>
+          <indicator>
+            <p>Use imagination to explore various possibilities in dramatic contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate confidence in using a variety of strategies within dramatic situations.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP3.5</identifier>
+        <outcome_text>Demonstrate basic skills in use of voice and a variety of sound objects and instruments (traditional and/or homemade) using the environment (e.g., natural, constructed, imagined) as inspiration.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Make considered choices to express ideas using a variety of sound objects and instruments.</p>
+          </indicator>
+          <indicator>
+            <p>Play a variety of sound objects and instruments with expression.</p>
+          </indicator>
+          <indicator>
+            <p>Match pitch, and sing grade-appropriate songs with accurate rhythm and expression.</p>
+          </indicator>
+          <indicator>
+            <p>Create vocal and instrumental compositions, and investigate questions and music concepts through collaborative inquiry (e.g., How could we represent the mood or feeling of that environment in our music composition? How could we combine our voices and these instruments to represent the change in the weather? How could we play this part of the composition to better represent an approaching storm?).</p>
+          </indicator>
+          <indicator>
+            <p>Experiment with contrasting tempos and dynamics to represent different ideas about the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Improvise melodic phrases to represent different ideas about the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Record own sound compositions using simple representations of the sounds (e.g., drawings, invented or traditional notation).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP3.6</identifier>
+        <outcome_text>Create and perform music (vocal and instrumental) that demonstrates knowledge of:form (repeated or contrasting phrases: call/response, question/answer, rounds)rhythm (interplay of beat, tempo, and patterns of duration)pitch (combining pitch and rhythm to form melody)dynamics (levels of loud/soft)texture (combining and layering sounds)tone colour (differentiate).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>
+              <Story />Create rhythmic and/or vocal answers to rhythmic and/or vocal questions (call and response).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how beats are/can be systematically grouped into twos, threes, and combinations and multiples of twos and threes.</p>
+          </indicator>
+          <indicator>
+            <p>Imitate and create repeated and contrasting rhythmic phrases in simple metres (e.g., 2/4, 4/4).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate questions arising from inquiry into the elements of music and form (e.g., How many different ways can we play that same pattern?).</p>
+          </indicator>
+          <indicator>
+            <p>Apply understanding of tempo recognizing that music may move relatively fast or slow.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate and apply understanding of dynamics recognizing that sounds may differ in levels of loud/soft (dynamics) in speech and music.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate and apply understanding of rhythm and patterns of duration (i.e., groupings of longer and shorter sounds and silences).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate ways of combining pitch and rhythm to form melody in music.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate ways of creating texture in music (i.e., the combining and layering of sounds that creates the fabric or texture of music).</p>
+          </indicator>
+          <indicator>
+            <p>Explore and differentiate between different timbres of instruments.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP3.7</identifier>
+        <outcome_text>Create visual art works that express ideas about the natural, constructed, and imagined environments.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Generate questions that arise from the investigation of a topic or area of interest to initiate inquiry (e.g., How have different artists represented plant life in visual art works and book illustrations?).</p>
+          </indicator>
+          <indicator>
+            <p>Develop a plan to visually explore selected question(s) (e.g., observe and draw, gather research information, imagine and paint).</p>
+          </indicator>
+          <indicator>
+            <p>Use guided Internet searches to investigate how artists represent the environment in different ways.</p>
+          </indicator>
+          <indicator>
+            <p>Explore inquiry questions visually (e.g., What are some unique characteristics of plant growth? How could we create our own representations of plant growth using different styles of art?).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss how the plan and visual exploration is evolving, and adjust decisions accordingly.</p>
+          </indicator>
+          <indicator>
+            <p>Use guided Internet searches to investigate how artists use different art forms and media to express their ideas.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP3.8</identifier>
+        <outcome_text>Create art works using a variety of visual art concepts (e.g., contour lines), forms (e.g., drawing, sculpture), and media (e.g., pencils, pastels, found objects).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe visual details, and include details to enhance depictions of animals, people, and objects.</p>
+          </indicator>
+          <indicator>
+            <p>Apply understanding of contour lines to form the outline of an object.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate relationships of colours on the colour wheel.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate ways to change a colour’s value by adding white or black.</p>
+          </indicator>
+          <indicator>
+            <p>Use three-dimensional materials such as clay to create real textures.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize circles, squares, triangles, and rectangles as geometric shapes and apply this knowledge to art work.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize cubes, cylinders, and spheres as geometric forms and apply this knowledge to art work.</p>
+          </indicator>
+          <indicator>
+            <p>Identify formal and informal patterns in own surroundings and art works.</p>
+          </indicator>
+          <indicator>
+            <p>Identify examples of contrast in own surroundings and in art works.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Critical/Responsive (CR)</goal_heading>
+      <outcome>
+        <identifier>CR3.1</identifier>
+        <outcome_text>Describe ideas and problem-solving processes used in own arts expressions.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and describe how arts expressions make them think and feel.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss ideas for own arts expressions incorporating personal interests and experience.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss own and group inquiry and creative problem-solving processes (e.g., the paint kept getting muddy so I cleaned my brush more often; the troll was bossy in the beginning; my partner and I thought it would look better if we jumped at the same time; we couldn’t hear the voices so we played softer).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR3.2</identifier>
+        <outcome_text>Respond to arts expressions that use the environment (natural, constructed, imagined) as inspiration.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate ways that arts expressions can represent ideas and convey meaning verbally and non-verbally (e.g., music that conveys a mood; dance that conveys ideas about bullying; drama that conveys ideas about compassion; visual art work or graphic that conveys a social message).</p>
+          </indicator>
+          <indicator>
+            <p>Use own words to demonstrate awareness of arts languages and creative processes.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss with peers varying interpretations of the same arts expression, recognizing that not everyone responds the same way.</p>
+          </indicator>
+          <indicator>
+            <p>Create an arts expression in response to, or in the same style as, a professional artist and identify connections to the original work.</p>
+          </indicator>
+          <indicator>
+            <p>Respond to arts expressions in various ways such as verbally, through movement, music, or drawing.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Cultural/Historical (CH)</goal_heading>
+      <outcome>
+        <identifier>CH3.1</identifier>
+        <outcome_text>Compare how arts expressions from various groups and communities may be a reflection of their unique environment (e.g., North and South Saskatchewan, urban and rural).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate many different kinds of arts expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Share information about an artist working in own community through individual research or collaborative inquiry.</p>
+          </indicator>
+          <indicator>
+            <p>Conduct research and guided Internet searches for information about Saskatchewan artists.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how an arts expression tells something about the community and culture in which it was created (e.g., heritage harvest dances).</p>
+          </indicator>
+          <indicator>
+            <p>Describe ways that people of various cultures in own and surrounding communities participate in the arts and discuss why they do so.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CH3.2</identifier>
+        <outcome_text>Demonstrate an awareness of traditional and evolving arts expressions of Saskatchewan First Nations and Métis artists in own communities or regions.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Share information about the arts expressions of Saskatchewan First Nations and Métis artists gained through individual research or collaborative inquiry.</p>
+          </indicator>
+          <indicator>
+            <p>Describe, using own words, key features of arts expressions by Saskatchewan First Nations and Métis artists in own community and beyond.</p>
+          </indicator>
+          <indicator>
+            <p>Perform songs, music, and dances of various styles as appropriate (e.g., invite in community resource people to ensure protocols are followed).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and describe distinctions between various arts styles (e.g., Métis fiddling vs. powwow music, round dance vs. jingle dance).</p>
+          </indicator>
+          <indicator>
+            <p>Observe, listen to, and inquire about First Nations and Métis arts and protocols related to arts expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate arts expressions of First Nations and Métis artists whose work speaks to the relationship between people, the land, and environment.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

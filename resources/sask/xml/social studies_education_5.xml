@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181938_1</pdf>
+  <banner>social/SS5.png</banner>
+  <dark_colour>#8f3b67</dark_colour>
+  <light_colour>#e9d8e1</light_colour>
+  <goals>social/socialstudies1-5aimsgoals.htm</goals>
+  <teaching>social/socialstudies5teaching.htm</teaching>
+  <curriculum_name>Social Studies 5</curriculum_name>
+  <classification_id>social studies 5</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Interactions and Interdependence of Nations (IN)</goal_heading>
+      <outcome>
+        <identifier>IN5.1</identifier>
+        <outcome_text>Demonstrate an understanding of the Aboriginal heritage of Canada.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Locate on a map traditional First Nations and Inuit habitation areas in the era prior to European arrival, including the Northwest Pacific Coast, Interior Plateau, Plains, Eastern Woodland, Sub Arctic, and Arctic.</p>
+          </indicator>
+          <indicator>
+            <p>Research similarities and differences in ways of life among First Nations and Inuit communities prior to European contact (e.g., men’s roles, women’s roles, children’s roles).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the significant events and principle First Nations and Inuit leaders prior to and during the period of initial contact with Europeans .</p>
+          </indicator>
+          <indicator>
+            <p>Assess the coming together of First Nations peoples with the French and British explorers and settlers, including the effect of the fur trade on the First Nations and the Métis in early C</p>
+          </indicator>
+          <indicator>
+            <p>Trace the evolution of the Métis in Canada, including their origins, language, and major historical events (e.g., the Métis of Red River, the North West Resistance).</p>
+          </indicator>
+          <indicator>
+            <p>Paraphrase a traditional narrative about the origins of the First Nations or Inuit peoples, about the relationship with the natural environment, and connections between spirituality and the natural environment.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IN5.2</identifier>
+        <outcome_text>Analyze the evolution of Canada as a multicultural nation.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe Canada’s historical and current demographics, including population numbers, age, and location.</p>
+          </indicator>
+          <indicator>
+            <p>Identify trends and challenges in Canada’s demographics.</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate between refugees and immigrants.</p>
+          </indicator>
+          <indicator>
+            <p>Explain what motivates newcomers to move to Canada (e.g., entrepreneurship, employment, family reunification, refuge, education, reputation as a good place to live).</p>
+          </indicator>
+          <indicator>
+            <p>Undertake an inquiry which compares the immigration policies and practices of the 19th century to those of the current era, and assess the results of those policies and practices.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the goals of various ethnic and cultural advocacy organizations in Canada, including First Nations, Inuit, and Métis organizations, as well as organizations supporting new immigrants to Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the historic origins of a variety of place names in Canada, and investigate the reason for the naming.</p>
+          </indicator>
+          <indicator>
+            <p>Graphically display the country of origin of immigrants to Canada in the 19th and 21st centuries, and account for similarities and differences in the two eras.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the Canadian government treatment of various groups of immigrants to Canada (e.g., Chinese immigrants in the 1800s, Japanese Canadians in the 1930s and 1940s, Eastern European immigrants in the late 19th and early 20th century).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Dynamic Relationships (DR)</goal_heading>
+      <outcome>
+        <identifier>DR5.1</identifier>
+        <outcome_text>Analyze the historic and contemporary relationship of people to land in Canada.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Distinguish between physical and political maps and investigate the application of mapping and data management (i.e., geographic information systems) technology.</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate between Canada’s various geopolitical constructs, including a country, a province, and a municipality.</p>
+          </indicator>
+          <indicator>
+            <p>Outline the predominant physical features of the regions of Canada, including the Western Cordilleran, Interior Plains, Canadian Shield, Great Lakes/St. Lawrence Lowlands, Appalachian, and Arctic/Innuitian regions (e.g., vegetation zones, resources, bodies of water, and principal landforms).</p>
+          </indicator>
+          <indicator>
+            <p>Undertake an inquiry investigating the relationship between Canada’s physical geographic features and the population distribution.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the meaning and origin of a variety of Canadian symbols and consider the purposes of such symbols (e.g., coat of arms, motto, flag, beaver, feather, drum, RCMP, national anthem).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate reasons for western expansion of Canada in the 19th and early 20th centuries, and the consequences of the expansion.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR5.2</identifier>
+        <outcome_text>Assess the impact of the environment on the lives of people living in Canada.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe the climate of different regions of Canada, and investigate how population distribution in Canada is related to climate, resources, and topographical features.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how different traditional worldviews of Earth affect the use of resources in Canada (e.g., Aboriginal and European attitudes toward ownership, Treaties, Crown land, homesteads, and the seigniorial system).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the relationship of various First Nations peoples with the environment, including economic relationships, migration, and settlement patterns prior to Confederation.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR5.3</identifier>
+        <outcome_text>Identify the European influence on pre-confederation Canadian society.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Plot the principal voyages and experiences of the first European explorers who came to what is now Canada, and discuss the impact of voyages on the societies encountered (e.g., Cabot, Cartier, Champlain, Hudson, Kelsey, Fraser, Hearn, Mathieu Da Costa).</p>
+          </indicator>
+          <indicator>
+            <p>Identify the social and cultural characteristics of New France (e.g., the influence of missionaries and of the Catholic Church; music; dance).</p>
+          </indicator>
+          <indicator>
+            <p>Recount the major events during the transition from French rule to British rule in what is now Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the life of Acadians in early Canada, and describe the reasons for and results of the Acadian deportation.</p>
+          </indicator>
+          <indicator>
+            <p>Show how trade influenced the establishment of the first communities in Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Explore the relationship between the British, First Nations, and the French in what is now Canada between 1760 and 1867, including the influence of culture, governance, and the imperial relationship with Britain.</p>
+          </indicator>
+          <indicator>
+            <p>Determine how the British Empire affected the lives of British settlers, French-Canadians, First Nations, Inuit, and Métis in pre-confederation Canadian society.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the influence of the United Empire Loyalists on Canadian society, and reasons for the Loyalist migration to Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Undertake an inquiry to determine how the fur trade affected the peoples of Canada.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Power and Authority (PA)</goal_heading>
+      <outcome>
+        <identifier>PA5.1</identifier>
+        <outcome_text>Describe Canada’s political evolution.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate the territorial evolution of Canada from 1608-1867, and from 1867 to the current era.</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate between the status of a province and a territory in the Canadian confederation.</p>
+          </indicator>
+          <indicator>
+            <p>Identify on a map each province and territory, indicate the year each joined Confederation, and investigate the circumstances and reasons for joining in the united Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the purpose of a constitution, and describe the importance of the British North America Act of 1867 and the Constitution Act and Charter of Rights and Freedoms of 1982.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the push-pull factors that motivated various cultural groups immigrating to Canada during the 18th and 19th centuries (e.g., building of the railway, fleeing famine or religious oppression, gold rushes).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA5.2</identifier>
+        <outcome_text>Explain the purposes and functions of governance structures in Canada, including First Nations systems and those patterned on the Westminster parliamentary system.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent, in graphic format, the structure of various levels of government in Canada, including municipal, First Nations, provincial, territorial, and federal governments.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the structure of First Nations governments in Canada, using accurate terminology (e.g., elected chief, hereditary chief, band, band council, treaty, self-government, Assembly of First Nations).</p>
+          </indicator>
+          <indicator>
+            <p>Develop an understanding of the functions of the following governance bodies and the role of those in leadership positions: House of Commons, Senate, Governor General, Prime Minister, member of the federal parliament, government minister.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA5.3</identifier>
+        <outcome_text>Develop an understanding of the nature of the treaty relationship between First Nations and Canada’s federal government.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain what a treaty is, and the purpose of a treaty.</p>
+          </indicator>
+          <indicator>
+            <p>Affirm that all Saskatchewan residents are treaty people.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the spirit and intent of the treaties from the perspective of the Crown and the First Nations in Western Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Undertake an inquiry to examine the extent to which treaty promises have been met by parties to the treaties, and why the fulfillment of treaty obligations is important for all Canadians</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Resources and Wealth (RW)</goal_heading>
+      <outcome>
+        <identifier>RW5.1</identifier>
+        <outcome_text>Explain the importance of sustainable management of the environment to Canada’s future.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Differentiate between renewable resources (e.g., forests, fish, water) and non-renewable resources (e.g., oil, minerals).</p>
+          </indicator>
+          <indicator>
+            <p>Create an inventory of current non-sustainable practices (e.g., presence of plastics, packaging, dumping of waste into river systems).</p>
+          </indicator>
+          <indicator>
+            <p>List the possible consequences of non-sustainable practices related to the use of resources (e.g., lack of resources for future generations, endangered species, climate change).</p>
+          </indicator>
+          <indicator>
+            <p>Taking one resource as an example, illustrate how resource use and the extraction process of the resource affects the environment (e.g., forests, tar sands, coal, uranium, potash).</p>
+          </indicator>
+          <indicator>
+            <p>Give examples of policies and actions that contribute to sustainability (e.g., water conservation, informed decisions by consumers, reusing materials).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RW5.2</identifier>
+        <outcome_text>Hypothesize about economic changes that Canada may experience in the future.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Using factual data and statistics, predict the future demographic make-up of Canada (e.g., growth in senior citizen population, Aboriginal population, rates of immigration, birth rates, rural depopulation).</p>
+          </indicator>
+          <indicator>
+            <p>Describe the effect the movement of people has on local and provincial communities.</p>
+          </indicator>
+          <indicator>
+            <p>Predict which industries will be of future significance in Canada using factual information, statistics, and other data to support your prediction.</p>
+          </indicator>
+          <indicator>
+            <p>Give examples of possible changes in Canada’s principal industries (e.g., large agricultural companies replacing family farms; the importance of technological industries).</p>
+          </indicator>
+          <indicator>
+            <p>Speculate upon how contrasting worldviews toward the natural environment may affect the use of resources.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

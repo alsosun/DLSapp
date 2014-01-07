@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181696_1</pdf>
+  <banner>health/HE3.png</banner>
+  <dark_colour>#9bc4b2</dark_colour>
+  <light_colour>#ebf3f0</light_colour>
+  <goals>health/healtheducation3aimsgoals.htm</goals>
+  <teaching>health/healtheducation3teaching.htm</teaching>
+  <curriculum_name>Health Education 3</curriculum_name>
+  <classification_id>health education 3</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Understanding, Skills, and Confidences (USC</goal_heading>
+      <outcome>
+        <identifier>USC3.1</identifier>
+        <outcome_text>Determine the role of a variety of healthy foods and physical activity on the health and development of the mind, body, and immune system.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate the basic role of the immune system (i.e., to fight illness and/or infection).</p>
+          </indicator>
+          <indicator>
+            <p>Develop common and respectful language to talk about immunity (e.g., germ, virus, vaccinations, antibodies).</p>
+          </indicator>
+          <indicator>
+            <p>Predict and then investigate what happens if the immune system is not healthy/not working properly.</p>
+          </indicator>
+          <indicator>
+            <p>Describe what makes and keeps the body, mind, and immune system healthy.</p>
+          </indicator>
+          <indicator>
+            <p>Begin to distinguish between fact, opinions, misconceptions, and preferences regarding healthy foods and physical activity</p>
+          </indicator>
+          <indicator>
+            <p>Examine the roles of diet and physical activity on a healthy mind, body, and immune system.</p>
+          </indicator>
+          <indicator>
+            <p>Determine that foods provide essential nutrients for health (see introduction to Canada’s Food Guide).</p>
+          </indicator>
+          <indicator>
+            <p>Predict and recognize how food choices have a direct impact on the types and amounts of nutrients absorbed by the body.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze personal food choices for possible consequences on the mind and body (e.g., sugary foods lead to tooth decay, water makes it easier to concentrate).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC3.2</identifier>
+        <outcome_text>Examine the spiritual dimension of the “inner self” and determine the importance of nurturing it.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explore and discuss ideas and questions which are of particular importance/interest but cannot easily be understood (e.g., “Why do we dream?”, “What happens to pets after they die?”).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate common definitions of the “inner self” (e.g., quiet awareness of who one really is and one’s reason for being).</p>
+          </indicator>
+          <indicator>
+            <p>Develop respectful language sometimes used to describe the “inner self” (e.g., soul, spirit).</p>
+          </indicator>
+          <indicator>
+            <p>Determine the “inner self” as the centre of thoughts and feelings that guide/influence personal behaviour.</p>
+          </indicator>
+          <indicator>
+            <p>Examine and respond to stories that include depictions of spirit/soul.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the “inner self” as that which is important but only visible to others if chosen to be (e.g., ideas such as “It matters more who you are on the inside than how you look on the outside”).</p>
+          </indicator>
+          <indicator>
+            <p>Participate in experiences designed to increase one’s sense of connection to others and other life forms (e.g., carefully observing the natural world, class rituals focused on appreciating each class member, participating in cultural activities).</p>
+          </indicator>
+          <indicator>
+            <p>Expand and deepen personal interests and appreciation for all that life has to offer (e.g., observing animals and insects, collecting leaves or stones, exploring ways clouds are unique, wondering and learning about the origins of rain).</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between thoughts, feelings, and actions that nourish or damage one’s “inner self”.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC3.3</identifier>
+        <outcome_text>Determine how the misuse of helpful and the use of harmful substances (including tobacco) affect the health of self and others.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop common and respectful language often used to talk about substances (e.g., tobacco, vitamins, medicine, drugs).</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on what is believed/known to be healthy and/or unhealthy regarding substances.</p>
+          </indicator>
+          <indicator>
+            <p>Examine common misconceptions (e.g., alcohol is not a drug) regarding substance use and abuse.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and respond to, with guidance, information about helpful and harmful substances, including medicines, vitamins, drugs, tobacco, and foods.</p>
+          </indicator>
+          <indicator>
+            <p>Clarify the difference between ceremonial tobacco within First Nations and Métis cultures and the commercial/recreational use of tobacco.</p>
+          </indicator>
+          <indicator>
+            <p>Explore how certain substances (e.g., vitamins for growth and development, medicines to treat ailments of the body and mind, tobacco, sweetgrass, sage, or cedar for ceremonial purposes such as smudging or pipe ceremonies) are used to nurture one’s health.</p>
+          </indicator>
+          <indicator>
+            <p>Describe situations when helpful substances may become harmful (e.g., medicines are harmful if not taken as directed by the doctor).</p>
+          </indicator>
+          <indicator>
+            <p>Compare a variety of prescription/non-prescription and legal/illegal substances (e.g., pain relief medications, cough syrup, alcohol, tobacco, marijuana, vitamins).</p>
+          </indicator>
+          <indicator>
+            <p>Examine how drugs (e.g., pain medication, alcohol, tobacco, marijuana) may affect the health of self and others.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC3.4</identifier>
+        <outcome_text>Understand what it means to contribute to the health of self, family and home.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop common and respectful language often used to talk about families (e.g., kinship, parents, caregivers, siblings).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate various definitions of “home” (e.g., a place where one lives with other family members).</p>
+          </indicator>
+          <indicator>
+            <p>Observe and reflect on the kinds of communication in the home and its impact on the health of the family and/or the home.</p>
+          </indicator>
+          <indicator>
+            <p>Become aware of the diversity in families (e.g., two-parent, single-parent, foster, extended, same-sex).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize characteristics of healthy homes/healthy families (e.g., commitment to each other; effective family communication; appreciation of all family members; quantity and quality of time together).</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of individual family members’ roles, including those of self, that contribute to the physical, mental, emotional, and spiritual health of the family and the home.</p>
+          </indicator>
+          <indicator>
+            <p>Examine if an individual can be healthy in an unhealthy home and vice versa.</p>
+          </indicator>
+          <indicator>
+            <p>Propose what can be done to make a home and the family healthier.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC3.5</identifier>
+        <outcome_text>Evaluate safe behaviours/practices to increase the safety of self and others while at home.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Review the meaning of “risk” (see USC 2.5).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and describe potential safety risks (including chemicals/ poisons, vehicles/machinery, electricity, fires, second-hand smoke, uncomfortable situations) at home (i.e., in the house/apartment and in the yard).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate ways (e.g., plan ahead; follow the safety rules; stop, look, and listen; ask a trusted adult) to identify and assess the risk of potentially dangerous situations.</p>
+          </indicator>
+          <indicator>
+            <p>Categorize a variety of identified risks as preventable, avoidable, or “reducible”.</p>
+          </indicator>
+          <indicator>
+            <p>Give examples of effective safety strategies (e.g., annual check/battery change of smoke detectors, important emergency contact numbers listed by phone, no passengers on equipment [i.e., lawnmowers]) to address possible safety risks at home.</p>
+          </indicator>
+          <indicator>
+            <p>Determine ways to prevent/avoid/reduce the safety risks at home (e.g., poisons stored in safe location, establish safety plans).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and outline personal/family safety practices at home (e.g., fire plans, important phone numbers posted, not smoking in the house/apartment).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize ways of obtaining help/support regarding safety at home.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC3.6</identifier>
+        <outcome_text>Distinguish between examples of real violence (e.g., schoolyard fights, shaking a baby, bullying) and fictional violence (e.g., cartoons, world wrestling entertainment, video games) and determine the influence of both on health and well-being.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop common and respectful language often used to talk about violence and abuse.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on what is known/believed about violence in communities.</p>
+          </indicator>
+          <indicator>
+            <p>Determine that violence can by physical, emotional, and/or sexual.</p>
+          </indicator>
+          <indicator>
+            <p>Describe types of violence and abuse including physical (e.g., punching, kicking), sexual (e.g., inappropriate touching), and emotional (e.g., name-calling, exclusion, cyber-bullying).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that physical, sexual, and emotional violence are behaviours that hurt or destroy people, places, or things.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss examples of fictional violence (e.g., movies, video games, cartoons, world wrestling entertainment).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the influence of mass media on perceptions of violence (e.g., difficult to distinguish fiction from non-fiction, what is ‘normal’).</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish the effects of violence on the mind, body, and spirit (e.g., fear, bruises, self-doubt, hopelessness).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize violent and non-violent and/or harmful and non-harmful behaviours and the impact on self and others.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Decision Making (DM)</goal_heading>
+      <outcome>
+        <identifier>DM3.1</identifier>
+        <outcome_text>Demonstrate the importance of investigating information for making informed decisions related to healthy foods and physical activity, one’s “inner self”, helpful and harmful substances, healthy family and home, safety at home, and impact of violence.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Critique decisions made by someone (e.g., community situation, character in a story) who did not investigate the information/facts before making a decision, and compare it to those made by people who did.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the kinds of information to gather and investigate for making healthy decisions.</p>
+          </indicator>
+          <indicator>
+            <p>Examine sources of information/misinformation in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate situations that require emergency safety services (e.g., calling 911 if someone is unconscious) and those that are not emergencies but do require some safety supports (e.g., going to a trusted neighbour if you arrive home after school and no one is home).</p>
+          </indicator>
+          <indicator>
+            <p>Connect what is understood about asking for/receiving help (see DM2.1) to the importance of investigating information for informed decision-making.</p>
+          </indicator>
+          <indicator>
+            <p>Identify opportunities to be healthier based on the investigation of information.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Action Planning (AP)</goal_heading>
+      <outcome>
+        <identifier>AP3.1</identifier>
+        <outcome_text>Use the understandings, skills, and confidences related to healthy foods and physical activity, one’s “inner self”, helpful and harmful substances, healthy family and home, safety at home, and impact of violence.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Review the kinds of healthy action that students have demonstrated.</p>
+          </indicator>
+          <indicator>
+            <p>Plan to act based on the knowledge and information that has been investigated.</p>
+          </indicator>
+          <indicator>
+            <p>Document and report on the action that was taken in order to guide further action.</p>
+          </indicator>
+          <indicator>
+            <p>Represent and communicate what was learned from the action (e.g., What did I do well? What can I do differently to guide further actions?).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

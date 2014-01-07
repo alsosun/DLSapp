@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-197593_1</pdf>
+  <banner>career/GraphicArts2030.png</banner>
+  <dark_colour>#a24c3d</dark_colour>
+  <light_colour>#ecdbd8</light_colour>
+  <goals>paa/graphicartsaimsgoals.htm</goals>
+  <teaching>paa/graphicartsteaching.htm</teaching>
+  <curriculum_name>Graphic Arts 20, 30</curriculum_name>
+  <classification_id>Graphic Arts 20 30</classification_id>
+  <module_overview_chart>https://www.edonline.sk.ca/bbcswebdav/xid-197593_1#page=17</module_overview_chart>
+  <outcomes>
+    <goal_section collapsable="true">
+      <goal_heading>Graphic Arts 30</goal_heading>
+      <outcome>
+        <identifier>Module 1</identifier>
+        <outcome_text labeled="true">Demonstrate an understanding of graphic arts through investigating the history, the present, and potential innovations in the future.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Construct a definition of graphic arts through research and discussion.</p>
+          </indicator>
+          <indicator>
+            <p>Research and demonstrate a personal and shared understanding of the need for graphic arts as communication.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and describe the historical development of aspects of graphic design such as typography.</p>
+          </indicator>
+          <indicator>
+            <p>Explore a variety of media (e.g., websites, books, advertisements) to identify components of effective graphic design.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 2B</identifier>
+        <outcome_text labeled="true">Continue to develop understanding and utilization of the elements and principles of design in personal work.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create or assemble a collection of images including critiques to demonstrate a personal understanding of the elements and principles of design.</p>
+          </indicator>
+          <indicator>
+            <p>Develop a rubric through collaboration to assess project work (self, peer, other) regarding the use of elements and principles of design.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 3B</identifier>
+        <outcome_text labeled="true">Continue to develop and display a deeper understanding through the demonstration of layout on personal projects.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate a personal understanding of the components of layout through assembling a collection of images.</p>
+          </indicator>
+          <indicator>
+            <p>Develop a rubric through collaboration to assess project work (self, peer, other) regarding the components of layout.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 4B</identifier>
+        <outcome_text labeled="true">Demonstrate effective use of typography in communicating a message.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Select fonts which complement each other and justify these choices based on predetermined criteria.</p>
+          </indicator>
+          <indicator>
+            <p>Combine varieties of type with images to produce an effective message.</p>
+          </indicator>
+          <indicator>
+            <p>Create an illustration through the manipulation of type.</p>
+          </indicator>
+          <indicator>
+            <p>Manipulate and/or modify text (e.g., rasterize, pencil and paper) to increase its effectiveness and enhance an intended message.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 5B</identifier>
+        <outcome_text labeled="true">Demonstrate how the use of colour influences visual communication.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop and demonstrate an understanding of how colour influences emotion and mood.</p>
+          </indicator>
+          <indicator>
+            <p>Incorporate colour as an effective element of a personal project and include a justification of the colour choices.</p>
+          </indicator>
+          <indicator>
+            <p>Create a critique based on the impact and effective use of colour.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 8</identifier>
+        <outcome_text labeled="true">Clearly articulate a planning process to develop a graphic design.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop and articulate an understanding of the purpose and techniques of storyboards and thumbnail sketches.</p>
+          </indicator>
+          <indicator>
+            <p>Explore various planning techniques such as storyboarding and thumbnail sketches for a given or selected theme.</p>
+          </indicator>
+          <indicator>
+            <p>Define the target audience for the project (e.g., children, families, seniors).</p>
+          </indicator>
+          <indicator>
+            <p>Create a storyboard or thumbnail sketch.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 9B</identifier>
+        <outcome_text labeled="true">Create a project, showcasing graphic designs, which incorporates elements and principles of design, layout, colour, and typography.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Brainstorm a number of project ideas individually and as a group.</p>
+          </indicator>
+          <indicator>
+            <p>Create a basic design message for an identifiable audience.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the elements of the communication strategy.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and use assessments of the project from both personal and peer perspectives.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 10B</identifier>
+        <outcome_text labeled="true">Demonstrate increasing proficiency in creating a traditional block print using a raised or incised surface.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create an original design using the elements and principles of design.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the ability to separate a design into three or more colour blocks.</p>
+          </indicator>
+          <indicator>
+            <p>Research transfer methods and select one to create a plate.</p>
+          </indicator>
+          <indicator>
+            <p>Register and print the plate on a variety of surfaces.</p>
+          </indicator>
+          <indicator>
+            <p>Create an edition of a product such as cards, posters, or a pattern on textiles.</p>
+          </indicator>
+          <indicator>
+            <p>Participate in the development and application of a personal and peer critique with assessment of products.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 11B</identifier>
+        <outcome_text labeled="true">Create a series of multi-colour prints using traditional methods including registration.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Prepare two or more stencils using a selected process (e.g., hand-cut, photo emulsion, or other process) to create a composite image.</p>
+          </indicator>
+          <indicator>
+            <p>Use a registration process to ensure different colours are aligned.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstate increasing proficiency when producing a series of prints.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 12B</identifier>
+        <outcome_text labeled="true">Demonstrate increasing proficiency when producing airbrushed prints with respect to image development and production.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate mastery of the start-stop stroke.</p>
+          </indicator>
+          <indicator>
+            <p>Select and utilize a variety of attachments to complete specific tasks.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate increasing proficiency of techniques to produce effects such as: creating of very dense lines and broad, diffuse lines, producing flat even tones in a masked area, creating of a graded tone in a masked area, using a frisket to show blending and sharp edge methods.</p>
+          </indicator>
+          <indicator>
+            <p>Participate in the creation and use of an assessment device such as a rubric for peer and self-assessment.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 15</identifier>
+        <outcome_text labeled="true">Communicate a message through drawing basic characters which may include a series of events.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research and create a character development including basic anatomy and proportions of various cartoon types (e.g., manga, superheroes, Disney).</p>
+          </indicator>
+          <indicator>
+            <p>Sketch a character in various poses (e.g., sitting, standing), moods (e.g., joyous, upset) , and angles (e.g., front, back, worm’s eye view, bird’s eye view, foreshortening).</p>
+          </indicator>
+          <indicator>
+            <p>Create a defined character (e.g., quick, arrogant, helpful).</p>
+          </indicator>
+          <indicator>
+            <p>Draw frames utilizing one, two, and three point perspective.</p>
+          </indicator>
+          <indicator>
+            <p>Develop visual ideas further through the use of storyboarding or thumbnail sketches.</p>
+          </indicator>
+          <indicator>
+            <p>Explore simple animation through pencil drawing or utilizing software.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 16B</identifier>
+        <outcome_text labeled="true">Explore 3-D animation as a means to enhance the message of a graphic design project.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Design some basic 3-D shapes and forms (e.g., cylinders, cubes, pyramids).</p>
+          </indicator>
+          <indicator>
+            <p>Utilize the basic 3-D shapes to create a set (e.g., room, playground, forest).</p>
+          </indicator>
+          <indicator>
+            <p>Understand and demonstrate the use of light sources and camera positions to create visual interest.</p>
+          </indicator>
+          <indicator>
+            <p>Develop a storyboard, character(s), and set as described in Module 16A.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how the intended message is enhanced by incorporating the 12 principles of animation.</p>
+          </indicator>
+          <indicator>
+            <p>Animate the project.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and use a rubric for peer and self-assessment of the project including how animation enhances the effectiveness the message.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 17</identifier>
+        <outcome_text labeled="true">Utilize stop-action as a means to enhance the message of a graphic design project.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate how to incorporate the 12 principles of animation into a project.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the rich history of stop-action animation.</p>
+          </indicator>
+          <indicator>
+            <p>Design and construct a character and a set from a storyboard.</p>
+          </indicator>
+          <indicator>
+            <p>Utilize a digital image capture device to record the action.</p>
+          </indicator>
+          <indicator>
+            <p>Use appropriate software to edit and finalize the project.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and use a rubric for self and peer assessment of the project including how animation enhances the effectiveness the message.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 19B</identifier>
+        <outcome_text labeled="true">Discuss and reflect on the need for societal standards (e.g., legal, ethical, and community norms and values) and cultural sensitivity in media.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Formulate a list of societal standards in relation to sexism, racism, and homophobia, and support the list with positive media examples.</p>
+          </indicator>
+          <indicator>
+            <p>Create a strategy for the inclusion of appropriate language, content, and images reflective of societal standards in personal, class, and school projects and assignments.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and discuss some issues regarding the posting of images on the web including safety, possible consequences, and permanence of web postings.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 21</identifier>
+        <outcome_text labeled="true">Recognize how school-based skills development will be used to meet workplace expectations.</outcome_text>
+        <outcome_note>Note: Work Study is used to prepare students for employment through specific skill development within a workplace. The number of work study opportunities is equal to the number of courses available in the curriculum area at the 20 and 30 level.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Obtain a list of roles and responsibilities of the workplace.</p>
+          </indicator>
+          <indicator>
+            <p>Brainstorm a list of factors which may affect workplace performance.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss effective and positive verbal and non-verbal communication in the workplace.</p>
+          </indicator>
+          <indicator>
+            <p>Develop a resumé that can be forwarded to a potential employer.</p>
+          </indicator>
+          <indicator>
+            <p>Practise effective interview techniques based on established guidelines (e.g., the greeting, the exchange, and the parting).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 22</identifier>
+        <outcome_text labeled="true">Gain experience in the world of work in the graphic arts industry to make informed choices about careers by expanding career research and exploration beyond the classroom.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop an awareness of career opportunities in Saskatchewan and beyond.</p>
+          </indicator>
+          <indicator>
+            <p>Gain an opportunity for the development of entry-level workplace skills that may lead to sustainable employment in the graphic arts industry.</p>
+          </indicator>
+          <indicator>
+            <p>Establish standards of work performance acceptable to the student and employer.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and report on essential skills and employability skills as they relate to a selected work environment.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 23</identifier>
+        <outcome_text labeled="true">Reflect and report on the work experience including, but not limited to, hours of work, personal relationships, employer expectations, evaluation criteria, and overall personal performance.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Design and participate in an exit interview with the workplace.</p>
+          </indicator>
+          <indicator>
+            <p>Prepare and present a report on the work study experience including aspects such as: expected hours of work, dress code, job description, employer expectations, employer evaluation process, absent and late policies, personal relationships, problem solving, communication between employees and with the employer.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 99B</identifier>
+        <outcome_text>Note: The extended study module may be used only once in each 100-hour course. In the Student Data System, record 99A for the first extended study module offered in the course series and, if needed, 99B for the second.</outcome_text>
+        <indicators>
+          <indicator>
+            <b>Module Overview:</b>
+            <p>Evolving societal and personal needs, advances in technology, and demands to solve current problems require a flexible curriculum that can accommodate new ways and means to support learning in the future. The extended study module is designed to provide schools and teachers with an opportunity to meet current and future demands not provided for in current modules in the Graphic Arts curriculum. This flexibility allows a school or teacher to design one new module per credit to complement or extend the study of the core and optional modules to meet the specific needs of students or the community. The extended study module is designed to extend the content of the pure courses and to offer survey course modules beyond the scope of the available selection of the Graphic Arts modules. The list of possibilities for topics of study or projects for an extended study is as varied as the imagination of those involved in using the module. The optional extended study module guidelines should be used to strengthen the knowledge, skills, and processes advocated in the Graphic Arts curriculum. For more information on the guidelines for the extended study module, see the Practical and Applied Arts Handbook.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

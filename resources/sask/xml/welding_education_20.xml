@@ -1,0 +1,270 @@
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181860_1</pdf>
+  <outcomes>
+    <goal_section collapsable="true">
+      <goal_heading>Welding 20</goal_heading>
+      <outcome>
+        <identifier>Module 2</identifier>
+        <outcome_text labeled="true">Work safely with properly maintained safety equipment in an organized environment.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Express knowledge of safe handling of materials according to WHMIS, using materials safety data sheets (MSDS).</p>
+          </indicator>
+          <indicator>
+            <p>Research and discuss Occupational Health and Safety regulations which apply to the welding industry.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and apply safe and fair work practices including freedom from violence and harassment.</p>
+          </indicator>
+          <indicator>
+            <p>Complete an assessment of all safety and welding equipment and, in consultation with the instructor, perform maintenance to repair or replace defective or worn parts.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 4</identifier>
+        <outcome_text labeled="true">Assess the condition of and the maintenance of tools used in the welding shop.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate the proper method for cleaning weld-spattered tools.</p>
+          </indicator>
+          <indicator>
+            <p>Assess and report any potential faults with electrical cords and receptacles.</p>
+          </indicator>
+          <indicator>
+            <p>Repair or replace welding-distorted surfaces on benches or table tops in consultation with the instructor.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the proper techniques to remove and replace saw blades.</p>
+          </indicator>
+          <indicator>
+            <p>Identify potential maintenance issues with hand and power tools and consult with the instructor to determine a solution.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 7A</identifier>
+        <outcome_text labeled="true">Demonstrate use of an oxy-acetylene torch to make specified cuts.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Cut straight lines on 3⁄8” mild steel.</p>
+          </indicator>
+          <indicator>
+            <p>Complete bevel cuts on 3⁄8” mild steel.</p>
+          </indicator>
+          <indicator>
+            <p>Cut holes and circles on 3⁄8” mild steel.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 10</identifier>
+        <outcome_text labeled="true">Effectively use oxy-acetylene equipment to increase the quality of the specified welds.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Perform and analyze a variety of specified welds, including butt weld, edge weld, and lines of fusion.</p>
+          </indicator>
+          <indicator>
+            <p>Compare and chart personal progress to identify increasing skill.</p>
+          </indicator>
+          <indicator>
+            <p>Assess personal technique and document results in consultation with the instructor.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 11B</identifier>
+        <outcome_text labeled="true">Demonstrate increasing proficiency in oxy-acetylene welding skills.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Perform a butt weld using filler rod, in the flat position, on gauge mild steel ensuring 100% penetration.</p>
+          </indicator>
+          <indicator>
+            <p>Perform a butt weld using filler rod, in the vertical position, on gauge mild steel.</p>
+          </indicator>
+          <indicator>
+            <p>Perform a lap weld using filler rod, in the flat position, on gauge mild steel; overlap by half.</p>
+          </indicator>
+          <indicator>
+            <p>Assess personal technique and document results in consultation with the instructor.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 13</identifier>
+        <outcome_text labeled="true">Effectively use plasma arc cutting equipment to cut metal of various thicknesses and types.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and describe safety considerations for appropriate use of plasma arc cutting equipment.</p>
+          </indicator>
+          <indicator>
+            <p>Correctly use plasma arc cutting equipment to perform various cuts specified by the instructor.</p>
+          </indicator>
+          <indicator>
+            <p>Verify the correct pressure settings and techniques to safely cut ferrous and non-ferrous metals of given thicknesses.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 20A</identifier>
+        <outcome_text labeled="true">Perform intermediate arc welding skills with increasing competency.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Perform a lap weld on ¼” mild steel using 7014, 7018, and 6010 electrodes.</p>
+          </indicator>
+          <indicator>
+            <p>Perform an outside corner weld (horizontal and vertical fillet on ¼” mild steel) using 7018 electrode.</p>
+          </indicator>
+          <indicator>
+            <p>Perform horizontal fillets (¼” and 3⁄8” multi-pass on ¼” mild steel) using 7014, 7018, and 7024 electrodes.</p>
+          </indicator>
+          <indicator>
+            <p>Perform a butt weld flat (single pass; 6010 electrode; 75% penetration on ¼” mild steel).</p>
+          </indicator>
+          <indicator>
+            <p>Perform a 3⁄8” vee butt flat (introductory only; 6010 root, 7018 fill and cap).</p>
+          </indicator>
+          <indicator>
+            <p>Compare and chart personal progress to identify increasing skill.</p>
+          </indicator>
+          <indicator>
+            <p>Assess personal technique and results in consultation with the instructor.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 21A</identifier>
+        <outcome_text labeled="true">Construct an introductory assigned or approved arc welding project.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Utilize the following guidelines to complete a project:Generate different project ideas, Plan and manage the project including assessment criteria in consultation with the instructor., Plan and use drawings with appropriate symbols, Set a procedural sequence, Prepare a material list and cost estimate, Create a timeline, Determine fabrication techniques, Cut material and set up in the proper sequence, Complete each part as specified, Interpret and follow directions, Adhere to timelines, Work cooperatively, Follow all safety requirements, Follow all handling and storing procedures, Fulfill cleanup and tool maintenance responsibilities, Present the completed project and complete a self-assessment based on the criteria for the project.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 25B</identifier>
+        <outcome_text labeled="true">Demonstrate and explain the importance of employing the correct start-up and shut-down procedures for GMAW equipment.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Review personal protective equipment (PPE) standards for usage.</p>
+          </indicator>
+          <indicator>
+            <p>Adjust the machine for appropriate wire speed, voltage, and amperage.</p>
+          </indicator>
+          <indicator>
+            <p>Turn on shielding gas and describe the reading on the flow meter.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the correct start-up and shut-down procedures, including checking and cleaning up the work station.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 26</identifier>
+        <outcome_text labeled="true">Demonstrate knowledge of the care and maintenance of welding tools and equipment.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate proper use of GMAW equipment assembly including disassembly of welding gun, adjustment of flow meter, and wire selection and installation.</p>
+          </indicator>
+          <indicator>
+            <p>Safely operate hand tools, power hand tools, and power equipment.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 27B</identifier>
+        <outcome_text labeled="true">Develop increasing skill using GMAW equipment.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Perform a horizontal fillet on 14 gauge steel.</p>
+          </indicator>
+          <indicator>
+            <p>Perform a horizontal lap on 14 gauge steel.</p>
+          </indicator>
+          <indicator>
+            <p>Perform a lap weld on ¼” mild steel.</p>
+          </indicator>
+          <indicator>
+            <p>Perform horizontal fillets (¼” and 3⁄8” multi-pass on ¼” mild steel; short circuit transfer).</p>
+          </indicator>
+          <indicator>
+            <p>Perform horizontal fillets (¼” and 3⁄8” multi-pass on ¼” mild steel; spray transfer).</p>
+          </indicator>
+          <indicator>
+            <p>Compare and chart personal progress to identify increasing skill.</p>
+          </indicator>
+          <indicator>
+            <p>Assess personal technique and results in consultation with the instructor.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 31A</identifier>
+        <outcome_text labeled="true">Recognize how school-based skills development will be used to meet workplace expectations.</outcome_text>
+        <outcome_note>Note: Work Study is used to prepare students for employment through specific skill development within a workplace. The number of work study opportunities is equal to the number of courses available in the curriculum area at the 20 and 30 level.</outcome_note>
+        <outcome_note>Note: For more information about implementing work study in schools, see the Work-based Learning Guidelines for the Practical and Applied Arts included in the Practical and Applied Arts Handbook. In collaboration with the cooperating employer, the training plan for the student should be designed to relate to the outcomes of the course modules chosen.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Obtain a list of roles and responsibilities of the workplace.</p>
+          </indicator>
+          <indicator>
+            <p>Brainstorm a list of factors which may affect workplace performance.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss effective and positive verbal and non-verbal communication.</p>
+          </indicator>
+          <indicator>
+            <p>Develop a résumé which can be forwarded to a potential employer.</p>
+          </indicator>
+          <indicator>
+            <p>Practise effective interview techniques based on established guidelines including the greeting, the exchange, and the parting.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 32A</identifier>
+        <outcome_text labeled="true">Gain experience in the world of work to make more informed choices about careers by expanding the career research and exploration beyond the classroom.</outcome_text>
+        <outcome_note>Note: For more information about implementing work study in schools, see the Work-based Learning Guidelines for the Practical and Applied Arts included in the Practical and Applied Arts Handbook. In collaboration with the cooperating employer, the training plan for the student should be designed to relate to the outcomes of the course modules chosen.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Develop an awareness of career and opportunities in Saskatchewan and possibly other provinces.</p>
+          </indicator>
+          <indicator>
+            <p>Gain an opportunity for the development of entry level workplace skills that may lead to sustainable employment.</p>
+          </indicator>
+          <indicator>
+            <p>Establish standards of work performance acceptable to the student and employer</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the required skills and perform the duties expected by the employer.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and report on essential skills and employability skills as they relate to a work environment.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 33A</identifier>
+        <outcome_text labeled="true">Reflect and report on the work experience including but not limited to hours of work, personal relationships, employer expectations, evaluation criteria, and overall personal performance.</outcome_text>
+        <outcome_note>Note: For more information about implementing work study in schools, see the Work-based Learning Guidelines for the Practical and Applied Arts included in the Practical and Applied Arts Handbook. In collaboration with the cooperating employer, the training plan for the student should be designed to relate to the outcomes of the course modules chosen.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Design and participate in an exit interview with the workplace.</p>
+          </indicator>
+          <indicator>
+            <p>Prepare and present a report on the work study experience including aspects such as:Expected hours of work, Dress code and personal protective equipment (PPE), Job description, Employer expectations, Absence and late policies, Problem solving, Communication.,</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 99 B</identifier>
+        <outcome_text>Note: The extended study module may be used only once in each 100 hour course. In the Student Data System record 99A for the first extended study module offered in the course series and, if needed, 99B for the second, 99C for the third, and 99D for the fourth.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Module Overview: Evolving societal and personal needs, advances in technology, and demands to solve current problems require a flexible curriculum that can accommodate new ways and means to support learning in the future. The extended study module is designed to provide schools and teachers with an opportunity to meet current and future demands not provided for in current modules of the PAA curriculum. This flexibility allows a school or teacher to design one new module per credit to complement or extend the study of the core and optional modules to meet the specific needs of students or the community. The extended study module is designed to extend the content of the pure courses and to offer survey course modules beyond the scope of the available selection of PAA modules, either in depth or breadth. The list of possibilities for topics of study or projects for the extended study module approach is as varied as the imagination of those involved in using the module. The extended study module guidelines should be used to strengthen the knowledge, skills, and processes advocated in the PAA curriculum. For more information on the guidelines for the Extended Study module, see the Practical and Applied Arts Handbook.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

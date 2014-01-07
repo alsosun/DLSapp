@@ -1,0 +1,510 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181795_1</pdf>
+  <banner>mathematics/mathematics5.gif</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>mathematics/mathematics5aimsgoals.htm</goals>
+  <teaching>mathematics/mathematics5teaching.htm</teaching>
+  <curriculum_name>Mathematics 5</curriculum_name>
+  <classification_id>mathematics 5</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Number</goal_heading>
+      <outcome>
+        <identifier>N5.1</identifier>
+        <outcome_text>Represent, compare, and describe whole numbers to 1 000 000 within the contexts of place value and the base ten system, and quantity. [C, CN, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Write and say the numeral for a quantity using proper spacing without commas and without the word “and” (e.g., 934 567, nine hundred thirty-four thousand five hundred sixty-seven).</p>
+          </indicator>
+          <indicator>
+            <p>Critique the way numbers have been said or numerals written in examples of whole numbers found in various types of media and personal conversations, and provide reasons for why certain errors in speech or writing might occur.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the patterns related to quantity and place value of adjacent digit positions moving from right to left within a whole number.</p>
+          </indicator>
+          <indicator>
+            <p>Visualize and explain concrete or pictorial models for the place value positions of 100 000 and 1 000 000.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the meaning of quantities to 1 000 000 by relating them to self, family, or community and explain the contribution each successive numeral position makes to the actual quantity.</p>
+          </indicator>
+          <indicator>
+            <p>Pose and solve problems that explore the quantity of whole numbers to 1 000 000 (e.g., a student might wonder: “How does the population of my community compare to those of surrounding communities?”).</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of large numbers used in print or electronic media and explain the meaning of the numbers in the context used.</p>
+          </indicator>
+          <indicator>
+            <p>Visualize a representation of a given numeral and explain how the representation is related to the numeral’s expanded form.</p>
+          </indicator>
+          <indicator>
+            <p>Express a given numeral in expanded notation (e.g., 45 321 = (4 x 10 000) + (5 x 1000) + (3 x 100) + (2 x 10) + (1 x 1) or 40 000 + 5000 + 300 + 20 + 1) and explain how the expanded notation shows the total quantity represented by the given numeral.</p>
+          </indicator>
+          <indicator>
+            <p>Compare and order examples of whole numbers found in various types of media and print.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N5.2</identifier>
+        <outcome_text>Analyze models of, develop strategies for, and carry out multiplication of whole numbers. [C, CN,ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe mental mathematics strategies used to determine multiplication facts to 81 (e.g., skip counting from a known fact, doubling, halving, 9s patterns, repeated doubling, or repeated halving).</p>
+          </indicator>
+          <indicator>
+            <p>Explain concretely, pictorially, or orally why multiplying by zero produces a product of zero.</p>
+          </indicator>
+          <indicator>
+            <p>Recall multiplication facts to 81 including within problem solving and calculations of larger products.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize and apply strategies for multiplying two whole numbers when one factor is a multiple of 10, 100, or 1000.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize and apply halving and doubling strategies to determine a product involving at least one two-digit factor.</p>
+          </indicator>
+          <indicator>
+            <p>Apply and explain the use of the distributive property to determine a product involving multiplying factors that are close to multiples of 10.</p>
+          </indicator>
+          <indicator>
+            <p>Model multiplying two 2-digit factors using an array, base ten blocks, or an area model, record the process symbolically, and describe the connections between the models and the symbolic recording.</p>
+          </indicator>
+          <indicator>
+            <p>Pose a problem which requires the multiplication of 2-digit numbers and explain the strategies used to multiply the numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate, concretely, pictorially, and symbolically, the distributive property using expanded notation and partial products (e.g., 36 x 42 = (30 +6) x (40+2) = 30 x 40 + 6 x 40 +30 x 2 + 6 x 2).</p>
+          </indicator>
+          <indicator>
+            <p>Explain and justify strategies used when multiplying 2-digit numbers symbolically.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N5.3</identifier>
+        <outcome_text>Demonstrate, with and without concrete materials, an understanding of division (3-digit by 1-digit) and interpret remainders to solve problems. [C, CN, PS, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify situations in one’s life, family, or community in which division might be used and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Model the division process as equal sharing or equal grouping using various models and record the resulting process symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Explain concretely, pictorially, or orally why division by zero is not possible or undefined (e.g., 8 ÷ 0 is undefined or not possible to determine).</p>
+          </indicator>
+          <indicator>
+            <p>Generalize, relate, and apply concrete, pictorial, and symbolic strategies for dividing 3-digit whole numbers by 1-digit whole numbers.</p>
+          </indicator>
+          <indicator>
+            <p>Justify the choice of what to do with a remainder for a quotient depending upon the situation:disregard the remainder (e.g., dividing 22 books among 4 students)round up the quotient (e.g., the number of five passenger cars required to transport 13 people)express remainders as fractions (e.g., five apples shared by two people)express remainders as decimals (e.g., measurement and money).</p>
+          </indicator>
+          <indicator>
+            <p>Solve a division problem that is relevant to self, family, or community using personal strategies and record the process symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Recall the division facts to a dividend of 81 including in problem-solving situations.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N5.4</identifier>
+        <outcome_text>Develop and apply personal strategies for estimation and computation including:front-end roundingcompensationcompatible numbers.</outcome_text>
+        <outcome_text>[C, CN, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe a situation relevant to self, family, or community for when estimation is used to:make predictionscheck reasonableness of an answerdetermine approximate answers.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and use strategies to estimate the results of whole-number computations and to judge the reasonableness of such results.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “an estimate is never good enough”.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and describe situations relevant to self, family, or community when it is best to overestimate or when it is best to underestimate and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Determine an approximate solution to a problem not requiring an exact answer and explain the strategies and reasoning used (e.g., number of fish, deer, or elk required to feed a family over a winter; amount of money a family spends on groceries).</p>
+          </indicator>
+          <indicator>
+            <p>Explain estimation and computation strategies, including compatible numbers, compensation, and front-end rounding, and how each strategy relates to different operations.</p>
+          </indicator>
+          <indicator>
+            <p>Identify if a strategy used in solving a problem involved estimation or computation.</p>
+          </indicator>
+          <indicator>
+            <p>Apply and explain the choice of estimation or computation strategy such as compatible numbers, compensation, and front-end rounding.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N5.5</identifier>
+        <outcome_text>Demonstrate an understanding of fractions by using concrete and pictorial representations to:create sets of equivalent fractionscompare fractions with like and unlike denominators.</outcome_text>
+        <outcome_text>[C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create concrete, pictorial, or physical models of equivalent fractions and explain why the fractions are equivalent.</p>
+          </indicator>
+          <indicator>
+            <p>Model and explain how equivalent fractions represent the same quantity</p>
+          </indicator>
+          <indicator>
+            <p>Verify whether or not two given fractions are equivalent using concrete materials, pictorial representations, or symbolic manipulation.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize and verify a symbolic strategy for developing a set of equivalent fractions.</p>
+          </indicator>
+          <indicator>
+            <p>Determine equivalent fractions for a fraction found in a situation relevant to self, family, or community.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how to use equivalent fractions to compare two given fractions with unlike denominators.</p>
+          </indicator>
+          <indicator>
+            <p>Position a set of fractions, with like and unlike denominators, on a number line and explain strategies used to determine the order.</p>
+          </indicator>
+          <indicator>
+            <p>Justify the statement, “If two fractions have a numerator of 1, the larger of the two fractions is the one with the smaller denominator”.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N5.6</identifier>
+        <outcome_text>Demonstrate understanding of decimals to thousandths by:describing and representingrelating to fractionscomparing and ordering.</outcome_text>
+        <outcome_text>[C, CN, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Tell a story (orally, in writing, or through movement) that explains what a concrete or pictorial representation of a part of a set, part of a region, or part of a unit of measure illustrates and record the quantity as a decimal.</p>
+          </indicator>
+          <indicator>
+            <p>Represent concretely or pictorially a decimal identified in a situation relevant to self, family, or community.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and generate equivalent forms (decimal or fraction) of fractions and decimals found in situations relevant to one’s life, family, or community.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate, using concrete or pictorial models to explain, how a quantity in tenths or hundredths can also be recorded as hundredths or thousandths (e.g., 0.2 can be written as 0.200).</p>
+          </indicator>
+          <indicator>
+            <p>Describe the quantity represented by each digit in a given decimal.</p>
+          </indicator>
+          <indicator>
+            <p>Make and test conjectures about the relationship of equality of quantities written in decimal and fractional form (e.g., 0.7 and 7/10) and verify concretely, pictorially, or logically.</p>
+          </indicator>
+          <indicator>
+            <p>Use and explain personal strategies for writing decimals as fractions.</p>
+          </indicator>
+          <indicator>
+            <p>Use and explain personal strategies for writing fractions with a denominator of 10, 100, or 1000 as a decimal.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, by providing examples, how to write decimals as a fraction with a denominator of 10, 100, or 1000.</p>
+          </indicator>
+          <indicator>
+            <p>Identify benchmarks on a number line that could be used to order a given set of decimals and explain the choices made.</p>
+          </indicator>
+          <indicator>
+            <p>Use benchmarks to order a set of decimals from a situation related to one’s life, family, or community.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>N5.7</identifier>
+        <outcome_text>Demonstrate an understanding of addition and subtraction of decimals (limited to thousandths). [C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and describe situations relevant to one’s life, family, or community experiences in which sums and differences of decimals might be determined.</p>
+          </indicator>
+          <indicator>
+            <p>Use personal strategies to predict sums and differences of decimals and evaluate the effectiveness of the strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Create concrete or pictorial models to represent the determination of the sum or difference of two decimal numbers, explain the model, and record the process symbolically.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how estimation can be used to determine the position of the decimal point in a sum or difference.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and correct errors in the calculation of sums and differences of decimals and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how understanding place value is necessary in calculating sums and differences of decimals.</p>
+          </indicator>
+          <indicator>
+            <p>Solve a given problem that involves addition and subtraction of decimals and explain the strategies used.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Patterns and Relations</goal_heading>
+      <outcome>
+        <identifier>P5.1</identifier>
+        <outcome_text>Represent, analyse, and apply patterns using mathematical language and notation. [C, CN, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe situations from one’s life, family, or community in which patterns emerge, identify assumptions made in extending the patterns, and analyze the usefulness of the pattern for making predictions.</p>
+          </indicator>
+          <indicator>
+            <p>Describe, using mathematics language (e.g., one more, seven less) and symbolically (e.g., r + 1, p – 7), a pattern represented concretely or pictorially that is found in a chart.</p>
+          </indicator>
+          <indicator>
+            <p>Create alternate representations, including concrete or pictorial models, charts, and mathematical expressions, for a given pattern (numeric or geometric).</p>
+          </indicator>
+          <indicator>
+            <p>Predict subsequent elements (terms or values) in a pattern (with and without concrete materials or pictorial representations) and explain the reasoning including the assumptions being made.</p>
+          </indicator>
+          <indicator>
+            <p>Verify whether or not a particular number belongs to a given pattern.</p>
+          </indicator>
+          <indicator>
+            <p>Solve problems and make decisions based upon the mathematical analysis of a pattern and other contributing factors.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>P5.2</identifier>
+        <outcome_text>Write, solve, and verify solutions of single-variable, one-step equations with whole number coefficients and whole number solutions. [C, CN, PS, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify aspects of experiences from one’s life, family, and community that could be represented by a variable (e.g., temperature, cost of a DVD, size of a plant, colour of shirts, or performance of a team goalie).</p>
+          </indicator>
+          <indicator>
+            <p>Describe a situation for which a given equation could apply and identify what the variable represents in the situation.</p>
+          </indicator>
+          <indicator>
+            <p>Solve single-variable equations with the variable on either side of the equation, explain the strategies used, and verify the solution.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Shape and Space</goal_heading>
+      <outcome>
+        <identifier>SS5.1</identifier>
+        <outcome_text>Design and construct different rectangles given either perimeter or area, or both (whole numbers), and draw conclusions. [C, CN, PS, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Construct (concretely or pictorially) and record the dimensions of two or more rectangles with a specified perimeter and select, with justification, the dimensions that would be most appropriate in a particular situation (e.g., a rectangle is to have a perimeter of 18 units, what are the dimensions of the possible rectangles, which rectangle would be most appropriate if the rectangle is to be the base of a shoe box or a dog pen).</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “A rectangle with dimensions of 1 cm by 8 cm is different from a rectangle with dimensions of 8 cm by 1 cm”. (Note: Any dimensions could be used to demonstrate the idea of orientation and point of view.)</p>
+          </indicator>
+          <indicator>
+            <p>Construct (concretely or pictorially) and record the dimensions of as many rectangles as possible with a specified area and select, with justification, the rectangle that would be most appropriate in a particular situation (e.g., a rectangle is to have an area of 24 units², what are the dimensions of the possible rectangles, which rectangle would be most appropriate if the rectangle is to fence off the largest garden possible or be the base of a box on a shelf that is 10 units by 8 units).</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement: “A rectangle with dimensions of 3 cm by 4 cm is different from a rectangle with dimensions of 2 cm by 5 cm”. (Note: Any dimensions with the same perimeter could be used to demonstrate the idea of same perimeter not necessarily resulting in the same area or shape of the rectangle).</p>
+          </indicator>
+          <indicator>
+            <p>Generalize patterns discovered through the exploration of the areas of rectangles with the same perimeter and through the exploration of the perimeters of rectangles with the same area (e.g., greater areas do not imply greater perimeters and vice versa, the rectangle for a situation closest to a square will have the greatest area, or the rectangle with the smallest width for a given perimeter will have the smallest area).</p>
+          </indicator>
+          <indicator>
+            <p>Identify situations relevant to self, family, or community where the solution to problems would require the consideration of both area and perimeter, and solve the problems.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS5.2</identifier>
+        <outcome_text>Demonstrate understanding of measuring length (mm) by:selecting and justifying referents for the unit mmmodelling and describing the relationship between mm, cm, and m units.</outcome_text>
+        <outcome_text>[C, CN, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Choose and use referents for 1 mm to determine approximate linear measurements in situations relevant to self, family, or community and explain the choice.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize measurement relationships between mm, cm, and m from explorations using concrete materials (e.g., 10 mm = 1 cm, 0.01m = 1 cm).</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of situations relevant to one’s life, family, or community in which linear measurements would be made and identify the standard unit (mm, cm, or m) that would be used for that measurement and justify the choice.</p>
+          </indicator>
+          <indicator>
+            <p>Draw, construct, or physically act out a representation of a given linear measurement (e.g., the students might be asked to show 4 m; this could be done by drawing a straight line on the board that is 4 m in length, constructing a box (or different boxes) that has a base with a perimeter of 4 m, or carrying out a physical movement that results in moving 4 m).</p>
+          </indicator>
+          <indicator>
+            <p>Pose and solve problems that involve hands-on linear measurements using either referents or standard units</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS5.3</identifier>
+        <outcome_text>Demonstrate an understanding of volume by:selecting and justifying referents for cm³ or m³ unitsestimating volume by using referents for cm³ or m³measuring and recording volume (cm³ or m³)constructing rectangular prisms for a given volume.</outcome_text>
+        <outcome_text>[C, CN, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Provide referents for cm³ and m³ and explain the choice.</p>
+          </indicator>
+          <indicator>
+            <p>Describe strategies developed for selecting and using referents to determine approximate volume measurements in situations relevant to self, family, or community.</p>
+          </indicator>
+          <indicator>
+            <p>Estimate the volume of 3-D objects using personal referents.</p>
+          </indicator>
+          <indicator>
+            <p>Decide what standard cubic unit is represented by a specific referent, and verify.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the volume of a 3-D object using manipulatives, describe the strategy used, and explain whether the volume is exact or an estimate.</p>
+          </indicator>
+          <indicator>
+            <p>Construct possible rectangular prisms for a given volume, identify the dimensions of each prism, and explain which prism would be most appropriate for a particular situation.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS5.4</identifier>
+        <outcome_text>Demonstrate understanding of capacity by:describing the relationship between mL and Lselecting and justifying referents for mL or L unitsestimating capacity by using referents for mL or Lmeasuring and recording capacity (mL or L).</outcome_text>
+        <outcome_text>[C, CN, ME, PS, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Show, using concrete materials, that 1000 mL has the same capacity as 1 L.</p>
+          </indicator>
+          <indicator>
+            <p>Provide referents for 1 millilitre and 1 litre and explain the choice.</p>
+          </indicator>
+          <indicator>
+            <p>Describe strategies for selecting and using referents to determine approximate capacity measurements in situations relevant to self, family, or community.</p>
+          </indicator>
+          <indicator>
+            <p>Decide what standard capacity unit is represented by a specific referent, and verify.</p>
+          </indicator>
+          <indicator>
+            <p>Estimate the capacity of a container using personal referents.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the capacity of a container using concrete materials that closely take on the shape of the container, describe the strategy used, and explain whether the volume is exact or an estimate (e.g., if beads are used, discuss the impact on accuracy because of the space between the beads compared to the accuracy if water is used).</p>
+          </indicator>
+          <indicator>
+            <p>Sort a set of containers from least to greatest capacity, explain the strategies used, and verify by determining or estimating the capacity.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS5.5</identifier>
+        <outcome_text>Describe and provide examples of edges and faces of 3-D objects, and sides of 2-D shapes that are:parallelintersectingperpendicularverticalhorizontal.</outcome_text>
+        <outcome_text>[C, CN, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and describe examples of parallel, intersection, perpendicular, vertical, and horizontal lines, edges, and faces of 2-D shapes and 3-D objects found within one’s home, school, and community (including 2-D shapes and 3-D objects in the natural environment, print and multimedia texts).</p>
+          </indicator>
+          <indicator>
+            <p>Sketch a 2-D shape or 3-D object that is relevant to self, family, or others and identify any lines, edges, or faces that are parallel, intersecting, perpendicular, vertical, or horizontal.</p>
+          </indicator>
+          <indicator>
+            <p>Describe, orally, in writing, or through physical movement, what it means for a line, edge, or face of a 2-D shape or 3-D object to be parallel, intersecting, perpendicular, vertical, or horizontal.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS5.6</identifier>
+        <outcome_text>Identify and sort quadrilaterals, including:rectanglessquarestrapezoidsparallelogramsrhombuses</outcome_text>
+        <outcome_text>according to their attributes. [C, R, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and provide examples for the types of quadrilaterals that are found in one’s home, school, and community.</p>
+          </indicator>
+          <indicator>
+            <p>Compare different quadrilaterals using concrete materials and pictures, identify common and differing attributes, and sort the quadrilaterals according to one of the attributes (e.g., relationships between side lengths, or number of pairs of parallel sides).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a set of sorted quadrilaterals and determine where a new quadrilateral would belong in the sorted set.</p>
+          </indicator>
+          <indicator>
+            <p>Describe, orally or in writing, the attributes of different quadrilaterals including rectangles, squares, trapezoids, parallelograms, and rhombuses.</p>
+          </indicator>
+          <indicator>
+            <p>Create a model to illustrate the relationships between different quadrilaterals (e.g., demonstrating that a square is a rectangle and a parallelogram is a trapezoid) including rectangles, squares, trapezoids, parallelograms, and rhombuses.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SS5.7</identifier>
+        <outcome_text>Identify, create, and analyze single transformations of 2-D shapes (with and without the use of technology). [C, CN, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Carry out different transformations (translations, rotations, and reflections) concretely, pictorially (with or without the use of technology), or physically and generalize statements regarding the position and orientation of the transformed image based upon the type of transformation.</p>
+          </indicator>
+          <indicator>
+            <p>Determine if a given 2-D shape and its transformed image match a set of transformation instructions and explain the conclusion reached.</p>
+          </indicator>
+          <indicator>
+            <p>Draw a 2-D shape, translate the shape, and record the translation by describing the direction and magnitude of the movement.</p>
+          </indicator>
+          <indicator>
+            <p>Draw a 2-D shape, rotate the shape, and describe the direction of the turn (clockwise or counter clockwise), the fraction of the turn, and the point of rotation.</p>
+          </indicator>
+          <indicator>
+            <p>Draw a 2-D shape, reflect the shape, and identify the line of reflection and the distance of the image from the line of reflection.</p>
+          </indicator>
+          <indicator>
+            <p>Predict the result of a single transformation of a 2-D shape and verify the prediction.</p>
+          </indicator>
+          <indicator>
+            <p>Describe a single transformation that could be used to replicate the given image of a 2-D shape.</p>
+          </indicator>
+          <indicator>
+            <p>Identify transformations found within one’s home, classroom, or community, describe the type and amount of transformations evident (e.g., translation to the left and up, ¼ of a rotation in a clockwise direction, and reflection about the right side of the shape), and create a concrete or pictorial model of the same set of transformations.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Statistics and Probability</goal_heading>
+      <outcome>
+        <identifier>SP5.1</identifier>
+        <outcome_text>Differentiate between first-hand and second-hand data. [C, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Provide examples of data relevant to self, family, or community and categorize the data, with explanation, as first-hand or second-hand data.</p>
+          </indicator>
+          <indicator>
+            <p>Formulate a question related to self, family, or community which can best be answered using first-hand data, describe how that data could be collected, and answer the question (e.g., “What game will we play at home tonight?” “I can survey everyone at home to find out what games everyone wants to play.”).</p>
+          </indicator>
+          <indicator>
+            <p>Formulate a question related to self, family, or community, which can best be answered using second-hand data (e.g., “Which has the larger population – my community or my friend’s community?”), describe how those data could be collected (I could find the data on the StatsCan website), and answer the question.</p>
+          </indicator>
+          <indicator>
+            <p>Find examples of second-hand data in print and electronic media, such as newspapers, magazines, and the Internet, and compare different ways in which the data might be interpreted and used (e.g., statistics about health-related issues, sports data, or votes for favourite websites).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SP5.2</identifier>
+        <outcome_text>Construct and interpret double bar graphs to draw conclusions. [C, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Compare the attributes and purposes of double bar graphs and bar graphs based upon situations and data that are meaningful to self, family, or community.</p>
+          </indicator>
+          <indicator>
+            <p>Create double bar graphs, without the use of technology, based upon data relevant to one’s self, family, or community. Pose questions, and support answers to those questions using the graph and other identified significant factors.</p>
+          </indicator>
+          <indicator>
+            <p>Pose and solve problems related to the construction and interpretation of double bar graphs.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SP5.3</identifier>
+        <outcome_text>Describe, compare, predict, and test the likelihood of outcomes in probability situations. [C, CN, PS, R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe situations relevant to self, family, or community which involve probabilities and categorize different outcomes for the situations as being impossible, possible, or certain (e.g., it is possible that my little sister will be put to bed by 8:00 tonight or it is impossible that I will have time to watch a movie tonight because I have two hockey games).</p>
+          </indicator>
+          <indicator>
+            <p>Design and conduct probability experiments to determine the likelihood of a specific outcome and explain what the results tell about the outcome including whether the outcome is impossible, possible, or certain.</p>
+          </indicator>
+          <indicator>
+            <p>Identify all possible outcomes in a probability experiment and classify the outcomes as less likely, equally likely, or more likely to occur and explain the reasoning (e.g., for an upcoming Pow Wow, list the dances that could be done and then classify the likelihood of each of the dances occurring, or of the dances occurring while you are in attendance).</p>
+          </indicator>
+          <indicator>
+            <p>Predict how the likelihood of two outcomes in a probability experiment, carry out the experiment, compare the results to the prediction, and identify possible reasons for discrepancies.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

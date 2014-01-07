@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-197592_1</pdf>
+  <banner>career/Photography102030.png</banner>
+  <dark_colour>#a24c3d</dark_colour>
+  <light_colour>#ecdbd8</light_colour>
+  <goals>paa/photographyaimsgoals.htm</goals>
+  <teaching>paa/photographyteaching.htm</teaching>
+  <curriculum_name>Photography 10, 20, 30</curriculum_name>
+  <classification_id>Photography 10 20 30</classification_id>
+  <module_overview_chart>https://www.edonline.sk.ca/bbcswebdav/xid-197592_1#page=17</module_overview_chart>
+  <outcomes>
+    <goal_section collapsable="true">
+      <goal_heading>Photography 10</goal_heading>
+      <outcome>
+        <identifier>Module 1</identifier>
+        <outcome_text labeled="true">Recognize and document the potential of photography as a communication medium through the exploration of a variety of images.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe and compare the aspects of a variety of purposes for photography (e.g., news report, wedding, advertising, hobby, art).</p>
+          </indicator>
+          <indicator>
+            <p>Compare a snapshot to a photograph with an impact that has endured through time (e.g., World Trade Centre, the Hindenburg Disaster, Terry Fox).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss and categorize different styles of photography (e.g. journalism, portraiture, landscape) given a series of photographs.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 2A</identifier>
+        <outcome_text labeled="true">Identify and demonstrate the controls and functions of a camera.</outcome_text>
+        <outcome_note>Note: Individual cameras have a variety of different features or different terms for features. Students should become proficient with the capabilities of the available equipment.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Demonstrate and explain the proper procedures to: hold a camera securely to reduce camera shake, , turn the camera on and off, , manipulate the modes and/or settings on the camera, , preview the image that the camera will take using the viewfinder or display, , focus the lens, , take, review, and delete images, , turn flash on and off (if available), , connect accessories such as tripod, flash, and cables.</p>
+          </indicator>
+          <indicator>
+            <p>Identify similarities and differences between controls of various cameras including examples of film and digital devices.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 3A</identifier>
+        <outcome_text labeled="true">Assess and demonstrate the effects of utilizing the photographic triangle (i.e. shutter speed, aperture, and ISO) when capturing an image.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the relationships of exposure values on a camera to the amount of light for the exposure.</p>
+          </indicator>
+          <indicator>
+            <p>Create images to demonstrate the effects of different shutter speeds, aperture settings, and ISO settings.</p>
+          </indicator>
+          <indicator>
+            <p>Create a wide variety of images by combining techniques and principles of shutter speed, aperture, and ISO.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 4</identifier>
+        <outcome_text labeled="true">Describe safe and sustainable practices connected to the field of photography.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>List safety issues and produce a plan for personal safety when taking photographs.</p>
+          </indicator>
+          <indicator>
+            <p>Create a list of safety practices to protect both equipment and self when using photographic equipment such as cameras, flash, external lighting.</p>
+          </indicator>
+          <indicator>
+            <p>Identify environmentally sustainable ways to use and dispose of equipment and accessories such as batteries and chemicals.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 5</identifier>
+        <outcome_text labeled="true">Create images through demonstration of visualization and composition.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research and define elements of photographic critique.</p>
+          </indicator>
+          <indicator>
+            <p>Critique various photos on their compositional merit.</p>
+          </indicator>
+          <indicator>
+            <p>Visualize and describe or illustrate techniques to compose a photograph.</p>
+          </indicator>
+          <indicator>
+            <p>Create images demonstrating aspects of composition such as rule of thirds, negative space, lines, contrast, and colour.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize when normal rules of compostion can be broken.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 6A</identifier>
+        <outcome_text labeled="true">Analyze the effect of focal length on the image.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Show the effects on a series of images produced by changing the focal length (i.e., zoom).</p>
+          </indicator>
+          <indicator>
+            <p>Create a series of images to demonstrate how perspective is changed by altering the camera position relative to the subject.</p>
+          </indicator>
+          <indicator>
+            <p>Produce a series of images to show the apparent change in depth of field resulting from a change in focal length.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 7</identifier>
+        <outcome_text labeled="true">Create a series of images showing the effect of the quality, quantity, and direction of light.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explore and demonstrate the effect of changing: the direction of light on a subject, , the quality of light on a subject including diffuse light, natural light, colour, temperature, and types of light sources, , the quantity of light on a subject.</p>
+          </indicator>
+          <indicator>
+            <p>Manipulate light to change the resulting image through the use of tools such as reflectors, diffusers, coloured gels, and additional light sources.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 8</identifier>
+        <outcome_text labeled="true">Explore and evaluate the career training and occupational opportunities in the field of photography in Saskatchewan, Canada, and globally, including post-secondary education programs.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify specific examples of occupational skills required in photography occupations.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate programs offered by universities and technical institutes in photography.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the career opportunities for professional photographers.</p>
+          </indicator>
+          <indicator>
+            <p>Identify local opportunities for being paid as a freelance photographer.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 9</identifier>
+        <outcome_text labeled="true">Create images demonstrating the use of an electronic flash.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Compare images that demonstrate the effects of using an electronic flash.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the effects of changing the flash technique (e.g. bounce, using diffusers, or using coloured gels on the flash).</p>
+          </indicator>
+          <indicator>
+            <p>Show the effects of manipulating flash through power settings (e.g. full power, half power).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the use of mixed lighting and fill-in flash.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 10</identifier>
+        <outcome_text labeled="true">Optimize colour values when capturing an image.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate how changes in white balance can be manipulated to produce different effects.</p>
+          </indicator>
+          <indicator>
+            <p>Adjust the colour balance on a camera to achieve different visual impacts in different lighting situations to represent what you see.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how to set a custom white balance for specific locations, light sources, and conditions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 11A</identifier>
+        <outcome_text labeled="true">Develop a workflow to improve digital images using software.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Crop images to create a better composition.</p>
+          </indicator>
+          <indicator>
+            <p>Resize images for various outputs.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate and explain why and how files are saved in different formats.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate and explain how and why files are saved with different resolutions.</p>
+          </indicator>
+          <indicator>
+            <p>Adjust brightness, colour, and contrast to enhance a photograph.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 12A</identifier>
+        <outcome_text labeled="true">Investigate and articulate legal issues related to photography such as copyright and consent.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain the term “copyright” as used in the Canadian legal system and assess its impact on a photography class.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the three factors that place some works in the public domain and cite some examples of these works along with reasons for their inclusion.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and report on current issues and resources connected to copyright law such as “open source”, “creative commons”, and stock resources.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and report on the need for consent in various circumstances such as location, appearance, and material.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 13A</identifier>
+        <outcome_text labeled="true">Develop skills using basic image editing software to manipulate photographs.</outcome_text>
+        <outcome_note>Note: Adjustment and manipulation are different in that adjustment refines the original qualities of the picture but does not alter the content, while manipulation freely alters the content of the image.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Demonstrate a variety of manipulation techniques such as compositing, distorting, and perspective control.</p>
+          </indicator>
+          <indicator>
+            <p>Compare original and manipulated images to examine the different messages of each.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and discuss some of the ethical implications in image manipulations.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 20</identifier>
+        <outcome_text labeled="true">Explore and articulate the major historical developments in photography.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate a photographic process (e.g. camera obscura, daguerreotype, tintype) and share the knowledge through a photographic presentation.</p>
+          </indicator>
+          <indicator>
+            <p>Create a visual presentation to present the work of a single noted phototgrapher or to compare the styles of two or more photographers including how they contributed to advancements in the art or science of the field.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 99A</identifier>
+        <outcome_text>Note: The extended study module may be used only once in each 100 hour course. In the Student Data System, record 99A for the first extended study module offered in the course series, and, if needed, 99B for the second and 99C for the third.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Module Overview: Evolving societal and personal needs, advances in technology, and demands to solve current problems require a flexible curriculum that can accommodate new ways and means to support learning in the future. The extended study module is designed to provide schools and teachers with an opportunity to meet current and future demands not provided for in the current modules in the Photography curriculum. This flexibility allows a school or teacher to design one new module per credit to complement or extend the study of the core and optional modules to meet the specific needs of students or the community. The extended study module is designed to extend the content of the pure courses and to offer survey course modules beyond the scope of the available selection of PAA modules. The list of possibilities for topics of study or projects for the extended study module approach is as varied as the imagination of those involved in using the module. The optional extended study module guidelines should be used to strengthen the knowledge, skills, and processes advocated in the Photography curriculum. For more information on the guidelines for the extended study module, see the Practical and Applied Arts Handbook.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

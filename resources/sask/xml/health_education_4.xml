@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181697_1</pdf>
+  <banner>health/HE4.png</banner>
+  <dark_colour>#9bc4b2</dark_colour>
+  <light_colour>#ebf3f0</light_colour>
+  <goals>health/healtheducation4aimsgoals.htm</goals>
+  <teaching>health/healtheducation4teaching.htm</teaching>
+  <curriculum_name>Health Education 4</curriculum_name>
+  <classification_id>health education 4</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Understanding, Skills, and Confidences (USC)</goal_heading>
+      <outcome>
+        <identifier>USC4.1</identifier>
+        <outcome_text>Assess what healthy eating and physical activity mean for pre/adolescence.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine personal, past, and present knowledge about healthy eating and physical activity (e.g., exercise as important to health, trends such as jogging and home gyms, females and exercise/sports).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate personal, family, community, and cultural factors that influence healthy eating (e.g., time, serving size, cultural food practices and values, water consumption, access to healthy foods.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss factors of healthy eating over which one has control (e.g., drinking more water).</p>
+          </indicator>
+          <indicator>
+            <p>Explain the importance of particular eating practices, including drinking water as a thirst quencher and eating breakfast.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate an understanding of healthy food choices (e.g., analyze nutritional values of particular foods) and serving sizes that support good health (see Canada’s Food Guide).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate personal, family, community, and cultural factors that influence physical activity (e.g., time, cultural practices and values, access, safety).</p>
+          </indicator>
+          <indicator>
+            <p>Review the health benefits of regular physical activity and the health risks of inactivity for pre/adolescence.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate peer norms and popular trends related to healthy eating and physical activity.</p>
+          </indicator>
+          <indicator>
+            <p>Explore the consequences (both positive and negative) of following or resisting peer norms and/or popular trends related to eating and physical activity.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the physical activity opportunities in the community that benefit and/or challenge mental, socio-emotional, and spiritual well-being for pre/adolescence (e.g., develop personal gifts, and potential).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate personal changes that need to be made for better nutrition (e.g., serving sizes, variety of foods) and appropriate amounts of physical activity (see Canada’s Guide to Physical Activity).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC4.2</identifier>
+        <outcome_text>Illustrate how both traditional healing (including First Nations and Métis practices) and current Western medical advances have influenced the prevention and/or management of past and present health challenges (including mental health/illness, HIV/AIDS, Hepatitis C, diabetes).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate and distinguish points of view expressed about health opportunities and challenges, both past and present (e.g., management of illness/disease, tobacco legislation, obesity).</p>
+          </indicator>
+          <indicator>
+            <p>Categorize and compare a variety of health challenges as short-term/long-term (e.g., depression) and as serious/not serious (e.g., HIV/AIDS).</p>
+          </indicator>
+          <indicator>
+            <p>Explain how the mind, body, and spirit may be affected by health challenges (e.g., irritability, fatigue, motivation, depression).</p>
+          </indicator>
+          <indicator>
+            <p>Examine historical (including First Nations and Métis healing practices), contemporary (including technological), and complementary practices (e.g., inclusion of healing circles and sweat lodges along with counselling in the treatment of mental illness) for preventing/managing health challenges (including mental health/illness, HIV/AIDS, Hepatitis C, diabetes).</p>
+          </indicator>
+          <indicator>
+            <p>Examine basic costs to society when threats to health (i.e., mind, body, and spirit) are not prevented/managed.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the changes in practices (e.g., use of new plants in medications to replace those no longer available, use of technology) to prevent or manage health challenges.</p>
+          </indicator>
+          <indicator>
+            <p>Examine strategies to reduce the prevalence and the impact of potential current health challenges (e.g., immunity to antibiotics, pandemics, obesity, HIV/AIDS).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC4.3</identifier>
+        <outcome_text>Examine healthy interpersonal skills and determine strategies to effectively develop new relationships and/or negotiate disagreements in relationships.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Compare qualities of healthy and unhealthy relationships and determine the connections of these relationships to a healthy mind, body, and spirit.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and recommend healthy behaviours, including positive communication skills for getting along with others in play and competitive situations (e.g., an appreciation of silence as an opportunity to reflect and refrain from “jumping in”, analyzing and criticizing ideas and not the people offering them).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize how various factors, including peer pressure, communication strategies, and assumptions affect relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest alternatives when play is not enjoyable (e.g., join another play activity, negotiate changes to the play).</p>
+          </indicator>
+          <indicator>
+            <p>Determine healthy ways to relate to peers not in personal circle of friends (e.g., listen and ask questions, give compliments).</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on personal behaviours that might influence others to feel included and those that may cause feelings of rejection.</p>
+          </indicator>
+          <indicator>
+            <p>Practise the ability to calm self and discuss how it is important to remain calm in disagreements.</p>
+          </indicator>
+          <indicator>
+            <p>Represent what disagreements look like, sound like, and feel like.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that disagreements are part of healthy and of unhealthy relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and describe anger triggers for self and others (e.g., name calling, being reprimanded, broken promises).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how effectively/ineffectively negotiated disagreements affect relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how honouring and respecting other points of view, beliefs, and/or values does not mean one has to abandon one’s own.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC4.4</identifier>
+        <outcome_text>Determine basic personal responsibility for safety and protection in various environments/situations.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine prior knowledge and new information related to safety (including cyber safety).</p>
+          </indicator>
+          <indicator>
+            <p>Explore critical safety needs (e.g., cyber, hunting, water, fire, biking) of self and others in local community.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate common personal and community activities/environments to identify those that involve greater safety risks</p>
+          </indicator>
+          <indicator>
+            <p>Examine cyber safety etiquette and related safety risks and strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss various safety rules and practices related to community safety needs.</p>
+          </indicator>
+          <indicator>
+            <p>Examine laws, behaviours, and community rules/regulations that are in place to minimize/prevent risks (e.g., smoke detectors, fire bans, life jackets, supervised computer use, non-smoking public places).</p>
+          </indicator>
+          <indicator>
+            <p>Review safety policies and/or plans (e.g., harassment, fire, tornado) for a variety of local environments (e.g., home, school, street).</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish behaviours that may jeopardize people’s safety and those that increase people’s safety in a variety of situations (e.g., ‘show-boating’ vs. being careful, not/wearing personal protective equipment, not/making and following a plan, not/asking permission).</p>
+          </indicator>
+          <indicator>
+            <p>Share expectations for personal safety and protection in various environments/situations.</p>
+          </indicator>
+          <indicator>
+            <p>Examine one’s responsibility to use electronic networks in an ethical and safe manner.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC4.5</identifier>
+        <outcome_text>Examine how identity (i.e., self-concept, self-esteem, self-determination) is influenced by relationships that are formed with others.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe and investigate ways that others define and value self, and learn ways to help others know one more fully and positively (e.g., ask questions, share stories, offer to help).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate information and definitions of self-concept (i.e., thoughts one has about self), self-esteem (i.e., a feeling of pride in self), and self-determination (i.e., right to make own choices) to develop an understanding of identity.</p>
+          </indicator>
+          <indicator>
+            <p>Examine “identity” as being related to how one “feels” on the inside and how one chooses to define self in relation to personal qualities, characteristics, and cultural definitions.</p>
+          </indicator>
+          <indicator>
+            <p>Communicate a personal understanding of identity.</p>
+          </indicator>
+          <indicator>
+            <p>Determine factors (e.g., personal attitudes, supportive environments, accomplishments, positive thinking, media stereotyping, culture, gender) that may influence one’s identity.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how self-concept is influenced by personal thoughts, self-esteem by personal feelings, and sense of self-determination by personal actions.</p>
+          </indicator>
+          <indicator>
+            <p>Describe examples of positive and negative peer influence on self-concept, self-esteem, and self-determination (e.g., feeling inadequate, confident/overconfident, fearful/fearless, limiting/reaching one’s potential).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate an awareness of the influence on self when connecting with others who behave appropriately/inappropriately and/or legally/illegally (e.g., alcohol and tobacco use by minors).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC4.6</identifier>
+        <outcome_text>Assess healthy stress management strategies (e.g., relaxation skills, stress control skills, guided imagery, expressing feelings, exercising).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop and use respectful language to talk about stress (e.g., grief, loss, fear, expectations) and to describe the intensity of feelings (e.g., rating scale/thermometer of 1-10).</p>
+          </indicator>
+          <indicator>
+            <p>Communicate an informed personal understanding of stress (e.g., reaction of worry and/or pre-occupation).</p>
+          </indicator>
+          <indicator>
+            <p>Explore the responses one may experience as a result of stress (e.g., heart-rate increase, blushing, knots in stomach, butterflies in stomach, dry mouth, sleeplessness, loss of concentration).</p>
+          </indicator>
+          <indicator>
+            <p>Determine how and why people react differently to stress (e.g., cultural traditions, role models).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize potentially stressful situations and examine possible reactions to the experience.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze common coping strategies for managing stress.</p>
+          </indicator>
+          <indicator>
+            <p>Examine and discuss media portrayals of stressors such as divorce, death, and loss, and media portrayals of stress management strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Describe strategies (e.g., writing in a journal, seeking guidance from a trusted adult/elder, talking with a friend, participating in cultural ceremonies, reading a book about grief) for managing stress (including divorce, death, and loss).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Decision Making (DM)</goal_heading>
+      <outcome>
+        <identifier>DM4.1</identifier>
+        <outcome_text>Investigate the importance of personal responsibility and communication in making informed decisions related to healthy eating and physical activity, prevention/ management of health challenges, negotiating disagreements, safety and protection, personal identity, and stressors.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Review factors that affect one’s communication and personal responsibility when making decisions (e.g., sharing of limited resources).</p>
+          </indicator>
+          <indicator>
+            <p>Consider the purpose and consequences of communication in making decisions.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate factors that have the greatest influence on personal responsibility.</p>
+          </indicator>
+          <indicator>
+            <p>Identify opportunities to demonstrate personal responsibility when making decisions.</p>
+          </indicator>
+          <indicator>
+            <p>Link personal health behaviours to potential health outcomes (e.g., inactivity and diabetes).</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate how informed decision making is influenced by personal responsibility.</p>
+          </indicator>
+          <indicator>
+            <p>Compare examples that demonstrate personal responsibility and those that do not.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the importance of silence and reflection when making informed decisions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Action Planning (AP)</goal_heading>
+      <outcome>
+        <identifier>AP4.1</identifier>
+        <outcome_text>Design and apply, with guidance, two four-day action plans that require communication related to healthy eating and physical activity, prevention/ management of health challenges, negotiating disagreements, safety and protection, personal identity, and stressors.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify basic steps to design and carry out effective action plans (i.e., who, what, where, when, why, how).</p>
+          </indicator>
+          <indicator>
+            <p>Design and follow a brief outline of a plan, including a schedule.</p>
+          </indicator>
+          <indicator>
+            <p>Implement the action as outlined.</p>
+          </indicator>
+          <indicator>
+            <p>Document and reflect on implementation (e.g., What did I do well? What will I do differently next time? Did I effectively communicate my action?).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

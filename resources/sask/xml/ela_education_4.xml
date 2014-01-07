@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181780_1</pdf>
+  <banner>english/ELA4.png</banner>
+  <dark_colour>#5493ad</dark_colour>
+  <light_colour>#dde9ef</light_colour>
+  <goals>english/englishlanguagearts1-5aimsgoals.htm</goals>
+  <teaching>english/englishlanguagearts4teaching.htm</teaching>
+  <curriculum_name>English Language Arts 4</curriculum_name>
+  <classification_id>english language arts 4</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Comprehend and Respond (CR)</goal_heading>
+      <outcome>
+        <identifier>CR4.1</identifier>
+        <outcome_text>Comprehend and respond to a variety of grade-level texts (including contemporary and traditional visual, oral, written, and multimedia texts) that address: identity (e.g., Expressing Myself) community (e.g., Building Community) social responsibility (e.g., Preserving a Habitat) and support response with evidence from text and from own experiences.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>View, listen to, read, and respond to a variety of texts that reflect diverse personal identities, worldviews, and backgrounds (e.g., culture, age, gender, language) including First Nations and Métis texts.</p>
+          </indicator>
+          <indicator>
+            <p>View, listen to, and read a variety of texts related to theme or topic of study and show comprehension by:retelling and explaining the ideas and information presented in textsrecognizing and understanding the text structures (e.g., narrative, informational, poetry) and features (e.g., description, figurative language, graphics)responding to and interpreting the texts, and explaining and supporting response with evidence from the texts.</p>
+          </indicator>
+          <indicator>
+            <p>Connect the insights of an individual or individuals in texts to personal experiences.</p>
+          </indicator>
+          <indicator>
+            <p>Identify similarities and differences between personal experiences and the experiences of people from various cultures portrayed in a variety of texts including First Nations and Métis texts.</p>
+          </indicator>
+          <indicator>
+            <p>Identify cultural representations in oral, print, and other media texts from various communities including First Nations and Métis communities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR4.2</identifier>
+        <outcome_text>View and respond to visual and multimedia texts (including graphs, charts, diagrams, maps, multimedia DVD, websites, television programs, advertisements, posters), explaining the creator’s technique and the impact on viewers.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Discuss visual experiences (e.g., what was seen and the effectiveness).</p>
+          </indicator>
+          <indicator>
+            <p>Select and use pertinent before, during, and after strategies to construct meaning when viewing.</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply cues and conventions including pragmatic, textual, syntactical, semantic/lexical/morphological, graphophonic, and others to construct and confirm meaning when viewing.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the role of visuals in focusing attention on particular aspects or events, and influencing opinions on issues.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the intent and appeal of particular TV and print advertisements and other visuals including First Nations and Métis art and other texts.</p>
+          </indicator>
+          <indicator>
+            <p>Identify, with support, the values and aspects of various cultures underlying visual messages including First Nations and Métis art and other texts.</p>
+          </indicator>
+          <indicator>
+            <p>Understand how a range of visual features (e.g., graphs, images, illustrations, charts, maps, diagrams) can enhance and clarify spoken, written, or silent messages.</p>
+          </indicator>
+          <indicator>
+            <p>View a multimedia presentation and identify how the language, visual, and multimedia features (e.g., sound, colour, movement) are used to persuade.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR4.3</identifier>
+        <outcome_text>Listen, summarize, paraphrase, and evaluate what was heard and draw conclusions.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Listen critically and respond appropriately to a range of oral communications including oral traditions passed on by First Nations Elders and Knowledge Keepers.</p>
+          </indicator>
+          <indicator>
+            <p>Select and use pertinent before, during, and after strategies to construct meaning when listening.</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply cues and conventions including pragmatic, textual, syntactical, semantic/lexical/morphological, graphophonic, and others to construct and confirm meaning when listening.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between verifiable fact and opinion and analyze the message and presentation for evidence.</p>
+          </indicator>
+          <indicator>
+            <p>Ask thoughtful questions that probe deeper thought and respond to questions with elaboration.</p>
+          </indicator>
+          <indicator>
+            <p>Summarize and paraphrase major ideas and supporting evidence presented in spoken messages and formal presentations.</p>
+          </indicator>
+          <indicator>
+            <p>Follow multi-step directions and instructions independently.</p>
+          </indicator>
+          <indicator>
+            <p>Draw conclusions supported by ideas presented.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR4.4</identifier>
+        <outcome_text>Read for various purposes and demonstrate comprehension of grade-appropriate fiction (including stories and novels), scripts, poetry, and non-fiction (including magazines, reports, instructions, and procedures) from various cultures including First Nations and Métis and countries (including Canada).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Recognize and explain the author’s ideas, explicit and implicit message, and techniques (e.g., use of figurative language).</p>
+          </indicator>
+          <indicator>
+            <p>Select and use pertinent before, during, and after strategies to construct meaning when reading.</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply cues and conventions including pragmatic, textual, syntactical, semantic/lexical/morphological, graphophonic, and others to construct and confirm meaning when reading.</p>
+          </indicator>
+          <indicator>
+            <p>Read and summarize narrative texts including First Nations and Métis narratives and identify characters’ traits, characters’ changes over time, and the theme.</p>
+          </indicator>
+          <indicator>
+            <p>Read for information in content area resources and reference materials and recognize the variety of expository text structures including compare-contrast, problem-solution, cause and effect, time sequence, and description.</p>
+          </indicator>
+          <indicator>
+            <p>Compare information on the same topic after reading several passages or articles.</p>
+          </indicator>
+          <indicator>
+            <p>Follow multi-step written instructions and procedures in basic technical or how-to manuals (e.g., how to play a video game).</p>
+          </indicator>
+          <indicator>
+            <p>Read and use grade four reference texts (e.g., dictionary, encyclopedia, how-to, explanations, biography) for inquiry and to identify main ideas, details, opinions, and reasons.</p>
+          </indicator>
+          <indicator>
+            <p>Support opinions and conclusions about what is read.</p>
+          </indicator>
+          <indicator>
+            <p>Read grade-appropriate texts silently (e.g., 20 minutes; 135-185 wcpm) and orally (with fluency, accuracy, pacing, intonation, and expression; 100-140 wcpm), adjusting reading rates to the complexity of the materials and the purpose for reading.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Compose and Create (CC).</goal_heading>
+      <outcome>
+        <identifier>CC4.1</identifier>
+        <outcome_text>Compose and create a range of visual, multimedia, oral, and written texts that explore: identity (e.g., Expressing Myself) community (e.g., Celebrating and Honouring Others) social responsibility (e.g., Within My Circle) through personal experiences and inquiry.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create spoken, written, and other representations that include:a specific messagea coherent organization of ideasideas and information which are clear and completeappropriate use of language and conventions.</p>
+          </indicator>
+          <indicator>
+            <p>Compose and communicate findings and conclusions about problems, questions, or issues in a clear visual, oral, and written format.</p>
+          </indicator>
+          <indicator>
+            <p>Use inquiry to explore authentic problems, questions, and issues associated with identity, community, and social responsibility including:asking general and specific inquiry questions on topics using predetermined categoriesrecording, selecting, and sharing relevant personal knowledge and understanding of a topic or questions and considering purpose for individual and group inquiry or researchselecting and using a plan for gathering ideas and informationassessing the usefulness, authenticity, and reliability of information for inquiry or research needs using pre-established criteriausing a variety of tools (including indices, maps, atlases, charts, electronic sources) and resources to access ideas and informationorganizing ideas and information in logical sequencesmaking notes and citing authors and titles of sources alphabeticallyexamining collected information to identify categories or aspects of a topic that need more researchsharing findings and conclusions in a clear visual, oral, and written formatusing the language of inquiry (e.g., “I want to know if .…”, ”I wonder about ….”).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC4.2</identifier>
+        <outcome_text>Create a variety of clear representations that communicate straightforward ideas and information relevant to the topic and purpose, including short, illustrated reports, dramatizations, posters, and other visuals such as displays and drawings.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use a variety of visuals (e.g., chart, diagram) to communicate essential information when making an oral presentation.</p>
+          </indicator>
+          <indicator>
+            <p>Select and use pertinent before, during, and after strategies to communicate meaning when using other forms of representing</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply cues and conventions including pragmatic, textual, syntactical, semantic/lexical/morphological, graphophonic, and others to communicate meaning when using other forms of representing.</p>
+          </indicator>
+          <indicator>
+            <p>Organize information and ideas in visual and multimedia texts that are clear, meaningful, logical, and illustrative of the topic and are properly labelled and captioned.</p>
+          </indicator>
+          <indicator>
+            <p>Express relevant opinions about experiences (e.g., an incident) through a variety of representations (e.g., multimedia presentation, role play).</p>
+          </indicator>
+          <indicator>
+            <p>Use visual aids (e.g., pictograms, graphs, charts, tables, diagrams, maps, illustrations, movement) to enhance spoken or written products.</p>
+          </indicator>
+          <indicator>
+            <p>Experiment with different ways of representing ideas and sharing them with others (e.g., drama, mime, tableau, dance, music, models, painting).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC4.3</identifier>
+        <outcome_text>Speak to present and express a range of ideas and information in formal and informal speaking situations (including giving oral explanations, delivering brief reports or speeches, demonstrating and describing procedures) for differing audiences and purposes.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Adapt language and presentation style to the purpose and needs of the audience, and guide the listener to understand important ideas by using proper phrasing, pitch, and modulation.</p>
+          </indicator>
+          <indicator>
+            <p>Select and use pertinent before, during, and after strategies to construct meaning when speaking.</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply cues and conventions including pragmatic, textual, syntactical, semantic/lexical/morphological, graphophonic, and others to communicate meaning when speaking.</p>
+          </indicator>
+          <indicator>
+            <p>Present effective introductions and conclusions that guide the listener’s understanding of important ideas and evidence, use appropriate structure for conveying key information (e.g., cause and effect, similarity and difference), and use details, examples, anecdotes, or experiences to explain or clarify information.</p>
+          </indicator>
+          <indicator>
+            <p>Make narrative presentations that relate ideas, observations, or recollections about an event or experience, provide a context that enables the listener to imagine the circumstances of the event or experience, and provide insight into why the selected event or experience is memorable.</p>
+          </indicator>
+          <indicator>
+            <p>Make narrative presentations that retell a traditional First Nations and Métis narrative.</p>
+          </indicator>
+          <indicator>
+            <p>Make informational presentations that frame a key question, include facts and details that help listeners to focus, and incorporate more than one source of information (e.g., interviews, books, newspaper articles, and television or radio reports).</p>
+          </indicator>
+          <indicator>
+            <p>Deliver oral summaries that contain the main ideas and the most significant details of articles and books.</p>
+          </indicator>
+          <indicator>
+            <p>Recite brief poems (e.g., two or three stanzas), monologues, or dramatic dialogues using clear diction, tempo, volume, and phrasing.</p>
+          </indicator>
+          <indicator>
+            <p>Make individual contributions to class discussion by expressing ideas, opinions, and feelings and interact with others to share ideas and opinions, ask for support, complete tasks, and explain concerns or problems.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC4.4</identifier>
+        <outcome_text>Use a writing process to produce descriptive, narrative, and expository compositions that focus on a central idea, have a logical order, explain point of view, and give reasons or evidence.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Work through the stages of a writing process (e.g., pre-writing, drafting, revising successive versions).</p>
+          </indicator>
+          <indicator>
+            <p>Select and use pertinent before, during, and after strategies to construct meaning when writing.</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply cues and conventions including pragmatic, textual, syntactical, semantic/lexical/morphological, graphophonic, and others to communicate meaning when writing.</p>
+          </indicator>
+          <indicator>
+            <p>Write clear, coherent sentences and paragraphs that develop a central idea.</p>
+          </indicator>
+          <indicator>
+            <p>Create compositions with an introductory paragraph that establishes a central idea in key sentence(s), supporting paragraphs with simple facts, details, and explanations, and a concluding paragraph that summarizes the points.</p>
+          </indicator>
+          <indicator>
+            <p>Write descriptions and narratives (3-5 paragraphs) that relate observations and recollections of an event or experience and use sensory details.</p>
+          </indicator>
+          <indicator>
+            <p>Write information reports (3-5 paragraphs) that focus on a central question about an issue or situation, include facts and details, and draw from more than one source of information (e.g., speakers, books, newspapers, other sources).</p>
+          </indicator>
+          <indicator>
+            <p>Write procedures with clear directions and explanations.</p>
+          </indicator>
+          <indicator>
+            <p>Write summaries that contain the main ideas of the text or presentation and the most significant details.</p>
+          </indicator>
+          <indicator>
+            <p>Communicate and demonstrate understanding by creating original texts (e.g., poem, play, letter, journal entry) and by writing responses to texts, supporting judgements through references to both the text and prior knowledge.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Assess and Reflect on Language Abilities (AR)</goal_heading>
+      <outcome>
+        <identifier>AR4.1</identifier>
+        <outcome_text>Reflect on and assess own viewing, listening, reading, speaking, writing, and other representing experiences, the selected strategies employed (e.g., using class-generated criteria), and explore possible ways to improve.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Reflect on viewing, listening, reading, representing, speaking, and writing by explaining what is effective or what worked in a text.</p>
+          </indicator>
+          <indicator>
+            <p>Ask questions such as “What do I already know? What can I already do? What strategies have I learned? What do I need to remember? What goals do I need to set for myself?”</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on own strategies for viewing, listening, reading, representing, speaking, and writing and set goals to improve the strategies used.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>AR4.2</identifier>
+        <outcome_text>Set and pursue personal goals to improve viewing, listening, reading, speaking, writing, and other representing tasks more effectively.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Reflect on viewing, listening, reading, representing, speaking, and writing by explaining what is effective or what worked in a text.</p>
+          </indicator>
+          <indicator>
+            <p>Ask questions such as “What do I already know? What can I already do? What strategies have I learned? What do I need to remember? What goals do I need to set for myself?”</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on own strategies for viewing, listening, reading, representing, speaking, and writing and set goals to improve the strategies used.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

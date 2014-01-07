@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181699_1</pdf>
+  <banner>health/HE6.png</banner>
+  <dark_colour>#9bc4b2</dark_colour>
+  <light_colour>#ebf3f0</light_colour>
+  <goals>health/healtheducation6-9aimsgoals.htm</goals>
+  <teaching>health/healtheducation6teaching.htm</teaching>
+  <curriculum_name>Health Education 6</curriculum_name>
+  <classification_id>health education 6</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Understanding, Skills, and Confidences (USC)</goal_heading>
+      <outcome>
+        <identifier>USC6.1</identifier>
+        <outcome_text>Analyze the factors that influence the development of personal standards and identity, and determine the impact on healthy decision making (including cultural norms, societal norms, family values, peer pressures, mass media, traditional knowledge, white privilege, legacy of colonization, and heterosexual privilege).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe values one appreciates in self and in others and explain why.</p>
+          </indicator>
+          <indicator>
+            <p>Propose why people behave the way they do (e.g., personal beliefs, societal norms).</p>
+          </indicator>
+          <indicator>
+            <p>Identify sources of, and evaluate information about, personal beliefs and values.</p>
+          </indicator>
+          <indicator>
+            <p>Communicate an informed personal definition of personal standards (e.g., core personal values that are reflected in how you treat yourself, how you treat others, what and how you speak, your behaviours).</p>
+          </indicator>
+          <indicator>
+            <p>Uncover personal standards by exploring questions such as:What are the standards that I will expect myself to live by at all times?What are my standards for dealing with challenges/problems?What are the boundaries for the attitudes and actions that I will accept for myself, my peers, my family, and my community? What standards are part of my cultural heritage?</p>
+          </indicator>
+          <indicator>
+            <p>Consider how and why personal values may change (e.g., norms, trends, values/priorities, relationships, critical events).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate (including through drama, dance, music, and/or visual art) the factors that have the most influence on personal standards.</p>
+          </indicator>
+          <indicator>
+            <p>Describe healthy attitudes and behaviours that affirm personal standards.</p>
+          </indicator>
+          <indicator>
+            <p>Define identity as being related to who we feel we are and how we define ourselves.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the connections between affirming personal standards and developing identity.</p>
+          </indicator>
+          <indicator>
+            <p>Explore when personal standards may be reinforced or challenged.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze events or factors that cause people to make decisions that reflect or conflict with their personal standards.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss factors that affect the identities of people as a result of colonization.</p>
+          </indicator>
+          <indicator>
+            <p>Determine how decision making is influenced by personal standards.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC6.2</identifier>
+        <outcome_text>Appraise the importance of establishing/maintaining healthy relationships with people from diverse backgrounds who may or may not express differing values, beliefs, standards, and/or perspectives (i.e., people of various ages, cultures, socio-economic status, faiths, family structures, sexual orientations, and cognitive/physical abilities).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Conclude the importance of respecting facts, evidence, and views of others when engaging in discussions.</p>
+          </indicator>
+          <indicator>
+            <p>Ask compelling questions to initiate insights as to how people are the same, how people are different, and how individuals are unique.</p>
+          </indicator>
+          <indicator>
+            <p>Shape new thoughts about oneself as an individual who has a unique heritage and particular influences on beliefs, standards, and/or perspectives.</p>
+          </indicator>
+          <indicator>
+            <p>Identify sources of, and evaluate information about, diversity.</p>
+          </indicator>
+          <indicator>
+            <p>Articulate a comprehensive understanding of prejudice, stereotype, and bias.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss and question stereotypes and biases that exist in the school and community.</p>
+          </indicator>
+          <indicator>
+            <p>Explore stereotypes and beliefs (including but not limited to those related to age, culture, religion, family structures, and sexual orientations), both past and present, that might limit the number and kinds of healthy relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate (including through drama, dance, music, and/or visual art) what the community would be like if everyone was exactly the same.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the characteristics of healthy relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Propose how the community would be different if stereotypes and biases did not exist.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and articulate an understanding of socio-economic class, gender, and culture as attributes of identity that are ascribed to groups of people and the ways that preconceptions about people based on these designations can be false, limiting, and harmful.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC6.3</identifier>
+        <outcome_text>Demonstrate an understanding of how non-curable infections, including HIV and Hepatitis C infection, are transmitted and how these infections influence the health (i.e., physical, mental, emotional, spiritual) and the identities of self, family, and community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify sources of, and evaluate information about, non-curable infections, including HIV and Hepatitis C.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss standard precautions/strategies to prevent the transmission of infectious diseases (e.g., washing hands, personal protective measures such as not sharing personal items, immunization, insect precautions, needle safety, avoiding other’s body fluids, condoms, sexual abstinence).</p>
+          </indicator>
+          <indicator>
+            <p>Describe ways that non-curable infectious diseases, including Hepatitis C and AIDS, are transmitted and explain ways to avoid and/or reduce the risk of infection/co-infection.</p>
+          </indicator>
+          <indicator>
+            <p>Perceive how beliefs in the myths and assumptions related to the transmission of non-curable infections, including HIV/AIDS and Hepatitis C, affect the health and the identities of the individual, family, and community.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how non-curable infections, including HIV, affect more people than they infect.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how thoughts and feelings about HIV infection might reinforce or challenge personal standards.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the emotional, spiritual, and social aspects of well- being that influence and are influenced by non-curable infections, including HIV/AIDS and Hepatitis C.</p>
+          </indicator>
+          <indicator>
+            <p>Form a personal response, in ways that affirm own personal standards, to some of the health challenges facing families and communities in regards to AIDS.</p>
+          </indicator>
+          <indicator>
+            <p>Predict what might happen if only one aspect of health (i.e., only the physical) is addressed when a person/community is infected/affected with a non-curable infection.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and communicate what can happen when a holistic approach (body, mind, heart, and spirit) to management of non-curable infections is/is not adopted.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC6.4</identifier>
+        <outcome_text>Assess and demonstrate strategies used to identify and make healthy decisions in stressful situations.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify sources of, and evaluate information related to, anxiety and stress.</p>
+          </indicator>
+          <indicator>
+            <p>Inventory the kinds of situations that may create anxiety for grade 6 students (e.g., family break-up, moving, getting/unable to afford braces/glasses, public speaking, body image, academic pressure, foster care, death, economic status).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze physical, mental, and emotional responses (both positive and negative) to stress (e.g., heightened alertness, motivation, ‘fight or flight’, illness, withdrawal, difficulty concentrating, difficulty eating and/or sleeping).</p>
+          </indicator>
+          <indicator>
+            <p>Examine stressors for which one can plan and/or over which one has control.</p>
+          </indicator>
+          <indicator>
+            <p>Interview people of various ages and cultures in the community to determine and evaluate common ways of managing stress (e.g., physical activity, dancing, deep breathing, self-talk, smudging, meditation, listening to music).</p>
+          </indicator>
+          <indicator>
+            <p>Propose healthy (e.g., exercise, sleep, self-talk, deep breathing, communicating) and unhealthy ways (e.g., substance abuse, aggression, withdrawal) of managing stress and compare related short-term and long-term consequences (i.e., physical, mental, emotional, spiritual).</p>
+          </indicator>
+          <indicator>
+            <p>Practise healthy ways of adjusting/responding to stress.</p>
+          </indicator>
+          <indicator>
+            <p>Determine when anxiety is “normal” and when professional help may be required.</p>
+          </indicator>
+          <indicator>
+            <p>Comprehend that stress can be healthy or unhealthy; it is how one responds to/manages stress that affects health.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how stress may influence (both positively and negatively) personal standards and decisions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC6.5</identifier>
+        <outcome_text>Analyze the influences (e.g., cultural, social) on perceptions of and personal standards related to body image, and the resulting impact on the identities and the well-being of self, family, and community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify sources of, and evaluate information about, influences on body image.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss stereotypes based on appearances and the importance of not judging self nor others based on appearances.</p>
+          </indicator>
+          <indicator>
+            <p>Conclude that there is a wide and acceptable healthy range in body type.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the connections among how we look, how we feel, and how we behave.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate how personal standards influence the kinds of decisions made in relation to personal appearance.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how one’s identify is influenced by own and other’s perceptions related to appearance.</p>
+          </indicator>
+          <indicator>
+            <p>Express insights about the influences on perceptions of body image.</p>
+          </indicator>
+          <indicator>
+            <p>Propose reasons (including that the cosmetic and diet product industries are assured of growth and profits) why the mass media might portray an “ideal” look that is difficult to achieve and maintain and the impact this has on health and well-being.</p>
+          </indicator>
+          <indicator>
+            <p>Critique strategies used by advertisers and others within mass media to influence perceptions about appearance and articulate the related impact on the health (i.e., physical, social, emotional, spiritual) of self, family, and community.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the strategies used by the cosmetic and diet industries to those of the tobacco industry.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how the health of a community can be affected (both positively and negatively) by people’s perceptions of body image.</p>
+          </indicator>
+          <indicator>
+            <p>Examine personal standards related to body image that enhance the health of self, family, and community.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC6.6</identifier>
+        <outcome_text>Develop and demonstrate the knowledge, skills, and personal standards necessary for establishing and supporting safe practices and environments related to various community activities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine safety risks for common/local adolescent activities (e.g., based on needs and interests of community).</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on and communicate personal and family attitudes towards safety.</p>
+          </indicator>
+          <indicator>
+            <p>Represent a personalized, thoughtful, and coherent understanding of the importance of a healthy attitude toward personal safety.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and analyze the intent of the rules, regulations, and laws related to safety practices for common and local adolescent activities.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the rights and responsibilities associated with rules, regulations, and laws related to a variety of safety practices to create healthy and safe community environments (e.g., tobacco legislation, personal protective equipment).</p>
+          </indicator>
+          <indicator>
+            <p>Examine the possible physical, social, and emotional consequences of not understanding and/or not following safety rules, regulations, and laws.</p>
+          </indicator>
+          <indicator>
+            <p>Determine when safety and personal standards about individual responsibility for safety and accident prevention may be challenged.</p>
+          </indicator>
+          <indicator>
+            <p>Affirm personal standards with respect to individual rights and responsibilities for creating and supporting safe environments.</p>
+          </indicator>
+          <indicator>
+            <p>Defend the statement “community safety is everyone’s responsibility”.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC6.7</identifier>
+        <outcome_text>Assess how health promotions and advertising (related to but not limited to tobacco, alcohol, diabetes, and HIV) influence personal standards and behaviours and determine how and why certain groups of consumers (e.g., youth as ‘replacement’ smokers) are targeted.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and evaluate local, provincial, and national health promotions.</p>
+          </indicator>
+          <indicator>
+            <p>Identify sources of, and evaluate information related to, the marketing strategies used by a variety of industries and agencies to target youth.</p>
+          </indicator>
+          <indicator>
+            <p>Examine and categorize the advertising and related promotions in the school and community (e.g., target audience, product promotion).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the marketing and promotional vehicles/strategies used by companies and industries (including the tobacco industry) to encourage young people to use/buy their products and/or to challenge young people’s personal standards.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the strategies used by industries and agencies that encourage health-enhancing behaviours to those that encourage health-compromising behaviours.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the influence of health promotions and advertising on youth attitudes and behaviours.</p>
+          </indicator>
+          <indicator>
+            <p>Determine why young people are a valuable market for numerous industries and manufacturers.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the perceived and the “hidden” purposes as to why manufacturers and industries (e.g., tobacco, diet plans, clothing) advertise.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the impact of tobacco control legislation on tobacco industry messaging.</p>
+          </indicator>
+          <indicator>
+            <p>Propose and investigate other legislation that would target health-compromising messaging.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Decision Making (DM)</goal_heading>
+      <outcome>
+        <identifier>DM6.8</identifier>
+        <outcome_text>Assess the role of personal standards in decision making related to healthy relationships, non-curable infections, stress management, body image, safety, and health promotions.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Distinguish similarities and differences in a variety of decision-making models.</p>
+          </indicator>
+          <indicator>
+            <p>Select an effective decision-making model to use.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the factors that influence decision-making (both positive and negative).</p>
+          </indicator>
+          <indicator>
+            <p>Decide which factors have the greatest influence on one’s personal standards.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize when personal standards might be at risk.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate strategies and decisions to affirm personal standards.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DM6.9</identifier>
+        <outcome_text>Examine health opportunities and challenges to establish personal goal statements related to healthy relationships, non-curable infections, stress management, body image, safety, and health promotions.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify and recognize health opportunities and/or challenges related to each unit of study.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate, based on specific criteria, strategies for embracing the health opportunities and/or addressing the health challenges related to each unit of study.</p>
+          </indicator>
+          <indicator>
+            <p>Construct personal goals, related to affirming standards, in each unit of study.</p>
+          </indicator>
+          <indicator>
+            <p>Revise personal goals as necessary.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Action Planning (AP)</goal_heading>
+      <outcome>
+        <identifier>AP6.10</identifier>
+        <outcome_text>Design and implement (with guidance) two six-day action plans that reflect affirmation of personal standards related to decision making, relationships, non-curable infections, stress management, body image, safety, and health promotions.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop, with guidance, criteria to assess action plans that affirm personal standards.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the elements of a well-designed action plan.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the traits and skills of a support person who can/will support individual action plans.</p>
+          </indicator>
+          <indicator>
+            <p>Use specific criteria to evaluate the design elements of the action plans.</p>
+          </indicator>
+          <indicator>
+            <p>Carry out action plans in ways that affirm personal standards.</p>
+          </indicator>
+          <indicator>
+            <p>Assess and revise action plans as necessary.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

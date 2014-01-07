@@ -1,0 +1,512 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181922_1</pdf>
+  <banner>science/science8.gif</banner>
+  <dark_colour>#008164</dark_colour>
+  <light_colour>#e6f3f0</light_colour>
+  <goals>science/science7-9aimsgoals.htm</goals>
+  <teaching>science/science6-9teaching.htm</teaching>
+  <curriculum_name>Science 8</curriculum_name>
+  <classification_id>science 8</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Life Science: Cells, Tissues, Organs, and Systems (CS)</goal_heading>
+      <outcome>
+        <identifier>CS8.1</identifier>
+        <outcome_text>Analyze the characteristics of cells, and compare structural and functional characteristics of plant and animal cells. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain that the cell is a living system that exhibits all the characteristics of life including growth, movement, reaction to stimulus, and reproduction.</p>
+          </indicator>
+          <indicator>
+            <p>Categorize organisms as single-celled and multi-cellular.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and describe how single-celled organisms take in food and move.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how growth and reproduction of living organisms depends on cell division.</p>
+          </indicator>
+          <indicator>
+            <p>Design and carry out an experiment to demonstrate the function of selectively permeable membranes in cells.</p>
+          </indicator>
+          <indicator>
+            <p>Model the processes of diffusion and osmosis to demonstrate how gases and water move into and out of plant and animal cells.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and identify cell structures (e.g., cell wall, cell membrane, vacuole, nucleus, cytoplasm, mitochondria, and chloroplast) and identify which are found in plant cells and which are found in animal cells.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the function of cell structures (e.g., cell wall, cell membrane, vacuole, nucleus, cytoplasm, mitochondria, and chloroplast), including how each structure contributes to the health of plant and animal cells.</p>
+          </indicator>
+          <indicator>
+            <p>Use appropriate scientific terminology to communicate plans, ideas, and results related to the study of plant and animal cells.</p>
+          </indicator>
+          <indicator>
+            <p>Work cooperatively with team members to develop and carry out a plan to construct a representation (e.g., model, drawing, sculpture, or dance) of the structures and functions of plant and animal cells.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the strengths and weaknesses of various representations of the structure and function of plant and animal cells.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CS8.2</identifier>
+        <outcome_text>Demonstrate proficiency in the use of a compound light microscope to observe plant and animal cells. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the parts of a compound light microscope, describe their functions, and describe how to use a compound light microscope correctly and safely.</p>
+          </indicator>
+          <indicator>
+            <p>Prepare samples of plant and animal cells for viewing by wet mounting and staining when necessary.</p>
+          </indicator>
+          <indicator>
+            <p>Calculate the magnification of a microscope, and estimate and determine the size of objects viewed through a microscope.</p>
+          </indicator>
+          <indicator>
+            <p>Use a microscope effectively and accurately to observe differences in structure between plant and animal cells and draw labelled diagrams of what is seen.</p>
+          </indicator>
+          <indicator>
+            <p>Show concern for self and others by safely planning and carrying out activities involving microscopes, slides, and biological material.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CS8.3</identifier>
+        <outcome_text>Distinguish structural and functional relationships among cells, tissues, organs, and organ systems in humans and how this knowledge is important to various careers. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions about the composition of the human body such as “What are humans made of?”.</p>
+          </indicator>
+          <indicator>
+            <p>Research various ideas and theories, past and present, used to explain the composition of the human body (e.g., living organisms were made of air, fire, and water; and body is animated by spirit).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze why cells and tissues are specialized in multi-cellular organisms.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the function and provide examples of the four major types of tissue found in humans (i.e., muscle, nerve, epithelial, and connective tissue).</p>
+          </indicator>
+          <indicator>
+            <p>Construct a representation of the relationships among cells, tissues, organs, and organ systems in humans using examples from the respiratory, circulatory, digestive, excretory, and nervous systems.</p>
+          </indicator>
+          <indicator>
+            <p>Relate the needs and functions of various cells and organs to the needs and functions of the human organism as a whole.</p>
+          </indicator>
+          <indicator>
+            <p>Summarize the main points of modern cell theory and identify the contributions of men and women, past and present, to the development of the theory.</p>
+          </indicator>
+          <indicator>
+            <p>Describe examples of science- and technology-based careers in Saskatchewan that require an understanding of cells and human body systems (e.g., lab and X-ray technicians, doctors, physiotherapists, nutritionists, and public health nurses).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CS8.4</identifier>
+        <outcome_text>Analyze how the interdependence of organ systems contributes to the healthy functioning of the human body. [CP, DM, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine First Nations and Métis perspectives on the interdependence and connectedness of human body systems and the sacredness of life.</p>
+          </indicator>
+          <indicator>
+            <p>Show interest in science-related questions and issues by posing questions and defining practical problems related to the healthy functioning of the human body.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how various body systems work together to accomplish tasks such as eating, running, and sleeping.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of how the body reacts to internal and external stimuli such as viruses, bacteria, alcohol, drugs, dust, and temperature changes.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how organ systems work together to obtain and transport nutrients and oxygen, and to remove wastes from the body.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the impact of personal lifestyle choices (e.g., nutrition, exercise, smoking, drugs, and alcohol) on the functions and efficiency of the human respiratory, circulatory, digestive, excretory, and nervous systems.</p>
+          </indicator>
+          <indicator>
+            <p>Predict the impact of the failure or removal of one or more organs on the healthy functioning of the human body.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss personal and societal ethical issues related to the use of various technologies (e.g., pacemaker, artificial hip, prosthetic limbs, and artificial heart) that support or replace ailing body systems.</p>
+          </indicator>
+          <indicator>
+            <p>Select and synthesize information from various sources to illustrate examples of conflicting evidence regarding the ways in which we should maintain our body (e.g., energy drinks, dairy products, vaccinations, and vitamin supplements).</p>
+          </indicator>
+          <indicator>
+            <p>Design and carry out an experiment, including identifying and controlling major variables, to compare and contrast the heart rate, breathing rate, and/or blood pressure of an individual during various levels of activity.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest explanations for discrepancies in data related to variations in the heart rate, breathing rate, and/or blood pressure of the same individual during various levels of activity when an experiment is repeated.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science: Optics and Vision (OP)</goal_heading>
+      <outcome>
+        <identifier>OP8.1</identifier>
+        <outcome_text>Identify and describe, through experimentation, sources and properties of visible light including:rectilinear propagation, reflection, refraction.</outcome_text>
+        <outcome_text>[SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Classify natural and artificial sources of light as incandescence or fluorescence (including phosphorescent, chemiluminescent, and bioluminescent).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate that light is a form of energy, that light can be separated into a visible spectrum, and that light travels in straight lines in a uniform transparent medium.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the properties of shadows, including umbra and penumbra formation, and demonstrate how the existence of shadows provides evidence that light travels in straight lines.</p>
+          </indicator>
+          <indicator>
+            <p>Select appropriate methods and tools and use them safely when collecting data and information to investigate properties of visible light.</p>
+          </indicator>
+          <indicator>
+            <p>Estimate and measure angles of incidence and angles of reflection of visible light and determine the quantitative relationship between the angle of incidence and the angle of reflection.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate characteristics and applications of specular and diffuse reflection, including the absorption of light by surfaces of different colour and made of different materials (e.g., coloured paper, white paper, aluminium foil, mirror, and water).</p>
+          </indicator>
+          <indicator>
+            <p>Describe applications of the laws of reflection in everyday life (e.g., sun dogs, rear view mirror, magician’s tricks, and the ability to see the Moon and other non-luminous bodies).</p>
+          </indicator>
+          <indicator>
+            <p>Describe qualitatively how visible light is refracted when passing from one substance to a substance of a different refractive index.</p>
+          </indicator>
+          <indicator>
+            <p>Predict how light will refract when passing into transparent media with different refractive indices (e.g., water, salt water, plastic, glass, and oil) and conduct an experiment to confirm or refute that prediction.</p>
+          </indicator>
+          <indicator>
+            <p>State a conclusion that explains how evidence gathered supports or refutes a prediction related to the refraction of light through media with different refractive indices.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>OP8.2</identifier>
+        <outcome_text>Explore properties and applications of optics-related technologies, including concave and convex mirrors and lenses. [SI, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate to determine how light interacts with transparent, translucent, and opaque materials.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate to determine how light interacts with concave and convex mirrors and lenses, including the formation of real and virtual images.</p>
+          </indicator>
+          <indicator>
+            <p>Predict and verify the effects of changes in lens position on the size and location of images produced by a convex lens and/or mirror.</p>
+          </indicator>
+          <indicator>
+            <p>Receive, understand, and act on the ideas of others when trying other lenses or mirror combinations to obtain various light patterns.</p>
+          </indicator>
+          <indicator>
+            <p>Draw geometric ray diagrams to illustrate how light travels within optical devices such as pin-hole cameras, single lens reflex cameras, telescopes, microscopes, and periscopes.</p>
+          </indicator>
+          <indicator>
+            <p>Use a technological problem-solving process to design and construct a prototype of an optical device to address a student-defined problem based on findings related to an understanding of geometric optics.</p>
+          </indicator>
+          <indicator>
+            <p>Work collaboratively and safely with others to identify and correct practical problems in the way a prototype of an optical device functions.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of optics-related technologies that have enabled scientific research (e.g., lasers have enabled research in the fields of medicine and electronics; microscopes have enabled research in medicine, forensics, and microbiology; and fibre optics and the endoscope has facilitated medical research).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>OP8.3</identifier>
+        <outcome_text>Compare the nature and properties of human vision with optical devices and vision in other living organisms. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify questions to investigate arising from practical problems and issues related to human vision (e.g., “How are contact lenses crafted?”, “Do humans see colour the same way?”, and “What are some problems associated with human vision?”).</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate, using a geometrical ray diagram, how the human eye sees objects.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the functional operation of the human eye to that of a camera or other optical instruments in focusing an image.</p>
+          </indicator>
+          <indicator>
+            <p>Compare human vision with that of other vertebrates and invertebrates, including the function and design of the eye.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how the human eye detects colour, and demonstrate that the ability to perceive colour may vary from person to person.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how colours are produced, using both the additive and subtractive models of colour, and identify applications of the additive and subtractive models of colour in daily life, including the use of traditional dyes.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the operation of optical technologies that enhance human vision (e.g., contact lenses, glasses, night vision scopes, and snow goggles).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>OP8.4</identifier>
+        <outcome_text>Evaluate the impact of electromagnetic radiation-based technologies on self and community. [CP, DM, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe the characteristics (i.e., wavelength, frequency, energy transferred, and typical sources) of different types of electromagnetic radiation, including infrared, visible light, ultraviolet, X-rays, microwaves, and radio waves.</p>
+          </indicator>
+          <indicator>
+            <p>Compare properties of visible light (e.g., relative energy, frequency, wavelength, and human perception) to the properties of other types of electromagnetic radiation, including infrared, ultraviolet, X-rays, microwaves, and radio waves.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of uses of instruments that emit or detect different types of electromagnetic radiation (e.g., cordless phone, cell phone, GPS, wireless computer network, black light, X-ray photographic film, radio, and thermal imaging camera).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the design and function of a technology that incorporates electromagnetic radiation (e.g., microwave oven, solar cooker, sun tanning lamp, infrared heat lamp, radio, medical imaging X-ray, blacklight, UV fire detector, night vision goggles, infrared thermography, and radar) on the basis of student-identified criteria such as cost, usefulness, and impact on self, society, and the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Defend a position on an issue or problem, identified through personal research, related to the impact of electromagnetic radiation-based technologies on self and community.</p>
+          </indicator>
+          <indicator>
+            <p>Identify new questions and problems that arise from what was learned about electromagnetic radiation (e.g., identify issues such as how and why to protect oneself against various forms of electromagnetic radiation).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science: Forces, Fluids, and Density (FD)</goal_heading>
+      <outcome>
+        <identifier>FD8.1</identifier>
+        <outcome_text>Investigate and represent the density of solids, liquids, and gases based on the particle theory of matter. [SI, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Illustrate the relationship between mass, volume, and density of solids, liquids, and gases using the particle theory of matter.</p>
+          </indicator>
+          <indicator>
+            <p>Design and carry out processes, including the water displacement method, to determine the density of various regularly shaped and irregularly shaped materials.</p>
+          </indicator>
+          <indicator>
+            <p>Use instruments safely, effectively, and accurately for collecting data about the density of solids, liquids, and gases.</p>
+          </indicator>
+          <indicator>
+            <p>Measure the mass and volume of a variety of objects, record the data in tabular form, and display the data graphically.</p>
+          </indicator>
+          <indicator>
+            <p>Value accuracy, precision, and honesty when gathering data about the density of objects.</p>
+          </indicator>
+          <indicator>
+            <p>Interpolate or extrapolate from student-constructed graphs of density to determine the mass or volume of a substance.</p>
+          </indicator>
+          <indicator>
+            <p>Calculate the density of various regularly shaped materials using the formula d=m/v and using units of g/mL or g/cm³.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the densities of common substances to the density of water and discuss practical applications that are based on differing densities.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the effects of changes in temperature on the density of solids, liquids, and gases and explain the results using the particle theory of matter.</p>
+          </indicator>
+          <indicator>
+            <p>Describe situations in daily life where we see evidence that the density of substances changes naturally (e.g., molten lava as it cools, water ‘turning over’ at 4°C in the fall, air when mirages form) or is intentionally altered (e.g., air in a hot-air balloon, cream when it is churned and cooled).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FD8.2</identifier>
+        <outcome_text>Examine the effects of forces in and on objects in fluids, including the buoyant force. [CP,SI,TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify questions to investigate arising from practical problems and issues involving floating, sinking, and buoyancy (e.g., “What factors affect the amount of cargo a barge can hold?”, “Why do some objects float and some objects sink?”, and “How can a ship made of steel float in the ocean?”).</p>
+          </indicator>
+          <indicator>
+            <p>Examine contributions of people from various cultures to understanding the principles of buoyancy, including Archimedes Principle, and the development of watercraft such as canoes and kayaks.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the concept of force and provide examples of different types of contact and non-contact forces.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate, using force diagrams, the movement of objects in fluids in terms of balanced and unbalanced forces acting on the objects.</p>
+          </indicator>
+          <indicator>
+            <p>Use a spring scale to determine the relationship between mass and weight for various substances.</p>
+          </indicator>
+          <indicator>
+            <p>Express the quantitative relationship between pressure, force, and area in fluids.</p>
+          </indicator>
+          <indicator>
+            <p>Conduct a fair test to identify which factors determine whether a given object will float or sink, and discuss reasons why scientists control some variables when conducting a fair test.</p>
+          </indicator>
+          <indicator>
+            <p>Use a technological problem-solving process to design, construct, and evaluate a prototype of an object that floats and can carry the greatest amount of cargo.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how buoyancy is controlled in nature (e.g., fish, humans, and sharks) and in constructed devices (e.g., submarines, airplanes, airships, scuba gear, and hot air balloons).</p>
+          </indicator>
+          <indicator>
+            <p>Compare different fluids to determine how they alter the buoyant force on a given object.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the operation of technologies whose development is based on scientific understanding of the properties of fluids (e.g., personal flotation devices, float planes, surfboards, gliders, anti-freeze tester, and heart pumps).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze designs of traditional and contemporary watercraft (e.g., canoe, kayak, lake boat, catamaran, and jet-ski) with respect to the principles of buoyancy.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FD8.3</identifier>
+        <outcome_text>Investigate and describe physical properties of fluids (liquids and gases), including viscosity and compressibility. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Design and conduct an experiment to compare the viscosity of various fluids (e.g., water, syrup, oil, shampoo, glycerine, honey, ketchup, hand cream, and detergent) and identify variables relevant to the investigation.</p>
+          </indicator>
+          <indicator>
+            <p>Use appropriate vocabulary related to the study of fluids, including fluid, viscosity, buoyancy, pressure, compressibility, hydraulic, pneumatic, and density.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate knowledge of Workplace Hazardous Materials Information System (WHMIS) standards by using proper techniques for handling and disposing of lab materials and by explaining the WHMIS labelling system.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the relationship between the temperature and viscosity of a liquid, controlling the major variables.</p>
+          </indicator>
+          <indicator>
+            <p>Use a temperature measuring technology, such as a temperature probe, effectively and accurately for collecting data to investigate the relationship between temperature and viscosity of a liquid.</p>
+          </indicator>
+          <indicator>
+            <p>Identify products in which viscosity is an important property (e.g., paint, hand lotion, motor oil, salad dressing, and condiments) and evaluate different brands of those products using student-developed criteria.</p>
+          </indicator>
+          <indicator>
+            <p>Predict and investigate the effect of applying external pressure to the behaviour of liquids and gases (e.g., squeezing a balloon, depressing a plunger in a syringe).</p>
+          </indicator>
+          <indicator>
+            <p>Describe situations in which pressure can be increased or decreased by altering surface area (e.g., snowshoes vs. boots, flat-heeled vs. high-heeled shoes, adaptive hoof shape of the woodland caribou, dual or triple tires on a tractor, and placing a thumb over the end of a garden hose).</p>
+          </indicator>
+          <indicator>
+            <p>Use the particle theory of matter to explain the differences in compressibility between liquids and gases.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and explain qualitatively the relationship between pressure, volume, and temperature when liquids and gases are compressed or heated.</p>
+          </indicator>
+          <indicator>
+            <p>Show concern for safety of self and others when planning, carrying out, and reviewing procedures involving heating and compressing liquids and gases.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FD8.4</identifier>
+        <outcome_text>Identify and interpret the scientific principles underlying the functioning of natural and constructed fluid systems. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe how hydraulic or pneumatic pressure can be used to create a mechanical advantage in a simple mechanical device (e.g., hydraulic jack, air powered tools, hairstylist’s chair, and water spraying toy)</p>
+          </indicator>
+          <indicator>
+            <p>Compare natural (e.g., circulatory and respiratory system) and constructed (e.g., hydraulic and air brakes, oil and gas pipelines, swimming pool circulation system, bicycle and other pumps, Archimedes screw, and automobile lifts) hydraulic and pneumatic fluid systems and identify advantages and disadvantages of each, using student-identified criteria such as cost and impact on society and the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Use a technological problem-solving process to design, construct, and evaluate a prototype of a device that models the operation of a natural or constructed fluid system.</p>
+          </indicator>
+          <indicator>
+            <p>Work collaboratively to identify and correct problems in the way a prototype of a natural or constructed fluid system functions.</p>
+          </indicator>
+          <indicator>
+            <p>Apply given criteria for evaluating evidence and sources of information by testing a prototype of a natural or constructed fluid system in a variety of situations to ensure that the results were not due to chance.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and explain the role of collecting evidence, finding relationships, proposing explanations, and imagination in the development of scientific knowledge related to fluids and fluid systems (e.g., finding relationships between density or pressure and change in temperature provides insights into practical uses for fluids).</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of Canadian contributions to the science and technology of fluids (e.g., submersibles, oil rigs and platforms, diving equipment, pumps, tires, and vacuum cleaners).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Earth and Space Science: Water Systems on Earth (WS)</goal_heading>
+      <outcome>
+        <identifier>WS8.1</identifier>
+        <outcome_text>Analyze the impact of natural and human-induced changes to the characteristics and distribution of water in local, regional, and national ecosystems. [CP,DM]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Construct visual representations of the world distribution of water, and the distribution of water in Saskatchewan, including watersheds, lakes, rivers, streams, river systems, wetlands, ground water, saline lakes, and riparian areas.</p>
+          </indicator>
+          <indicator>
+            <p>Compare physical characteristics of surface water features, such as lakes, rivers, streams, wetlands, and riparian areas.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the significance of water to First Nations and Métis people of Saskatchewan, including water as an essential element of life, transportation, water quality, fishing practices, and treaty rights regarding fishing.</p>
+          </indicator>
+          <indicator>
+            <p>Apply the concept of systems as a tool for interpreting the structure and interactions of water systems by constructing representations of systems such as the water cycle, watersheds, and continental drainage basins and showing interrelationships between parts of the system.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a written, visual, or dramatic representation of the water cycle, including showing or explaining how a single particle of water can travel through the cycle over extended periods of time.</p>
+          </indicator>
+          <indicator>
+            <p>Identify possible personal, societal, economic, and environmental consequences of natural changes and human practices and technologies that pose threats to surface and/or ground water systems in Saskatchewan (e.g., vegetation removal, water and sewage treatment plants, timber harvesting, over-application of fertilizers, agricultural and urban irrigation, impervious ground cover, land alterations, mining, introduction of invasive species, shoreline erosion, fluctuating lake levels, flooding, draining and/or channelling of surface water features, and damming of rivers).</p>
+          </indicator>
+          <indicator>
+            <p>Research a specific human practice or technology that may pose a threat to surface and/or groundwater systems in Saskatchewan and explain how different groups in society (e.g., landowner, consumer, business owner, recreational user, fisherman, government official, and farmer) may have conflicting needs and desires in relation to the practice or technology and how those decisions or actions of different stakeholders may or may not be addressed by scientific or technological knowledge.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate individual and group processes used in planning, problem solving, decision making, and completing a task related to studying threats to water systems, such as accepting various roles in a group, sharing responsibility for carrying out decisions, and seeking consensus before making decisions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WS8.2</identifier>
+        <outcome_text>Examine how wind, water, and ice have shaped and continue to shape the Canadian landscape. [DM, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain how the processes of weathering, erosion, and deposition result from water movement and wave action, including how waves and tides are generated and how they interact with shorelines.</p>
+          </indicator>
+          <indicator>
+            <p>Plan and conduct a simulation to demonstrate how temperature differences cause water currents.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the meaning and significance of the forces that shape the landscape to First Nations and Métis people.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how the interactions of ocean currents, winds, and regional climates shape local, regional, national, and global environments.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the design and function of technologies designed to minimize damage due to waves and tides (e.g., piers, breakwaters, dune vegetation, and coastline reconfiguration) in oceans and in-land water bodies.</p>
+          </indicator>
+          <indicator>
+            <p>Create a written, visual, physical, or dramatic representation of the processes that lead to the development of rivers, lakes, continental drainage systems, and ocean basins, including glaciation, continental drift, erosion, and volcanic action.</p>
+          </indicator>
+          <indicator>
+            <p>Relate factors that affect glacier formation and reduction and their effects on the environment to the formation of glacial landforms in Saskatchewan (e.g., drumlins, moraines, eskers, and kettle lakes).</p>
+          </indicator>
+          <indicator>
+            <p>Identify factors that affect polar icecap formation and reduction and their effects on the environment, including possible changes to ocean currents and climate patterns.</p>
+          </indicator>
+          <indicator>
+            <p>Propose new questions and problems for future study that arise from the study of the effects of wind, water, and ice on the landscape (e.g., “How might changes in glaciers affect Saskatchewan water supplies?” “How might icecap melting change Canadian coastlines?”).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WS8.3</identifier>
+        <outcome_text>Analyze natural factors and human practices that affect productivity and species distribution in marine and fresh water environments. [CP, DM, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine the ways in which First Nations and Métis people traditionally valued, depended upon, and cared for aquatic wildlife and plants in Saskatchewan and Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Identify diverse examples of organisms in a variety of marine and freshwater ecosystems (e.g., wetlands, lakes, rivers, salt marsh, estuary, ocean, and intertidal zone) and explain how biodiversity is an indicator of ecosystem health.</p>
+          </indicator>
+          <indicator>
+            <p>Identify factors that affect productivity and species distribution in aquatic environments (e.g., temperature, turbidity, sunlight, nutrients, salinity, water depth, currents, overfishing, upwelling, and pollutants).</p>
+          </indicator>
+          <indicator>
+            <p>Research a student-selected aquatic species, describe the characteristics of its environment, identify factors that could affect its productivity, and suggest methods of ensuring long-term viability of the species.</p>
+          </indicator>
+          <indicator>
+            <p>Measure factors that provide indicators of water quality, such as temperature, turbidity, dissolved oxygen content, presence of nitrates or phosphates, and macroinvertebrates, from a variety of samples of water.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret patterns and trends in water quality data, and infer and explain relationships among the variables.</p>
+          </indicator>
+          <indicator>
+            <p>Identify strengths and weaknesses of different methods of collecting and displaying data about water quality.</p>
+          </indicator>
+          <indicator>
+            <p>Describe examples of technologies used to assess water quality and how those technologies have changed over time.</p>
+          </indicator>
+          <indicator>
+            <p>Provide examples of how individuals and public and private Canadian institutions contribute to the sustainable stewardship of water through traditional knowledge and scientific and technological research and endeavours related to aquatic environments (e.g., marine research institutes, universities, federal and provincial government departments, and ecological groups) and identify possible careers related to the study and stewardship of water.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

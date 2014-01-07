@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181917_1</pdf>
+  <banner>science/Science_3.png</banner>
+  <dark_colour>#008164</dark_colour>
+  <light_colour>#e6f3f0</light_colour>
+  <goals>science/science7-9aimsgoals.htm</goals>
+  <teaching>science/science6-9teaching.htm</teaching>
+  <curriculum_name>Science 3</curriculum_name>
+  <classification_id>science 3</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Life Science: Plant Growth and Changes (PL)</goal_heading>
+      <outcome>
+        <identifier>PL3.1</identifier>
+        <outcome_text>Investigate the growth and development of plants, including the conditions necessary for germination. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions related to plant growth (e.g., How do very young plants look different from grown plants? How much water do plants need to grow? Do all plants grow in the same way?).</p>
+          </indicator>
+          <indicator>
+            <p>Observe and explain the function of the major structures (i.e., root, stem, flower, leaf, and fruit or seed) of a variety of plants.</p>
+          </indicator>
+          <indicator>
+            <p>Relate characteristics such as the number and shape of leaves, flower colour, height, and presence and type of fruit in different types of plants to the plant’s environment.</p>
+          </indicator>
+          <indicator>
+            <p>Sort and classify plants and/or seeds according to one or more student-selected attributes.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and represent, using written language, pictures, and charts, changes that occur through the life cycle of a flowering plant.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the basic needs of plants to the basic needs of animals and humans.</p>
+          </indicator>
+          <indicator>
+            <p>Research ways in which plants rely on animals and abiotic factors (e.g., gravity, wind, and water) to support plant reproduction by dispersing seeds.</p>
+          </indicator>
+          <indicator>
+            <p>Predict and investigate conditions such as the temperature, available sunlight, available nutrients in soil, and available water, which are necessary for plant germination and growth.</p>
+          </indicator>
+          <indicator>
+            <p>Care for a flowering plant throughout its life cycle, tracking its growth and changes.</p>
+          </indicator>
+          <indicator>
+            <p>Estimate, record, and display relevant measurements of plant growth, using rulers, tables, and bar graphs.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest explanations for patterns and discrepancies in the growth rate of similar plants grown in varying conditions.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the importance of water and light for plant growth and the mechanisms by which plants obtain water and light from the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Identify characteristics that remain constant and those that change throughout the life cycle of a flowering plant.</p>
+          </indicator>
+          <indicator>
+            <p>Pose new questions about conditions necessary for plant growth, based on what was learned.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PL3.2</identifier>
+        <outcome_text>Analyze the interdependence among plants, individuals, society, and the environment. [CP, DM, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe, safely and respectfully, plants in local environments (e.g., classroom, flower garden, school yard, community garden, forest, field, park, and nature preserve).</p>
+          </indicator>
+          <indicator>
+            <p>Research traditional and contemporary uses of plants or parts of plants, such as food, beverages, medicine, arts, seed banks, shade, wind breaks, erosion protection, cultural celebrations, and products like dyes, shelter, and clothing.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the significance to some First Nations and Métis people of offering tobacco during harvesting and how that purpose differs from using the tobacco plant for smoking.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the importance of agriculture in Saskatchewan, including the variety of plants and plant-related products.</p>
+          </indicator>
+          <indicator>
+            <p>Describe examples of plant biodiversity (e.g., trees, shrubs, bushes, herbs, grasses, vines, and mosses) in various ecosystems throughout the world.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how to determine whether plants are healthy and discuss the impacts of diseased plants on society and the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Describe ways that plants and animals depend on each other.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the impact of natural (e.g., animal migration, fire, competition, and decay) and human activity (e.g., burning land, logging, fertilizing, soil compaction, and picking endangered plants) on the biodiversity of plant species.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the type and quantity of plants and plant matter in the diets of people who live in various communities and/or represent various cultures.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how and why plants are replenished naturally (e.g., forest fires and pollination) and artificially (e.g., tree farms, planting seedlings, and seed banks).</p>
+          </indicator>
+          <indicator>
+            <p>Defend a position related to plant use (e.g., picking plants, harvesting crops, fertilizing, and planting invasive species) and protection (e.g., establishing conservation areas, planting native species, and developing alternatives to plant-based products).</p>
+          </indicator>
+          <indicator>
+            <p>Imagine a world without plants and describe the impact on animals, people, and the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Respond to and acknowledge the ideas of others regarding the importance of plants to self and society.</p>
+          </indicator>
+          <indicator>
+            <p>Research lifestyles (e.g., farming, fishing, and logging) and jobs (e.g., florist, crop scientist, landscaper, gardener, fruit grower, ecologist, logger, and nursery worker) that depend on understanding and working with plants and plant-related products.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science: Structures and Materials (SM)</goal_heading>
+      <outcome>
+        <identifier>SM3.1</identifier>
+        <outcome_text>Investigate properties of materials and methods of joinery used in structures. [CP, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify problems to be solved relating to the properties of materials in structures (e.g., What is the purpose of the structure? What materials are appropriate for constructing the structure? What are appropriate methods of joinery?).</p>
+          </indicator>
+          <indicator>
+            <p>Examine the properties of materials used in natural and human- built structures (e.g., beaver lodge, bird nest, wasps’ nest, honeycomb, ant hill, tipi, house, marionette, circus float, umbrella, ladder, bridge, earthlodge, quinzhee, drink can, hockey puck, playground equipment, and toys).</p>
+          </indicator>
+          <indicator>
+            <p>Compare the properties of materials used historically and currently throughout the world to construct structures such as houses, bridges, towers, and roads.</p>
+          </indicator>
+          <indicator>
+            <p>Sort materials for use in constructing structures according to one or more physical properties such as strength, texture, colour, flexibility, and durability.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how various similar and dissimilar materials can be joined (e.g., gluing, nailing, screwing, stapling, taping, Velcroing and tying) and identify the most appropriate methods for joining specific materials for an identified use.</p>
+          </indicator>
+          <indicator>
+            <p>Use appropriate tools (e.g., hammer, nail, glue, and scissors) to cut, shape, make holes, sew, and assemble materials safely.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and carry out a plan, including making predictions, identifying variables, and recording relevant observations, to test the strength of various materials (e.g., straws, toothpicks, masking tape, string, cotton balls, wooden blocks, Styrofoam, cloth, clay, and spaghetti).</p>
+          </indicator>
+          <indicator>
+            <p>Assess the suitability of various materials for constructing structures, including methods of strengthening those materials (e.g., adding more layers, tying or gluing together, triangulation, cross-bracing, and changing the shape of the materials).</p>
+          </indicator>
+          <indicator>
+            <p>Examine the suitability of using recycled materials to construct structures (e.g., tires as highway surfacing, and reclaimed lumber or straw bales for houses).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>SM3.2</identifier>
+        <outcome_text>Assess the function and characteristics of strong, stable, and balanced natural and human-built structures. [CP, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze the purpose or function of various natural and human- built structures.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how some human-built structures are modeled on shapes and structures found in nature.</p>
+          </indicator>
+          <indicator>
+            <p>Assess how 2-D shapes (e.g., rectangle, triangle, circle, square, hexagon, and octagon) and 3-D objects (e.g., dome, arch, and cylinder) provide strength, stability, and balance to natural and human-built structures.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the characteristics of solid (e.g., sand castle, mountain, and dam), frame (e.g., partition wall, hockey net, and spider web), and shell (e.g., igloo, bike helmet, balloon, and drink can) structures.</p>
+          </indicator>
+          <indicator>
+            <p>Classify natural and human-built structures as solid, frame, or shell structures.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the characteristics of different types of shelter (e.g., tent, igloo, hut, boat, castle, tipi, yurt, and house) constructed by people throughout the world, past and present.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the characteristics and significance of historical structures such as Stonehenge, the Parthenon, Petra, the Great Wall of China, Angkor Wat, Machu Picchu, the Taj Mahal, the Pyramids, and Easter Island moai.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how various shapes contribute to balance and stability in humans and various animals.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and carry out a plan to construct a simple structure such as a tower, bridge, tipi, or bird feeder that meets teacher- or student-specified criteria related to strength, stability, and function.</p>
+          </indicator>
+          <indicator>
+            <p>Estimate measurements to select appropriate quantities of required materials for constructing a structure.</p>
+          </indicator>
+          <indicator>
+            <p>Follow safety procedures and rules while constructing structures and explain the need for such procedures and rules.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate the construction process for a simple structure, including descriptions of the components of the structure, using labelled drawings, written and oral explanations, and demonstrations.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the strength, stability, and balance of personally- constructed structures and make changes to improve the structure as deemed necessary.</p>
+          </indicator>
+          <indicator>
+            <p>Identify materials or parts of a structure that failed and hypothesize why they failed.</p>
+          </indicator>
+          <indicator>
+            <p>Assess natural and human-built structures to determine if they are effective, safe, make efficient use of materials, meet user’s needs, and minimize the impact on the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Research jobs and hobbies that contribute to the design, building, and maintenance of natural and human-built structures.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science: Magnetism and Static Electricity (ME)</goal_heading>
+      <outcome>
+        <identifier>ME3.1</identifier>
+        <outcome_text>Investigate the characteristics of contact (e.g., push, pull, and friction) and non-contact (e.g., magnetic and static electric) forces. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions related to the characteristics of magnetic and static electric forces (e.g., Do all magnets attract objects? Do all magnets have a North pole? Why do I get a shock when I rub my shoes on a carpet and touch a door knob?).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how contact and non-contact forces are able to cause objects to start moving, speed up, slow down, and stop; cause moving objects to change direction; and cause changes to the shape of objects.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the characteristics of contact, magnetic, and static electric forces, including the range over which they act, and propose methods of increasing or decreasing the effects of these forces.</p>
+          </indicator>
+          <indicator>
+            <p>Group materials according to criteria such as their attraction to magnets and ability to be magnetized based on personal observation.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the characteristics and effects of different types and shapes of magnets (e.g., horseshoe, disc, bar, cylindrical, and block), including the location and type of magnetic poles (if any exist), and the shape of the magnetic field produced by the magnet.</p>
+          </indicator>
+          <indicator>
+            <p>Predict and test the number of objects a magnet can pick up under different conditions (e.g., distance between magnet and object, number of identical magnets, solids between magnet and object) and develop simple conclusions about conditions that affect strength of magnetic forces.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how charged materials interact with each other and with uncharged objects.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate ways to use materials found in their environment (e.g., balloon, cotton, fur, wool, confetti, acetate strip, ebonite rod, and Scotch tape) to investigate conditions which affect the strength of static electric forces.</p>
+          </indicator>
+          <indicator>
+            <p>Make and record relevant observations during investigations to identify conditions (e.g., humidity, type of materials, and distance between charged objects) that affect the strength of static electric forces, and develop simple conclusions about these conditions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>ME3.2</identifier>
+        <outcome_text>Assess effects of practical applications of magnetic and static electric forces on individuals and society. [CP, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate how magnets are used at home and school, and in business and industrial applications (e.g., refrigerator magnet, magnetic cupboard door latches, credit card magnetic strip, radio speakers, navigation, motorized devices, scrap yard crane, magnetic levitation trains, jewellery, tools, and toys).</p>
+          </indicator>
+          <indicator>
+            <p>Classify magnets that are used at home and school, and in business and industrial applications as natural, temporary, and permanent.</p>
+          </indicator>
+          <indicator>
+            <p>Explore how magnetic compasses can provide evidence for and information about magnetic fields, including those created by current traveling through a conductor, and the Earth’s magnetic field.</p>
+          </indicator>
+          <indicator>
+            <p>Design, construct, and test an object such as a toy or game whose function depends on attractive or repulsive magnetic forces.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the operation of a toy or game whose function depends on magnetic forces using terms such as<i>attract, repel, push,</i>and<i>pull.</i></p>
+          </indicator>
+          <indicator>
+            <p>Explain safety procedures to be followed when interacting with magnetic and static electric forces.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the effects of static electric forces in daily life (e.g., static cling, sparks when touching metal objects after walking across carpeted surfaces, and photocopiers).</p>
+          </indicator>
+          <indicator>
+            <p>Explain the purpose of technologies which are designed to minimize static electric forces (e.g., fabric softeners and dryer sheets, antistatic bags, chains hanging from combines, antistatic safety boots, grounding straps on cars, and dusters).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate methods of using magnetic and static electric forces to create artistic expressions (e.g., mobiles, kinetic sculptures, painting, and drama).</p>
+          </indicator>
+          <indicator>
+            <p>Generate new questions from what has been learned about applications of magnetic and static electric forces.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Earth and Space Science: Exploring Soils (ES)</goal_heading>
+      <outcome>
+        <identifier>ES3.1</identifier>
+        <outcome_text>Investigate the characteristics, including soil composition and ability to absorb water, of different types of soils in their environment. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions and make predictions about the characteristics and composition of soils that lead to exploration and investigation (e.g., What colours are soil? What does soil feel like? Where does soil come from? Is there water in soil?).</p>
+          </indicator>
+          <indicator>
+            <p>Examine physical characteristics (e.g., particle size, texture, moisture, particle size distribution, colour, and ability to hold together) of soils from different locations (e.g., garden, flower pot, river bed, slough, hill top, grassy field, lawn, ditch, and forest) in their environment.</p>
+          </indicator>
+          <indicator>
+            <p>Classify soils in their environment according to location and type (e.g., clay, sand, silt, and loam).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze soil samples using tools such as spoons, hand lenses, jars, and filters appropriately and safely.</p>
+          </indicator>
+          <indicator>
+            <p>Make and record observations and measurements in investigations related to soil composition using techniques such as notes in point form, diagrams, tables, bar graphs, photographs, and video.</p>
+          </indicator>
+          <indicator>
+            <p>Make predictions about the capability of different types of soil to absorb water and test these predictions through exploration and investigation.</p>
+          </indicator>
+          <indicator>
+            <p>Collect and display data, using tables and bar graphs, to show the amount of water absorbed by different types of soil.</p>
+          </indicator>
+          <indicator>
+            <p>Sort soil samples according to one or more physical characteristics such as texture, ability to absorb water, particle size, and colour.</p>
+          </indicator>
+          <indicator>
+            <p>Communicate procedures and results of investigations related to the testing of water absorption of soils using drawings, demonstrations, and oral and written descriptions.</p>
+          </indicator>
+          <indicator>
+            <p>Propose answers to initial questions related to soil composition based on the results of personal investigations.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>ES3.2</identifier>
+        <outcome_text>Analyze the interdependence between soil and living things, including the importance of soil for individuals, society, and all components of the environment. [CP, DM]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Suggest ways in which individuals and communities value and use soil, including the importance of Mother Earth for First Nations and Métis peoples.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the interdependence between animals and soils (e.g., insects and grubs live in soil, soil provides shelter for some animals, and earthworms aerate soil).</p>
+          </indicator>
+          <indicator>
+            <p>Examine the interdependence between plants and soils (e.g., soils provide nutrients for plant growth, plant leaves die and fall onto the ground, and plant roots spread throughout soil).</p>
+          </indicator>
+          <indicator>
+            <p>Relate the characteristics (e.g., composition, colour, texture, and ability to absorb water) of soils to their uses (e.g., agriculture, berms, pottery, earth shelters, road building, habitats, landscaping, and purifying water).</p>
+          </indicator>
+          <indicator>
+            <p>Observe the effects of moving water on soils in different environments (e.g., beneath an eavestrough downspout, along a stream bank, down a slope, and under a sprinkler).</p>
+          </indicator>
+          <indicator>
+            <p>Collaboratively design and safely carry out procedures to determine the effects of moving water on different types of soils.</p>
+          </indicator>
+          <indicator>
+            <p>Propose practices that individuals and communities can take to reduce the effects of erosion on a small scale (e.g., vegetable garden and flower pot) and a large scale (e.g., agricultural field, sports field, river bank, and road ditch).</p>
+          </indicator>
+          <indicator>
+            <p>Suggest sustainable practices (e.g., composting and fertilizing) that can affect soils positively and reduce or prevent harmful effects such as compaction and contamination of soils.</p>
+          </indicator>
+          <indicator>
+            <p>Research careers that involve an understanding of soil.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

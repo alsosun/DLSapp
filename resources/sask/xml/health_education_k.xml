@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-197984_1</pdf>
+  <banner>health/HEK.png</banner>
+  <dark_colour>#9bc4b2</dark_colour>
+  <light_colour>#ebf3f0</light_colour>
+  <goals>kindergarten/health_aimsgoals_k.htm</goals>
+  <curriculum_name>Health Education K</curriculum_name>
+  <classification_id>kindergarten</classification_id>
+  <classification_entry>health_education</classification_entry>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Understanding, Skills, and Confidences (USC)</goal_heading>
+      <outcome>
+        <identifier>USCK.1</identifier>
+        <outcome_text>Develop basic habits to establish healthy relationships with self, others, and the environment.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop language with which to wonder and talk about healthy behaviours.</p>
+          </indicator>
+          <indicator>
+            <p>Express what is known about healthy behaviours (e.g., sleeping, laughing, crying, observing nature, attending ceremonies, drinking water).</p>
+          </indicator>
+          <indicator>
+            <p>Ask questions and seek answers about healthy behaviours.</p>
+          </indicator>
+          <indicator>
+            <p>Illustrate what “healthy” looks like, sounds like, and feels like in a variety of contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize examples of healthy habits (e.g., brushing teeth, washing hands, relaxing, reading, and sharing).</p>
+          </indicator>
+          <indicator>
+            <p>Explore healthy behaviours and healthy relationships through creative expression (e.g., dramatization, role play) and storytelling.</p>
+          </indicator>
+          <indicator>
+            <p>Represent visually, physically, and/or verbally why healthy habits are important.</p>
+          </indicator>
+          <indicator>
+            <p>Describe feelings of calmness/peacefulness and experiment with the language to convey these feelings.</p>
+          </indicator>
+          <indicator>
+            <p>Examine opportunities to be healthy at school and at home.</p>
+          </indicator>
+          <indicator>
+            <p>Share what is known about healthy relationships (e.g., be kind to each other, laugh together, accept differences, feel like one belongs and contributes).</p>
+          </indicator>
+          <indicator>
+            <p>Observe and discuss interactions among others (i.e., real life, media, literature) to identify positive/helpful and negative/hurtful behaviours.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize the value of taking time to “stop and think” before choosing/acting.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USCK.2</identifier>
+        <outcome_text>Establish behaviours that support safety of self and others (including safety at school and at home).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop the language with which to wonder and talk about safety.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize “safe” and “unsafe” behaviours and situations (e.g., taking turns, wearing weather-appropriate clothing, playing in designated areas, walking alone).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate safety guidelines and rules to keep one safe at school and at home.</p>
+          </indicator>
+          <indicator>
+            <p>Learn and practise safety procedures in a variety of school and home contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Identify challenges that may exist to being safe at school and at home (e.g., limited supervision).</p>
+          </indicator>
+          <indicator>
+            <p>Describe what children can do to support the safety of self and others.</p>
+          </indicator>
+          <indicator>
+            <p>Examine what to do if the safety of self or others may be/is jeopardized (e.g., tell a trusted adult, leave, plan ahead).</p>
+          </indicator>
+          <indicator>
+            <p>Participate in a variety of activities that provide opportunities to develop the confidence to support the safety of self and others (e.g., fire drill, wearing a seatbelt, knowing how to lock/unlock a door).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USCK.3</identifier>
+        <outcome_text>Explore that who I am includes more than my physical self.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop the awareness of, and the language to talk about, all aspects of self.</p>
+          </indicator>
+          <indicator>
+            <p>Ask and explore ‘big’ questions about “Who am I?”.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize personal physical and non-physical gifts/strengths/qualities (e.g., listening skills, knowing an additional language).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss self as an individual who has experiences that may or may not be similar to others.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that thoughts and feelings are not always obvious to others.</p>
+          </indicator>
+          <indicator>
+            <p>Explore the concept of “inner self” as a part of “who I am” that one can choose to share with others.</p>
+          </indicator>
+          <indicator>
+            <p>Examine basic connections between personal thoughts and actions.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate sense of self as separate from, yet connected to, others.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Decision Making (DM)</goal_heading>
+      <outcome>
+        <identifier>DMK.1</identifier>
+        <outcome_text>Establish that being curious about health and well-being is important for developing healthy habits, establishing healthy relationships, supporting safety, and exploring “self”.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain what is understood about:self, healthy habits, safety of self and others, healthy relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Examine basic choices related to:healthy habits, safety behaviours, responding to more than the physical self of others.</p>
+          </indicator>
+          <indicator>
+            <p>Make healthy choices related to:exploring “self”, healthy habits, playing safely at home or at school, developing relationships.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Action Planning (AP)</goal_heading>
+      <outcome>
+        <identifier>APK.1</identifier>
+        <outcome_text>Demonstrate, with guidance, initial steps for developing basic health habits, establishing healthy relationships, supporting safety, and exploring “self”.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe the basic steps of “stop, think, do” for making healthy choices.</p>
+          </indicator>
+          <indicator>
+            <p>Perform the basic steps of “stop, think, do” in daily play.</p>
+          </indicator>
+          <indicator>
+            <p>Practise healthy habits related to: exploring “self”, healthy choices, playing safely at home or at schooldeveloping relationships.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

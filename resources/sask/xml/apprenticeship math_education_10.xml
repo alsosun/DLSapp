@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-182866_1</pdf>
+  <banner>mathematics/WAM10.png</banner>
+  <dark_colour>#d86558</dark_colour>
+  <light_colour>#f7e0de</light_colour>
+  <goals>mathematics/workplace_apprenticeship10aimsgoals.htm</goals>
+  <teaching>mathematics/workplace_apprenticeship_10.htm</teaching>
+  <curriculum_name>W &amp; A Math 10</curriculum_name>
+  <classification_id>Workplace and Apprenticeship Mathematics 10</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Workplace and Apprenticeship Mathematics (WA)</goal_heading>
+      <outcome>
+        <identifier>WA10.1</identifier>
+        <outcome_text>Demonstrate understanding of the preservation of equality including solving problems that involve the manipulation and application of formulas related to:perimeter, area, the Pythagorean Theorem, primary trigonometric ratios, income.[C, CN, ME, PS, R, T]</outcome_text>
+        
+        <indicators>
+          <outer_text>
+						(It is intended that this outcome be integrated with other outcomes throughout the course.)
+					</outer_text>
+          <indicator>
+            <p>Verify, using examples, and explain why different forms of the same formula are equivalent.</p>
+          </indicator>
+          <indicator>
+            <p>Verify if given forms of the same formula are equivalent and justify the conclusion.</p>
+          </indicator>
+          <indicator>
+            <p>Describe, using examples, how a given formula is used in a trade or an occupation.</p>
+          </indicator>
+          <indicator>
+            <p>Create, solve, and verify the reasonableness of solutions to situational questions relevant to self, family, or community that involve the use of a formula.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze solutions to questions that involve formulae to verify the preservation of equality and correct, with explanation, if necessary.</p>
+          </indicator>
+          <indicator>
+            <p>Solve situational questions that involve the application of a formula that:</p>does not require manipulationdoes require manipulation.</indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA10.2</identifier>
+        <outcome_text>Analyze puzzles and games that involve spatial reasoning using problem solving strategies. [C, CN, PS, R]</outcome_text>
+        <indicators>
+          <outer_text>
+						(It is intended that this outcome be integrated throughout the course by using sliding, rotation, construction, deconstruction, and puzzles and games such as Tetris, Rubik’s cube, Blokus, chess, checkers, Backgammon, Mastermind, Tic-Tac-Toe, Connect Four or Five, Battleship, and Cathedral World).
+					</outer_text>
+          <indicator>
+            <p>Determine, explain, and verify strategies to solve a puzzle or to win a game such as:guess and check, look for a pattern, make a systematic list, draw or modelel, iminate possibilities, solve a simpler problem, work backwards, develop alternative approaches.</p></indicator>
+          <indicator>
+            <p>Observe and analyze errors in a solution to a puzzle or in a strategy for winning a game and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Create a variation on a puzzle or a game, and describe a strategy for solving the puzzle or winning the game.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA10.3</identifier>
+        <outcome_text>Demonstrate using concrete, and pictorial models, and symbolic representations, understanding of measurement systems including:The Système International (SI)The British Imperial systemThe US customary system.[C, CN, ME, T, V]</outcome_text>
+        
+        <indicators>
+          <outer_text>
+						It is intended that students explore, analyze for patterns, and develop understanding of many units in all three systems of measurements. The units used should be those that are appropriate to the workplace or apprenticeship context being considered. These units include:
+						
+								metres, grams, litres, and seconds along with appropriate prefixes such as kilo, hecto, deci, centi, and milli, as well as hectare, tonne, and degrees Celsius (SI system).
+							
+								inch, foot, board foot, yard, mile, acre, teaspoon, tablespoon, cup, pint, quart, gallon, bushel, ton, and degrees Fahrenheit (British and US systems where appropriate).
+							</outer_text>
+          <indicator>
+            <p>Research and present about a topic related to measurement systems such as: how the SI system and the Imperial system were developedthe adoption of the SI system in Canadadevelopment of the US customary system and the relationship between the units of this system and those of the Imperial measurement system (e.g., units for length and area are the same; there are differences, however, for mass, weight, and capacity)early systems of measurement in Canada and contexts in which some are still used today (e.g., hand span and thumbs for measuring horses from the ground to its withers).</p></indicator>
+          <indicator>
+            <p>Describe situations relevant to self, family, or community in which the SI and/or Imperial systems are used.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the relationships between:</p>the base units of the metric system of measurement and the base ten number systemthe prefixes used in the metric system and powers of tenthe related units for length, area, volume, capacity, mass, and temperature for each of the two systems of measurement.</indicator>
+          <indicator>
+            <p>Explain, using examples, how and why:</p>decimal numbers are usually used for SI unitsfractions are usually used for Imperial units.</indicator>
+          <indicator>
+            <p>Provide an approximate measurement in: SI units for a measure given in Imperial units (e.g., ¼ inch is approximately 2.5 cm, 1 kg is a little more than 2 lbs)
+							Imperial units for a measurement given in SI units (e.g., 1 litre is approximately US gallon, 250 mL is approximately 1 cup).</p></indicator>
+          <indicator>
+            <p>Develop (using proportional reasoning), generalize, explain, and apply strategies (including formulas) to convert measurements from:</p>SI to Imperial units (e.g., Celsius to Fahrenheit, centimetres to inches, kilograms to pounds, litres to quarts)Imperial to SI units (e.g., Fahrenheit to Celsius, inches to centimetres, pounds to kilograms, quarts to litres).</indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA10.4</identifier>
+        <outcome_text>Demonstrate, using concrete and pictorial models, and symbolic representations, understanding of linear measurement, including units in the SI and Imperial systems of measurement. [CN, ME, PS, R, T, V]</outcome_text>
+        <indicators>
+          <outer_text>
+						It is intended that contextual situations involve the four arithmetic operations on decimals or on fractions, and that students do not convert from one to the other when performing calculations unless required within the particular question.
+					</outer_text>
+          <indicator>
+            <p>Justify the choice of referents for units in both the SI system and the Imperial system (e.g, the width of the thumb for an inch and the width of the little finger for 1 centimetre).</p>
+          </indicator>
+          <indicator>
+            <p>Estimate, using personal referents for SI and Imperial units, linear measurements such as the dimensions of regular 3-D objects or 2-D shapes found in the classroom, at home, or in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why and how the same linear measurement can be expressed using: equivalent SI units (e.g., 10 centimetres, 0.1 metres, and 100 millimetres)equivalent Imperial units (e.g., 6 inches)</p>
+								</indicator>
+          <indicator>
+            <p>Measure and record (using Canadian spelling and abbreviations for SI or Imperial units) using a variety of instruments such as trundle or surveyor’s wheels, height gauges, metric and Imperial tapes and rulers, carpenter’s squares, micrometers, fractional or electronic callipers, and pedometers: distances at school, at home, and in the communityinside diameters, outside diameters, lengths, and widths of personally relevant 3-D objects.</p></indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies to convert units of linear measurements within the same system (e.g., feet to yards, or metres to millimetres).</p>
+          </indicator>
+          <indicator>
+            <p>Apply knowledge and skills with linear measurement to create and solve or verify the reasonableness of solutions to situational questions relevant to self, family, or community (including perimeter, circumference, and the length + width + height measurement used in shipping and air travel).</p>
+          </indicator>
+          <indicator>
+            <p>Determine the operation that should be used to solve a linear measurement problem and explain the reasoning
+						</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies to determine the midpoint of a linear measurement, such as the length, width, height, depth, diagonal length, or diameter of a 3-D object (e.g., A wall measures 5 yards and 6
+							 inches. If a painting is to be hung centered on the wall, how far is the centre of the painting from each of the adjacent walls?).
+						</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “the distance between Regina and Saskatoon is 2 hours”.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA10.5</identifier>
+        <outcome_text>Demonstrate using concrete and pictorial models, and symbolic representations, understanding of area of 2-D shapes and surface area of 3-D objects including units in SI and Imperial systems of measurement. [CN, ME, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe situations relevant to self, family, or community in which SI and/or Imperial units for area measurement are used.</p>
+          </indicator>
+          <indicator>
+            <p>Justify the choice of referents for area measurements in both the SI and Imperial units (e.g., a dime or a small fingernail is about one cm² and the thumb nail is about 1 in²).</p>
+          </indicator>
+          <indicator>
+            <p>Estimate, using strategies such as personal referents or grids, area and surface area measurements in SI or Imperial units including regular, composite, and irregular 2-D shapes and 3-D objects found in the classroom, at home, or in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies (including measuring and applying formulae) for determining areas and surface areas of:regular, composite, and irregular 2-D shapes, including circles.3-D objects, including right cylinders and right cones.</p></indicator>
+          <indicator>
+            <p>Create, solve, and verify the reasonableness of solutions to situational questions relevant to self, family, or community that involve area or surface area measurement of: regular or irregular 2-D shapes including circles.3-D objects, including right cylinders and cones.</p></indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies to convert, within the same system of measurement, area measurements expressed in:an SI unit squared to another SI unit squaredan Imperial unit squared to another Imperial unit squared.</p></indicator>
+          <indicator>
+            <p>Analyze, with and without the use of dynamic geometry software, the effect of changing the measurement of one or more dimensions on area and perimeter of rectangles and surface area of rectangular prisms.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “Area involves one face of a 2-D object while surface area is the sum of the areas of all the faces of a 3-D object”.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA10.6</identifier>
+        <outcome_text>Apply understanding of the Pythagorean Theorem to solve problems. [C, CN, PS, V, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Model, including the use of drawing, concrete materials, and technology, the meaning, role, and use of the Pythagorean Theorem, using examples and non-examples.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and analyze a set of triangles to judge if the Pythagorean Theorem could be used to determine an unknown side length and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Describe historical and contemporary applications of the Pythagorean Theorem, including the 3:4:5 ratio (e.g., Explain the relationship between a circle of string that has 13 equidistant knots or beads forming 12 spaces of equal length on it to the Pythagorean Theorem).</p>
+          </indicator>
+          <indicator>
+            <p>Relate, using examples, ratios equivalent to 3:4:5 and other Pythagorean Triples to the Pythagorean Theorem.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, apply, and explain strategies to verify if a corner of a 3-D object is square (90°) or if a parallelogram is a rectangle.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and analyze the lengths and intersections of diagonals of various quadrilaterals and draw conclusions.</p>
+          </indicator>
+          <indicator>
+            <p>Determine if given triangles are right triangles and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Create , solve, and verify the reasonableness of solutions to problems relevant to self, family, or community, for which the Pythagorean Theorem can be used.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA10.7</identifier>
+        <outcome_text>Demonstrate understanding of similarity of convex polygons, including regular and irregular polygons. [C, CN, PS, V, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze and generalize about the relationships between:</p>the corresponding sides of two or more polygons that have corresponding angles of equal measurethe corresponding angles of two or more polygons that have corresponding sides that are proportional.</indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply strategies for determining if two or more convex polygons (regular or irregular) are similar.</p>
+          </indicator>
+          <indicator>
+            <p>Verify whether two or more given polygons are similar.</p>
+          </indicator>
+          <indicator>
+            <p>Draw polygons that are similar to a given polygon using measuring tools and technology, explain the strategies used, and justify why the polygons are similar.</p>
+          </indicator>
+          <indicator>
+            <p>Apply knowledge and skills related to similar polygons to solve situational questions relevant to self, family, or community that involve right triangles with a shared acute angle (e.g., determining the height of a tree).</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve situational questions relevant to self, family, or community that involve similarity of polygons.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “All congruent polygons are similar and all similar polygons are congruent”.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA10.8</identifier>
+        <outcome_text>Demonstrate an understanding of primary trigonometric ratios (sine, cosine, and tangent). [CN, PS, R, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Observe a set of similar right triangles and analyze and draw conclusions about the ratios of the lengths, with respect to one acute angle of the: side opposite to the side adjacentside opposite to the hypotenuseside adjacent to the hypotenuse.</p></indicator>
+          <indicator>
+            <p>Identify situations where the trigonometric ratios can be used for indirect measurement for angles and lengths.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, generalize, explain, and apply formulae for the primary trigonometric ratios (cosine, tangent, and sine).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze solutions to situational questions that involve primary trigonometric ratios to determine if they are reasonable and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Apply knowledge and skills related to the solving of right triangles using the primary trigonometric ratios to create and solve situational problems relevant to self, family, or community.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA10.9</identifier>
+        <outcome_text>Demonstrate understanding of angles including:drawing and sketchingreplicating and constructingbisectingrelating to parallel, perpendicular, and transversal linessolving problems.</outcome_text>
+        <outcome_text>[C, ME, PS, T, V]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>
+              Justify the choice of personal referents for angles measuring 22.5°, 30°, 45°, 60°, 90°, and 180° and use them to estimate angle measurements (e.g., a corner of a sheet of paper is 90° so of a corner is 45°).
+						</p>
+          </indicator>
+          <indicator>
+            <p>Sketch or draw angles of various measures, including acute, right, straight, obtuse, and reflex angles, and justify the choice of sketching or drawing in relation to the situation.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, how to measure angles in different orientations using a variety of instruments such as a protractor, carpenter’s square, or dynamic software.</p>
+          </indicator>
+          <indicator>
+            <p>Explain and illustrate how angles can be replicated (e.g., Mira, protractor, compass and straightedge, carpenter’s square, and dynamic software).</p>
+          </indicator>
+          <indicator>
+            <p>Replicate angles in various orientations, with and without the use of technology.</p>
+          </indicator>
+          <indicator>
+            <p>Explain, using examples, the relationship between the bisecting of angles and axial symmetry.</p>
+          </indicator>
+          <indicator>
+            <p>Bisect angles in various orientations and explain the strategy used.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and sort a set of pairs of lines as perpendicular, parallel, or neither, and justify.</p>
+          </indicator>
+          <indicator>
+            <p>Relate complementary and supplementary angles to parallel, perpendicular, and transversal lines.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and identify in a situation relevant to self, family, or community adjacent angles that are complementary, supplementary, or neither, and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Generalize, develop, explain, and apply relationships between pairs of angles formed by parallel lines and a transversal, including corresponding anglesvertically opposite anglesalternate interior anglesalternate exterior anglesinterior angles on the same side of the transversalexterior angles on the same side of the transversal.</p></indicator>
+          <indicator>
+            <p>Provide concrete and pictorial examples that show that there are no angle relationships (excluding vertically opposite angles) when two lines that are not parallel are crossed by a transversal.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and apply strategies for determining if lines or planes are perpendicular or parallel in situations relevant to self, family, or community (e.g., are the walls perpendicular to the floor? Are the corners square? Are the seams on the duvet parallel? Are the joists parallel?).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze personally relevant situations for the impact if lines or planes that are meant to be perpendicular or parallel are not (e.g., What would it be like if the stairs in a staircase were not parallel?).</p>
+          </indicator>
+          <indicator>
+            <p>Create and solve relevant situational questions that involve angles and/or parallel lines and transversals, including perpendicular transversals, and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “If two or more lines are perpendicular, then each is a transversal of the other and if two or more lines are transversals of each other, they are perpendicular”.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “All lines are either parallel or transversals”.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and describe the role of angles, parallel lines, perpendicular lines, and transversals in games and sports (e.g., chess, curling, pool, hockey, soccer, and basketball).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA10.10</identifier>
+        <outcome_text>Apply proportional reasoning to solve problems involving unit pricing and currency exchange. [CN, ME, PS, R, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create and solve problems relevant to self, family, and community that involve best buy, and explain the solution in terms of the cost as well as other factors, such as quality and quantity.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and analyze, using relevant examples taken from print and other media, different sales promotion techniques (e.g., deli meat at $2 per 100g seems less expensive than $20 per kilogram).</p>
+          </indicator>
+          <indicator>
+            <p>Determine the percent increase or decrease from an original price to a new price and explain the reasoning for the method</p>
+          </indicator>
+          <indicator>
+            <p>Develop (using proportional reasoning), explain, and apply strategies for: comparing the unit price of two or more itemssolving situational problems involving currency exchangedetermining percent increase or decrease for a given situation.</p></indicator>
+          <indicator>
+            <p>Develop using proportional reasoning and mental mathematics strategies, explain, and apply strategies for estimating the cost of items or services in Canadian currency while in a foreign country or when making purchases via the Internet, and explain why this may be important.</p>
+          </indicator>
+          <indicator>
+            <p>Convert between Canadian currency and foreign currencies, such as Mexican or American currencies, using formulas, charts, or tables, and explain how to know if the solution is reasonable</p>
+          </indicator>
+          <indicator>
+            <p>Analyze solutions to situational questions that involve unit pricing or conversions of currency to determine if they are reasonable and explain the reasoning.</p>
+          </indicator>
+          <indicator>
+            <p>Research advantages and disadvantages for individuals, groups, businesses, and communities of having differences in currency rates between Canada and the United States.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WA10.11</identifier>
+        <outcome_text>Demonstrate understanding of income including:wagessalarycontractscommissionspieceworkself-employmentgross paynet pay.</outcome_text>
+        <outcome_text>[C, CN, R, T]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe, using examples, various methods of earning income.</p>
+          </indicator>
+          <indicator>
+            <p>Research and record jobs that commonly use different methods of earning income, including hourly wage, wage and tips, salary, commission, contract, bonus, and shift premiums.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the advantages and disadvantages for a variety of methods of earning income, such as hourly wage, tips, piecework, salary, commission, contract work, and self-employment.</p>
+          </indicator>
+          <indicator>
+            <p>Read and explain the information provided on pay stubs.</p>
+          </indicator>
+          <indicator>
+            <p>Determine in decimal form, from a time schedule, the total time worked in hours and minutes, including time and a half and/or double time and explain the strategies used.</p>
+          </indicator>
+          <indicator>
+            <p>Determine gross pay for different situations, including:base hourly wage, with and without tips, from given or calculated hours workedbase hourly wage, plus overtime (time and a half, double time) from given or calculated hours workedbase wage, plus commissionsingle commission rategraduated commission.</p></indicator>
+          <indicator>
+            <p>Determine the Canadian Pension Plan (CPP), Employment Insurance (EI), and income tax deductions for a given amount of gross pay.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and describe deductions that may be relevant to self in the future which are used when calculating net pay (e.g., health plans, uniforms, union dues, charitable donations, payroll tax).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate, using technology, “what if …” questions related to changes in income (e.g., “What if there is a change in the rate of pay?”, “What if there is a change in the method of earning income?”, “What if I can qualify for deductions?”, “What if I work 80% time instead of full time?” , “What if I am sick for a long period of time?”).</p>
+          </indicator>
+          <indicator>
+            <p>Create, research, and solve situational questions relevant to self, family, and community that involve income.</p>
+          </indicator>
+          <indicator>
+            <p>Critique the statement “When planning for a budget, it is important to calculate net pay rather than rely only on gross pay”.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181919_1</pdf>
+  <banner>science/Science_5.png</banner>
+  <dark_colour>#008164</dark_colour>
+  <light_colour>#e6f3f0</light_colour>
+  <goals>science/science7-9aimsgoals.htm</goals>
+  <teaching>science/science6-9teaching.htm</teaching>
+  <curriculum_name>Science 5</curriculum_name>
+  <classification_id>science 5</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Life Science: Human Body Systems (HB)</goal_heading>
+      <outcome>
+        <identifier>HB5.1</identifier>
+        <outcome_text>Analyze personal and societal requirements for, and the impact of, maintaining a healthy human body. [CP, DM]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine methods and perspectives of various cultures, including First Nations and Métis, which have contributed to knowledge about maintaining a healthy body (e.g., balance inherent in the Medicine Wheel).</p>
+          </indicator>
+          <indicator>
+            <p>Identify local knowledge, including the effects of traditional lifestyles, that contributes to human understanding of maintaining a healthy body.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the role of the skin (e.g., protection, heat regulation, absorption, and evaporation) in maintaining a healthy body.</p>
+          </indicator>
+          <indicator>
+            <p>Research how the body’s defences, such as tears, saliva, skin, certain blood cells, and stomach secretions, work to fight against infections.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the function of technologies (e.g., defibrillator, soap, exercise equipment, and safety equipment) that have been developed to support personal health.</p>
+          </indicator>
+          <indicator>
+            <p>Relate the effects of common diseases to the organs or body systems they affect or are related to (e.g., heart attacks affect the circulatory system, epilepsy affects the nervous system, hepatitis affects the liver, gallstones affect the gall bladder, and asthma affects the respiratory system).</p>
+          </indicator>
+          <indicator>
+            <p>Predict how the failure or removal of a specific organ in the human body system would affect an individual’s health.</p>
+          </indicator>
+          <indicator>
+            <p>Compare personal diets and those of people who live in different communities and countries worldwide to Canada’s Food Guide and Canada’s Food Guide – First Nations, Métis, and Inuit.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the benefits of lifestyle choices (e.g., daily physical activity, proper nutrition, adequate sleep, appropriate hygiene practices, regular medical check-ups, and using safety equipment) that contribute to maintaining a healthy body.</p>
+          </indicator>
+          <indicator>
+            <p>Propose actions that individuals can take to minimize the harmful effects and maximize the beneficial effects of natural- and human- caused environmental factors (e.g., West Nile Virus, mosquitoes, pesticides, air quality, noise pollution, food safety, and water and wastewater treatment) on human health.</p>
+          </indicator>
+          <indicator>
+            <p>Research the roles of different individuals and organizations within their communities that help support personal and community health.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>HB5.2</identifier>
+        <outcome_text>Investigate the structure, function, and major organs of one or more human body systems such as the digestive, excretory, respiratory, circulatory, nervous, muscular, and skeletal systems. [SI, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain at least two functions of the human digestive, excretory, respiratory, circulatory, nervous, muscular, or skeletal systems.</p>
+          </indicator>
+          <indicator>
+            <p>Create a written and/or visual representation of the location of the major organs of at least two human body systems within the entire body.</p>
+          </indicator>
+          <indicator>
+            <p>Model the structure and/or function of one or more organs from the human digestive, excretory, respiratory, circulatory, nervous, muscular, or skeletal system.</p>
+          </indicator>
+          <indicator>
+            <p>Assess, in collaboration with other students, a model of an organ from a human body system to refine the model.</p>
+          </indicator>
+          <indicator>
+            <p>Critique models in science, such as models of human organs, as representations of natural phenomena, objects, and/or physical processes.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest the processes that scientists might follow to investigate questions related to the structure and/or function of human body systems (e.g., Which factors affect breathing and heartbeat rate? How does the digestion process work? How much air do lungs hold? Why is blood red? Where does my food go?).</p>
+          </indicator>
+          <indicator>
+            <p>Rephrase, into a testable form, questions about the structure and/ or function of one or more body systems.</p>
+          </indicator>
+          <indicator>
+            <p>Design and carry out procedures, including identifying and controlling variables, to investigate the structure and/or function of one or more body systems (e.g., the influence of exercise on heart rate, the role of simulated saliva in starting the digestion process, and factors that influence a person’s response time).</p>
+          </indicator>
+          <indicator>
+            <p>Compile and display data from investigations related to the structure and/or function of human body systems using appropriate formats such as frequency tallies, tables, and bar graphs.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest explanations for patterns and discrepancies in data collected during investigations related to the structure and/or function of human body systems.</p>
+          </indicator>
+          <indicator>
+            <p>Imagine how a human body might function or look if it did not have one or more of the major body systems.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>HB5.3</identifier>
+        <outcome_text>Assess how multiple human body systems function together to enable people to move, grow, and react to stimuli. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions to investigate or suggest practical problems to solve in relation to human body systems (e.g., How are the various systems connected to each other? Could one system live without the other systems? If not, why not? Why do we need to eat? Could we breathe without a diaphragm? Which organs work hard during exercise? Why do people sometimes become paralyzed due to an injury?).</p>
+          </indicator>
+          <indicator>
+            <p>Relate body changes, such as acne on the skin and growth of body hair, to human growth and development from birth to puberty.</p>
+          </indicator>
+          <indicator>
+            <p>Represent, physically, dramatically, or visually, the interactions among the skeletal, muscular, and nervous systems that produce movement of the body or parts of the body.</p>
+          </indicator>
+          <indicator>
+            <p>Research how the respiratory, digestive, and circulatory systems work together to move oxygen and nutrients throughout the human body.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the interdependence between the nervous system and other body systems for reacting to stimuli and controlling body functions.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how the digestive and excretory systems work together to ensure that the body makes use of food that is eaten and disposes of waste.</p>
+          </indicator>
+          <indicator>
+            <p>Propose alterations to the human body that might enable humans to function more effectively to accomplish one or more typical daily tasks.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science: Properties and Changes of Materials (MC)</goal_heading>
+      <outcome>
+        <identifier>MC5.1</identifier>
+        <outcome_text>Investigate the characteristics and physical properties of materials in solid, liquid, and gaseous states of matter. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Recognize that matter is anything that has mass and takes up space.</p>
+          </indicator>
+          <indicator>
+            <p>Classify materials in their environment as solids, liquids, or gases based on personal observation.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the importance of water, in all states of matter, as a sacred substance within First Nations and Métis cultures.</p>
+          </indicator>
+          <indicator>
+            <p>Carry out a procedure to compare the mass of an object with the mass of its components.</p>
+          </indicator>
+          <indicator>
+            <p>Pose questions related to the characteristics and physical properties of matter that are suitable for investigating using processes of science.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and record characteristics and physical properties (e.g., colour, texture, mass, volume, hardness, flexibility, absorbency, strength, buoyancy, melting point, malleability, magnetism, and solubility) of different solids, liquids, and gases in their environment.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the distinguishing characteristics which enable scientists to differentiate between solids, liquids, and gases.</p>
+          </indicator>
+          <indicator>
+            <p>Measure the temperature, volume, and mass of materials using appropriate instruments (e.g., digital thermometer, ruler, tape measure, graduated cylinder, measuring cup, single-pan balance, and electronic scale) and standard units (e.g., °C, cm<sup>3</sup>, ml, and kg).</p>
+          </indicator>
+          <indicator>
+            <p>Explain how some characteristics and physical properties, such as melting point, boiling point, buoyancy, and solubility, help to distinguish materials from one another.</p>
+          </indicator>
+          <indicator>
+            <p>Critique personal and scientific classification systems of matter by identifying substances that are not easily classified as solids, liquids, or gases (e.g., butter, fat scraped off hides, fog, Jell-O, and wax).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>MC5.2</identifier>
+        <outcome_text>Investigate how reversible and non-reversible changes, including changes of state, alter materials. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose and refine questions for investigation related to changes in materials.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate changes (e.g., cutting aluminium foil, forming clay, breaking wood, and crumpling paper) that can be made to an object without changing the properties of the material making up the object.</p>
+          </indicator>
+          <indicator>
+            <p>Explore how characteristics and physical properties of materials may change when they interact with one another.</p>
+          </indicator>
+          <indicator>
+            <p>Predict whether changes to a material will be reversible or non- reversible.</p>
+          </indicator>
+          <indicator>
+            <p>Observe and classify changes to materials as reversible (e.g., melting ice cube, dissolving salt in water, blowing up a balloon, and folding paper) and non-reversible (e.g., paper burning, egg cooking, bicycle rusting, balloon popping, and apple turning brown).</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate between changes to materials that occur rapidly (e.g., wood burning, explosives detonating, balloon popping, and glass breaking) and those that occur over extended periods (e.g., bicycle rusting, paint fading, and newspaper yellowing).</p>
+          </indicator>
+          <indicator>
+            <p>Provide evidence of the six changes of state (i.e., evaporation, condensation, freezing, melting, sublimation, and deposition) of matter in the environment (e.g., water evaporating from wet clothes, steam condensing on the wall of a shower, lake freezing, butter melting, ice cube sublimating in the freezer, and frost forming on a car window).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate that changes of state of matter are reversible when heat is applied or removed.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the characteristics and physical properties of a material in its solid and liquid states (e.g., compare the mass of ice cubes with the mass of liquid that results when they melt).</p>
+          </indicator>
+          <indicator>
+            <p>Design and carry out a procedure to determine whether the mass of materials changes during reversible and non-reversible changes.</p>
+          </indicator>
+          <indicator>
+            <p>Follow established safety procedures for working with heating appliances and hot materials (e.g., switch hot plates off immediately after use, use tongs and insulated mitts for carrying hot materials and for tending a fire).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the characteristics of fair tests and why scientists value the importance of conducting fair tests for gaining knowledge about the physical properties of materials.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate methods, such as firing clay and forming alloys (e.g., brass, bronze, white gold, and sterling silver) that artists use to change materials based on their understanding of the properties of materials.</p>
+          </indicator>
+          <indicator>
+            <p>Develop conclusions about the effects of reversible and non- reversible changes on the characteristics and physical properties of materials.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>MC5.3</identifier>
+        <outcome_text>Assess how the production, use, and disposal of raw materials and manufactured products affects self, society, and the environment. [DM, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Differentiate between raw materials and manufactured products.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the benefits and drawbacks of manufactured materials (e.g., plastic, steel, aluminium, glass, nylon, and other fabric) that have been developed to improve human living conditions.</p>
+          </indicator>
+          <indicator>
+            <p>Research a product to determine the raw materials from which it is made and the process required to turn the raw materials into a manufactured product.</p>
+          </indicator>
+          <indicator>
+            <p>Conduct a fair test to determine the effectiveness of different types or brands of a material (e.g., glue, coffee mug, paper towel, battery, bubble gum, paper, soap, and balloon).</p>
+          </indicator>
+          <indicator>
+            <p>Develop and apply criteria (e.g., function, cost, reliability, and aesthetics) for evaluating the effectiveness of a consumer product.</p>
+          </indicator>
+          <indicator>
+            <p>Identify locations in their communities and in Saskatchewan where agricultural and industrial manufacturing occurs, what products are created and tested, which raw materials are used, and how by- products and waste are disposed.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the societal and environmental impacts of industrial and agricultural processes that change raw materials into manufactured products, taking into account different perspectives such as consumer, manufacturer, salesperson, and community leader.</p>
+          </indicator>
+          <indicator>
+            <p>Identify potentially harmful products used at home, school, and in communities, including interpreting consumer chemical hazard symbols, and describe practices that individuals can follow to ensure personal and community safety.</p>
+          </indicator>
+          <indicator>
+            <p>Research cultural values related to the consumption of products, such as using all parts of an animal.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how natural and manufactured products (e.g., tires, computers, trees, garbage, paper, scrap metal, house construction materials, food, clothing, oil, and automobiles) are disposed of personally, in their communities, and in Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize the need for developing a sense of responsibility towards other people, other living things, and the environment when choosing how to use and dispose of manufactured products.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Physical Science: Forces and Simple Machines (FM)</goal_heading>
+      <outcome>
+        <identifier>FM5.1</identifier>
+        <outcome_text>Analyze the effects of gravitational, magnetic, and mechanical forces, including friction, on the movement of objects. [CP, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Differentiate between examples of contact (e.g., wind, push, and pull) and non-contact (e.g., magnetic and gravitational) forces in their daily lives.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how forces can act directly or from a distance to cause objects to start to move, speed up, slow down, change direction, or stop moving.</p>
+          </indicator>
+          <indicator>
+            <p>Explain and diagram, using force arrows to represent the relative strength and direction of a force, how contact and non-contact forces affect the movement of objects.</p>
+          </indicator>
+          <indicator>
+            <p>Collaboratively design and carry out an experiment to determine the effects of changing the amount of force applied to an object on the movement of the object.</p>
+          </indicator>
+          <indicator>
+            <p>Measure, using non-standard units (e.g., number of elastic bands, and the length that an elastic band stretches), the force required to cause an object to move a specified distance, and estimate the force required to move a different object the same distance or the same object a different distance.</p>
+          </indicator>
+          <indicator>
+            <p>Record qualitative observations and quantitative measurements about the effects of non-contact (i.e., gravitational and magnetic) forces which act from a distance to cause objects to move, change direction, or stay in place.</p>
+          </indicator>
+          <indicator>
+            <p>Differentiate between the effects of balanced and unbalanced forces (e.g., gravitational, magnetic, and mechanical) on the movement of objects.</p>
+          </indicator>
+          <indicator>
+            <p>Pose questions to investigate the effects of friction on stationary and moving objects, and identify variables (e.g., surface material, texture, mass, angle of ramp, and orientation of object) that may be relevant to the investigation.</p>
+          </indicator>
+          <indicator>
+            <p>Conduct a fair test to compare the effects of friction on the movement of objects over a variety of surfaces (e.g., wood, cloth, floor tile, carpet, tabletop, sidewalk, and grass).</p>
+          </indicator>
+          <indicator>
+            <p>Collect and display quantitative data related to forces and motion using tables, charts, diagrams, and line graphs.</p>
+          </indicator>
+          <indicator>
+            <p>Measure forces in standard units (e.g., Newton) using a spring scale or a force sensor.</p>
+          </indicator>
+          <indicator>
+            <p>Collect and graph quantitative data to compare the mass and gravitational force acting on various objects.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate methods used to investigate the effects of contact and non-contact forces on the movement of objects, including identifying and suggesting explanations for discrepancies in collected data.</p>
+          </indicator>
+          <indicator>
+            <p>Draw conclusions about the relationship between contact and non-contact forces on the movement of objects.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FM5.2</identifier>
+        <outcome_text>Investigate characteristics of simple machines, including levers, wheels and axles, pulleys, inclined planes, screws, and wedges, for moving and lifting loads. [SI, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose and refine testable questions about the operation of simple machines.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how simple machines (e.g., hammer, screwdriver, pliers, bottle opener, ramp, splitting wedges, and scissors) act to reduce effort, increase the distance a load moves, and/or change the direction of an applied force.</p>
+          </indicator>
+          <indicator>
+            <p>Select and safely use tools and materials in a manner that ensures personal safety and the safety of others when investigating the characteristics of simple machines.</p>
+          </indicator>
+          <indicator>
+            <p>Design and carry out an experiment to compare the force needed to lift a load manually with that required to lift it using various simple machines.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how the position of the fulcrum, the load, and the applied force differs for each of the three classes of levers.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the relationship between the applied force and the distance the load is moved for each class of lever.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the operation of wheel and axle mechanisms (e.g., Ferris wheel, bicycle wheel, rolling pin, in-line skate, windmill, and door knob) with the operation of levers.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the effectiveness of wheel and axle mechanisms (e.g., screwdrivers, wheels, doorknobs, and gear systems) of various diameters, rotational speeds, and rotational directions for accomplishing specific tasks.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the relationship between the amount of applied force and the distance that the load is moved in single and multiple pulley systems, including determining the mechanical advantage of the system.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the operating principles of an inclined plane, such as a ramp or ladder, with reference to the applied load and the distance that the load is moved.</p>
+          </indicator>
+          <indicator>
+            <p>Design and construct a prototype of a simple machine which is meant to accomplish a student-identified task.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the efficiency and effectiveness of a prototype of a simple machine using student-identified criteria, and refine the prototype based on data.</p>
+          </indicator>
+          <indicator>
+            <p>Create a representation of the characteristics and operating principles of each type of simple machine.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that scientific processes and ideas help explain how and why simple machines operate.</p>
+          </indicator>
+          <indicator>
+            <p>Pose new questions to investigate about the characteristics of simple machines.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>FM5.3</identifier>
+        <outcome_text>Assess how natural and man-made forces and simple machines affect individuals, society, and the environment. [CP, DM, SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Provide examples of simple and complex machines used at home, in school, and throughout their community.</p>
+          </indicator>
+          <indicator>
+            <p>Compare technologies developed and/or used by various cultures, past and present, which represent applications of simple machines.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the effects of forces from natural phenomena (e.g., earthquake, tornado, hurricane, and tsunami) on the natural and constructed environment.</p>
+          </indicator>
+          <indicator>
+            <p>Assess, using student-identified criteria, the function and effectiveness of products designed to enhance or reduce friction (e.g., grease, oil, ski wax, skate blade, fishing lure, canoe paddle, Velcro, and winter tires) between two surfaces.</p>
+          </indicator>
+          <indicator>
+            <p>Suggest how the function of common simple mechanisms, such as a crowbar, wheelbarrow, elbow joint, fork, rake, baseball bat, can opener, stapler, or scissors, might be different had they been based on a different class of lever.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the benefits and disadvantages of practical examples of levers (e.g., pliers, teeter-totter, bottle opener, wheelbarrow, and fishing rod) on their lives and in their community.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the impacts of machines, such as carts, boats, airplanes, logging equipment, and tractors, on traditional lifestyles.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how agricultural, industrial, automotive, marine, and household applications of pulleys (e.g., combine, swather, crane, fan belt, block and tackle, clothesline, and flagpole) have changed the lives of individuals and affected society and the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Research the use of inclined planes and other simple machines used to construct structures such as pyramids, Stonehenge, Easter Island moai, tipis, inukshuks, and totem poles.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the types of tasks in the community that have been and are being currently accomplished using wedges (e.g., shim, splitting maul, knife, axe, and chisel).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze technologies that are based on principles of simple machines in sports and recreation (e.g., teeter-totter, water slide, gymnastics wedge, balance board, and roller coaster).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the ways in which various combinations of simple machines can be combined to create complex machines.</p>
+          </indicator>
+          <indicator>
+            <p>Imagine machines that could be developed to simplify tasks within their lives, including fanciful devices such as Rube Goldberg machines.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Earth and Space Science: Weather (WE)</goal_heading>
+      <outcome>
+        <identifier>WE5.1</identifier>
+        <outcome_text>Measure and represent local weather, including temperature, wind speed and direction, amount of sunlight, precipitation, relative humidity, and cloud cover. [CP, SI, TPS]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions about local weather conditions and methods of collecting weather data.</p>
+          </indicator>
+          <indicator>
+            <p>Compare strengths and limitations of methods and technologies used historically and currently by different people around the world to obtain information about the weather.</p>
+          </indicator>
+          <indicator>
+            <p>Classify clouds as stratus, cumulus, cirrus, or “other”, compare results with others, and analyze why results may vary.</p>
+          </indicator>
+          <indicator>
+            <p>Use a technological problem-solving process to design and construct simple weather instruments (e.g., wind vane, rain gauge, thermometer, barometer, and anemometer).</p>
+          </indicator>
+          <indicator>
+            <p>Explain the function and purpose of simple weather instruments.</p>
+          </indicator>
+          <indicator>
+            <p>Compile and display local weather data (e.g., temperature, wind speed and direction, amount of sunlight, precipitation, relative humidity, and cloud cover) for a given time interval (e.g., hourly throughout the day, daily for one week, and weekly for one month) using a weather journal, tables, charts, diagrams, and graphs.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a wind rose to determine the predominant wind direction in a region over a given time period.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate, using student-developed criteria, the effectiveness of a personally-constructed weather instrument.</p>
+          </indicator>
+          <indicator>
+            <p>Construct a sample weather map for their region, indicating the temperature, wind speed and direction, precipitation, and cloud cover at a given time.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze patterns and discrepancies in weather data for a given location over a specified time interval.</p>
+          </indicator>
+          <indicator>
+            <p>Generate simple conclusions about the prevailing local weather conditions.</p>
+          </indicator>
+          <indicator>
+            <p>Pose new questions about local weather conditions based on what was learned.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WE5.2</identifier>
+        <outcome_text>Investigate local, national, and global weather conditions, including the role of air movement and solar energy transfer. [SI]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions about the characteristics of local, national, and global weather conditions.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate properties of air, in that air takes up space, has weight, expands and rises when heated, exerts pressure, and moves from areas of high pressure to areas of low pressure.</p>
+          </indicator>
+          <indicator>
+            <p>Measure, describe, and represent patterns in indoor and local outdoor air movement.</p>
+          </indicator>
+          <indicator>
+            <p>Design and safely carry out an experiment to determine the effects of solar energy on different surfaces (e.g., water, soil, sand, asphalt, concrete, grass, and wood).</p>
+          </indicator>
+          <indicator>
+            <p>Record and share, using tables, charts, diagrams, and graphs, the results of experimentation into the effects of solar energy on different surfaces.</p>
+          </indicator>
+          <indicator>
+            <p>Develop simple conclusions about the relationship between the amount of energy absorbed by a material and the nature of the material.</p>
+          </indicator>
+          <indicator>
+            <p>Relate the transfer of energy from the sun to the heating of Earth’s surface by providing examples of surfaces that heat at different rates and locations (e.g., desert, forest, island, and summerfallow field) that have different temperatures.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the characteristics of severe weather events, such as hurricanes, tornadoes, blizzards, hailstorms, droughts, and tropical cyclones, including the role of air movement and solar energy transfer in those events.</p>
+          </indicator>
+          <indicator>
+            <p>Relate weather extremes (e.g., hottest air temperature, lowest air temperature, greatest rainfall, highest wind speed, and heaviest hailstone) to specific locations in Canada and on Earth.</p>
+          </indicator>
+          <indicator>
+            <p>Compare weather conditions locally, regionally, and across Canada at various times throughout the year.</p>
+          </indicator>
+          <indicator>
+            <p>Examine weather lore and animal behaviours in traditional and contemporary cultures as tools to predict weather conditions.</p>
+          </indicator>
+          <indicator>
+            <p>Predict patterns in local, regional, and global weather over a given time frame (e.g., a day, a week, a month, and a year).</p>
+          </indicator>
+          <indicator>
+            <p>Suggest explanations for patterns or discrepancies between predictions of weather patterns and actual data for a given location during a given time interval.</p>
+          </indicator>
+          <indicator>
+            <p>Identify examples of local, national, and global weather phenomena that Canadian scientists are currently studying (e.g., UV protection, wind chill, ozone layer, seasonal snow cover, and temperature trends).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>WE5.3</identifier>
+        <outcome_text>Analyze the impact of weather on society and the environment, including technologies that help humans adddress weather conditions. [DM]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain the purpose of different types of information (e.g., satellite and radar maps, weather watches and warnings, summary statistics, travel advisories, and air quality reports) that weather forecasters provide.</p>
+          </indicator>
+          <indicator>
+            <p>Research how and why people in their communities use short- and long-term weather forecasts in their daily lives.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the impact of weather conditions for a particular region on the lives and livelihoods of people in that region, including choices of food, shelter, clothing, transportation, and employment.</p>
+          </indicator>
+          <indicator>
+            <p>Research effects of short- and long-term changes in weather on the lives and livelihoods of people locally, nationally, and globally.</p>
+          </indicator>
+          <indicator>
+            <p>Relate weather conditions, and changing weather conditions, to the activities and behaviours of animals.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the effects of different types of severe weather on people, communities, and the environment, including personal safety preparations for various severe weather events.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how scientists and traditional knowledge keepers can collaborate to provide a more comprehensive understanding of the effects of weather on people and the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Research traditional and contemporary technological innovations and products related to clothing, shelter, agriculture, and transportation that various cultures have developed to address various types of weather conditions.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why forecasting, measuring, and understanding weather is important for humans.</p>
+          </indicator>
+          <indicator>
+            <p>Propose ideas for new products that would help humans address various types of weather conditions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

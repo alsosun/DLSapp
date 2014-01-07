@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181700_1</pdf>
+  <banner>health/HE7.png</banner>
+  <dark_colour>#9bc4b2</dark_colour>
+  <light_colour>#ebf3f0</light_colour>
+  <goals>health/healtheducation6-9aimsgoals.htm</goals>
+  <teaching>health/healtheducation7teaching.htm</teaching>
+  <curriculum_name>Health Education 7</curriculum_name>
+  <classification_id>health education 7</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Understanding, Skills, and Confidences (USC)</goal_heading>
+      <outcome>
+        <identifier>USC7.1</identifier>
+        <outcome_text>Establish and use strategies to commit to and act upon personal standards (see grade 6) for various aspects of daily living over which an individual has control.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Locate sources of and evaluate information (including text, multimedia, web-based, human) according to specific criteria, about personal commitment.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the concept of ‘resiliency’ and determine its importance in personal commitment.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze when personal standards (see Grade 6) may be reinforced or challenged.</p>
+          </indicator>
+          <indicator>
+            <p>Examine factors (both positive and negative) that influence one’s commitment to personal standards.</p>
+          </indicator>
+          <indicator>
+            <p>Express insights into the connections between commitment to personal standards and healthy decision making.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze possible discrepancies between what people say they commit to and what people actually “show they commit to”.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and apply strategies that parallel one’s actions with personal standards.</p>
+          </indicator>
+          <indicator>
+            <p>Justify the kinds of supports needed to commit to personal standards.</p>
+          </indicator>
+          <indicator>
+            <p>Express insights into the understanding of the concept of “inner self” and demonstrate understanding of, and appreciation for, own inner resources.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and practise strategies that support self to act in accordance with own understanding of human values and virtues.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC7.2</identifier>
+        <outcome_text>Examine critically and use purposefully blood-borne pathogen information/ education, including HIV and Hepatitis C, for the purpose of committing to behaviours that do not put one at risk of infection or co-infection.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Locate sources and evaluate information, according to specific criteria, about behaviours that do/do not put one at risk of HIV and/or Hepatitis C infection.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between primary and secondary sources of HIV/AIDS information, and of expert and non-expert sources.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the role of and determine the influence of technology (e.g., radio, print, television, Internet, cell phones, personal listening devices) in gathering, processing, and using HIV/AIDS and Hepatitis C information.</p>
+          </indicator>
+          <indicator>
+            <p>Examine personal knowledge in terms of what is already known about HIV and Hepatitis C.</p>
+          </indicator>
+          <indicator>
+            <p>Ask questions that lead to deeper understanding of HIV/AIDS and Hepatitis C (e.g., How do decisions, commitment, and actions related to HIV/AIDS vary depending on peoples’ perceptions?).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze implications of/of not evaluating sources of and information about blood-borne infections.</p>
+          </indicator>
+          <indicator>
+            <p>Examine knowledge related to blood borne pathogens, including HIV/AIDS and Hepatitis C:transmission of HIV and Hepatitis Csigns and symptoms of HIV and Hepatitis C infectionsbody’s immune system and its destruction by the HI virusAID syndrome caused by HIV infection.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the formal and/or informal HIV/AIDS and Hepatitis C resources/supports in one’s community.</p>
+          </indicator>
+          <indicator>
+            <p>Determine behaviours that may increase and those that may decrease the risk of blood-borne infections (e.g., tattoo, piercing).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC7.3</identifier>
+        <outcome_text>Commit to personal safety practices while acquiring basic first aid knowledge and skills.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Locate sources and evaluate information, according to specific criteria, about safety practices and first aid skills.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and appraise individual capabilities and assess individual limitations with respect to safety practices and first aid.</p>
+          </indicator>
+          <indicator>
+            <p>Examine possible situations at home and at school that may require basic first aid.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how personal safety practices help to keep self and others safe.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the consequences of practising/not practising personal safety.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the ability to “think ahead” and assess/weigh the impact of actions on the safety of self and others.</p>
+          </indicator>
+          <indicator>
+            <p>Prioritize basic first aid skills to acquire (according to needs and interests of self and of community).</p>
+          </indicator>
+          <indicator>
+            <p>Examine the roles of a variety of first aid experts within the community and the kinds of available first aid supports.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and apply basic first aid strategies.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC7.4</identifier>
+        <outcome_text>Demonstrate a personalized and coherent understanding of the importance of nurturing harmony in relationships (with self, others, and the environment), and apply effective strategies to re/establish harmony when conflict arises.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Express insights into what makes a relationship harmonious.</p>
+          </indicator>
+          <indicator>
+            <p>Locate sources and evaluate information, according to specific criteria, about relationships and conflict.</p>
+          </indicator>
+          <indicator>
+            <p>Create an informed personal definition of conflict.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze potential sources of conflict.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how disagreements are not the same as conflicts.</p>
+          </indicator>
+          <indicator>
+            <p>Conclude that a certain degree of disagreement in relationships is normal.</p>
+          </indicator>
+          <indicator>
+            <p>Propose why some disagreements lead to conflict and some do not.</p>
+          </indicator>
+          <indicator>
+            <p>Examine feelings associated with conflict.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze personal strategies for dealing with conflict (e.g., reduce/avoid barriers to communicating clearly and constructively).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the connections between self-esteem and personal conflict management strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the impact of conflict on the health (i.e., physical, mental, emotional, spiritual) of self and others.</p>
+          </indicator>
+          <indicator>
+            <p>Reduce/avoid barriers to communicating clearly and constructively.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the causes and effects of abuse in relationships and develop personal commitment to non-violent and helpful behaviours.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate and adapt strategies of conflict management in a range of contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Examine what is meant by negotiation, mediation, anger management, compromise, consensus building, and other means of resolving/managing conflict.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the basics of two or three strategies for re-establishing harmony and for resolving/managing conflict.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC7.5</identifier>
+        <outcome_text>Evaluate personal food choices and needs by applying accurate and current nutritional knowledge (e.g., content labels).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Determine how and where to access healthy eating information.</p>
+          </indicator>
+          <indicator>
+            <p>Locate sources and evaluate information, according to specific criteria, about healthy eating.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the consequences of/of not evaluating information about healthy eating.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze persuasion, propaganda, and other techniques (e.g., loaded words, unsubstantiated claims) used by individuals or organizations to influence judgement about what foods are healthy and what foods to purchase.</p>
+          </indicator>
+          <indicator>
+            <p>Apply guidelines for healthy eating as presented in Canada’s Food Guide.</p>
+          </indicator>
+          <indicator>
+            <p>Track and analyze personal food consumption for one week (based on Canada’s Food Guide).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze food labels for personal food choices for sodium, sugar, fat, and calorie content among similar products.</p>
+          </indicator>
+          <indicator>
+            <p>Prepare a three-day family food menu by applying nutritional knowledge to make nutritious selections (based on Canada’s Food Guide) using a variety of given family food budgets and/or situations.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze changes to Canada’s Food Guide through the decades and hypothesize why particular changes were made.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC7.6</identifier>
+        <outcome_text>Demonstrate interpersonal skills, including assertiveness skills, to effectively and skillfully manage peer pressure (e.g., alcohol and drugs, exclusionary behaviours, family expectations, academic pressures, rules/laws).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Locate sources and evaluate information, according to specific criteria, about interpersonal skills.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze peer norms and trends and reflect on the consequences of following and/or resisting them.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the traits of a friend and those of a valued peer group member.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how peer pressure may be positive or negative.</p>
+          </indicator>
+          <indicator>
+            <p>Examine similarities and differences in the peer pressures faced by different genders, socio-economic backgrounds, family structures, sexual orientations, ages, and cultures.</p>
+          </indicator>
+          <indicator>
+            <p>Express insights in response to the statement that resisting peer pressure takes personal commitment, skill, and practice.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish what is meant by “harassment” and demonstrate ways to respond to and/or prevent it.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the ability to stand up for others, practise inclusionary behaviours, and refrain from any form of ridicule.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and practise a minimum of five strategies to resist peer pressure (e.g., demonstrate physical confidence, say no and leave, provide a reason or an excuse, offer an alternative, use humour).</p>
+          </indicator>
+          <indicator>
+            <p>Define the terms passive, assertive, and aggressive and describe related behaviours.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the traits of assertive people for the purpose of designing and delivering assertive messages.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the importance of avoiding negative peer pressure/attachment for the sake of belonging.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>USC7.7</identifier>
+        <outcome_text>Investigate and express an understanding of possible discrepancies in morals (e.g., beliefs, ethics, virtues, understanding of right/wrong) that may determine and/or affect the commitment to the well-being of self, family, community, and the environment.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Locate sources and evaluate information, according to specific criteria, about morality.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and discuss moral maxims, stories, parables, and guiding visions of many cultures.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how one’s identity, and moral code is created through contact with others who are the same and/or different.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate possible relationships and/or tensions among values (e.g., values of integrity and honesty).</p>
+          </indicator>
+          <indicator>
+            <p>Appraise virtues as the quality of doing what is right and avoiding what is wrong.</p>
+          </indicator>
+          <indicator>
+            <p>Express an understanding of how norms, trends, and values in society influence self, others, and relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Explore the source and rationale of social precepts/principles (e.g., prohibitions, rules, rights, norms in everyday life).</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between rights, needs, whims, privileges, and responsibilities.</p>
+          </indicator>
+          <indicator>
+            <p>Question assumptions and stereotypes in relation to different customs, beliefs, attitudes, and opinions.</p>
+          </indicator>
+          <indicator>
+            <p>Explore, question, and appreciate a wide range of human values, virtues, and abilities that support “the common or greater good” within the contexts of daily life.</p>
+          </indicator>
+          <indicator>
+            <p>Determine situations when one may be required to assert personal beliefs in the face of opposition.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Decision Making (DM)</goal_heading>
+      <outcome>
+        <identifier>DM7.8</identifier>
+        <outcome_text>Examine and demonstrate personal commitment in making health decisions related to blood-borne pathogen information, safety practices, harmonious relationships, food choices, interpersonal skills, and morality.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Determine the benefits of using a decision-making process.</p>
+          </indicator>
+          <indicator>
+            <p>Review decision-making processes (Grade 6) and recognize types of decision making.</p>
+          </indicator>
+          <indicator>
+            <p>Decide on ways to build personal commitment into the decision-making process.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize the role of personal commitment in making decisions.</p>
+          </indicator>
+          <indicator>
+            <p>Examine when personal commitment might be supported and/or threatened.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DM7.9</identifier>
+        <outcome_text>Examine health opportunities and challenges to establish personal commitment goal statements related to blood-borne pathogen information, safety practices, harmonious relationships, food choices, interpersonal skills, and morality.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Propose health opportunities and challenges related to each unit of study.</p>
+          </indicator>
+          <indicator>
+            <p>Examine factors that affect one’s commitment related to personal goals.</p>
+          </indicator>
+          <indicator>
+            <p>Determine strategies of commitment necessary to meet individual goals.</p>
+          </indicator>
+          <indicator>
+            <p>Predict the consequences of such strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Establish personal commitment goals for each unit of study.</p>
+          </indicator>
+          <indicator>
+            <p>Revise goal statements as necessary.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Action Planning (AP)</goal_heading>
+      <outcome>
+        <identifier>AP7.10</identifier>
+        <outcome_text>Design, implement, and evaluate three six-day action plans that demonstrate personal commitment to responsible health action related to blood-borne pathogen information, safety practices, harmonious relationships, food choices, interpersonal skills, and morality.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Determine, with support, the elements of a well-designed action plan.</p>
+          </indicator>
+          <indicator>
+            <p>Design action plans that feature personal commitment.</p>
+          </indicator>
+          <indicator>
+            <p>Establish the kinds of supports needed to implement the action plan.</p>
+          </indicator>
+          <indicator>
+            <p>Determine specific criteria to evaluate the design elements of action plans.</p>
+          </indicator>
+          <indicator>
+            <p>Develop, with guidance, criteria to assess one’s commitment to personal standards.</p>
+          </indicator>
+          <indicator>
+            <p>Assess and revise the action plans as necessary.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

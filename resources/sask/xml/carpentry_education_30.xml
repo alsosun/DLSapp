@@ -1,0 +1,292 @@
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-198409_1</pdf>
+  <outcomes>
+    <goal_section collapsable="true">
+      <goal_heading>Construction and Carpentry 30</goal_heading>
+      <outcome>
+        <identifier>Module 5</identifier>
+        <outcome_text labeled="true">Investigate various innovative building materials and processes and identify their relative advantages or disadvantages over wood and wood products.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate some recent innovations in residential building (e.g., low-E argon windows, insulated concrete forms, recycled plastic decking), and compare them to traditional products and methods.</p>
+          </indicator>
+          <indicator>
+            <p>Research and report on energy efficient and resource efficient alternatives in residential construction.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the efficiency advantage of manufacturing building materials to traditional materials (e.g., lifespan, reduction of waste, recycling of materials).</p>
+          </indicator>
+          <indicator>
+            <p>Identify the relative advantages and disadvantages of metal framing versus traditional wood framing.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the growing trends of residential construction in Saskatchewan such as using straw bales.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 11C</identifier>
+        <outcome_text labeled="true">Demonstrate increasing proficiency to complete a project of one’s own choosing and assess personal skills.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the most effective methods for completing the chosen project.</p>
+          </indicator>
+          <indicator>
+            <p>Identify all safety considerations involved with working with others in a limited space as well as strategies for cooperation.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate increasing proficiency and accuracy with selected layout tools.</p>
+          </indicator>
+          <indicator>
+            <p>Create the required project components through cutting, shaping, and boring of material.</p>
+          </indicator>
+          <indicator>
+            <p>Assemble and finish the project according to the specifications of the plan.</p>
+          </indicator>
+          <indicator>
+            <p>Create an assessment of personal skills, attitudes, work habits, and the final product.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 18</identifier>
+        <outcome_text labeled="true">Illustrate practices used in various roof designs using the correct terminology.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate the layout and cut of a common rafter including determining line length, location of bird’s mouth, fascia, and soffit cut lines.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the characteristics and purposes of components of rafter assemblies such as common rafters, ridgeboard, ceiling joists, and collar ties.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate an understanding of industry standard practice to apply roof sheathing.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and describe the advantages and disadvantages for roof styles such as gable, gambrel, shed, mansard and hip.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate roof truss systems and determine their advantages and disadvantages over site-built rafters.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 19</identifier>
+        <outcome_text labeled="true">Demonstrate an understanding of a number of materials and practices as applied to the roofing of residential buildings.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate a working knowledge of roofing terms such as underlayment, a square, deck, courses, lap, exposure, and flashing.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate an understanding of the correct method of applying shingles to a roof.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and describe the advantages and disadvantages of various roofing materials such as asphalt, rolled roofing, wood shingle and shakes, metal, and tiles.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 20</identifier>
+        <outcome_text labeled="true">Demonstrate an understanding of how to select and install windows and doors using industry standards.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify window parts, types, styles, cladding, and glazing, and justify selections for a given purpose.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how to install a window paying attention to the house wrap, levelling using shims, caulking, and flashing.</p>
+          </indicator>
+          <indicator>
+            <p>Identify styles and parts of a door and frame.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how to install and plumb an exterior door.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the installation of door locksets.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 21</identifier>
+        <outcome_text labeled="true">Understand the purpose and application of exterior finish to a residential building.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the purposes and installation procedures of building paper and/or housewrap.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate common types of exterior finishes (e.g., vinyl, stucco, wood siding) and explain their relative advantages.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the procedures to install siding including starting, corners, buildouts, and openings.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the procedures to install soffit and fascia.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the purpose and installation procedures for eavestroughs and downspouts.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 22</identifier>
+        <outcome_text labeled="true">Demonstrate an understanding of insulation and vapour barrier and industry standard techniques for application.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate various types of insulation materials (e.g., fibreglass, spray foam, rigid foam) and explain their relative R-value.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate proper techniques of installing a selected type of insulation.</p>
+          </indicator>
+          <indicator>
+            <p>Identify various types of ventilation and their relationship to moisture control within a residential building.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 23</identifier>
+        <outcome_text labeled="true">Demonstrate an understanding of common interior finishing materials and their application.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate the techniques for installing drywall (i.e., boarding, and taping) and/or other selected wall finishes.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate wall and ceiling finishes (e.g., paint, suspended ceilings, and spray finishes).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how to hang various interior doors.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate purposes and functions of various types of interior cabinets.</p>
+          </indicator>
+          <indicator>
+            <p>Research types of flooring (e.g., hardwood, laminate, vinyl, carpet, tile) and their advantages.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the installation of millwork such as baseboard and casing.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 24</identifier>
+        <outcome_text labeled="true">Demonstrate an understanding of layout and assembly of a straight stairway.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify various styles of residential stairways including straight, u-shaped, curved, circular, and closed and open stairwells.</p>
+          </indicator>
+          <indicator>
+            <p>Utilize basic staircase terminology such as stringer, tread, baluster, riser, and newel post.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how to layout and assemble a straight stairway.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 26</identifier>
+        <outcome_text labeled="true">Demonstrate the skills and knowledge required to construct a cabinetry project using a frame and panel process.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Utilize working drawings (i.e., material list, cutting list, assembly diagram) to accurately measure and layout stock.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate safe set-up and operation of the required handheld and stationary power tools to cut, surface, and shape.</p>
+          </indicator>
+          <indicator>
+            <p>Cut and fit effective joints (e.g., blind dado, rabbet, mortise and tenon) using systems such as splines, biscuits, and dowels.</p>
+          </indicator>
+          <indicator>
+            <p>Use the appropriate processes to assemble the project such as dry fit, glue, clamp, and use fasteners.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate appropriate techniques to prepare and apply finish.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate knowledge and skills required for layout and cutting of material, joinery (rabbet, dado, dovetail, finger joint), edge banding, making raised panel doors, and installing hinges, drawer slides, and pulls.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 27B</identifier>
+        <outcome_text labeled="true">Recognize how school-based skills development is used to meet workplace expectations.</outcome_text>
+        <outcome_note>Note: Work Study is used to prepare students for employment through specific skill development within a workplace. The number of work study opportunities is equal to the number of courses available in the curriculum area at the 20 and 30 level.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Obtain a list of roles and responsibilities of the workplace.</p>
+          </indicator>
+          <indicator>
+            <p>Brainstorm a list of factors which may affect workplace performance.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss effective and positive verbal and non-verbal communication in the workplace.</p>
+          </indicator>
+          <indicator>
+            <p>Develop a resumé that can be forwarded to potential employers.</p>
+          </indicator>
+          <indicator>
+            <p>Practise effective interview techniques based on established guidelines (e.g., the greeting, the exchange, and the parting).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 28B</identifier>
+        <outcome_text labeled="true">Gain experience in the world of work in the construction and carpentry industry to make informed career choices by expanding career research and exploration beyond the classroom.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop an awareness of career opportunities in Saskatchewan and beyond.</p>
+          </indicator>
+          <indicator>
+            <p>Gain an opportunity to develop entry-level workplace skills that may lead to sustainable employment in the construction and carpentry industry.</p>
+          </indicator>
+          <indicator>
+            <p>Establish standards of work performance acceptable to the student and employer.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and report on essential skills and employability skills as they relate to a work environment.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 29B</identifier>
+        <outcome_text labeled="true">Reflect and report on the work experience including, but not limited to, hours of work, personal relationships, employer expectations, evaluation criteria, and overall personal performance.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Design and participate in an exit interview with the workplace.</p>
+          </indicator>
+          <indicator>
+            <p>Prepare and present a report on the work study experience including aspects such as: expected hours of work, dress code, job description, employer expectations, employer evaluation process, absent and late policies, personal relationships, problem solving.,</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 88</identifier>
+        <outcome_text labeled="true">Investigate the apprenticeship and trade certification process and the role of the Saskatchewan Apprenticeship and Trade Certification Commission (SATCC), opportunities that apprenticeship offers, and the relationship between secondary level courses and apprenticeship training.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research and define what apprenticeship means, and describe some of the benefits such as lifestyle, satisfaction, opportunities, wages, and respect.</p>
+          </indicator>
+          <indicator>
+            <p>Use and understand the appropriate terminology related to apprenticeship including but not limited to: journeyperson, indenture, pre-employment training, designated trade and sub-trade, advanced standing.,</p>
+          </indicator>
+          <indicator>
+            <p>Determine the steps involved in becoming an apprentice from the perspective of the specific trade, including length of apprenticeship, annual training requirements, and Red Seal certification.</p>
+          </indicator>
+          <indicator>
+            <p>Develop an understanding of available programs to help transition from secondary school to apprenticeship.</p>
+          </indicator>
+          <indicator>
+            <p>Conduct research such as interviewing employers to identify the qualities of a successful apprentice.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 99C</identifier>
+        <outcome_text>The Extended Study module is designed to provide schools and teachers with an opportunity to meet current and future demands not provided for in current modules in the Construction and Carpentry curriculum.</outcome_text>
+        <outcome_note>Note: The Extended Study module may be used only once in each 100 hour course. In the Student Data System, record 99A for the first Extended Study module offered in the course series, and, if needed, 99B for the second and 99C for the third.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Module Overview: Evolving societal and personal needs, advances in technology, and demands to solve current problems require a flexible curriculum that can accommodate new ways and means to support learning in the future. The Extended Study module is designed to provide schools and teachers with an opportunity to meet current and future demands not provided for in current modules in the Construction and Carpentry curriculum. This flexibility allows a school or teacher to design one new module per credit to complement or extend the study of the core and optional modules to meet the specific needs of students or the community. The Extended Study module is designed to extend the content of the pure courses and to offer survey course modules beyond the scope of the available selection of the Construction and Carpentry modules. The list of possibilities for topics of study or projects for an extended study is as varied as the imagination of those using the module. The optional Extended Study Module guidelines should be used to strengthen the knowledge, skills, and processes advocated in the Construction and Carpentry curriculum. For more information on the guidelines for the Extended Study module, see the Practical and Applied Arts Handbook.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

@@ -1,0 +1,546 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+<pdf>https://www.edonline.sk.ca/webapps/moe-curriculum-BBLEARN/index.jsp</pdf>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Required Outcomes</goal_heading>
+      <outcome>
+        <identifier>W1</identifier>
+        <outcome_text>Evaluate one’s understanding of wellness while participating in various learning opportunities that balance the dimensions of wellness (i.e., physical, psychological, social, spiritual, environmental).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Participate in a variety of learning experiences that positively influence and balance one’s well-being (e.g., exercising, smudging, recycling, gardening).</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on personal beliefs (e.g., being healthy takes work) while addressing common misconceptions about wellness (e.g., if one is not sick, then one must be well).</p>
+          </indicator>
+          <indicator>
+            <p>Employ appropriate and increasingly sophisticated strategies (including technology) to gather, interpret, and evaluate wellness information (e.g., interview community wellness experts, evaluate source of information, reflect on personal biases, discuss alternative perspectives).</p>
+          </indicator>
+          <indicator>
+            <p>Compare traditional (e.g., medicine wheel), contemporary (e.g., networked teams of health providers), and evolving information (e.g., technological advances, ongoing research) about wellness.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and communicate the dimensions of wellness in terms of their interconnectedness (i.e., connections), interdependence (i.e., mutual benefits), and interactions (i.e., effects of one on another).</p>
+          </indicator>
+          <indicator>
+            <p>Examine the consequences of neglecting or over-emphasizing any of the dimensions of wellness.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the multitude of factors that exert influences on life balance (e.g., relationships, gender, culture, stress, sense of belonging, leisure, traditions, socio-economic factors, physical and mental fitness, technology use).</p>
+          </indicator>
+          <indicator>
+            <p>Critique community and societal norms (e.g., expectations regarding gender roles, norms regarding alcohol consumption) that influence the well-being of self, family, and community.</p>
+          </indicator>
+          <indicator>
+            <p>Assess one’s motivations (e.g., appearance) and limitations (e.g., time management) that improve and/or impede one’s personal wellness.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze individual and civic responsibility in nurturing well-being and examine the social factors (including expectations of self and others) that influence personal wellness.</p>
+          </indicator>
+          <indicator>
+            <p>Examine available supports (both formal and informal) for attaining and maintaining optimal wellness and establish strategies to effectively access these supports.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze one’s current level of wellness (e.g., wellness inventory).</p>
+          </indicator>
+          <indicator>
+            <p>Initiate an ongoing multi-dimensional (i.e., physical, psychological, social, spiritual, environmental) Personal Plan for Wellness based on a comprehensive analysis of personal well-being.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>W2</identifier>
+        <outcome_text>Assess, through participation in service learning opportunities and other means (e.g., interviews, discussions, observations), how service learning enhances the well-being of the volunteer and to the individual or organization/community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Reflect on and discuss what is known about service learning (e.g., what volunteers do, where volunteering occurs, why people volunteer/ do not volunteer).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate historical, contemporary, and evolving needs and opportunities (e.g., time, situations, programs, technology, and/or environments) in the community which might benefit from acts of service.</p>
+          </indicator>
+          <indicator>
+            <p>Determine a variety of community service opportunities that would benefit the well-being of one’s community (e.g., meals on wheels, senior centres, canvasser, walking school bus, Special Olympics, coaching/officiating minor sports, Save the Planet, ditch picks, helping seniors who are housebound).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the impact of volunteering on the overall well-being of self and community (e.g., motivation and sense of accomplishment, sense of belonging, enhanced personal skills, career opportunities, advocacy, cleaner natural environment).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the contributions that young adults can make through service to their community.</p>
+          </indicator>
+          <indicator>
+            <p>Assess personal skills and aptitudes to find the most effective community service opportunities for self.</p>
+          </indicator>
+          <indicator>
+            <p>Set personal goals, that are documented in one’s Personal Plan for Wellness, of what one wants to accomplish from service learning.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate, revise, and continue to implement Personal Plan for Wellness to be actively engaged in at least 12 hours of participation in service learning in the community (i.e., local community, global community).</p>
+          </indicator>
+          <indicator>
+            <p>Document, monitor, and communicate, using a variety of technologies (e.g., photos, video), one’s involvement in, and understanding of, service learning.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>W3</identifier>
+        <outcome_text>Plan for and engage in movement activity to increase confidence, competence, and sustainability in self-selected individual and/or partner movement activities from each of the following categories: Body Management Activities (e.g., dance, yoga, pilates, martial arts, aerobics)Alternate Environment Activities (e.g., cycling, snowshoeing, cross-country skiing, swimming, hiking, skating, canoeing, trapping, weight lifting/going to a fitness centre) Target games (e.g., bowling, golf, archery, bocce ball ) Net/Wall games (e.g., tennis, table tennis, racquetball, squash)</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Reflect on and make conclusions about one’s own personal preference for participation in movement activities as based on the dimensions of wellness (i.e., physical, psychological, social, spiritual, environmental).</p>
+          </indicator>
+          <indicator>
+            <p>Assess own level of confidence and competence in participating, in each of the four basic physical environments (i.e., on the ground, in the water, on snow and ice, in the air).</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate perceived and actual personal levels of confidence and competence when utilizing the required complex skills needed to participate in self-selected movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the impact that current personal strengths and weaknesses in health-related fitness have on personal performance of complex skills used in self-selected movement activities (e.g., I have good upper body strength so I am successful at swimming lengths in the pool).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze a complex skill required in each self-selected movement activity to determine which Basic Movement Patterns/Skills require practice for enhancing sustainable performance of the skills.</p>
+          </indicator>
+          <indicator>
+            <p>Assess personal understanding of tactics (e.g., response to a specific moment in time such as what to do in the case of unexpected fatigue during long-distance running) and strategies (e.g., predetermined plan such as choosing a golf course based on your ability) in self- selected movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Apply relevant biomechanical principles (e.g., laws of motion, friction) to enhance complex skills required for competent participation in self-selected movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze influences (e.g., fluid intake, commitment to practice, available technology, audience, nutrition) that affect optimal personal performance during participation in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Locate, evaluate, and use resources (e.g., websites, people in the community, agencies in the province) to help support and build one’s understanding of effective skill performance, tactics, and strategies to be used in individual/partner movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze personal utilization of movement skills, tactics, and strategies utilizing technology (e.g., video motion analysis of self and others, pedometers, technological applications) and other means (e.g., checklists, rubrics).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze transferable skills, tactics, and strategies to be used in the performance of various other self-selected individual and/or partner movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Utilize visualization and other mental preparation strategies to enhance performance in self-selected movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Critique, after participation in self-selected movement activities, decisions made regarding the utilization of skills, tactics, and strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate, revise, and continue to implement a Personal Plan for Wellness to increase competency in complex skills and enhance participation in individual and/or partner movement activities that support sustainable wellness.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>W4</identifier>
+        <outcome_text>Assess the impact of mental health on overall well-being of self, family, and community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Reflect on and discuss personal and community beliefs and biases about mental health.</p>
+          </indicator>
+          <indicator>
+            <p>Examine common misconceptions and negative stigmas/ connotations related to both the area of and the language of mental illness (e.g., misconception that an individual with a mental illness has a weak character or is inevitably dangerous).</p>
+          </indicator>
+          <indicator>
+            <p>Consider ways to reduce stigma, address discrimination, and eliminate structural barriers related to mental illness.</p>
+          </indicator>
+          <indicator>
+            <p>Describe, with information from a variety of mental health experts, the factors that contribute to positive mental health (e.g., involvement in extracurricular activities, belonging to a team/group).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss prior understandings of how thoughts, actions, and behaviours are all connected to brain function.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that there is no single cause of any mental health problem or illness and no one is immune regardless of where they live, how young or old they are, or their social standing.</p>
+          </indicator>
+          <indicator>
+            <p>Examine evolving theories about the complex causes of mental illnesses (i.e., social, economic, psychological, biological, and genetic factors).</p>
+          </indicator>
+          <indicator>
+            <p>Assess the influence of mental well-being on each of the dimensions of wellness (i.e., psychological, physical, social and environmental).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate various personal, environmental, biological, and social influences (e.g., sports competitions, use of cannabis, support networks) on mental health and determine one’s relationship to these influences.</p>
+          </indicator>
+          <indicator>
+            <p>Determine why particular mental illnesses (e.g., anxiety disorders, depression, bipolar mood disorder, eating disorders, schizophrenia) are common in adolescence.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the relationships between personal mental health and personal wellness (e.g., feeling well, functioning well and being resilient, making positive changes, being physically fit).</p>
+          </indicator>
+          <indicator>
+            <p>Examine the relationships among defense mechanisms, feelings, behaviours, and mental health (i.e., ways we protect ourselves from things we do not want to think about or deal with).</p>
+          </indicator>
+          <indicator>
+            <p>Examine the interconnectedness and interdependence of mental health and a variety of activities (e.g., leisure activities, competitive sports, physical activities, helping someone or some cause).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze mental fitness factors (e.g., placing things in perspective, using stress management strategies, cultivating and maintaining a strong sense of humour) as they relate to personal well-being.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate, revise, and continue to implement a Personal Plan for Wellness based on new understandings about mental health.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>W5</identifier>
+        <outcome_text>Assess one’s self-awareness (i.e., one’s ability to perceive own emotions and tendencies) and self-management (i.e., ability to stay flexible and positively direct personal behaviour) for the purpose of enhancing well- being of self and others.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Discuss personal standards, interests, abilities, and privileges, and how these influence one’s well-being.</p>
+          </indicator>
+          <indicator>
+            <p>Complete a variety of personal inventories to analyze learnings about self.</p>
+          </indicator>
+          <indicator>
+            <p>Assess one’s emotional intelligence (i.e., the ability to perceive, control, and evaluate emotions) using a variety of measurement tools.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how overall well-being is affected by biases and stereotyping (e.g., gender, physical abilities, culture, body composition).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze own ability to manage physical fitness for a lifetime versus relying on others (e.g., a coach and a team).</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on one’s ability to recognize and manage emotions in self and in personal relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Examine emotional and behavioural patterns of self and others and determine related impact on optimal wellness.</p>
+          </indicator>
+          <indicator>
+            <p>Practise and reflect on variety of self-awareness strategies (e.g., treat feelings as good or bad, identify triggers, seek feedback, keep a journal of emotions, observe others’ reactions to your emotions).</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on and explain the ‘what’ and ‘why’ of one’s own preference (e.g., alone, with a partner, in a group, on a team, competitive, recreational) for engagement in particular movement activity.</p>
+          </indicator>
+          <indicator>
+            <p>Examine internal (e.g., thinking patterns) and external (e.g., triggers) influences on one’s emotional intelligence.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and practise effective identification and communication of feelings.</p>
+          </indicator>
+          <indicator>
+            <p>Justify one’s overall placement on the listening continuum (i.e., ignoring, pretending, selecting, attending, empathizing) and recognize opportunities for improvement.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the benefits of proactive decision making in managing personal well-being.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze one’s preferred decision-making style in terms of its impact on well-being of self and others.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate, revise, and continue to implement a Personal Plan for Wellness based on new understandings about self.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>W6</identifier>
+        <outcome_text>Model and promote a local culture/norm of safety and injury prevention (i.e., physical safety, social safety, psychological safety, spiritual safety, environmental safety) to optimize well-being of self, family, community, and the environment.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Evaluate the norm/culture of safety in one’s peer groups, family, and community.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate (e.g., communicate with safety experts in the community) factors that influence safety norms.</p>
+          </indicator>
+          <indicator>
+            <p>Ask and investigate compelling questions about the local culture of safety (e.g., What can be the long-term impact of continuing to be physically active while injured? Are all injuries predictable and preventable? Are there occasions when an injured player should still be ‘in the game’? How do you know if a risk is worth the potential consequences? What are personal responsibilities regarding safety in each dimension?).</p>
+          </indicator>
+          <indicator>
+            <p>Examine how the local culture of safety (i.e., physical safety, social safety, psychological safety, spiritual safety, environmental safety) has been established and nurtured while reflecting on its related impact on community and environmental well-being.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate risks and safety factors (i.e., physical safety, social safety, psychological safety, spiritual safety, environmental safety) that may affect activity choices (e.g., What are some physical activity options that are safe to participate in when one has a broken leg?) and preferences.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate common safety risks (e.g., driving a motorized vehicle, participating in high-contact sports) for youth in local community and determine injury prevention opportunities.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze common unintentional injuries (e.g., head injury from high jumping, death due to motor vehicle accidents, injury to hand while using a power tool) for youth in local community and discuss related impact on the overall well-being of self and others.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate respect, responsibility, and caring for own wellness by applying understandings related to the identification, prevention (e.g., investigate facts, prepare basic first-aid kit, take time outs), and management of common safety risks (e.g., wearing personal protective equipment, following recommended guidelines and instruction for use of equipment).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze moral and ethical conduct in movement activities and sport (e.g., cheating, intentional fouls, performance-enhancing drugs) and their impact on the safety and well-being of self and others.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate, revise, and continue to implement Personal Plan for Wellness to address the local culture/norm of safety and injury prevention to enhance personal and/or community well-being.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>W7</identifier>
+        <outcome_text>Promote sustainable well-being by planning for and engaging in movement activities, alone and with others, that enhance the health-related (i.e., cardiovascular endurance, flexibility, muscular endurance, muscular strength, and body composition) and skill-related (i.e., power, agility, speed, reaction time, balance, and co-ordination) components of fitness.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Engage in, document, and analyze fitness benefits and sustainability potential of participation in 30 minutes of daily moderate to vigorous physical activity outside of class time over a four-week period.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate opportunities (e.g. walking/running groups, recreation centres, green spaces, on-line opportunities) for engagement in movement activities for sustainable well-being at school, at home, and in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how technology (e.g., heart rate monitor, pedometer, fitness software, technological applications) may enhance and support one’s health-related and skill-related components of fitness.</p>
+          </indicator>
+          <indicator>
+            <p>Create and justify the importance of the health-related and skill- related components of fitness (e.g., Is balance more important than muscular strength?).</p>
+          </indicator>
+          <indicator>
+            <p>Create and participate in a two-week cost-free FITT (i.e., Frequency, Intensity, Type of Activity, Time) plan that enhances all of the components of both health-related and skill-related fitness.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and evaluate, through participation in, a student selected pre-made fitness work-out.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the potential for preferred movement activities and achieved engagement level in those activities that may promote sustainable well-being and lifelong involvement.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the direct correlation between committed engagement in cardiovascular endurance activities and calorie-burning potential.</p>
+          </indicator>
+          <indicator>
+            <p>Create and engage others in a fitness workout using items (e.g., towels, books, cans, rocks) and chores (e.g., sweeping, vacuuming, shoveling) and responsibilities (e.g., babysitting, walking pets) commonly found in and around the home and/community.</p>
+          </indicator>
+          <indicator>
+            <p>Examine factors (e.g., determinants of health, body composition, mental wellness, social wellness) that have an impact on one’s commitment to achieving and maintaining recommended standards for health-related and skill-related components of fitness.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate fitness and activity guidelines and/or standards set by different agencies, organizations, or governments (including other countries) to determine suitability for self and community (e.g., Public Health Agency of Canada, ParticipACTION, Saskatchewan in motion, US Department of Health and Human Services, World Health Organization).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss why scientifically-based measures (e.g., skin-fold tests, BMI) used to determine body composition are not always accurate, effective, or complete indicators of physical fitness and level of well-being.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the pressure and social implications placed on gender related to body composition and participation in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Utilize the FITT (i.e., Frequency, Intensity, Type of activity, Time) principle and principles of training (i.e., overload, progressive resistance, specificity, use/disuse) in a plan for health-related and skill-related fitness.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate, revise, and continue to implement a Personal Plan for Wellness to include setting and achieving personal goals for health-related and skill-related fitness.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Optional Outcomes (choose a minimum of three)</goal_heading>
+      <outcome>
+        <identifier>W8</identifier>
+        <outcome_text>Assess how relationships (e.g., with self, peers, family, teachers, teammates, opponents, coaches, employers) influence all dimensions of wellness.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Recognize that relationships are dynamic (i.e., variable) and change over time.</p>
+          </indicator>
+          <indicator>
+            <p>Ask and respond to important questions about relationships, such as: What matters most in relationships? Why is it important to step in or speak out in someone’s defense? When is it important to keep silent? How do we maintain optimal wellness through our relationships with others? What is most effective for managing/ nurturing/embracing change in relationships?</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how relationships are developed and enhanced through an awareness of self, others, and by one’s overall well-being.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss and examine common challenges in relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Determine own challenges in personal relationships.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate ways in which relationships are initiated, maintained, and terminated and the related consequences to overall well- being.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze negative interactions that may result during competitive participation in movement activities (e.g., a parent/adult yelling at an official, a coach who does not give equal playing time).</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on personal approaches to conflict and how these approaches enhance and/or impede wellness.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss skills and behaviours that are effective in nurturing relationships and those that escalate conflict.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate and practise different ways to resolve a conflict including the “confrontation model”.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the benefits (e.g., staying connected to a friend who has moved, enhanced opportunity to engage in social justice or political issues) and the harm (e.g., online bullying, inadequate sleep, scams) that may result from the use of social networking, online shopping, internet gambling, etc.</p>
+          </indicator>
+          <indicator>
+            <p>Examine legal rights and responsibilities concerning relationships and how these rights and responsibilities are established to support overall well-being.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate and evaluate personal commitment to responsible social behaviour (Hellison, 2011) while participating in and analyzing movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on and respond to relationship questions (e.g., Why would someone establish a positive relationship with an opponent in the context of participation in a competitive movement activity? How do I safely end or get out of relationships that are unsafe? How do relationships impact/influence one’s wellness?).</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate, revise, and continue to implement a Personal Plan for Wellness to demonstrate decision making that enhances relationships and overall well-being.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>W9</identifier>
+        <outcome_text>Assess challenges related to community well-being and take action to address these challenges.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Reflect on past, present, and evolving wellness challenges (e.g., physical inactivity, sexual health issues, bullying, drinking and driving, gambling, transportation, unemployment, suicide) in the local community.</p>
+          </indicator>
+          <indicator>
+            <p>Examine local community norms and practices that affect the well- being of self, family, community, and the environment.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and ask critical questions of particular local wellness challenges while respecting facts, knowledge, and social and cultural contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Critique various points of view concerning community wellness to better understand the influence of underlying values or assumptions.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the complexities of wellness issues within one’s community and investigate possible opportunities to address these issues.</p>
+          </indicator>
+          <indicator>
+            <p>Access resources (e.g., community, provincial, national) and agencies (e.g., Saskatchewan in motion, Public Health Agency of Canada) to support and address community wellness challenges.</p>
+          </indicator>
+          <indicator>
+            <p>Conclude that real-life challenges to well-being often have more than one solution.</p>
+          </indicator>
+          <indicator>
+            <p>Describe personal challenges concerning community well-being.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate legislation (i.e., local, provincial, and national) that relates to particular community wellness issues.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the intent of legislation (see indictor i) and question if the intention is realized in the local community.</p>
+          </indicator>
+          <indicator>
+            <p>Initiate, in a variety of ways, community awareness and opportunities to address wellness issues.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate, revise, and continue to implement a Personal Plan for Wellness to address self-selected community wellness challenges.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>W10</identifier>
+        <outcome_text>Analyze, explain, and apply understandings, skills, tactics, and strategies that enhance confidence and competence in participating in recreational group/team movement activities through participation in various class- selected games from the following categories: Target games (e.g., curling) Net/Wall games (e.g., volleyball) Invasion/Territorial games (e.g., basketball, soccer, touch football, ultimate frisbee, lacrosse, double ball, street hockey) Striking/Fielding games (e.g., softball, slo-pitch, cricket).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Co-construct and apply, as group/team, a list of criteria that exemplifies a recreational experience in a group/team movement activity and supports a positive experience for all participants.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the sustainable wellness potential, for self and others, of participating in particular recreational group/team movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on and express personal thoughts on the potential positive and negative impacts of participation in recreational group/team movement activities on overall wellness.</p>
+          </indicator>
+          <indicator>
+            <p>Assess and explain personal level of confidence and competence in utilizing the required complex skills needed to participate in various recreational group/team movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze group/team members’ performance of complex skills, utilizing technology (e.g., video motion analysis of self and others, pedometers, technological applications) and other means (e.g., checklists, rubrics).</p>
+          </indicator>
+          <indicator>
+            <p>Develop and participate in practice opportunities that support all group/team members in enhanced utilization of complex skills.</p>
+          </indicator>
+          <indicator>
+            <p>Assess and explain/demonstrate personal understanding of tactics (e.g., what fake to use prior to shooting or passing) and strategies (e.g., using a zone or one-on-one defence) required for confident and competent participation in selected recreational group/team movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Locate, evaluate, and use resources (e.g., websites, people in the community, agencies in the province) to help support and build one’s understanding of effective tactics and strategies to be used in selected team/group movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Support others in understanding and applying the tactics and strategies that enhance potential for positive participation in selected recreational group/team movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Co-develop and apply, group/team tactics and strategies to be used within the context of non-competitive participation in recreational group/team movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and discuss the transferable skills, tactics, and strategies to be used while participating in all selected recreational group/team movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate, revise, and continue to implement a Personal Plan for Wellness to include participation in recreational group/team movement activities that support sustainable wellness.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>W11</identifier>
+        <outcome_text>Make informed decisions regarding personal healthy eating practices based on connections to wellness.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Compare eating practices (e.g., number of meals, snacking habits, time of day/night, fluid consumption, kinds of foods) of the past to those of the present.</p>
+          </indicator>
+          <indicator>
+            <p>Predict and justify what healthy eating might mean in the future.</p>
+          </indicator>
+          <indicator>
+            <p>Explore some of the controversy that surrounds healthy eating practices and beliefs (e.g., nutrition supplements, digestive cleansing, mega vitamins, carbohydrate loading, vegetarianism, organic foods).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate what is known about healthy eating practices (i.e., for children, teens, adults, athletes, pregnant mothers) from a variety of evaluated sources.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the various nutrients (e.g., protein, fibre, calcium, omega-3 fat, vitamins) that should be considered for optimal well-being.</p>
+          </indicator>
+          <indicator>
+            <p>Examine cultural eating practices and determine their cultural significance and contribution to optimal wellness.</p>
+          </indicator>
+          <indicator>
+            <p>Examine what is known about sustainable eating practices (e.g., growing your own food, supporting local, using leftovers) and determine possible changes to personal eating practices.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss food security and its impact on one’s ability to make decisions about food practices.</p>
+          </indicator>
+          <indicator>
+            <p>Examine whether members of the community all have the same access to nutritious food, and determine how access influences wellness.</p>
+          </indicator>
+          <indicator>
+            <p>Examine and evaluate several different food guides or healthy eating recommendations related to personal eating practices.</p>
+          </indicator>
+          <indicator>
+            <p>Design a one-week plan for weight maintenance that balances physical output (i.e., calories burned through metabolism and activity) and food intake (i.e., calories consumed through food and drink).</p>
+          </indicator>
+          <indicator>
+            <p>Predict the long-term impact, on overall wellness, of consuming more/less calories than one burns over a long period of time.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze nutritional factors (e.g., hydration, pre-activity meal, sustainable eating habits) that affect optimal performance for selected movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate, revise, and continue to implement a Personal Plan for Wellness to incorporate healthy eating practices that enhance personal wellness.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>W12</identifier>
+        <outcome_text>Investigate the connection to and importance of spirituality on wellness.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate various meanings of the concepts of spirit, soul, spiritual dimension, and spiritual development.</p>
+          </indicator>
+          <indicator>
+            <p>Examine diverse spiritual beliefs and traditions of individuals and cultures (including First Nations and Métis), past and present.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the relationships of vision, joy, struggle, and perseverance with regard to spiritual beliefs and practices.</p>
+          </indicator>
+          <indicator>
+            <p>Examine personal experience in relation to the larger questions of meaning (e.g., Who am I? What is human nature? Why do innocent people suffer?).</p>
+          </indicator>
+          <indicator>
+            <p>Examine how people have explored the larger questions of human existence (e.g., oral histories, literature, current events, celebrations, artwork) and represented own perspectives.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the value of silence, stillness, solitude, and an inward focus on one’s overall wellness.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the role individual activities (e.g., cooking, travelling, dancing, running) may have in one’s spirituality and wellness.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on the concept of “sacred” (e.g., family, body) and its role in wellness.</p>
+          </indicator>
+          <indicator>
+            <p>Determine how one is influenced by norms, trends, images, and values in various cultures, communities, and groups.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate, revise, and continue to implement a Personal Plan for Wellness to purposefully enhance the spiritual dimension of one’s wellness.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

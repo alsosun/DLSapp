@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181758_1</pdf>
+  <banner>arts/AE5.png</banner>
+  <dark_colour>#0e6bb6</dark_colour>
+  <light_colour>#e7f0f8</light_colour>
+  <goals>arts/artseducation1-5aimsgoals.htm</goals>
+  <teaching>arts/artseducation5teaching.htm</teaching>
+  <curriculum_name>Arts Education 5</curriculum_name>
+  <classification_id>arts education 5</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Creative/Productive (CP)</goal_heading>
+      <outcome>
+        <identifier>CP5.1</identifier>
+        <outcome_text>Create dance compositions inspired by pop culture (e.g., street dances, current dance trends in music videos).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate potential sources of ideas for dance related to pop culture (e.g., current street dances, popular dances of different eras, TV dance competitions).</p>
+          </indicator>
+          <indicator>
+            <p>Pose questions about pop culture to explore through a dance-making inquiry process (e.g., What popular dance movements, styles, and conventions could we include in our own dances?).</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate with peers to select a common starting point, and generate further ideas for dance compositions.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate research skills, and use guided Internet searches, as part of the inquiry and dance-making process (e.g., view contemporary street dances online).</p>
+          </indicator>
+          <indicator>
+            <p>Generate and develop movement ideas through improvisation.</p>
+          </indicator>
+          <indicator>
+            <p>Select, with increasing discernment, movements from explorations to create and connect dance phrases that express ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Record dance and movement ideas in learning logs, videos, or reflective journals (e.g., using invented and/or traditional Labanotation symbols).</p>
+          </indicator>
+          <indicator>
+            <p>Develop and refine dance ideas collaboratively using critical reflection.</p>
+          </indicator>
+          <indicator>
+            <p>Describe ideas expressed in own dance compositions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP5.2</identifier>
+        <outcome_text>Express own ideas using pop dance forms and styles, and apply the elements of dance including:actions (extend repertoire of actions with flexibility and clarity of movement)body (arm and leg gestures that lead toward, away from, and around own bodies)dynamics (acceleration and deceleration)relationships (alone, partner, small groups)space (pathways, directions, levels, shape).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate innovation when applying the elements of actions, body, dynamics, relationships, and space in own dance compositions.</p>
+          </indicator>
+          <indicator>
+            <p>Create arm and leg gestures that lead toward, away from, and around own bodies.</p>
+          </indicator>
+          <indicator>
+            <p>Extend repertoire of actions with attention paid to flexibility and clarity of movements.</p>
+          </indicator>
+          <indicator>
+            <p>Control acceleration and deceleration of movements (quickly and slowly).</p>
+          </indicator>
+          <indicator>
+            <p>Examine how energy is used to resist gravity.</p>
+          </indicator>
+          <indicator>
+            <p>Move in a variety of ways to metric and non-metric (i.e., free or irregular) rhythms.</p>
+          </indicator>
+          <indicator>
+            <p>Carve space into volumes with own bodies.</p>
+          </indicator>
+          <indicator>
+            <p>Practise clarity of shape when in motion or in stillness.</p>
+          </indicator>
+          <indicator>
+            <p>Incorporate various relationships alone, with a partner, and in small groups.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and experiment with transitions between dance phrase</p>
+          </indicator>
+          <indicator>
+            <p>Organize movement sequences in meaningful ways.</p>
+          </indicator>
+          <indicator>
+            <p>Apply repetition and variety of movements and movement sequences in dances.</p>
+          </indicator>
+          <indicator>
+            <p>Recall and recreate movement phrases and sequences.</p>
+          </indicator>
+          <indicator>
+            <p>Extend own body’s range of movement and strength with attention paid to balance and correct alignment.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP5.3</identifier>
+        <outcome_text>Demonstrate how various roles, strategies, and elements (e.g., tension, contrast, symbols) function within a drama.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate sustained belief in each dramatic situation and a variety of own roles.</p>
+          </indicator>
+          <indicator>
+            <p>Respond to others in role in ways that aid the progress of the drama.</p>
+          </indicator>
+          <indicator>
+            <p>Use language expressively when speaking and writing in role.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and describe how various roles and strategies (e.g., flashbacks) functioned within the drama.</p>
+          </indicator>
+          <indicator>
+            <p>Apply focus in own work, and explain why focus serves an important function in drama.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how surprises can often create the element of tension, which serves an important function in drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the use of contrast in drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how symbols may serve specific functions in drama work (e.g., a character or object represents a particular idea or concept such as envy or greed).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss drama work in relation to own lives and communities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP5.4</identifier>
+        <outcome_text>Create drama using pop culture as inspiration (e.g., pop musicians and movie stars, street theatre, or stories and myths from pop culture).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions related to popular culture to inspire inquiry through drama (e.g., What if we were members of a film crew and a famous pop star suddenly disappeared from our set?).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and participate in various forms of popular theatre (e.g., street theatre, physical theatre, clowning, parades, puppet theatre, festival busking).</p>
+          </indicator>
+          <indicator>
+            <p>Use imagination to help extend the dramatic context.</p>
+          </indicator>
+          <indicator>
+            <p>Identify new ways to further the drama based on discussions of the work.</p>
+          </indicator>
+          <indicator>
+            <p>Work co-operatively within dramatic contexts and describe the responsibilities and challenges of working this way.</p>
+          </indicator>
+          <indicator>
+            <p>Improvise and provide alternative ideas in various dramatic situations.</p>
+          </indicator>
+          <indicator>
+            <p>Provide solutions to refine the work based on reflection and discussions about the drama.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP5.5</identifier>
+        <outcome_text>Demonstrate increased skills and abilities in use of the voice and one or more instruments.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use voice and instruments purposefully to convey feelings and own ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Sing in tune and continue to develop the ability to sing harmony.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize there are a diverse range of voice types, styles, and forms of individual and group vocal expression.</p>
+          </indicator>
+          <indicator>
+            <p>Use traditional and non-traditional notational devices in music created and performed.</p>
+          </indicator>
+          <indicator>
+            <p>Explore the qualities and characteristics of own voices (e.g., range, timbre, dynamics).</p>
+          </indicator>
+          <indicator>
+            <p>Extend skills and abilities in the use of one or more selected instruments.</p>
+          </indicator>
+          <indicator>
+            <p>Analyse how instruments can be used in traditional and non-traditional ways to create a variety of distinctive sounds and styles.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and appreciate the acquisition of instrumental/vocal technical skills and their contribution to music expression.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP5.6</identifier>
+        <outcome_text>Create sound compositions (vocal and instrumental) that draw inspiration from pop culture and demonstrate knowledge of:form (binary – AB, ternary – ABA, rondo – ABACADA)metre as an organizational techniquetempo as an organizational techniquerhythm including beat, tempo, patterns of duration, and metremelodiesharmony as a fundamental component in creating texture (e.g., choral accompaniment)scales that differ in structure and tonality (pentatonic, major, minor)tone colour as an organizational techniqueexpressive use of silence.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use elements of music and voice/instruments to convey feelings and own ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Pose questions to initiate and guide inquiry into sound composition process.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate ways that music can suggest images and moods or express ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and demonstrate how metre, tempo, dynamics, and tone colour can be used as organizational techniques in music.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate understanding that rhythm is subdivided into four categories: beat, tempo, patterns of duration, and metre.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate ways that melodies can be shaped to create musical expression.</p>
+          </indicator>
+          <indicator>
+            <p>Examine ways that scales differ in structure and tonality (e.g., pentatonic, major, minor).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate knowledge of different forms in music (e.g., binary - AB, ternary - ABA, rondo - ABACADA).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how silence can be used expressively in music.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how own music compositions express unique ideas and possess expressive qualities.</p>
+          </indicator>
+          <indicator>
+            <p>Incorporate more than one related or contrasting idea within a single music composition.</p>
+          </indicator>
+          <indicator>
+            <p>Expand on sound/music ideas from journals.</p>
+          </indicator>
+          <indicator>
+            <p>Use the Internet to find and discuss compositions that demonstrate music concepts currently under study.</p>
+          </indicator>
+          <indicator>
+            <p>Recall and describe own decision making in the creation of music and the development of musical ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Use improvisation and accidental discoveries where appropriate in own compositions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP5.7</identifier>
+        <outcome_text>Create visual art works that express ideas about, and draw inspiration from, pop culture.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions about pop culture and investigate the questions individually or collectively through visual art (e.g., What and who are some Canadian pop culture icons and symbols?).</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate with other students to plan a visual art inquiry into pop art.</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate with other students to decide how to document the inquiry process and share resulting products.</p>
+          </indicator>
+          <indicator>
+            <p>Use research, including guided Internet searches, as part of the inquiry process.</p>
+          </indicator>
+          <indicator>
+            <p>Expand skills and abilities and demonstrate self-awareness in decision-making about art making methods and materials.</p>
+          </indicator>
+          <indicator>
+            <p>Experiment with pop art styles in 2-D and 3-D.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how ideas can come from such sources as memory, research, observation, feelings, or imagination.</p>
+          </indicator>
+          <indicator>
+            <p>Expand on visual art ideas in their visual journals, learning logs, or sketchbooks.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize the value of accidental discoveries in own work and put them to use, where appropriate.</p>
+          </indicator>
+          <indicator>
+            <p>Use self-reflection and describe why it is important to visual art processes.</p>
+          </indicator>
+          <indicator>
+            <p>Describe meaning of own art work.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP5.8</identifier>
+        <outcome_text>Create art works using a variety of visual art concepts (e.g., positive space), forms (e.g., graphic design, photography), and media (e.g., mixed media, paint).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use the elements of line, colour, texture, shape, form, and space in ways that reflect a pop art style.</p>
+          </indicator>
+          <indicator>
+            <p>Explore colour relationships in the environment and in pop art styles.</p>
+          </indicator>
+          <indicator>
+            <p>Identify how space can be positive or negative in art works and assess the use of these concepts in own work.</p>
+          </indicator>
+          <indicator>
+            <p>Examine ways of creating contrast (e.g., bold/subtle, rough/ smooth, light/dark).</p>
+          </indicator>
+          <indicator>
+            <p>Examine different types of balance (symmetrical, asymmetrical/informal, radial).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate ability to represent visual details to enhance depictions of plants, animals, people, and objects.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how proportion is a matter of size comparison.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and investigate ways of creating the illusion of three dimensions through drawing.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Critical/Responsive (CR)</goal_heading>
+      <outcome>
+        <identifier>CR5.1</identifier>
+        <outcome_text>Examine the influence of pop culture on own lives and societies, and investigate the work of selected pop culture artists (e.g., Andy Warhol, popular musicians, movie stars, televised music and dance competitions).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze and describe the influence of pop culture on contemporary societies, and on own lives.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate arts expressions that are currently part of mainstream popular culture, and research historical influences on these expressions (e.g., the influence of James Brown or Elvis Presley on contemporary music).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze relationships between art and pop culture (e.g., visual artist Roy Lichtenstein, comic books, Brit pop bands, improv theatre and performance art for public spaces, dance in music videos).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and report on the role of marketing in the promotion and distribution of pop culture products (e.g., TV programs, movies, and viral marketing on the Internet).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR5.2</identifier>
+        <outcome_text>Respond critically and creatively to a variety of pop culture expressions.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research contemporary popular Canadian artists and arts expressions and create own work in response.</p>
+          </indicator>
+          <indicator>
+            <p>Justify interpretations and opinions of pop culture expressions based on critical thinking, research, and evidence in the work.</p>
+          </indicator>
+          <indicator>
+            <p>Respond to contemporary pop culture arts expressions in two or more different ways (e.g., formal criticism, contextual approach, creative approach, or multi-connection approach as described in the curriculum support document entitled Responding to Arts Expressions available on the Ministry of Education website).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Cultural/Historical (CH)</goal_heading>
+      <outcome>
+        <identifier>CH5.1</identifier>
+        <outcome_text>Examine perspectives on contemporary life as expressed by artists in pop culture and mass media (e.g., representations of young people in ads, sitcoms, animations, and music videos).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Critically analyze and describe representations of life by artists in pop culture (e.g., rock videos, television sitcoms, movies, and advertisements).</p>
+          </indicator>
+          <indicator>
+            <p>Create arts expressions in response to research and personal opinions about the influence of pop culture trends, fads, and fashions.</p>
+          </indicator>
+          <indicator>
+            <p>Critique pop culture representations for potential stereotypes.</p>
+          </indicator>
+          <indicator>
+            <p>Research various careers of pop culture artists (e.g., animators, actors, directors, dancers/choreographers, fashion designers, musicians/composers, and filmmakers) and discuss rewards and challenges of careers in mass media.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CH5.2</identifier>
+        <outcome>Compare traditional and evolving arts expressions of First Nations, Métis, and Inuit artists from different regions of Canada, and examine influences of pop culture on contemporary arts.</outcome>
+        <indicators>
+          <indicator>
+            <p>Research and categorize traditional and contemporary First Nations and Métis arts expressions from different regions in Canada (e.g., West Coast, Northern, Plains, East Coast).</p>
+          </indicator>
+          <indicator>
+            <p>Identify several contemporary Canadian First Nations, Métis, and Inuit artists and discuss cultural traditions and ideas reflected in their work (e.g., visual artist Allen Sapp, musician John Arcand, actor Gordon Tootoosis, dancer and musician Don Speidel).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the influence of popular culture on contemporary First Nations artists (e.g., First Nations filmmakers and hip hop artists such as Eekwol).</p>
+          </indicator>
+          <indicator>
+            <p>Examine how issues related to colonization, assimilation, and racism are expressed through the work of First Nations and Métis artists.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CH5.3</identifier>
+        <outcome_text>Analyze and describe how arts and pop culture expressions convey information about the time and place in which they were created.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate how the arts sometimes reflect or question mainstream values.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how changes in arts expressions reflect changes in society (e.g., examine artistic and social historical timelines).</p>
+          </indicator>
+          <indicator>
+            <p>Explain how knowing more about the context in which an arts expression was created can help in understanding the work.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how popular artists and art forms (e.g., comics, animation, fashion design) have affected mainstream culture over time.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

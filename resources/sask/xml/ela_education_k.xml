@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-197984_1</pdf>
+  <banner>english/ELAk.png</banner>
+  <dark_colour>#5493ad</dark_colour>
+  <light_colour>#dde9ef</light_colour>
+  <goals>kindergarten/ela_aimsgoals_k.htm</goals>
+  <curriculum_name>English Language Arts K</curriculum_name>
+  <classification_id>kindergarten</classification_id>
+  <classification_entry>ela</classification_entry>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Comprehend and Respond (CR)</goal_heading>
+      <outcome>
+        <identifier>CRK.1</identifier>
+        <outcome_text>Comprehend and respond to a variety of visual, oral, print, and multimedia texts that address identity (e.g., exploring interests), community (e.g., belonging), and social responsibility (e.g., contributing).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>View, listen to, comprehend, and respond to a variety of texts (including First Nations and Métis resources) that address identity.</p>
+          </indicator>
+          <indicator>
+            <p>Make connections among oral language and personal experiences.</p>
+          </indicator>
+          <indicator>
+            <p>Share personal experiences and family traditions related to texts.</p>
+          </indicator>
+          <indicator>
+            <p>Relate aspects of stories and information to personal feelings and experiences.</p>
+          </indicator>
+          <indicator>
+            <p>Use illustrations, photographs, video programs, objects, and auditory cues to understand ideas and information.</p>
+          </indicator>
+          <indicator>
+            <p>Relate a personal experience as a result of a picture, photograph, or model.</p>
+          </indicator>
+          <indicator>
+            <p>Satisfy natural curiosity by engaging in inquiry:wonder about new ideas and observationsdiscuss personal knowledge of a topicask questions to satisfy personal curiosity and information needsidentify self and others as sources of informationseek information from others including people at school, at home, and in the community including Elders and Knowledge Keeperscompare gathered ideas and information to personal knowledgeshare learning and information-gathering experiencescompose with a scribeindicate whether or not information is useful for answering questions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CRK.2</identifier>
+        <outcome_text>View and interpret the basic message of visuals and objects in a variety of texts including models, photographs, dramas, dance creations, and videos.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify key idea(s) and purpose of pictures, graphics, models, and photographs.</p>
+          </indicator>
+          <indicator>
+            <p>Use strategies to construct and confirm meaning when viewing:make connections to background knowledge (before)identify important ideas and events (during)recall (after).</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply language cues and conventions to construct and confirm meaning when viewing:recognize the variations of language use at home, on the playground, and in the classroom (pragmatic)describe characteristics of fiction texts (textual)develop a sense of sentence (syntactic)show curiosity in words and their sounds (lexical/semantic)develop phonological awareness (graphophonic)recognize how gestures and body language communicate part of the message (other cues and conventions).</p>
+          </indicator>
+          <indicator>
+            <p>Volunteer personal experiences and feelings prompted by various visuals.</p>
+          </indicator>
+          <indicator>
+            <p>Identify supporting details.</p>
+          </indicator>
+          <indicator>
+            <p>Compare similarities and differences such as colour, type of visual, and object placement between various texts such as pictures, photographs, and 3-D models.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret emotions portrayed in visual texts including models, photographs, dramas, dance creations, and video programs.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the visual texts and give reasons for liking/disliking them.</p>
+          </indicator>
+          <indicator>
+            <p>View and interpret key aspects including arrangement and facial expression by interpreting the following questions:What are the objects or facts in the picture?What do the objects or facts tell you?How are the objects arranged in the visual?Why are these objects placed in this way?How do the objects help the story or fact?What are the characters doing?Compare different authors/illustrations considering the illustration or art work and interesting details.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CRK.3</identifier>
+        <outcome_text>Listen, comprehend, and respond to gain meaning in oral texts.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Listen attentively to others and respond appropriately.</p>
+          </indicator>
+          <indicator>
+            <p>Use strategies to construct and confirm meaning when listening:make connections to background knowledge (before)identify important ideas and events (during)recall (after).</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply language cues and conventions to construct and confirm meaning when listening:recognize the variations of language use at home, on the playground, and in the classroom (pragmatic)describe characteristics of fiction texts (textual)develop a sense of sentence (syntactic)show curiosity in words and their sounds (lexical/semantic)develop phonological awareness (graphophonic)recognize how gestures and body language communicate part of the message (other cues and conventions).</p>
+          </indicator>
+          <indicator>
+            <p>Follow simple directions correctly and independently (e.g., Please put away your crayons and put your picture on the shelf.) and remember instructions given earlier.</p>
+          </indicator>
+          <indicator>
+            <p>Listen to traditional and contemporary stories from a variety of cultures including First Nations and Métis.</p>
+          </indicator>
+          <indicator>
+            <p>Listen for different purposes (e.g., to retell, to direct others, for enjoyment).</p>
+          </indicator>
+          <indicator>
+            <p>Identify important information.</p>
+          </indicator>
+          <indicator>
+            <p>Ask questions for clarification, and make comments relevant to the topic.</p>
+          </indicator>
+          <indicator>
+            <p>Connect story events and own experience.</p>
+          </indicator>
+          <indicator>
+            <p>Engage in conversations with others in an exchange of ideas, comments, or questions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CRK.4</identifier>
+        <outcome_text>Comprehend, retell, and respond to basic ideas in stories, poems, songs, and informational texts read to them.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate an awareness that communication can occur through visuals and print texts (including First Nations and Métis texts).</p>
+          </indicator>
+          <indicator>
+            <p>Use strategies to construct and confirm meaning when “reading”:make connections to background knowledge (before)identify important ideas and events (during)recall (after).</p>
+          </indicator>
+          <indicator>
+            <p>Understand and apply language cues and conventions to construct and confirm meaning when viewing, listening, and “reading”:recognize the variations of language use at home, on the playground, and in the classroom (pragmatic)describe characteristics of fiction texts (textual)develop a sense of sentence (syntactic)show curiosity in words and their sounds (lexical/semantic)develop phonological awareness (graphophonic)recognize how gestures and body language communicate part of the message (other cues and conventions).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate an interest in and knowledge about books and reading.</p>
+          </indicator>
+          <indicator>
+            <p>Know where to look for the title and author/illustrator.</p>
+          </indicator>
+          <indicator>
+            <p>Choose to read or look at books, and demonstrate knowledge of print, reading-like behaviours, and book-handling skills.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate an awareness that print is a permanent way of recording ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Create play situations from basic understandings of story text.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the main idea.</p>
+          </indicator>
+          <indicator>
+            <p>Relate personal experiences, and represent responses through drama, physical movement, music, drawings, and models.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Compose and Create (CC)</goal_heading>
+      <outcome>
+        <identifier>CCK.1</identifier>
+        <outcome_text>Compose and create various visual, multimedia, oral, and written texts that explore and present thoughts, ideas, and experiences.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Compose and create a variety of texts that address identity (e.g., exploring interests), community (e.g., belonging), and social responsibility (e.g., contributing).</p>
+          </indicator>
+          <indicator>
+            <p>Contribute ideas and experiences and consider the ideas of others.</p>
+          </indicator>
+          <indicator>
+            <p>Share information and ideas with a group.</p>
+          </indicator>
+          <indicator>
+            <p>Explore ideas and information to make sense of experiences.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CCK.2</identifier>
+        <outcome_text>Use and construct symbols, pictures, and dramatizations to communicate feelings and ideas in a variety of ways.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use imagination to communicate when appropriate.</p>
+          </indicator>
+          <indicator>
+            <p>Use the appropriate strategies to communicate meaning:find ideas to explore (before)tell a story about self (during)add detail (after).</p>
+          </indicator>
+          <indicator>
+            <p>Use language cues and conventions to construct and communicate meaning:use and apply the different functions of language (pragmatic)tell or dramatize a story using own words and appropriate gestures (pragmatic)use different sentence patterns (syntactic)manipulate sounds and words in shared, guided, and independent activities (lexical/semantic)explore sounds and rhymes (graphophonic)use various tools and techniques to represent ideas (other cues and conventions).</p>
+          </indicator>
+          <indicator>
+            <p>Combine words and images to make meaning.</p>
+          </indicator>
+          <indicator>
+            <p>Create a story about self and family.</p>
+          </indicator>
+          <indicator>
+            <p>Incorporate story elements in representations.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate knowledge of upper and lower case letters; show awareness of the first place position of a capital letter in words; notice the use of punctuation marks and try them out in own communication.</p>
+          </indicator>
+          <indicator>
+            <p>Express ideas and feelings using wood, blocks, clay, and natural materials.</p>
+          </indicator>
+          <indicator>
+            <p>Interpret characters through drawing, talking, play, and drama.</p>
+          </indicator>
+          <indicator>
+            <p>Represent stories through pictures, dictation, physical movement, and play and describe/explain their symbols, pictures, and dramatizations.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CCK.3</identifier>
+        <outcome_text>Use oral language to converse, engage in play, express ideas, and share personal experiences.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use oral language to engage in exploratory and imaginative play:create play situationsinterpret peer’s response to ideasexplain idea for playplay co-operatively with other childrenexpress suggestions given by playmate.</p>
+          </indicator>
+          <indicator>
+            <p>Use the appropriate strategies to communicate meaning when speaking:find ideas to explore (before)tell a story about self (during)add detail (after).</p>
+          </indicator>
+          <indicator>
+            <p>Use language cues and conventions to construct and communicate meaning when speaking:use and apply the different functions of language (pragmatic)tell or dramatize stories using own words and appropriate gestures (textual)use different sentence patterns (syntactic)manipulate sounds and words in shared, guided, and independent activities (lexical/semantic)explore sounds and rhymes (graphophonic)use various tools and techniques to represent ideas (other cues and conventions).</p>
+          </indicator>
+          <indicator>
+            <p>Converse on personal experiences, preferences, and topics of interest:talk to peers about likes and dislikesexpress interest in different topicsshare significant items from home and communityrelate events to teacherinitiate conversationsask politely to borrow somethingtake part in group activities such as circle or story timeshare stories in large or small groupsshare poems, rhymes, songs, and finger plays.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CCK.4</identifier>
+        <outcome_text>Create messages using a combination of pictures, symbols, and letters.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Experiment with drawing, scribbling, letters, and temporary spelling to convey ideas.</p>
+          </indicator>
+          <indicator>
+            <p>Use the appropriate strategies to communicate meaning when “writing”:find ideas to explore (before)tell story about self (during)add detail (after).</p>
+          </indicator>
+          <indicator>
+            <p>Use language cues and conventions to construct and communicate meaning when “writing”:use and apply the different functions of language (pragmatic)tell or dramatize stories using own words and appropriate gestures (textual)use different sentence patterns (syntactic)manipulate sounds and words in shared, guided, and independent activities (lexical/semantic)explore sounds and rhymes (graphophonic)use various tools and techniques to represent ideas (other cues and conventions).</p>
+          </indicator>
+          <indicator>
+            <p>Attempt to copy letters or words from the environment (e.g., books, chart paper poems, word wall, name cards, public signs) to express ideas or understanding.</p>
+          </indicator>
+          <indicator>
+            <p>Share experiences, feelings, and thoughts with a scribe.</p>
+          </indicator>
+          <indicator>
+            <p>Write as part of play (e.g., grocery list, parking tickets, menu, signs).</p>
+          </indicator>
+          <indicator>
+            <p>Tell others about the intended meaning of drawings and writings.</p>
+          </indicator>
+          <indicator>
+            <p>Dictate a story based on a representation that needs to be explained in writing.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Assess and Reflect on Language Abilities (AR)</goal_heading>
+      <outcome>
+        <identifier>ARK.1</identifier>
+        <outcome_text>Reflect on viewing, listening, emerging “reading”, representing, speaking, and emerging “writing” experiences in the context of teacher-led discussions.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify viewing, listening, emerging “reading”, speaking, emerging “writing”, and other representing strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Explain new strategies to peers and teacher.</p>
+          </indicator>
+          <indicator>
+            <p>Attempt new strategies and determine what strategies are effective.</p>
+          </indicator>
+          <indicator>
+            <p>Listen to and consider feedback given.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>ARK.2</identifier>
+        <outcome_text>Reflect and talk about new learning.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify viewing, listening, emerging “reading”, speaking, emerging “writing”, and other representing strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Explain new strategies to peers and teacher.</p>
+          </indicator>
+          <indicator>
+            <p>Attempt new strategies and determine what strategies are effective.</p>
+          </indicator>
+          <indicator>
+            <p>Listen to and consider feedback given.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

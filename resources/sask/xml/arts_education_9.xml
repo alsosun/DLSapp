@@ -1,0 +1,508 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181762_1</pdf>
+  <banner>arts/artseducation9.gif</banner>
+  <dark_colour>#0e6bb6</dark_colour>
+  <light_colour>#e7f0f8</light_colour>
+  <goals>arts/artseducation7-9aimsgoals.htm</goals>
+  <teaching>arts/artseducation9teaching.htm</teaching>
+  <curriculum_name>Arts Education 9</curriculum_name>
+  <classification_id>arts education 9</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Creative/Productive (CP)</goal_heading>
+      <outcome>
+        <identifier>CP9.1</identifier>
+        <outcome_text>Create dance compositions that express perspectives and raise awareness about a topic of concern to youth.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use inquiry in dance to express ideas about topics of importance to youth.Generate key questions to guide inquiry in dance (e.g., Why does the media often portray youth in a negative light? How could dance help to raise awareness or bring about change on a topic of concern? In what ways could we represent through dance the positive contributions of today’s youth to life in Saskatchewan?).Determine depth and breadth of personal knowledge to identify possible areas of inquiry.Generate additional relevant questions for exploration.Use the Internet and other sources (e.g., print, digital, community) to gather ideas for dance making.Use the dance-making process to explore the central inquiry questions and ideas (e.g., How can we show through movement the determination that youth must possess to improve the future?).Keep a record of dance phrases using invented and/or traditional notation symbols, and video where possible, to explore, record, and reconstruct movements.Reflect, analyze, and make connections between the original topic or inquiry question and subsequent dance explorations.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how a single idea can be developed in many ways and directions (e.g., How can we represent through movement the differing perspectives on this topic?).</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on how movement, dance elements, and principles of composition can be organized to convey meaning in dance (e.g., What message or main idea does our dance communicate about our topic of concern?).</p>
+          </indicator>
+          <indicator>
+            <p>Document the inquiry and creative process (e.g., journal entries, video, photography, blog, or digital diary).</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate on a youth-driven and teacher/community-supported plan to raise awareness through the arts about a topic of concern to youth:Propose ways of including community members and artists who share the same concerns, and develop a collaborative action plan to share some parts of entire dances with others.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP9.2</identifier>
+        <outcome_text>Investigate and use choreographic processes (e.g., individual and collaborative choreography).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze, individually and with peers, how dance elements and principles of composition work together to express ideas in own dances.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate efficient, purposeful, expressive movements.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate ways of using spatial designs, individually and with peers.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate expressive use of focus, individually, in pairs, and groups.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate different ways of manipulating the element of relationships in individual and collaborative choreography.</p>
+          </indicator>
+          <indicator>
+            <p>Develop seamless transitions that sequence dance phrases in ways that exemplify the intended idea.</p>
+          </indicator>
+          <indicator>
+            <p>Use improvisation to explore and develop a dance idea.</p>
+          </indicator>
+          <indicator>
+            <p>Extend understanding of sequencing of dance phrases for expressive purposes.</p>
+          </indicator>
+          <indicator>
+            <p>Use tension and resolutions purposefully in dance.</p>
+          </indicator>
+          <indicator>
+            <p>Use design (e.g., costumes, sets, lighting, sound) and technology, where possible, in addition to dance elements and composition principles to enhance expression.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP9.3</identifier>
+        <outcome_text>Choreograph duo or small group work.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Generate ideas for movement exploration and development by collaborating in duo and small group work.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate leadership as a choreographer by offering ideas and guidance to dancers during development of composition.</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate with others to explore and refine dance phrases and organize into appropriate form (e.g., ABA, collage, chance, organic) to achieve meaning and expression.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate self-awareness in decision making about movement choices.</p>
+          </indicator>
+          <indicator>
+            <p>Encourage other dancers to demonstrate efficient movement related to centre of gravity and body alignment in dance.</p>
+          </indicator>
+          <indicator>
+            <p>Record dance phrases (e.g., notation and/or video) to further explore and reconstruct movements.</p>
+          </indicator>
+          <indicator>
+            <p>Support duo or small group in repeating movement phrases and sequences with accuracy and expression during development, rehearsal, and sharing of work.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on composition process and describe ideas, strengths, and areas for potential improvement.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP9.4</identifier>
+        <outcome_text>Demonstrate how roles may be developed and how dramatic characters communicate meaning to an audience.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Assume and develop different kinds of roles in drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how the various roles assumed interact with others and help to further the drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how roles may be developed (e.g., through interaction with others, through improvisation and research).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate ways that dramatic characters communicate meaning to others.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate focus and concentration in role.</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate with other students to explore inquiry questions to develop roles and characters (What if your character came to school in the morning and heard that ...?).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize how research contributes to the authenticity and significance of role and character work.</p>
+          </indicator>
+          <indicator>
+            <p>Use language and drama strategies to achieve dramatic purpose and communicate meaning to an audience.</p>
+          </indicator>
+          <indicator>
+            <p>Use technology to enhance or clarify dramatic intentions (e.g., videotape improvisations, create lighting and sound effects).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP9.5</identifier>
+        <outcome_text>Manipulate drama strategies and theatrical elements (e.g., story, character, design, space) to achieve dramatic purpose.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Propose how best to incorporate various drama strategies to achieve intentions.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate awareness of how focus is maintained and shifts as the drama unfolds.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on sources and function of tension in the drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how contrast functions within the drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Negotiate skillfully and work toward consensus in dramatic work.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and refine how roles and characters function in drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Propose ideas for use of symbols in drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Manipulate tension, focus, contrast, and symbol to help achieve intention.</p>
+          </indicator>
+          <indicator>
+            <p>Propose when to use different strategies to communicate ideas effectively.</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate on development of technical theatre elements to support dramatic purpose (e.g., lighting, set, costume, sound design).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP9.6</identifier>
+        <outcome_text>Express perspectives and raise awareness about a topic of concern to youth in a collective creation.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Brainstorm and negotiate with other students to determine a topic of mutual concern to address through a collective creation.</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate on a youth-driven and teacher/community-supported plan to raise awareness through drama about a topic of concern to youth:Propose ways of including community members and theatre artists who share the same concerns, and develop a collaborative action plan to share some parts or entire dramatic expressions with others.Create and maintain reflective records to document the work (e.g., journal, photos, blog, video).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how fictional situations and dramatic episodes related to the chosen topic might be explored (e.g., using structured improv, drawing on different theatrical genres or cultural drama traditions).</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate on exploration and development of the collective creation through developing various roles and characters and incorporating a range of drama strategies.</p>
+          </indicator>
+          <indicator>
+            <p>Research different theatrical genres and cultural traditions, and investigate and explore how some of these conventions may be incorporated into the collective creation (e.g., Indonesian shadow puppet theatre, Greek tragedy, vaudeville, improvisational theatre).</p>
+          </indicator>
+          <indicator>
+            <p>Create and incorporate imagery, sound, and visual effects in collective creation.</p>
+          </indicator>
+          <indicator>
+            <p>Use technology as a tool during the creative process and as part of a presentation, where appropriate.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and describe the effectiveness of own drama to express perspectives.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP9.7</identifier>
+        <outcome_text>Use voice, instruments, and technologies to express musical ideas.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate innovative use of vocal improvisation in song and speech.</p>
+          </indicator>
+          <indicator>
+            <p>Create and improvise with an instrument of choice.</p>
+          </indicator>
+          <indicator>
+            <p>Experiment with the voice and instruments by creating and imitating sounds.</p>
+          </indicator>
+          <indicator>
+            <p>Extend singing skills, and understand and be sensitive to the ways voices change with age and musical experiences.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the use of the voice in improvisation in a diverse range of cultural and social contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Examine improvisation within a diverse range of instrumental music from around the world.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate capability with electronic and technological mediums of musical expression (e.g., computer-generated sound/music).</p>
+          </indicator>
+          <indicator>
+            <p>Prepare, rehearse, and present structured compositions and improvisations.</p>
+          </indicator>
+          <indicator>
+            <p>Use technology to explore and record improvisation.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP9.8</identifier>
+        <outcome_text>Combine the elements of music and principles of composition to express unified musical ideas.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Pose questions to initiate and guide inquiry into how best to combine elements of music and principles of composition to express musical ideas (e.g., How could we combine the rhythms that we’ve learned to create a Latin feel in this piece?).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate ways that beat, accent, and metre can be used to create a specific ‘feel’ in music.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate ways that tempo, rhythm, melody, harmonic structure, or tonality can be used to express an idea or emotional quality in music.</p>
+          </indicator>
+          <indicator>
+            <p>Use silence effectively in music.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate understanding of how music elements and composition principles create form and structure in music.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how elements of music and principles of composition are used in combination to create unified compositions and apply this understanding in own work.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP9.9</identifier>
+        <outcome_text>Compose and perform sound compositions to express perspectives and raise awareness about a topic of concern to youth.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine how musicians and composers express ideas about the world around them and comment on society in their work.</p>
+          </indicator>
+          <indicator>
+            <p>Brainstorm and negotiate with other students to determine a process for music inquiry and composing processes.</p>
+          </indicator>
+          <indicator>
+            <p>Contribute to the creation of a plan to document the research and composing process (e.g., audio recordings, video, blog, wiki, or web-based audio journal).</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate on the creation of sound compositions (e.g., songs, bands, drum circles, techno, hip hop, scratching, new musical forms) as part of a youth-driven and teacher/community-supported plan to raise awareness through music about a topic of concern to youth:Propose ways of including community members and musicians who share the same concerns, and develop a collaborative action plan to share music expressions with others.</p>
+          </indicator>
+          <indicator>
+            <p>Generate musical ideas from both internal and external sources, developing these ideas to achieve meaning and expression.</p>
+          </indicator>
+          <indicator>
+            <p>Use the Internet and other sources to research music styles associated with youth subcultures throughout different periods in history (e.g., rock, jazz, fusion, hip hop, punk, rave cultures).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate uses of new technologies in music (e.g., new electronic music).</p>
+          </indicator>
+          <indicator>
+            <p>Incorporate technology in innovative ways for creating and/or documenting the creative process.</p>
+          </indicator>
+          <indicator>
+            <p>Compose music using digital technologies where possible (e.g., electronic keyboards, online composing, mixing, and editing tools).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP9.10</identifier>
+        <outcome_text>Create visual art works to express perspectives and raise awareness about a topic of concern to youth.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Propose topics for inquiry into issues of importance to students (e.g., select a topic of current concern to students and/or community).</p>
+          </indicator>
+          <indicator>
+            <p>Design, with other students, a plan to guide the visual art inquiry and document the creative process.</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate on a youth-driven and teacher/community-supported plan to raise awareness through visual art about a topic of concern to youth:Propose ways of including community members and artists who share the same concerns, and develop an action plan to share parts or entire visual art expressions with others.</p>
+          </indicator>
+          <indicator>
+            <p>Generate ideas for art works through internal and external sources, developing these ideas to achieve meaning and expression.</p>
+          </indicator>
+          <indicator>
+            <p>Expand upon an idea to achieve more depth of meaning and expression.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP9.11</identifier>
+        <outcome_text>Select and use appropriate forms, technologies, images, and art-making processes to convey ideas about a topic of concern to youth.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Select visual art forms (e.g., mixed media installation, sculpture) to express ideas about a topic of concern to youth.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate effective use of visual art tools, materials, and techniques.</p>
+          </indicator>
+          <indicator>
+            <p>Create portfolios (e.g., traditional and/or digital) of works in progress and completed work.</p>
+          </indicator>
+          <indicator>
+            <p>Use digital photography or other means to document inquiry and the creative process.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze application of the elements of art, principles of design, images, and techniques in own and peers’ art works.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate skills of observation and increased ability to include detailed information in own depictions.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate awareness of various health and safety hazards and procedures in visual art.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP9.12</identifier>
+        <outcome_text>Solve visual art problems in new and unfamiliar ways.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Take risks by working in unfamiliar ways (e.g., new ideas, techniques, or media).</p>
+          </indicator>
+          <indicator>
+            <p>Experiment with new ways of using symbols and manipulation of images.</p>
+          </indicator>
+          <indicator>
+            <p>Solve visual art challenges or problems in innovative ways (e.g., imaginative use of point of view, perspective, colour theory, proportion, exaggeration, or distortion).</p>
+          </indicator>
+          <indicator>
+            <p>Describe own decision-making and problem-solving processes, and reflect on the effectiveness of choices made.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Critical/Responsive (CR)</goal_heading>
+      <outcome>
+        <identifier>CR9.1</identifier>
+        <outcome_text>Respond to professional dance, drama, music, and visual art works through individual or collaborative inquiry and the creation of own arts expressions.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use individual or collaborative inquiry to develop questions and learn about a selected arts expression.</p>
+          </indicator>
+          <indicator>
+            <p>Create an individual or collaborative plan to investigate the inquiry questions, document the inquiry process, and share findings with others.</p>
+          </indicator>
+          <indicator>
+            <p>Create own work in response to a selected professional arts expression, and describe how the new work is inspired or influenced by the original.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR9.2</identifier>
+        <outcome_text>Investigate and identify ways that today’s arts expressions can inspire change.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate how arts expressions can inspire change in different ways.</p>
+          </indicator>
+          <indicator>
+            <p>Examine and describe how new technology has changed the arts and arts careers.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and describe ways in which various arts movements (e.g., impressionism, cubism, 1950s rock and roll, 1920s dance crazes, guerilla street theatre, site specific performances) often broke the rules of the establishment and reflected change during that time.</p>
+          </indicator>
+          <indicator>
+            <p>Examine a variety of new and non-traditional art forms.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how arts expressions can initiate or support social change (e.g., raising awareness about environmental issues, raising money for African famine relief, commenting on social injustice or other controversial topics).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR9.3</identifier>
+        <outcome_text>Investigate and identify how arts expressions can challenge thinking about values, ideas, and beliefs.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe how the arts can transmit or question values, ideas, and beliefs.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the intentions, development, and interpretations of own arts expressions in relation to own experience, values, and perspectives.</p>
+          </indicator>
+          <indicator>
+            <p>Examine societal issues and their influence on current arts expressions (e.g., arts as social or political commentary).</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate with peers on development of criteria for assessing the expression of ideas in own arts expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how art works are expressions of individual and collective viewpoints.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate interest in the ideas and work of today’s artists, and appreciate original thought.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and explain why some arts expressions were considered to be controversial at different times in history.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Cultural/Historical (CH)</goal_heading>
+      <outcome>
+        <identifier>CH9.1</identifier>
+        <outcome_text>Investigate and discuss the role of artists in raising awareness or taking action on topics of concern.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research and describe how artists often raise awareness about local or global issues.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how artists used popular culture to express unique ideas and to comment on society.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and discuss the value of original thought as well as technical proficiency in arts expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate arts expressions that raise awareness or inspire community action.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CH9.2</identifier>
+        <outcome_text>Use the arts to raise awareness on topics of concern to Indigenous artists in dance, drama, music, and visual arts.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use inquiry to investigate topics of concern to Indigenous peoples:Generate key questions to guide inquiry (e.g., What are topics of concern to Indigenous artists?).Create a plan to document the inquiry process.Research topics addressed by artists (e.g., examine messages and lyrics of a variety of artists such as Buffy Ste. Marie, Floyd Crow Westerman, Eekwol, Reddnation, and Rezofficial).Analyze topics presented by artists in relation to own understanding, value, and experiences.Summarize research findings to identify central themes (e.g., colonization) and topics (e.g., residential schools).Identify gaps in knowledge that may limit understanding.Use the Internet and other sources (e.g., print, digital, community) to gather additional information.Determine central focus and questions to explore independently and collaboratively (e.g., How could we use the arts to help people understand that we are all Treaty people?).Reflect, analyze, and make connections between the original topic or inquiry question and subsequent arts expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Create a plan of action to use the arts to increase understanding on this topic fo concern (e.g., develop a collective creation/play about racism to increase knowledge and mutual understanding).</p>
+          </indicator>
+          <indicator>
+            <p>Share arts expressions with younger and older students and community, where possible.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CH9.3</identifier>
+        <outcome_text>Investigate diversity of artistic ideas, styles, and media in contemporary arts expressions.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate an awareness of key historical developments in relation to contemporary arts expressions (i.e., the term contemporary typically includes arts expressions of the late 20th and 21st centuries).</p>
+          </indicator>
+          <indicator>
+            <p>Research and describe the work of contemporary Saskatchewan and Canadian artists.</p>
+          </indicator>
+          <indicator>
+            <p>Extend knowledge of artistic styles across a range of cultural contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how function and purpose influence artistic decision making.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how environmental, historical, and social factors influence artists.</p>
+          </indicator>
+          <indicator>
+            <p>Research various career avenues in the arts.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CH9.4</identifier>
+        <outcome_text>Create interdisciplinary arts expressions individually or through collaboration with peers, and examine the work of artists who create interdisciplinary expressions (e.g., sound and poetry, performance art, audio visual installations).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify ways that various arts expressions combine more than one arts discipline.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the impact of technology on interdisciplinary art works (e.g., audio visual installations, performance art).</p>
+          </indicator>
+          <indicator>
+            <p>Examine a variety of new and non-traditional art forms that integrate disciplines.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate connections that exist among the arts, and incorporate more than one art form into own work or collaborative project.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate leadership and support peers during collaborative processes.</p>
+          </indicator>
+          <indicator>
+            <p>Critically examine and assess individual work and contributions to collaborative work.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

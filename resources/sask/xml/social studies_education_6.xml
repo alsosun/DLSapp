@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181939_1</pdf>
+  <banner>social/SS6.png</banner>
+  <dark_colour>#8f3b67</dark_colour>
+  <light_colour>#e9d8e1</light_colour>
+  <goals>social/socialstudies6aimsgoals.htm</goals>
+  <teaching>social/socialstudies6teaching.htm</teaching>
+  <curriculum_name>Social Studies 6</curriculum_name>
+  <classification_id>social studies 6</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Interactions and Interdependence of Nations</goal_heading>
+      <outcome>
+        <identifier>IN6.1</identifier>
+        <outcome_text>Evaluate and represent personal beliefs and values by determining how culture and place influence them.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify personal roles in, and responsibilities toward, the family and local community.</p>
+          </indicator>
+          <indicator>
+            <p>Compare and contrast family and community roles and responsibilities of young people in Canada, including First Nations, Inuit, and Métis families, with the roles and responsibilities of age-equivalent youth in a selection of countries bordering the Atlantic Ocean (e.g., conduct interviews with local youth and elders, use technology to link with youth in provincial, territorial, national and global communities).</p>
+          </indicator>
+          <indicator>
+            <p>Give examples of the artistic expression of culture in Canada, including First Nations, Inuit, and Métis peoples, and in a selection of countries bordering the Atlantic Ocean, and draw conclusions about the beliefs and values of the inhabitants in those regions.</p>
+          </indicator>
+          <indicator>
+            <p>Assess the current and historical approaches to cultural diversity used in Canada and in a selection of countries bordering the Atlantic Ocean, including consideration of segregation, assimilation, accommodation, and pluralism.</p>
+          </indicator>
+          <indicator>
+            <p>Plan, conduct, and evaluate an inquiry to illustrate how culture and place influence the beliefs and values of the local community.</p>
+          </indicator>
+          <indicator>
+            <p>Examine the beliefs and values of individuals discussed in case studies or of characters in literature highlighting youth, and represent the influential factors on the characters or subjects. Assess how these beliefs and values compare with those of local youth.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IN6.2</identifier>
+        <outcome_text>Examine the social and cultural diversity that exists in the world, as exemplified in Canada and a selection of countries bordering the Atlantic Ocean.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Compare and represent the kinship patterns, cultural traditions, and traditional worldviews of Saskatchewan First Nations, Métis, and Inuit people, and of other cultural groups residing in a selection of countries bordering the Atlantic Ocean.</p>
+          </indicator>
+          <indicator>
+            <p>Research ways in which cultural traditions, celebrations, art, music, literature, drama, and sport have influenced intercultural understanding.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the contributions of First Nations, Métis, and Inuit people in Canada and indigenous peoples in a selection of countries bordering the Atlantic Ocean to local, provincial, national and global communities in various areas such as politics, business, health, education, sport, music, literature, art, dance, and architecture.</p>
+          </indicator>
+          <indicator>
+            <p>Research and represent the historical and contemporary contributions to local communities by a variety of cultural groupings representative of Saskatchewan.</p>
+          </indicator>
+          <indicator>
+            <p>Compare and contrast social and cultural diversity in Canada with that of a selection of countries bordering the Atlantic Ocean, and assess the significance of cultural diversity.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IN6.3</identifier>
+        <outcome_text>Develop an understanding that global interdependence impacts individual daily life in Canada and a selection of countries bordering the Atlantic Ocean.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Create an inventory of ways in which daily life is influenced by global interdependence.</p>
+          </indicator>
+          <indicator>
+            <p>Assess and interpret why people from a selection of countries bordering the Atlantic Ocean have chosen, or may choose, to immigrate to Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Create a multimedia presentation representing the impact of immigration on the worldviews of people (especially youth) in Canada and a selection of countries bordering the Atlantic Ocean, both indigenous citizens and immigrants.</p>
+          </indicator>
+          <indicator>
+            <p>Become aware and describe the role of key international agencies in protecting human welfare, especially that of children and youth (e.g., United Nations, UNICEF, UNESCO, Amnesty International, Médecins sans frontières, United Nations High Commission for Refugees, international indigenous organizations, faith-based international development organizations).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and represent the contribution of a Canadian individual or organization toward enhancing human welfare in Canada or in a selection of countries bordering the Atlantic Ocean.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and represent the contribution of an individual not born in Canada toward enhancing human welfare in Canada (e.g., neighbours, community members).</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the contribution of an Aboriginal Canadian toward enhancing human welfare in Canada.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>IN6.4</identifier>
+        <outcome_text>Explore aspects of cultural change over time, including: reasons for cultural change, examples of cultural change, how cultural change affects youth, how youth respond to cultural change.</outcome_text>
+        <outcome_text_list>,</outcome_text_list>
+        <indicators>
+          <indicator>
+            <p>Delineate ways in which cultures might change over time.</p>
+          </indicator>
+          <indicator>
+            <p>Propose reasons for changes in cultures over time by referring to First Nations and Métis peoples and other peoples in Canada and in a selection of countries bordering the Atlantic Ocean.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss examples of change created by cultural interaction in Canada and a selection of countries bordering the Atlantic Ocean, being sure to examine perspectives of both the cultural group and the host community (e.g., adjusting long-standing cultural traditions in a new environment, finding greeting cards in different languages, learning a different language).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the effect on youth of changes resulting from cultural interaction, and assess the response of youth to changes resulting from cultural interaction.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Dynamic Relationships</goal_heading>
+      <outcome>
+        <identifier>DR6.1</identifier>
+        <outcome_text>Analyze the impact of the diversity of natural environments on the ways of life in Canada and a selection of countries bordering the Atlantic Ocean.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Make generalizations about the effects of climate and vegetation in a local area on the historical development of people in the selected area.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the relationship between the climate and vegetation zones and the lifestyles (e.g., modes of travel, home and building construction, modes of dress, population health, types of sport, recreation and leisure activities, economic activity) of people in Canada and in a selection of countries bordering the Atlantic Ocean.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate ways in which natural environments are reflected in the artistic expressions (music, dance, painting, sculpture, architecture) in Canada and in a selection of countries bordering the Atlantic Ocean.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the importance of place to the development of first languages and cultures.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR6.2</identifier>
+        <outcome_text>Analyze ways in which the land affects human settlement patterns and social organization, and ways in which human habitation affects land.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify, on a map or globe, major cities, landforms, and bodies of water in Canada and a selection of countries bordering the Atlantic Ocean.</p>
+          </indicator>
+          <indicator>
+            <p>Propose explanations for population distributions, densities, and growth rates in a selection of countries bordering the Atlantic Ocean, and compare this to population distributions, densities, and growth rates in Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the historical and contemporary factors that influence the migration of people (e.g., environmental, economic, and political factors), and research examples from a selection of countries bordering the Atlantic Ocean.</p>
+          </indicator>
+          <indicator>
+            <p>Conduct an inquiry into the nature of urbanization and examine the impact of urbanization on youth, including indigenous youth, in Canada and in a selection of countries bordering the Atlantic Ocean.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR6.3</identifier>
+        <outcome_text>Appraise the strategies human societies have used to orient themselves within time and place in the natural environment.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate the role of astronomy and traditional practices and teachings in early map making and reading.</p>
+          </indicator>
+          <indicator>
+            <p>Use parallels of latitude and meridians of longitude to situate locations on a map.</p>
+          </indicator>
+          <indicator>
+            <p>Calculate the time in different time zones relevant to Canada and a selection of countries bordering the Atlantic Ocean, using technological tools and appropriate vocabulary, including international date line, Universal Time, local time, and daylight saving time.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the Aboriginal understanding of day, night, and seasons as part of global cycles.</p>
+          </indicator>
+          <indicator>
+            <p>Describe and compare diverse approaches to natural resource and land use among First Nations and Métis peoples in Canada, among indigenous peoples in countries bordering the Atlantic Ocean, and non-indigenous peoples of these regions, and explore how these diverse approaches have come into conflict and been in harmony in various time periods and locations.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>DR6.4</identifier>
+        <outcome_text>Relate contemporary issues to their historical origins in Canada and a selection of countries bordering the Atlantic Ocean.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Construct a timeline or other graphic or digital representation to associate contemporary events with their historical origins in Canada and in a selection of countries bordering the Atlantic Ocean.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the historical origins of a current issue affecting youth in Canada and a selection of countries bordering the Atlantic Ocean by tracing the evolution of the issue over time (e.g., slavery, colonization, migration, and indigenous peoples’ relationships with colonizing peoples).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Power and Authority</goal_heading>
+      <outcome>
+        <identifier>PA6.1</identifier>
+        <outcome_text>Examine the relationship between an individual’s power and authority and the power and authority of others.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Illustrate the forms of power (an individual or a group’s ability to influence): force, authority, and influence (voice) with respect to their personal lives (e.g., force: pushing someone, saying something hurtful; authority: being elected class representative, being invited to act or speak on behalf of the group, inviting others to act or speak on behalf of the group; influence: speak out on their behalf or on the behalf of others).</p>
+          </indicator>
+          <indicator>
+            <p>Give examples of the forms of power (force: gangs, bullying; authority: leadership of an organization; influence: clergy, charisma) in the local community.</p>
+          </indicator>
+          <indicator>
+            <p>Determine traits common to individuals who are perceived as effective leaders in a variety of contexts in the local, provincial, territorial, national, or international arena.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and examine the characteristics of local, provincial, national, and international leaders and organizations in order to: understand how the individuals and organizations identified obtained their power, explain how the individuals and organizations identified use influence, force, or authority, show the relationship between the power and authority of those individuals and organizations, and the power and authority of others.</p>
+          </indicator>
+          <indicator>
+            <p>Describe diverse ways in which groups and societies, especially those groups involving young people, deal with competing claims for power.</p>
+          </indicator>
+          <indicator>
+            <p>Explain choices young people must make in reconciling the tensions between the dominant social group and individual choice (e.g., drug and alcohol use; social relationships; academic programs, choice of extra-curricular activities, and career interests).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA6.2</identifier>
+        <outcome_text>Analyze the distribution of power and privilege in Canada and a selection of countries bordering the Atlantic Ocean.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Gather and interpret data from various print and electronic sources, such as graphs, maps, and charts, to illustrate geographic and economic differences among regions in Canada and a selection of countries bordering the Atlantic Ocean (e.g., mountainous areas: tourism, forestry, and mining; coastal areas: fishing and shipping).</p>
+          </indicator>
+          <indicator>
+            <p>Suggest reasons for any economic differences among the regions in Canada and a selection of countries bordering the Atlantic Ocean, and speculate on the effects of those differences.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the concept of white privilege, and assess the degree to which it exists within Canada and a selection of countries bordering the Atlantic Ocean.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the personal and societal impact of white privilege on individuals and groups within Canada and a selection of countries bordering the Atlantic Ocean.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PA6.3</identifier>
+        <outcome_text>Explore examples and explain how people, such as ethnic minority groups, the disabled, youth, and the elderly, may be affected by injustice or abuses of power.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe incidents of the misuse of power in groups of which students are aware.</p>
+          </indicator>
+          <indicator>
+            <p>Research laws that specifically affect young people, minority groups, the disabled, and the elderly to determine the disposition of governments toward the status of these groups, and evaluate the reasons for and effectiveness of such laws.</p>
+          </indicator>
+          <indicator>
+            <p>Propose changes needed in human behaviour and institutions in order to prevent the abuse of power.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the relationship between people and their governments in Canada and a selection of countries bordering the Atlantic Ocean. Include such things as human rights, treatment of minorities, history with indigenous peoples, infrastructure for health, and education (including reference to residential schools and the intergenerational impact of those experiences).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Resources and Wealth</goal_heading>
+      <outcome>
+        <identifier>RW6.1</identifier>
+        <outcome_text>Examine and analyze factors that contribute to quality of life, including material and non-material factors.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain the difference between needs and wants.</p>
+          </indicator>
+          <indicator>
+            <p>Compare and contrast the needs and wants of Canadian youth with those of youth in a selection of countries bordering the Atlantic Ocean.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize the variation in value placed on quality of life indicators in varying locations, cultures, and time periods.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the indigenous concept of abundance as it relates to the western concept of wealth.</p>
+          </indicator>
+          <indicator>
+            <p>Explain factors that affect the quality of life of youth in Canada and a selection of countries bordering the Atlantic Ocean (e.g., labour practices, access to education and technology, shelter, food and water, health care, sport and recreation, inclusion, or marginalization).</p>
+          </indicator>
+          <indicator>
+            <p>Assess ways in which technology influences the quality of life for youth in Canada and in a selection of countries bordering the Atlantic Ocean (e.g., access to energy, transportation, and communication systems).</p>
+          </indicator>
+          <indicator>
+            <p>Compare and contrast the quality of life in Canada with the quality of life in a selection of countries bordering the Atlantic Ocean using various sources of data including a quality of life index, maps, graphs, and charts.</p>
+          </indicator>
+          <indicator>
+            <p>Propose reasons which might explain the differences in the quality of life of young people in Canada and in a selection of countries bordering the Atlantic Ocean.</p>
+          </indicator>
+          <indicator>
+            <p>Research sources of wealth (including natural resources and industries) in Canada and a selection of countries bordering the Atlantic Ocean.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize and assess the relationship between wealth and resources and the distribution of power and authority in Canada and a selection of countries bordering the Atlantic Ocean.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>RW6.2</identifier>
+        <outcome_text>Contribute to initiating and guiding change in local and global communities regarding environmental, social, and economic sustainability.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent through visual art, music, dance, writing, or other representation the contribution of individuals and communities to initiate change that supports sustainability.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how individual local consumer choices may affect people elsewhere in the world (e.g., child labour, enslavement, sweat shops, consumption of scarce resources, prosperity through employment).</p>
+          </indicator>
+          <indicator>
+            <p>Develop an action plan for harmonizing one’s personal lifestyle with collective needs regarding social, environmental, and economic sustainability.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

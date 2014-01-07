@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181768_1</pdf>
+  <banner>career/careereducation6.gif</banner>
+  <dark_colour>#a24c3d</dark_colour>
+  <light_colour>#ecdbd8</light_colour>
+  <goals>career/careereducation6aimsgoals.htm</goals>
+  <teaching>career/careereducation6-9teaching.htm</teaching>
+  <curriculum_name>Career Education 6</curriculum_name>
+  <classification_id>career education 6</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Change and Growth (CG)</goal_heading>
+      <goal>Goal: All students will develop career management competencies through an exploration of personal change and growth.</goal>
+      <outcome>
+        <identifier>CG6.1</identifier>
+        <outcome_text>Investigate the influence of a positive self-image on one’s life.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine the positive nature of uniqueness through an exploration of individual characteristics such as interests, likes, dislikes, physical skills, mental abilities, and strengths</p>
+          </indicator>
+          <indicator>
+            <p>Assess how culturally appropriate positive character traits including honesty, tolerance, trust, loyalty, and helpfulness form a basic part of a positive self-image</p>
+          </indicator>
+          <indicator>
+            <p>Analyze how a positive self-image influences changes in an individual’s behaviour</p>
+          </indicator>
+          <indicator>
+            <p>Identify, using various media, positive character traits about self as seen by self and perceived by others</p>
+          </indicator>
+          <indicator>
+            <p>Explore how the transformation of personal behaviours and attitudes can improve one’s own positive self-image and establish firm personal standards</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CG6.2</identifier>
+        <outcome_text>Analyze the benefits of developing personal competence in building healthy relationships (i.e., emotional, spiritual, mental, and physical).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine one’s behaviours and attitudes in interpersonal and group situations and determine those that contribute to positive and effective interactions</p>
+          </indicator>
+          <indicator>
+            <p>Examine personal feelings and appropriate ways to express those feelings</p>
+          </indicator>
+          <indicator>
+            <p>Select effective strategies for interpersonal and group communication skills and analyze why they are effective</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate effective skills, knowledge, and attitudes for resolving conflicts with peers and adults and recognize when different strategies may be needed</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate openness and appreciation to the diversity of Saskatchewan cultures and people (e.g., ages, socioeconomic status, sexual orientation, spiritual beliefs)</p>
+          </indicator>
+          <indicator>
+            <p>Examine effects of helping others</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Connections to Community (CC)</goal_heading>
+      <goal>Goal: All students will explore the connection between learning and work pathways and their connections to community.</goal>
+      <outcome>
+        <identifier>CC6.1</identifier>
+        <outcome_text>Investigate various aspects of careers and their requirements.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explore the question, “Why are there benefits to preparing for one’s life and work paths?”</p>
+          </indicator>
+          <indicator>
+            <p>Examine at least one occupation through an exploration of work information such as occupational description, working conditions, earnings, and education/training requirements</p>
+          </indicator>
+          <indicator>
+            <p>Utilize various sources of information such as parents, relatives, community members, newspapers, and digital resources</p>
+          </indicator>
+          <indicator>
+            <p>Identify multiple work types such as part-time, full time, seasonal, and contract to assess personal interests and preferences</p>
+          </indicator>
+          <indicator>
+            <p>Compare advantages and challenges of self-employment (entrepreneurship) versus working for others</p>
+          </indicator>
+          <indicator>
+            <p>Compare skills and knowledge acquired in school to those used at home, in the workplace, and in the community (transferable skills)</p>
+          </indicator>
+          <indicator>
+            <p>Identify the differences between work, jobs, occupations, and careers</p>
+          </indicator>
+          <indicator>
+            <p>Describe various work roles (such as labourer, entrepreneur, manager) and settings (such as outside, office tower, manufacturing plant) of interest to oneself</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CC6.2</identifier>
+        <outcome_text>Investigate and compile data to explain ways work contributes to individuals and the community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Define work in terms of paid and unpaid, as well as family contributions and community service</p>
+          </indicator>
+          <indicator>
+            <p>Identify work in the community using known examples such as family members, school personnel, and community workers</p>
+          </indicator>
+          <indicator>
+            <p>Create a list of the products and services of local or area employers</p>
+          </indicator>
+          <indicator>
+            <p>Conduct an interview with a working person to assess how work can satisfy personal and community needs</p>
+          </indicator>
+          <indicator>
+            <p>Examine how organizations operate (e.g., how money is made, overhead costs, profit) to formulate understandings of relationships between employers, workers, and consumers</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Life and Work Plan (LW)</goal_heading>
+      <goal>Goal: All students will engage in inquiry to construct a personal life and work plan.</goal>
+      <outcome>
+        <identifier>LW6.1</identifier>
+        <outcome_text>Examine effective practices such as responsible decision making, cooperation, and accepting diversity and predict their continued importance in one’s own career.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research decision-making models to gain an understanding of how choices selected are dependent on personal beliefs and values</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate the impact of personal decisions on self and others</p>
+          </indicator>
+          <indicator>
+            <p>Identify the importance that personal qualities (e.g., dependability, promptness, getting along with others) have on creating, acquiring, and sustaining work</p>
+          </indicator>
+          <indicator>
+            <p>Describe, discuss, and assess how ability, effort, and attitude may affect personal goal achievement</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>LW6.2</identifier>
+        <outcome_text>Investigate the interrelationship of life roles.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Draft a list of the various roles an individual may have (e.g., friend, student, worker, teammate, family member)</p>
+          </indicator>
+          <indicator>
+            <p>Assess how family members depend on one another, work together, and share responsibilities and explore the benefits of strong family relationships</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate possible links between work roles and some family roles</p>
+          </indicator>
+          <indicator>
+            <p>Examine one’s different life roles and evaluate one’s responsibilities within each of them</p>
+          </indicator>
+          <indicator>
+            <p>Examine and assess the positive impact of work on people (e.g., higher self-esteem, financial autonomy, positive interactions)</p>
+          </indicator>
+          <indicator>
+            <p>Identify how contributions of individuals both inside and outside the home are important to family and community (e.g., family financial autonomy, working for a common goal, community volunteering)</p>
+          </indicator>
+          <indicator>
+            <p>Choose the type of life roles one would be ready to consider now and explore preferred choices in the near future and later in life</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

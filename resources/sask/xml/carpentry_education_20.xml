@@ -1,0 +1,219 @@
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-198409_1</pdf>
+  <outcomes>
+    <goal_section collapsable="true">
+      <goal_heading>Construction and Carpentry 20</goal_heading>
+      <outcome>
+        <identifier>Module 8B</identifier>
+        <outcome_text labeled="true">Develop increasing proficiency with a larger number of portable power tools.</outcome_text>
+        <outcome_note>Note: The tools listed in Modules 8A and 8B can be interchanged depending on individual capability and equipment availability to complete a project.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Demonstrate the proper technique for making crosscuts, rip cuts and cutting panel products with a circular saw as well as changing the depth of cut and selecting and installing the correct blade.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the proper technique for cutting with a reciprocating saw including selecting and installing the correct blade.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the proper use of a pneumatic nailer and/or stapler including loading the nails/staples and connecting and disconnecting the air hose (if applicable).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the proper technique for using an electric sander including replacing the sandpaper.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 9B</identifier>
+        <outcome_text labeled="true">Demonstrate increasing proficiency with an increasing number of complex stationary power tools.</outcome_text>
+        <outcome_note>Note: The tools listed in Modules 9A and 9B can be interchanged depending on individual capability and equipment availability to complete a project.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Demonstrate the correct use of a jointer to dress the edge of a board.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how to dress a board using a jointer, table saw and thickness planer (if all are available).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how to use a thickness planer to remove material safely from a board in a series of passes to achieve a desired thickness.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the correct use of a shaper/router table including how to start and stop, direction of feed, depth adjustment, and bit replacement.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 11B</identifier>
+        <outcome_text labeled="true">Demonstrate increasing proficiency of woodworking skills to complete and assess a project.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify efficient methods for completing the selected project.</p>
+          </indicator>
+          <indicator>
+            <p>Identify safety considerations including hazards created by power tools and other people in the work area.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate proficiency with selected layout tools to minimize material waste.</p>
+          </indicator>
+          <indicator>
+            <p>Create the required components through cutting, shaping, and boring of material.</p>
+          </indicator>
+          <indicator>
+            <p>Assemble and finish the project according to the specifications of the plan.</p>
+          </indicator>
+          <indicator>
+            <p>Participate in the assessment of personal skills, attitudes, and work habits as well as the final product.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 14</identifier>
+        <outcome_text labeled="true">Demonstrate the ability to accurately locate a building on a given site.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate an understanding of reading a plot plan including property lines, building lines, grade, elevation, benchmark, and easements.</p>
+          </indicator>
+          <indicator>
+            <p>Identify why building permits are required and provide general information to acquire a building permit.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the reasoning for building codes and examine a building code book.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 15</identifier>
+        <outcome_text labeled="true">Demonstrate an understanding of pilings, footings, and basement wall construction.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the differences between cement and concrete including concepts such as aggregates and additives.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and explain the processes for placing concrete forms, pilings, footings, basement walls, and large pads.</p>
+          </indicator>
+          <indicator>
+            <p>Explain the theory and process of how to finish concrete.</p>
+          </indicator>
+          <indicator>
+            <p>Determine the advantages and disadvantages of alternate foundations such as wood construction and insulated concrete forms.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 16</identifier>
+        <outcome_text labeled="true">Demonstrate a basic knowledge of the procedures and techniques involved in framing the floor of a typical residential construction.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate understanding of common framing terms such as on centre, trimmers, joists, rim joists, blocking, joist hanger, beams, span, and subfloor.</p>
+          </indicator>
+          <indicator>
+            <p>Compare the advantages and disadvantages of traditional joists, trusses, manufactured joists, glulam, and steel I-beams.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the industry standard of framing a floor opening.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 17</identifier>
+        <outcome_text labeled="true">Demonstrate the procedures for framing and sheathing walls in residential construction.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate how to frame a wall and partitions using plates, studs, and corner posts based on 16” on centre.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the proper technique for framing a rough door and window opening including using jack studs, cripples, and headers (lintels).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how to raise a wall to plumb and square including installation of temporary bracing.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the correct method of applying exterior sheathing.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 25</identifier>
+        <outcome_text labeled="true">Demonstrate the skills and knowledge required to construct a basic box project using a face frame or frameless process which may include doors and drawers.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate an understanding of working drawings (i.e., material list, cutting list, assembly diagram) and accurately measure and layout stock.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the safe set-up and operation of the required handheld and stationary power tools to cut, surface, and shape material.</p>
+          </indicator>
+          <indicator>
+            <p>Cut and fit effective joints (e.g., dado, rabbet, mitre) using systems such as splines, biscuits, and dowels.</p>
+          </indicator>
+          <indicator>
+            <p>Use the appropriate processes to assemble the project such as dry fit, glue, clamp, and use fasteners.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate appropriate techniques to prepare and apply finish.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 27A</identifier>
+        <outcome_text labeled="true">Recognize how school-based skills development is used to meet workplace expectations.</outcome_text>
+        <outcome_note>Note: Work Study is used to prepare students for employment through specific skill development within a workplace. The number of work study opportunities is equal to the number of courses available in the curriculum area at the 20 and 30 level.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Obtain a list of roles and responsibilities of the workplace.</p>
+          </indicator>
+          <indicator>
+            <p>Brainstorm a list of factors which may affect workplace performance.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss effective and positive verbal and non-verbal communication in the workplace.</p>
+          </indicator>
+          <indicator>
+            <p>Develop a resumé that can be forwarded to potential employers.</p>
+          </indicator>
+          <indicator>
+            <p>Practise effective interview techniques based on established guidelines (e.g., the greeting, the exchange, and the parting).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 28A</identifier>
+        <outcome_text labeled="true">Gain experience in the world of work in the construction and carpentry industry to make informed career choices by expanding career research and exploration beyond the classroom.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Develop an awareness of career opportunities in Saskatchewan and beyond.</p>
+          </indicator>
+          <indicator>
+            <p>Gain an opportunity to develop entry-level workplace skills that may lead to sustainable employment in the construction and carpentry industry.</p>
+          </indicator>
+          <indicator>
+            <p>Establish standards of work performance acceptable to the student and employer.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and report on essential skills and employability skills as they relate to a work environment.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 29A</identifier>
+        <outcome_text labeled="true">Reflect and report on the work experience including, but not limited to, hours of work, personal relationships, employer expectations, evaluation criteria, and overall personal performance.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Design and participate in an exit interview with the workplace.</p>
+          </indicator>
+          <indicator>
+            <p>Prepare and present a report on the work study experience including aspects such as: expected hours of workdress codejob descriptionemployer expectationsemployer evaluation processabsent and late policiespersonal relationshipsproblem solving.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>Module 99B</identifier>
+        <outcome_text>The Extended Study module is designed to provide schools and teachers with an opportunity to meet current and future demands not provided for in current modules in the Construction and Carpentry curriculum.</outcome_text>
+        <outcome_note>Note: The Extended Study module may be used only once in each 100 hour course. In the Student Data System, record 99A for the first Extended Study module offered in the course series, and, if needed, 99B for the second and 99C for the third.</outcome_note>
+        <indicators>
+          <indicator>
+            <p>Module Overview: Evolving societal and personal needs, advances in technology, and demands to solve current problems require a flexible curriculum that can accommodate new ways and means to support learning in the future. The Extended Study module is designed to provide schools and teachers with an opportunity to meet current and future demands not provided for in current modules in the Construction and Carpentry curriculum. This flexibility allows a school or teacher to design one new module per credit to complement or extend the study of the core and optional modules to meet the specific needs of students or the community. The Extended Study module is designed to extend the content of the pure courses and to offer survey course modules beyond the scope of the available selection of the Construction and Carpentry modules. The list of possibilities for topics of study or projects for an extended study is as varied as the imagination of those using the module. The optional Extended Study Module guidelines should be used to strengthen the knowledge, skills, and processes advocated in the Construction and Carpentry curriculum.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

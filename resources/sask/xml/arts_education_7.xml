@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181760_1</pdf>
+  <banner>arts/artseducation7.gif</banner>
+  <dark_colour>#0e6bb6</dark_colour>
+  <light_colour>#e7f0f8</light_colour>
+  <goals>arts/artseducation7-9aimsgoals.htm</goals>
+  <teaching>arts/artseducation7teaching.htm</teaching>
+  <curriculum_name>Arts Education 7</curriculum_name>
+  <classification_id>arts education 7</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Creative/Productive (CP)</goal_heading>
+      <outcome>
+        <identifier>CP7.1</identifier>
+        <outcome_text>Create dance compositions that express ideas about the importance of place (e.g., relationships to the land, local geology, region, urban/rural environments).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use inquiry in dance to extend understanding of place (e.g., examine historical relationships of people to the land in Saskatchewan):Generate key questions to guide inquiry in dance (e.g., How could we represent through dance the relationships between people and the prairie landscape or the difference between urban and rural environments?).Summarize and focus knowledge of topic to determine information needs.Generate additional relevant questions for exploration.Prepare and use a plan to access the Internet and other sources (e.g., print, digital, community) to gather ideas for dance-making.Use the dance-making process to explore the central questions and ideas (e.g., How can we show through movement the vastness of the prairie spaces or the migration of peoples?).Expand on dance and movement ideas in reflective records such as journals, blogs, and video or audio recordings.Keep a record of dance phrases using invented and/or traditional notation symbols, and video where possible, to explore, record, and reconstruct movements.Reflect, analyze, and make connections between the original topic or inquiry question and subsequent dance explorations.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how a single idea can be developed in many ways and directions (e.g., How many different ways can we represent in movement a sense of community within an isolated landscape?).</p>
+          </indicator>
+          <indicator>
+            <p>Recognize valuable accidents in exploration and put them to use when appropriate.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate self-awareness in decision making about own movement selections.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on how movement, dance elements, and principles of composition can be organized to convey meaning in dance (e.g., What message or ideas does our dance communicate about our sense of place in Saskatchewan?).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP7.2</identifier>
+        <outcome_text>Investigate and manipulate the elements of dance and principles of composition including tension and resolution.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate and demonstrate ways of creating tension and resolution using the elements of actions, body, relationships, dynamics, and space.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze, discuss, and explore through movement, the principles of tension and resolution in dance.</p>
+          </indicator>
+          <indicator>
+            <p>Use inquiry to investigate questions about relationships among the elements of dance and principles of tension and resolution:Generate questions about the elements of dance and principles of tension and resolution to guide inquiry (How can we build a feeling of tension using the elements of dynamics and shape? How could we use the principles of tension and resolution in a composition about relationships between people and the land?).</p>
+          </indicator>
+          <indicator>
+            <p>Identify ways that dances begin, build toward something, and come to resolutions during specific sections or within the dance as a whole.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and demonstrate ways that tension can function as a highlight or turning-point in a dance.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate and demonstrate ways that resolution resolves or settles sections within the dance or the dance as a whole.</p>
+          </indicator>
+          <indicator>
+            <p>View and analyze own and peers’ dance compositions for application of dance elements and tension and resolution.</p>
+          </indicator>
+          <indicator>
+            <p>Use the elements and principles expressively in dance.</p>
+          </indicator>
+          <indicator>
+            <p>Practice sustaining and controlling energy.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and apply biomechanical concepts and principles of balance, stability, spin, and rotation (see grade 7 physical education curriculum outcome 7.6) during warm-ups and dance compositions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP7.3</identifier>
+        <outcome_text>Create and refine transitions within choreographic forms (e.g., ABBA, narrative).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Sequence movements purposefully to support transitions when creating and combining dance phrases.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate clarity of transitions between dance phrases.</p>
+          </indicator>
+          <indicator>
+            <p>Develop and refine transitions using reflection, decision making, and movement problem solving.</p>
+          </indicator>
+          <indicator>
+            <p>Create dance transitions for various forms such as binary (AB), ternary (ABA), theme and variations, narrative, collage, chance, and organic.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how the whole body contributes to focus that can be inward or outward during movement phrases and transitions.</p>
+          </indicator>
+          <indicator>
+            <p>Repeat movement phrases and transitions of increasing difficulty with accuracy.</p>
+          </indicator>
+          <indicator>
+            <p>Take risks and solve dance problems in new ways.</p>
+          </indicator>
+          <indicator>
+            <p>Extend body’s range of movement, strength, and balance with attention paid to correct alignment and clarity of action.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP7.4</identifier>
+        <outcome_text>Investigate how dramatic character develops from role.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate confidence and imagination when working in various roles.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate when in role how character may be expressed through actions.</p>
+          </indicator>
+          <indicator>
+            <p>Use language with purpose to develop character and achieve dramatic intent when speaking and writing in role.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss own roles and analyze contributions to the work.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate when in role how characters use actions or interact with others for different purposes.</p>
+          </indicator>
+          <indicator>
+            <p>Revise work based upon reflection and critical analysis of the role and character.</p>
+          </indicator>
+          <indicator>
+            <p>Identify how roles and drama work can contribute to deeper understanding of self and others.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP7.5</identifier>
+        <outcome_text>Use drama elements, strategies, negotiation, and collaboration to help shape the direction of the drama and/or collective creation.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Contribute to the choice and use of drama strategies such as tableau, tapping in, writing in role, improvisation, and a variety of others to achieve purpose.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate the many possibilities for structure and direction of dramatic works.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that co-operative effort is essential to satisfaction in drama and collaborate with others to help direct the course of the drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Negotiate, accept the ideas of others, and work toward consensus in dramatic work.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and discuss the importance of focus to successful drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and discuss the presence of tension and contrast in own drama work.</p>
+          </indicator>
+          <indicator>
+            <p>Identify the objects or events in drama work that function as symbols.</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on and describe the contributions and the work of each group member.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how drama work helps to develop a deeper understanding of communication and interdependence.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP7.6</identifier>
+        <outcome_text>Express ideas about the importance of place (e.g., relationships to the land, local geology, region, urban/rural environments) in drama and/or collective creation.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use inquiry in drama to extend understanding about the importance of place in peoples’ lives:Generate questions to guide inquiry about the concept of place (e.g., What if we traveled back in time to observe the signing of the Treaties? What if urban youth were given control of city planning for one year? What is unique about being from, or living in, Saskatchewan?).Prepare and use a plan to access the Internet and other sources (e.g., print, digital, community) to research and gain information and ideas that will contribute to the authenticity and significance of the drama.</p>
+          </indicator>
+          <indicator>
+            <p>Collaborate with others to manipulate tension, focus, contract, and symbol to express ideas about the importance of place in peoples’ lives.</p>
+          </indicator>
+          <indicator>
+            <p>Pose questions about the work for purposes of reflection and further development of the drama (Is our drama capturing the time and place of living in the 1800s in Saskatchewan?).</p>
+          </indicator>
+          <indicator>
+            <p>Discuss conflicts that may have arisen during the work and how these conflicts were resolved.</p>
+          </indicator>
+          <indicator>
+            <p>Recall and express responses to the work using a variety of reflective strategies such as ‘hot seating’, ‘marking the moment’, or ‘walls have ears’.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how dramas and collective creations relate to own lives, cultures, and society.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP7.7</identifier>
+        <outcome_text>Investigate improvisation using the voice, instruments, and a wide variety of sound sources from the natural and constructed environment.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Sing and play accurately and expressively, and improvise individually and in groups, with voice and instruments.</p>
+          </indicator>
+          <indicator>
+            <p>Experiment with the voice and instruments by creating and imitating sounds and apply these discoveries in own work.</p>
+          </indicator>
+          <indicator>
+            <p>Maintain melodic and harmonic parts.</p>
+          </indicator>
+          <indicator>
+            <p>Experiment with ways that a single musical idea can be developed or evolve in many ways and directions.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and determine appropriate sound sources, forms, and processes for creating music expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate music from various places of the world, and analyze relationships among the instrument, the use of sound, and the place of origin (e.g., steel drums, sitar, didgeridoo, First Nations’ flutes).</p>
+          </indicator>
+          <indicator>
+            <p>Pose questions about sound to guide inquiry into the expressive and symbolic use of sound and silence.</p>
+          </indicator>
+          <indicator>
+            <p>Use sounds symbolically to convey a variety of ideas and meanings.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate sensitivity to the ways voices change with age and musical experiences.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish among diverse voice types, styles, and forms of vocal expression.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate appreciation for the acquisition of instrumental/vocal technical and improvisational skills and set goals to improve own skills.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP7.8</identifier>
+        <outcome_text>Investigate and manipulate elements of music and principles of composition including tension and resolution.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use inquiry in music to extend understanding of composition principles of tension and resolution:Pose questions to guide inquiry into how elements of music can be manipulated to create tension and resolution (e.g., How is rhythm used to create tension and resolution? How can dynamics be used to create tension and resolution? How can the elements be combined to create tension and resolution?).Conduct a collaborative inquiry and experiment with voice and instruments to explore the inquiry questions.Collaborate with peers to document the inquiry process (e.g., record on video).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how musicians and composers create principles of composition such as tension and resolution by manipulating the elements of music (i.e., rhythm, melody/pitch, dynamics, timbre/tone colour, texture).</p>
+          </indicator>
+          <indicator>
+            <p>Identify tension and resolution in own music and the music of others, and analyze how it is achieved.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how metre can be regular (123-123-123), irregular (12-12345-123), or alternating (12-123-12-123).</p>
+          </indicator>
+          <indicator>
+            <p>Use standard and invented notation to represent rhythmic and melodic patterns.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze ways of using the elements of music expressively in own compositions and other music.</p>
+          </indicator>
+          <indicator>
+            <p>Manipulate the elements to create tension and resolution and evaluate choices and results.</p>
+          </indicator>
+          <indicator>
+            <p>Describe the use of the elements using appropriate terminology.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the ability to collaborate with others to improve the quality of compositions and performances.</p>
+          </indicator>
+          <indicator>
+            <p>Keep an ongoing record of ideas and problem solving processes for own sound/music expressions, and recognize the value of doing so.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the intentions, problem-solving process, and interpretations of their own and others’ music expressions.</p>
+          </indicator>
+          <indicator>
+            <p>Examine how principles of composition connect and organize elements of music into cohesive works.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP7.9</identifier>
+        <outcome_text>Use traditional and/or homemade instruments to investigate relationships between musical expression and place (e.g., world music, African and Latin drumming, Indonesian gamelan, North American First Nations’ flutes, Caribbean steel bands, urban street culture).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use drums and other percussion instruments (traditional and/or homemade) to play world music rhythms (e.g., African and Latin rhythms).</p>
+          </indicator>
+          <indicator>
+            <p>Create various call and response patterns, follow a leader, and collaborate in percussion groups such as drum circles.</p>
+          </indicator>
+          <indicator>
+            <p>Play traditional world rhythms and notate using traditional and/or invented notation.</p>
+          </indicator>
+          <indicator>
+            <p>Create improvised rhythms using percussion instruments, or digital technologies where possible, and notate using traditional and/or invented notation.</p>
+          </indicator>
+          <indicator>
+            <p>Research using the Internet and other sources of information (e.g., books, CDs, local musicians) to investigate how musicians and composers are influenced by music from various parts of the world.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and describe how musicians and composers incorporate world music into contemporary work (e.g., STOMP).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate imaginative use of world rhythms in own sound compositions.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate ways that the elements of music are used expressively in different places of the world and apply this understanding to own work.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how music is a unique means of communication and recognize the importance of musical expression in various world locales.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP7.10</identifier>
+        <outcome_text>Create visual art works that express ideas about the importance of place (e.g., relationship to the land, local geology, region, urban/rural landscapes, and environment).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use inquiry in visual art to extend understanding of the importance of place (e.g., examine historical relationships of people to the land in Saskatchewan):Generate key questions to guide inquiry in visual art (e.g., How could we represent visually the uniqueness of the prairie landscape or the difference between urban and rural environments in Saskatchewan?).Summarize and focus knowledge of topic to determine information needs.Generate additional relevant questions for deeper exploration.Prepare and use a plan to access the Internet and other sources (e.g., print, digital, community) to gather ideas for visual art.Explore the central questions and ideas visually (e.g., How can we visually depict the vastness of the prairie spaces or the migration of peoples?).Expand on ideas in visual journals or other reflective records such as video.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and discuss connections between the original topic or inquiry question and subsequent visual art explorations.</p>
+          </indicator>
+          <indicator>
+            <p>Investigate how a single idea can be developed in many ways and directions (e.g., How many different ways could we represent visually a sense of community within an isolated prairie landscape?).</p>
+          </indicator>
+          <indicator>
+            <p>Reflect on how images, elements of art, and principles of composition can be organized to convey meaning in visual art (e.g., What message or ideas does our art work communicate about our sense of place in Saskatchewan?).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate awareness that artists are observant of their environment and often express ideas about the role and representation of place in their work.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that visual art is a means of personal exploration and communication, and appreciate the importance of visual expression.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP7.11</identifier>
+        <outcome_text>Investigate and use various visual art forms, images, and art-making processes to express ideas about place.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Select various visual art forms (e.g., comics, photography, sculpture, film) to express ideas about the students’ place (e.g., neighbourhood, the prairie, inner city).</p>
+          </indicator>
+          <indicator>
+            <p>Describe own decision-making processes, and discuss how essential they are to the creative process.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate awareness of various health and safety hazards and procedures in visual art (e.g., electric kiln safety).</p>
+          </indicator>
+          <indicator>
+            <p>Manipulate the elements of art, principles of design, images, and symbols to express ideas and communicate visually.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CP7.12</identifier>
+        <outcome_text>Use image-making skills, tools, techniques, and problem-solving abilities in a variety of visual art media.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate skillful use of a range of appropriate tools, technology, materials, and techniques.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate keen observations of detail, and represent unique features of individual people, animals, plants, and so on.</p>
+          </indicator>
+          <indicator>
+            <p>Depict people and objects using correct proportion.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and demonstrate understanding of the role of light and shadow in creating the illusion of form.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate how point-of-view can be manipulated.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate understanding of the concept of a vanishing point in linear perspective.</p>
+          </indicator>
+          <indicator>
+            <p>Explore relationships among shape, space, and form.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that scale may or may not be realistic.</p>
+          </indicator>
+          <indicator>
+            <p>Experiment with different ways of creating focal points or emphasis (e.g., size, contrast, outlining, repetition, isolating).</p>
+          </indicator>
+          <indicator>
+            <p>Describe own problem-solving processes and discuss explorations and comparisons of various media.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Critical/Responsive (CR)</goal_heading>
+      <outcome>
+        <identifier>CR7.1</identifier>
+        <outcome_text>Respond to professional dance, drama, music, and visual art works using analysis, personal interpretation, and research.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe, analyze, and interpret dance, drama, music, and visual art works.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate critical and creative thinking using one or more approaches such as those described in “Responding to Arts Expressions”.</p>
+          </indicator>
+          <indicator>
+            <p>Conduct research into the contexts within which selected arts expressions were created, and present findings in innovative ways (e.g., role drama, talk show from specific historical period, using presentation software).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR7.2</identifier>
+        <outcome_text>Investigate and identify ways that the arts can communicate a sense of place.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze and discuss the intentions, development, and interpretations of the concept of place as represented in own and peers’ art works.</p>
+          </indicator>
+          <indicator>
+            <p>Research, using the Internet and other sources, to investigate how some professional artists express a sense of place in their work.</p>
+          </indicator>
+          <indicator>
+            <p>Share research findings or documentation with others.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CR7.3</identifier>
+        <outcome_text>Examine and describe how arts expressions of various times and places reflect diverse experience, values, and beliefs.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Distinguish among diverse styles of visual art, dance, drama/theatre, music, and other forms of expression (e.g., film) from different cultural and historical contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Examine own and peers’ work as expressions of unique experiences, and personal values and beliefs, created within a particular time and place.</p>
+          </indicator>
+          <indicator>
+            <p>Examine and analyze diverse artistic representations and interpretations of place (e.g., relationships with the land and urban/rural environments) in the work of Saskatchewan artists including, for example, music, lyrics, First Nations’ drum groups and dances, Métis arts, heritage social dances, dramatic arts, landscape painters, architects, or site specific works.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Cultural/Historical (CH)</goal_heading>
+      <outcome>
+        <identifier>CH7.1</identifier>
+        <outcome_text>Investigate how artists’ relationship to place may be reflected in their work.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine arts expressions from around the world to determine how, and why, place is often represented or reflected in the work.</p>
+          </indicator>
+          <indicator>
+            <p>Describe ways that an artist’s place might be a source of inspiration in different arts disciplines (e.g., photography, music styles, architecture, theatre, heritage dances).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and describe contributions that artistic work makes to the individual and his or her place/community (e.g., commercial value, cultural value, functional value, expressive value).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CH7.2</identifier>
+        <outcome_text>Investigate how Indigenous artists from around the world reflect the importance of place (e.g., relationship to the land, geology, region, urban/rural environments).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research Indigenous artists from around the world to examine how their work conveys the importance of land, and share these insights with others.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze and interpret the work of Indigenous artists within its cultural and contemporary contexts.</p>
+          </indicator>
+          <indicator>
+            <p>Examine and compare how the land influences the choices made by Indigenous artists around the world (e.g., choice of medium and subject matter such as Haida totem carving, Dakota pipestone carving, Inca gold engraving).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate awareness of how contemporary Indigenous artists are influenced by place (e.g., hip hop and graffiti artists who use the urban landscape as a space for expressing ideas).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>CH7.3</identifier>
+        <outcome_text>Investigate and identify a variety of factors that influence artists, their work, and careers.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research to determine various influences on the work and careers of selected Canadian artists.</p>
+          </indicator>
+          <indicator>
+            <p>Describe some of the entrepreneurship abilities (e.g., marketing, networking, risk taking, innovation, self-discipline, technological literacy, independent learning) required by artists in different disciplines.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze relationships among artistic work, the community, and the economy (e.g., What do artists and arts organizations contribute to the community?).</p>
+          </indicator>
+          <indicator>
+            <p>Examine work scenarios in the arts involving issues such as stereotyping, bias, and discrimination (e.g., stereotyping of male dancers, or males and females using non-traditional visual art materials) and discuss how these may limit opportunities.</p>
+          </indicator>
+          <indicator>
+            <p>Explain ways that technology is used by artists in dance, drama, music, visual art, and interdisciplinary creations.</p>
+          </indicator>
+          <indicator>
+            <p>Research and analyze new forms of technology used by contemporary artists to create and market their work.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

@@ -1,0 +1,507 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-181818_1</pdf>
+  <banner>physical/PE3.png</banner>
+  <dark_colour>#936fb1</dark_colour>
+  <light_colour>#e9e2ef</light_colour>
+  <goals>physical/physicaleducation1-5aimsgoals.htm</goals>
+  <teaching>physical/physicaleducation3teaching.htm</teaching>
+  <curriculum_name>Physical Education 3</curriculum_name>
+  <classification_id>physical education 3</classification_id>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Phsyical Education (PE)</goal_heading>
+      <goal>Goals: Active Living, Skillful Movement, Relationships</goal>
+      <outcome>
+        <identifier>PE3.1</identifier>
+        <outcome_text>Apply a repertoire of strategies for developing components of health-related fitness, (cardiovascular endurance, flexibility, muscular endurance, and muscular strength), through movement activities during scheduled times in school, at home, and in the community.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Record and reflect on personal participation in movement activities (e.g., at home, at school, in the community in a variety of environments) over a given period of time (e.g., a day, a week) to make conclusions about “How physically active am I?”.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why it is important to be physically active in school, at home, and in the community.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why (e.g., to improve the strength of the heart and the capacity of the lungs, as well as to support the strength of the mind and the spirit) the body needs to participate in sustained or intermittent vigorous movement activity (running, skipping, cycling, swimming, dancing, snowshoeing, cross-country skiing, games play) for at least 30 minutes a day.</p>
+          </indicator>
+          <indicator>
+            <p>Sustain participation in moderate to vigorous movement activities (e.g., walking, snowshoeing, running, paddling, skipping, cycling, swimming, dancing, parachute play) and lead-up games (e.g., tag games, follow the leader) that increase heart rate and respiration rate, for seven consecutive minutes on a consistent basis.</p>
+          </indicator>
+          <indicator>
+            <p>Self-initiate and engage in a variety of movement activities that challenge and support health-related fitness.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that both the heart and lungs are key body organs that are challenged positively when we participate in movement activities that improve our cardiovascular fitness.</p>
+          </indicator>
+          <indicator>
+            <p>Compare physical differences in the body’s response after participation in continuous cardiovascular endurance activity (e.g., running, cross-country skiing, dancing, parachute play) for different lengths of time (e.g., one minute, five minutes, eight minutes) to determine the cardiovascular benefits.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and engage in a variety of flexibility exercises, as identified by the teacher, that focus on flexibility of the large muscles (e.g., bicep, triceps, quadriceps, hamstring).</p>
+          </indicator>
+          <indicator>
+            <p>Self-initiate and incorporate dynamic stretching (see glossary) into warm-up for participation in moderate to vigorous activity.</p>
+          </indicator>
+          <indicator>
+            <p>Support, lift, and control own body weight in a variety of activities (e.g., balancing on hands, holding raised push-up position and other stable positions, imitating animal walks) and explain how these are beneficial for improving muscular endurance and muscular strength.</p>
+          </indicator>
+          <indicator>
+            <p>Engage, with guidance, in proper and engaging warm-up activities (e.g., light aerobic activity such as tag games and choreographed routines that include stretching exercises) that prepare the muscles for vigorous activities (e.g., increase blood circulation and elasticity of muscles and ligaments).</p>
+          </indicator>
+          <indicator>
+            <p>Identify a variety of self-determined fun movement activities that increase heart-lung capacity, and/or muscular endurance.</p>
+          </indicator>
+          <indicator>
+            <p>Recognize that many opportunities exist within local communities to support people to be active daily (e.g., clubs, teams, with friends at recess, at lunch hour, before/after school programs, and at home after school and on weekends).</p>
+          </indicator>
+          <indicator>
+            <p>Identify locations within local communities, both indoor and outdoor, where people can engage in movement activities (e.g., home, rink, park, yard, open field, fitness centre).</p>
+          </indicator>
+          <indicator>
+            <p>Explore, with guidance, and participate in “neighbourhood” (e.g., kick the can, capture the flag, ante-I-over) and “playground” games (e.g., snowsnakes, hopscotch, Chinese skipping, double ball, hide and seek, fox and geese) that involve moderate to vigorous physical movement.</p>
+          </indicator>
+          <indicator>
+            <p>Identify, record, and reflect on simple, realistic goals for increasing the amount and/or variety of personal participation in movement activities (e.g., playing actively as a group at recess, walking to school every day, joining an activity-based club, playing at the park with family).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE3.2</identifier>
+        <outcome_text>Evaluate the role of participation in movement activities in providing opportunities for enjoyment, challenge, self-expression, social interaction, increased skill competency, stress reduction, active work life, use of leisure time, contact with nature, and involvement in communities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explain how participation in movement activities can help one grow as a creative thinker, a performer, a problem solver, and a person with confidence.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate own initiative and commitment to staying involved in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Explain why it is important to set goals (e.g., personal challenges, improved health, improved skill, reduced level of stress) for maintaining and/or increasing level of participation in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Discuss the benefits of participating in a variety of activities (e.g., team sports – social interaction; yoga – stress reduction; educational gymnastics – injury prevention; aerobic exercise – strengthen heart and lungs).</p>
+          </indicator>
+          <indicator>
+            <p>Express insights to answer questions such as “Can being physically active support us in being a better community member?”, “What do we need in order to be physically active?”, and “Should we spend more time outside?”.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between jobs that often require a high level of physical activity (e.g., hunter/trapper, construction worker, dancer, nurse) and those that do not (e.g., secretary, computer analyst, bus driver).</p>
+          </indicator>
+          <indicator>
+            <p>Share a story of family members and/or local community members whose work lives keep them physically active.</p>
+          </indicator>
+          <indicator>
+            <p>Determine what people whose work life does not keep them physically active might have to do in order to be active (e.g., plan a time to exercise each day, join a sports team or club).</p>
+          </indicator>
+          <indicator>
+            <p>Express insights on personal factors (e.g., interests, personal success, worldviews, previous experiences, activity likes and dislikes, culture, developmental rates, community opportunities) as well as home and community opportunities that influence self-confidence related to participation in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the ‘completeness’ of a self-created list of movement activities participated in alone, with friends, and with family, for promoting physical, emotional, mental, and spiritual well-being.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE3.3</identifier>
+        <outcome_text>Express and apply, with guidance, a variety of ways to skillfully move the body through space while participating in movement activities, including at a:utilization level of skill when:jumping backward and landinghopping (body moves on one foot as in right foot to right foot)skipping (combines a step and a hop)leaping (body ‘takes off’ from one foot, propels through air for distance, then lands on the opposite foot)sliding (one foot steps, body propels upward, other foot moves to meet the first foot)galloping (one foot steps, body propels upward, other foot moves to meet the first foot)rolling forward (see note)rolling sidewayscontrol level of skill when: rolling backward (see note on page 34).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use performance words (e.g., “land on lead foot”, “stay tucked”, “swing arms through large arc”) to demonstrate understanding of performance cues language connected to skillful locomotor movement.</p>
+          </indicator>
+          <indicator>
+            <p>Say performance cues (think-aloud) while rolling backwards.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how the body will move when in control of rolling backward skillfully and safely (see note on page 34).</p>
+          </indicator>
+          <outer_text>
+            <b>Utilization Level of Skill:</b>
+          </outer_text>
+          <indicator>
+            <p>Jump backward for height, stretching high in the air, and landing softly and safely in control, maintaining balance on the landing.</p>
+          </indicator>
+          <indicator>
+            <p>Jump backward and land in control repeatedly, increasing speed and control over time.</p>
+          </indicator>
+          <indicator>
+            <p>Jump and land in patterns of movement (e.g., backward, forward, sideways right, sideways left, backward, repeat).</p>
+          </indicator>
+          <indicator>
+            <p>Hop on right foot at least four times and then on left foot at least four times while changing directions by rotating along the vertical axis (e.g., quarter turns, half turns), moving forward and then backward, moving side to side, maintaining balance; continuing to alternate four times on each foot until given the signal to stop.</p>
+          </indicator>
+          <indicator>
+            <p>Hop on one foot in-out and/or over a series of obstacles (e.g., hoops on floor, raised hoop supported by boxes, low beam, tires).</p>
+          </indicator>
+          <indicator>
+            <p>Skip forward, alternating lead foot, while moving in unison with a partner.</p>
+          </indicator>
+          <indicator>
+            <p>Gallop through general space with right foot leading; on signal switch to left foot leading and continue to gallop until given the signal to stop.</p>
+          </indicator>
+          <indicator>
+            <p>Leap upward, after running forward, landing in control and continue running to leap again, alternating take-off foot.</p>
+          </indicator>
+          <indicator>
+            <p>Slide step sideways for a given number of steps and then slide step the opposite direction for a given number of steps, while mirroring a partner.</p>
+          </indicator>
+          <indicator>
+            <p>Transfer weight from two feet to two hands, kicking feet upward, momentarily taking weight on hands only, and back to feet, landing in control with a soft landing.</p>
+          </indicator>
+          <indicator>
+            <p>Roll forward smoothly, starting and ending in a standing straddle position.</p>
+          </indicator>
+          <indicator>
+            <p>Roll forward two times in a row, starting in a standing position and ending in a standing position transitioning smoothly from one roll to the next.</p>
+          </indicator>
+          <indicator>
+            <p>Roll forward ending in a standing position after jumping off a slightly raised object (e.g., benches, steps), landing in control then transitioning smoothly into the roll.</p>
+          </indicator>
+          <indicator>
+            <p>Create and present a sequence of forward and sideways rolls, demonstrating smooth transitions and safe, soft landings.</p>
+          </indicator>
+          <indicator>
+            <p>Avoid contact with others when utilizing locomotor skills.</p>
+          </indicator>
+          <outer_text>
+            <b>Control Level of Skill</b>
+          </outer_text>
+          <indicator>
+            <p>Roll in a backward direction starting in a standing position, bringing hands to ears while bending knees and lowering through to a seated tuck with back rounded and chin to chest; then placing hands on the floor by the shoulders with palms down and fingers pointing towards shoulders; staying tucked, lifting hips and pushing with the hands against the mat; then extending arms to keep weight off the neck and head while remaining tucked; when feet touch the floor, extending legs and then standing up.</p>
+          </indicator>
+          <outer_text>Grade Two - How to roll forward in control:</outer_text>
+          <outer_text>Roll forward with hands and arms receiving body weight evenly at the beginning of roll, keeping chin tucked to chest, sliding head through, with it lightly touching the floor so neck does not bear weight, shifting weight from arms to shoulders, lifting arms off mat as shoulders touch the mat, shifting weight onto a curved back, and keeping body curled as weight moves to feet.</outer_text>
+          <outer_text>NOTE: Rolling is a safety skill that supports future participation in various movement activities. Grade three students must be reminded of how to protect their necks when rolling forward. They need to be taught how to roll backwards safely (see indicator ‘s’). Descriptors of how to roll forward safely are provided here as they appear in the Grade 2 curriculum.</outer_text>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE3.4</identifier>
+        <outcome_text>Explore, express, and apply, with guidance, a variety of ways to skillfully move the body on the spot when participating in movement activities, including at a:utilization level of skill when: landing on hands from kneeling positionrotating on the spotcontrol level of skill when: landing on hands from a bent knee standing position.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Use performance words (e.g., “arms straight out to the side”, “chin up”, “feet tight together”) to demonstrate understanding of performance cues language connected to skillful non-locomotor movement.</p>
+          </indicator>
+          <indicator>
+            <p>Say performance cues (think-aloud) while landing on hands from a bent knee standing position.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how the body will move skillfully and safely when landing on hands from a bent knee standing position.</p>
+          </indicator>
+          <outer_text>
+            <b>Utilization Level of Skill</b>
+          </outer_text>
+          <indicator>
+            <p>Land on hands onto a mat, from a kneeling position, in response to a variety of challenges (e.g., while being ‘pushed’ by a partner, in a ‘wave’ pattern with classmates, in unison with a partner, “fall, land, and immediately rise back up”).</p>
+          </indicator>
+          <indicator>
+            <p>Incorporate landings on hands into sequences of movements.</p>
+          </indicator>
+          <indicator>
+            <p>Rotate on the spot (turn) in a variety of ways (e.g., in a squatting position, with arms above head, in one direction and then in the other direction, on one foot), on raised surfaces (e.g., stacked mats, bench, low beam), and while holding objects (e.g., hoops, balls, scarves).</p>
+          </indicator>
+          <outer_text>
+            <b>Control Level of Skill</b>
+          </outer_text>
+          <indicator>
+            <p>Land on hands by falling forward onto a mat, from a bent knee standing position, with finger tips then heels of hands contacting the surface, elbows gradually bending slightly away from the body, and lowering self with very little sound as the body contacts the surface.</p>
+          </indicator>
+          <indicator>
+            <p>Land on hands by falling backward onto a mat, from a bent knee standing position, making sure to slowly absorb the impact by reaching back with fingertips of hands facing forward, and bending elbows once hands contact the surface, keeping chin tucked to chest, lowering body weight, and rocking backward on</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE3.5</identifier>
+        <outcome_text>Explore, express, and apply, with guidance, a variety of ways to skillfully move objects while participating in movement activities, including at a:utilization level of skill when: throwingcatching (collecting, gathering)kickingcontrol level of skill when:hand dribblingfoot dribblingstriking objects with handsstriking objects with short-handled implements (e.g., short-handled racquets, paddles)progressing-towards-control level of skill when: volleying (to send an object in the air before it comes to rest)striking objects with long-handled implements (e.g., bats, golf clubs, hockey sticks).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explore and discuss a variety of ways to volley balloons and lightweight balls with hands and with various body parts (e.g., with two hands over head, with two hands underhand, with head, with inside of right foot, with inside of left foot) to determine how the body movement changes when volleying in different ways.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and propose how the body positioning and movement changes to strike different objects using various long-handled implements [e.g., shuttlecocks (badminton birdies), whiffle balls, foam balls, tennis balls; tennis racquet, bat, badminton racquet]; holding with one hand, with two hands, underhand, overhead.</p>
+          </indicator>
+          <indicator>
+            <p>Use performance words (e.g., “head up looking forward”, “ball out in front”, “step forward”, “backswing”, “follow through”) to demonstrate understanding of performance cues language associated with skillful sending and receiving of objects.</p>
+          </indicator>
+          <indicator>
+            <p>Say performance cues (think-aloud) while performing hand dribbling, foot dribbling, striking objects with hands, striking objects with short-handled implements, volleying, and striking objects with long-handled implements.</p>
+          </indicator>
+          <indicator>
+            <p>Describe how the body will move in control while hand dribbling, foot dribbling, striking objects with hands, and striking objects with short-handled implements skillfully and safely.</p>
+          </indicator>
+          <outer_text>
+            <b>Utilization Level of Skill</b>
+          </outer_text>
+          <indicator>
+            <p>Throw (toss) and catch with hands, maintaining control, a variety of objects (e.g., bean bags, hoops) and different sized and shaped balls, with different combinations of movement (stationary thrower to stationary receiver, stationary thrower to moving receiver, moving thrower to stationary receiver, and moving thrower to moving receiver).</p>
+          </indicator>
+          <indicator>
+            <p>Throw and catch objects that rebound off a surface (e.g., off the floor, off a wall).</p>
+          </indicator>
+          <indicator>
+            <p>Throw a ball at a target, such as a net, while body is in the air (jumping).</p>
+          </indicator>
+          <indicator>
+            <p>Throw a frisbee to a stationary target, such as a partner.</p>
+          </indicator>
+          <indicator>
+            <p>Catch objects thrown to different levels, both with the hands and with implements such as a scoop.</p>
+          </indicator>
+          <indicator>
+            <p>Catch small objects with one hand utilizing both the right hand and the left hand.</p>
+          </indicator>
+          <indicator>
+            <p>Pass (send) and receive soccer balls with different combinations of movement (stationary sender to stationary receiver and stationary sender to moving receiver, and progressing towards moving sender to stationary receiver, and moving sender to moving receiver).</p>
+          </indicator>
+          <indicator>
+            <p>Kick a ball at a target, such as a net, using a running approach towards a stationary ball.</p>
+          </indicator>
+          <indicator>
+            <p>Kick a ball that is stationary on the ground and raise it so it travels through the air to a partner.</p>
+          </indicator>
+          <outer_text>
+            <b>Control Level of Skill</b>
+          </outer_text>
+          <indicator>
+            <p>Self-assess ability to control manipulative skills such as throwing, catching, and kicking, to move as many balls as possible in a given amount of time (e.g., throw and catch with a partner, counting successful completions; kick a line-up of balls at a target, counting number of kicks).</p>
+          </indicator>
+          <indicator>
+            <p>Dribble on the spot with one hand using the pads of the fingers to make contact on top of the ball and holding wrist firm yet flexible; bending knees slightly and keeping back straight as if sitting down a little; positioning feet with foot opposite to dribbling hand forward; holding head up looking for open spaces in the direction of potential travel.</p>
+          </indicator>
+          <indicator>
+            <p>Dribble with one hand through general space without losing control while keeping the hand on top of the ball and keeping the ball a little in front and to the side of the body.</p>
+          </indicator>
+          <indicator>
+            <p>Dribble with feet by gently tapping the ball with the inside of the foot – left and right – so that it stays within one metre of the body at all times, holding head up looking for open spaces in the direction of potential travel, and trapping the ball to stop movement by placing a foot on top and slightly behind the ball to stop the dribble.</p>
+          </indicator>
+          <indicator>
+            <p>Dribble with feet around stationary objects (e.g., pylons) while moving slowly.</p>
+          </indicator>
+          <indicator>
+            <p>Strike a ball forward with one hand by holding the ball in the non-striking hand, positioning feet with foot opposite to striking hand forward, hitting arm swings backward with weight shifting backward at the same time, swinging arm forward with weight shifting forward and upper body leaning forward slightly from the waist, striking the ball from underneath with an open palm, contacting the ball out in front of the hips, extending the body motion forward and following through with the striking arm towards the target.</p>
+          </indicator>
+          <indicator>
+            <p>Strike a small ball (e.g., low-bounce tennis ball, foam ball) with a short-handled paddle repeatedly upwards holding the paddle level and the wrist stiff, keeping eyes on the object at all times, focusing on a consistent contact point, and following through upward slightly.</p>
+          </indicator>
+          <indicator>
+            <p>Strike a self-dropped foam ball or low-bounce tennis ball, with a short-handled paddle by starting with the paddle back behind the hip, stepping forward with the foot opposite to paddle hand, swinging paddle forward watching the object at all times, slanting paddle slightly upwards, making contact slightly in front of the body, and following through towards a target.</p>
+          </indicator>
+          <outer_text>
+            <b>Progressing-towards-control Level of Skill</b>
+          </outer_text>
+          <indicator>
+            <p>Explore and practise volleying a balloon, beach ball, or soft touch ball to self in the air repeatedly using a variety of body parts (e.g., hands, arms, head, knees) while trying to remain in personal space.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and practise striking stationary objects (e.g., bean bags, foam/plastic balls, tennis balls, plastic/foam pucks) at large targets using a plastic bat, hockey stick, and/or plastic golf club.</p>
+          </indicator>
+          <indicator>
+            <p>Explore and practise striking shuttlecocks (badminton birdies) and tennis balls, using long-handled racquets.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE3.6</identifier>
+        <outcome_text>Apply movement variables of:extensions in spacea focus on effort (time/speed, force, flow)relationships with objects and others</outcome_text>
+        <outcome_text>to increase complex movement skills and sequences while participating in body management activities (including dance and educational gymnastics, and others such as yoga,</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Jump repeatedly a self-turned rope while trying to initiate various movement patterns (e.g., one foot, two feet close together, two feet wide apart, alternating one foot then two feet, increasing and/or decreasing effort and the use of space).</p>
+          </indicator>
+          <indicator>
+            <p>Run and jump (one-foot take-off, two-foot landing) in sand, on mats, and/or on grass; record measured distances and compare results of personal performances over time.</p>
+          </indicator>
+          <indicator>
+            <p>Run and jump over slightly raised objects such as benches, mats, and high jump bars, varying take-off (e.g., one-foot, two-foot) and landing (e.g., one-foot, two-foot).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the ability to change directions, pathways, and body positions quickly and appropriately by participating in chasing, fleeing, and deking activities.</p>
+          </indicator>
+          <indicator>
+            <p>Identify adjustments needed to improve skillful performance in jumping and landing skills by viewing a demonstration (e.g., teacher, student) using correct performance cues language (e.g., swing the arms upward to get more lift; flex hips, knees, and ankles to absorb shock of landing) to improve performance.</p>
+          </indicator>
+          <indicator>
+            <p>Spring on and off raised objects (e.g., benches, steps) and vary position of body while in flight (in the air) and land in a stable position.</p>
+          </indicator>
+          <indicator>
+            <p>Balance objects (e.g., beanbags, balls) using different body parts (e.g., head, shoulder, hand, foot) while traveling alone and with a partner.</p>
+          </indicator>
+          <indicator>
+            <p>Design and demonstrate, with a partner, a variety of statues (balances) of different shapes, with one person bearing some or all of the weight of the partner, while focusing on being as stable as possible.</p>
+          </indicator>
+          <indicator>
+            <p>Design and demonstrate, with a partner, a variety of stable shapes that replicate 3-D objects/forms.</p>
+          </indicator>
+          <indicator>
+            <p>Create and perform a sequence of balances that demonstrate a given variety of bases of support (e.g., one foot, one foot and one hand) while remaining on a raised object (e.g., bench, low beam, crate), starting with a jump to a mount position and ending with a dismount landing in control on two feet.</p>
+          </indicator>
+          <indicator>
+            <p>Identify adjustments (e.g., lower the centre of gravity, free body parts need to be extended for stability) needed, using performance cues language, to improve performance in teacher and/or classmate demonstrated balances.</p>
+          </indicator>
+          <indicator>
+            <p>Apply movement vocabulary (e.g., hop, spin, deke, dodge, counter-clockwise) when involved in simple movement activities (e.g., obstacle course, tag games, movement sequences).</p>
+          </indicator>
+          <indicator>
+            <p>Respond physically and verbally to questions such as “How can we take up as much space as possible when standing in one spot?”, “What does it mean to get into the open space?”, and “How can we create space?”.</p>
+          </indicator>
+          <indicator>
+            <p>Create and perform a sequence of at least five movements (balances, springs, rotations, landings) with smooth flow, and variations in traveling speed between movements, to cover a given space while manipulating one object (e.g., ball, rope, scarf).</p>
+          </indicator>
+          <indicator>
+            <p>Show an understanding of mirroring and matching movements of partners in stationary positions and while moving (e.g., follow-the-leader).</p>
+          </indicator>
+          <indicator>
+            <p>Move for a sustained period of time (building towards seven minutes) while participating in rhythmic activities such as running to the beat of a drum or dancing to music with a fast beat.</p>
+          </indicator>
+          <indicator>
+            <p>Perform simple rhythmic actions to songs using given criteria (e.g., move only arms and flow smoothly to the beat of the music; move in a forceful and jerky manner as you move throughout general space).</p>
+          </indicator>
+          <indicator>
+            <p>Imitate, copy, follow, mirror, and shadow dance steps and movements to form sequences and dances as selected by the teacher (e.g., square dance, hand jive).</p>
+          </indicator>
+          <indicator>
+            <p>Create patterns of movement to rhythms (e.g., slow, moderate, fast, three counts, four counts) heard in music from a variety of cultures.</p>
+          </indicator>
+          <indicator>
+            <p>Move rhythmically to established counted rhythms as used in various dances such as the square dance from various cultures, the Oklahoma Two Step from First Nations culture, and La Danse du Crochet from the Métis culture (Note: Physical participation in First Nations and Métis dances should occur after the spirit and intent of these dances have been taught in Arts Education through Outcome CH3.2).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE3.7</identifier>
+        <outcome_text>Select and use effective movement skills, tactics, and strategies while participating in:low-organizational, inventive, and cooperative games (e.g., tag games, relay races, fox and geese, prisoner’s base)small-sided and lead-up target games (e.g., bowling, curling, ring or hoop toss, bocce ball)small-sided and lead-up striking/fielding games (e.g., kickball, long ball)small-sided and lead-up invasion/territorial games (e.g., two-on-two, three-on-three games using skills from games such as soccer, basketball, touch football)alternate environment activities (e.g., hiking, cross-country skiing, orienteering, aquatics, snowshoeing, canoeing, skating, tobogganing, cycling).</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the main intention of games (e.g., target games – to send away an object and make contact with a specific stationary target in fewer attempts or with more accuracy than the opponent; striking/fielding games – to place a ball away from fielders in order to run to bases and score more runs than opponents; invasion/territorial games – invading, getting possession, keeping possession, scoring on opponents’ goal) and suggest how these affect strategies used.</p>
+          </indicator>
+          <indicator>
+            <p>Cooperatively design, explain, and manage a team game involving given criteria (e.g., must include at least one target, at least two pieces of equipment, some vigorous movement, and a goal) to be played by classmates.</p>
+          </indicator>
+          <indicator>
+            <p>Identify and apply effective tactics to use in various games (e.g., striking games – placement of object, coverage of field; net games – positioning, placement of object; invasion games – moving to the open spaces when not in possession of the object).</p>
+          </indicator>
+          <indicator>
+            <p>Explain and apply tactics and simple rules used in low-organizational and cooperative games (e.g., tag games, prisoner’s base, bombardment).</p>
+          </indicator>
+          <indicator>
+            <p>Explain and apply tactics and simple rules used in lead-up games and activities that would be fun and easily played during recess and other activity breaks (e.g., four-square, hopscotch, fox and geese, snowsnakes, tag games).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate controlled body movement when participating in activities that involve chasing, fleeing, and dodging others, and avoiding objects like pylons (Note: Dodge ball games are not recommended).</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate effective selection of movement skills and correct application of performance cues (e.g., look at target, move into open spaces, visually track object) in throwing and catching type games (e.g., keep away, person-in-the-middle).</p>
+          </indicator>
+          <indicator>
+            <p>Respond physically and correctly to movement vocabulary verbalized by the teacher (e.g., run to the North, turn in the direction that the sun sets, glide on two feet, frog kick with your legs).</p>
+          </indicator>
+          <indicator>
+            <p>Follow given directions and/or symbols to perform cooperative team tactics in specified situations (e.g., indoor kickball – spread out to cover the open spaces when team is on defense; orienteering race – follow a map to locate items to be gathered and return to a starting point).</p>
+          </indicator>
+          <indicator>
+            <p>Identify and practise, with guidance, skills and strategies used in alternate environment activities including outdoor pursuits (e.g., skating: proper skating posture, push and glide, forward stops, forward skating manoeuvres; swimming: basic backstroke, crawl stroke and breathing; orienteering: basic map reading).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE3.8</identifier>
+        <outcome_text>Demonstrate positive interactions with others in cooperative and competitive movement activities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Respond positively to challenges, successes, and losses while participating in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Participate willingly and respectfully in all physical education activities.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the ability to be responsible for own social behaviours while participating in interactive movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Express insights as to how positive and negative social behaviours (e.g., sharing, showing respect, fairness, honesty, cheating, lying) may affect the outcome of an activity and future social interaction, both during movement activities and at other times.</p>
+          </indicator>
+          <indicator>
+            <p>Describe what it looks like and sounds like when people are cooperating during participation in competitive movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Distinguish between compliance and non-compliance with rules and guidelines of games.</p>
+          </indicator>
+          <indicator>
+            <p>Express insights to answer questions such as “Why do we play games?”, “Why do games have rules?”, “When should the score matter?”, “Is there any point in competing if we do not keep score?”, and “When is it important to win a game?”.</p>
+          </indicator>
+          <indicator>
+            <p>Demonstrate the ability to win graciously and to accept defeat positively.</p>
+          </indicator>
+          <indicator>
+            <p>Provide input into establishing rules and guidelines for behaviour for participation in cooperative and competitive movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Celebrate personal successes and achievements as well as those of others.</p>
+          </indicator>
+          <indicator>
+            <p>Work and play cooperatively with peers, both as teammates and opponents.</p>
+          </indicator>
+          <indicator>
+            <p>Explain how personal attitudes (e.g., willingness to try, level of involvement, desire to learn) affect skill development and enjoyment of self and others.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE3.9</identifier>
+        <outcome_text>Evaluate personal commitment to assessing risk factors and applying safe practices while participating in a variety of movement activities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Demonstrate and explain appropriate body control and safe movement during participation in movement activities (e.g., body alignment during lifting, carrying, pushing, and pulling).</p>
+          </indicator>
+          <indicator>
+            <p>Analyze the safety benefits and risks associated with participation in specific movement activities (e.g., body management activities – landings and rotations; games – physical contact with other people).</p>
+          </indicator>
+          <indicator>
+            <p>Propose and practise preventative solutions to potential risks associated with participation in specified movement activities (e.g., body management activities – protecting neck when rolling; target games – pinching fingers between bowling balls; striking/fielding games – being hit by a long-handed implement; invasion/territorial games – tripping over another group’s ball).</p>
+          </indicator>
+          <indicator>
+            <p>Determine safety provisions (e.g., band-aids, tweezers, sling) needed in case of possible injury or illness (e.g., cuts, burns, heat exhaustion, allergies) that can occur during participation in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Evaluate own approach to safe participation in a variety of movement activities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>PE3.10</identifier>
+        <outcome_text>Demonstrate, verbally and non-verbally, consideration and respect for all others (regardless of ideas, abilities, worldviews, physical characteristics, cultural backgrounds, or gender) while participating in physical education activities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Discuss effective ways to maintain harmony and positive physical interactions while participating in movement activities with one other person, and with many other people.</p>
+          </indicator>
+          <indicator>
+            <p>Self-initiate the use of strategies for resolving conflict (e.g., appropriate non-verbal communication, respecting personal space, maintaining a calm voice) that may occur while participating in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Role play positive ways to resolve conflicts (e.g., appropriate non-verbal communication, respecting personal space, maintaining a calm voice) that occur while participating in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Initiate inclusion of, and/or willingly include, all others in participation in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Engage positively with maximum effort while respecting the abilities of others when participating in movement activities.</p>
+          </indicator>
+          <indicator>
+            <p>Listen to and incorporate the ideas of others into game play activities.</p>
+          </indicator>
+          <indicator>
+            <p>Create and implement adaptations to movement activities that will support peers with physical limitations to participate fully.</p>
+          </indicator>
+          <indicator>
+            <p>Create and implement adaptations (e.g., everyone must touch the ball before a team can score; when the ball is dropped, it can be picked up to start over) to movement activities that will ensure that all classmates (regardless of skill level or gender) are equally included.</p>
+          </indicator>
+          <indicator>
+            <p>Share a story of cultural movement experiences.</p>
+          </indicator>
+          <indicator>
+            <p>Use language that reflects consideration for all others while participating in movement activities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

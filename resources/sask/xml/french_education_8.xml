@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <dark_colour>#008164</dark_colour>
+  <light_colour>#e6f3f0</light_colour>
+  <pdf>https://www.edonline.sk.ca/bbcswebdav/xid-199479_1</pdf>
+  <banner>corefrench/Core_french_8.png</banner>
+  <fondements>core_french/fondements_core_french_6to9.html</fondements>
+  <matiere>core_french/matiere_core_french_6to9.html</matiere>
+  <curriculum_name>Core French</curriculum_name>
+  <lexicon>lexicons/core_french_8_lex.xml</lexicon>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Goal : Communication Skills (CS)</goal_heading>
+      <outcome>
+        <identifier>8.CS.1</identifier>
+        <outcome_text>Demonstrate understanding of the main idea and details in oral French multi-sentence presentations on a variety of familiar topics in guided situations. [L] [V] [S] [W] [RP]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Indicates the main idea of the listening or viewing experience using a French sentence, such as . L’idée principale du texte est le bénévolat</p>
+          </indicator>
+          <indicator>
+            <p>Selects details from an oral or visual presentation responding to questions . qui, quoi, quand, où, comment, pourquoi</p>
+          </indicator>
+          <indicator>
+            <p>Compares and contrasts three to five items based on the information given in an oral presentation (e.g., Canadian regions, musical genres, celebrity athlete biographies, volunteer projects, or types of outdoor excursions).</p>
+          </indicator>
+          <indicator>
+            <p>Identifies details from a video or live group conversation using a data collection tool (e.g., graphic organizer, advance organizer, or jot notes).</p>
+          </indicator>
+          <indicator>
+            <p>Responds to questions beginning with or using a sentence starter (e.g., .). est-ce que, qu’est-ce que, qui, où, quand,pourquoiPourquoi est-ce que</p>
+          </indicator>
+          <indicator>
+            <p>Completes an 8-10 item supported cloze activity while listening to a French song, recording, video, or podcast.</p>
+          </indicator>
+          <indicator>
+            <p>Represents understanding of a French song (e.g., with illustrations, mimes, or dramatizations.)</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>8.CS.2</identifier>
+        <outcome_text>Discuss a variety of information on familiar topics through oral expression in guided situations.[S]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Interviews other students using familiar questions and phrases, either face-to face or using technological devices (e.g., webcams, video phones, internet phones, or cell phones).</p>
+          </indicator>
+          <indicator>
+            <p>Responds to questions using several modeled phrases (e.g., regarding famous Canadians, volunteerism, celebrity athletes, outdoor excursions, cooking, or music).</p>
+          </indicator>
+          <indicator>
+            <p>Engages in guided conversations with a small group using modeled phrases or sentence starters (e.g., ). Où habites-tu? J’habite à … Vas-tu aller à…? …Je vais aller à …</p>
+          </indicator>
+          <indicator>
+            <p>Presents information (e.g., about outdoor excursions, cooking challenges, quiz shows, volunteer projects) with modeled sentences such as . J’ai voyagé à Whistler pour faire du ski alpin</p>
+          </indicator>
+          <indicator>
+            <p>Reports on incidents and experiences with the use of modeled phrases, and responses to questions (e.g., ). Comment as-tu patiné? J’ai patiné très lentement.</p>
+          </indicator>
+          <indicator>
+            <p>Presents a readers’ theatre presentation based on a familiar or prepared script. (see 8.CS.4(b))</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>8.CS.3</identifier>
+        <outcome_text>Demonstrate understanding of the main idea and many supporting details in a variety of 130 - 140 word multi-paragraph expository, procedural, persuasive, and narrative texts. [R]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identifies the main idea of a 130-140 word, multi-paragraph adapted text, such as: Jacques Plante, joueur de hockey Jacques Plante a commencé sa vie à Shawinigan au Québec en 1929. Il a beaucoup aimé jouer au hockey. Il a été joueur de hockey et gardien de but pour les Canadiens de Montréal et il a joué dans la Ligue nationale de hockey. Il a gagné le trophée Vézina et la Coupe Stanley six fois entre 1955 et 1960! Quel joueur! Jacques Plante a inventé un masque spécial pour les gardiens de but. Aujourd’hui, le masque est porté par tous les gardiens de but. Il a aussi inventé des techniques spéciales pour les gardiens de but. Premièrement, il a développé l’action de sortir du filet. Deuxièmement, il a développé l’action de contrôler la rondelle. On peut dire que Jacques Plante était un inventeur! (Adapted from Nous les canadiens, Pearson Education Canada, 2006.) : Jacques Plante est un joueur de hockey célèbre au Canada et il a inventé des techniques spéciales pour son sport.</p>
+          </indicator>
+          <indicator>
+            <p>Selects supporting details in a 130-140 word, multi-paragraph adapted text such as: Le travail des bénévoles Il y a des Des chanteurs et chanteuses ont fait du bénévolat avec l’organisation War Child. Par exemple, À l’âge de 12 ans, Il y a aussi l’organisation Médecins sans frontières qui aident les personnes dans les pays affectés par la guerre et les désastres naturels. Les bénévoles peuvent (Adapted from , Oxford University Press, 2004.) Faisons une différence : bénévoles, talents, temps, organisation War Child, Avril Lavigne, Chantal Kreviazuk, Craig Kielburger, la guerre, faire une différence.</p>
+          </indicator>
+          <indicator>
+            <p>Identifies the main idea and supporting details of another student’s writing (e.g., in a French blog or webpage, written document posted in the classroom, or story).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>8.CS.4</identifier>
+        <outcome_text>Produce 80-100 word expository, narrative, or procedural multi-paragraph French texts or scripts composed of a combination of models and original student-generated text. [W]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Writes a modeled 80 -100 word, multi-paragraph description, journal entry, procedure, or story such as: Mon projet de bénévolat Pour mon projet de bénévolat, j’ai décidé d’organiser une vente de biscuits pour lever des fonds. J’ai travaillé avec mes amis, Terry, Amanda, Paul et Kathleen. Premièrement, nous avons envoyé un courriel à tout le monde dans la classe, et nous avons préparé une présentation à midi. Ensuite, nous avons décidé d’aller à l’école à 8h00 le jour de la vente. Nous avons emballé les biscuits. Nous avons décidé de vendre les biscuits pendant les deux récréations. Beaucoup de personnes ont aidé avec le travail. Nous avons donné tout l’argent à Telemiracle.</p>
+          </indicator>
+          <indicator>
+            <p>Writes a 80 -100 word script partially based on a similar narrative text previously read in class: Excursion dans la forêt : Les deux amies, Jan et Alishia, ont décidé d’aller faire une excursion dans le parc provincial du Lac la Ronge au nord de la Saskatchewan. : Ah! Qu’il fait beau! J’aime beaucoup faire des randonnés dans la forêt. : Oui, c’est très agréable. Allons par ici. [Clap, Clap] : Regarde le chevreuil! Comme il est beau! : Aaaaah! Et là-bas, il y a un écureuil. : Le temps passe vite dans la forêt parce que la nature est très intéressante. Jan et Alishia ont marché pendant longtemps. : Nous nous perdons facilement ici. : Suivons le soleil. Nous devons aller à l’ouest. : Quel est ce bruit? [Crac, crac, crac] : C’est un ours! Courons!!!!! [CLAP, CLAP, CLAP] : GRRR, GroaRR! : Heureusement, les deux filles ont trouvé leur voiture! [vroom!]</p>
+          </indicator>
+          <indicator>
+            <p>Writes a repetitive song in French that follows a familiar melody, such as: Hier Toutes ces choses peuvent te plaire.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Goal : General Language Strategies (GL) Communication Skills (CS)</goal_heading>
+      <outcome>
+        <identifier>8.GL.1</identifier>
+        <outcome_text>Select listening or viewing strategies in structured situations, such as: , asking and answering questions , making predictions , verifying comprehension , making connections , visualizing , summarizing , synthesizing , analyzing and evaluating [L] [S] [R] [RP]</outcome_text>
+        <indicators>
+          <outer_text>
+            <p>Before listening or viewing:</p>
+          </outer_text>
+          <indicator>
+            <p>Before listening or viewing: Determines listening purpose(s) and speaker intention(s) from a number of options, with teacher support.</p>
+          </indicator>
+          <indicator>
+            <p>Before listening or viewing: Anticipates the information a presentation might contain by labeling possible content sentences with or , e.g., ouinon Des élèves font un voyage en France.OuiNonLe vol est court.OuiNon</p>
+          </indicator>
+          <indicator>
+            <p>Before listening or viewing: Activates prior knowledge about a topic using sentences from a list of possible prior experiences (e.g., .). Un voyage : Il y a des montagnes en Alberta. On peut prendre le train jusqu’à Vancouver</p>
+          </indicator>
+          <indicator>
+            <p>Before listening or viewing: Establishes connections to own experiences using sentences from a list of possible situations (e.g., .). J’ai voyagé au Québec. J’ai voyagé en Alberta. J’ai voyagé aux Territoires du Nord-Ouest</p>
+          </indicator>
+          <indicator>
+            <p>Before listening or viewing: Establishes connections to a previous conversation, presentation, audio recording, or video clip using a recall of related features (e.g., title, author, characters, topic, details, or background information).</p>
+          </indicator>
+          <indicator>
+            <p>Before listening or viewing: Chooses listening or viewing strategies relevant to an anticipated listening or viewing experience.</p>
+          </indicator>
+          <outer_text>
+            <p>During listening or viewing:</p>
+          </outer_text>
+          <indicator>
+            <p>During listening or viewing: Uses comprehension aids (e.g., word walls, posters, or familiar phrases).</p>
+          </indicator>
+          <indicator>
+            <p>During listening or viewing: Develops own understanding of a conversation or presentation (e.g., by identifying cognates, familiar words, key thematic words, previously learned expressions, or by skipping unknown words or phrases).</p>
+          </indicator>
+          <indicator>
+            <p>During listening or viewing: Interprets spoken language with several auditory and visual context clues (e.g., facial expression, intonation, rate of speech, loudness or softness of speech, hand gestures, or body language).</p>
+          </indicator>
+          <outer_text>
+            <p>After listening or viewing:</p>
+          </outer_text>
+          <indicator>
+            <p>After listening or viewing: Asks for repetitions of parts of a French audio recording, video, or spoken presentation (e.g., ). Répétez, s’il vous plaît.</p>
+          </indicator>
+          <indicator>
+            <p>After listening or viewing: Requests clarification of parts of a presentation, audio recording, or video using questions (e.g., ). Qu’est-ce que le mot __ veut dire? Est-ce que ce mot est un mot-ami?</p>
+          </indicator>
+          <indicator>
+            <p>After listening or viewing: Shares key strategies that were used for facilitating comprehension of a listening viewing experience in a French sentence, such as . Aujourd’hui, j’ai utilisé les stratégies suivantes : la vérification et la clarification</p>
+          </indicator>
+          <indicator>
+            <p>After listening or viewing: Verifies accuracy of anticipatory statements made about content of a viewing or listening experience with a French sentence (e.g., ). Oui, on parle de différents athlètes canadiens. Non, on ne parle pas d’athlètes américains.</p>
+          </indicator>
+          <indicator>
+            <p>After listening or viewing: Represents the main idea of a listening experience (e.g., with sketches, graphic representations, French sentences, or story maps).</p>
+          </indicator>
+          <indicator>
+            <p>After listening or viewing: Summarizes a listening or viewing experience using several familiar French sentences (e.g., ). Le film a présenté plusieurs premiers ministres du Canada. Les premiers ministres francophones ont été Pierre Elliot Trudeau et Sir Wilfrid Laurier.</p>
+          </indicator>
+          <indicator>
+            <p>After listening or viewing: Answers several questions about a listening or viewing experience using familiar French sentences (e.g., ). Qui sont les personnages célèbres dans le film? Les personnages célèbres sont Chantal Kreviazuk et Avril Lavigne.</p>
+          </indicator>
+          <indicator>
+            <p>After listening or viewing: Reflects, with teacher support, on a list of useful listening strategies, why they were used, and which strategies could be used next time (e.g., ). Quelles stratégies m’ont aidé? Qu’est-ce que j’ai trouvé difficile? Quelles stratégies est-ce que je peux utiliser la prochaine fois?</p>
+          </indicator>
+          <indicator>
+            <p>After listening or viewing: Self-evaluates own understanding of the main idea of the listening or viewing experience using reflective questions.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>8.GL.2</identifier>
+        <outcome_text>Select speaking strategies in structured situations, such as:<ul>, modeled language , shared practice , guided practice , independent practice</ul>[S] [R] [RP]</outcome_text>
+        <indicators>
+          <outer_text>
+            <p>Before speaking:</p>
+          </outer_text>
+          <indicator>
+            <p>Before speaking: Identifies a speaking intention from a list of possibilities.</p>
+          </indicator>
+          <indicator>
+            <p>Before speaking: Finds several ways of conveying a message, such as with synonyms, different expressions or phrases.</p>
+          </indicator>
+          <indicator>
+            <p>Before speaking: Relies on dialogue scripts from a combination of models from various situations and memorized phrases.</p>
+          </indicator>
+          <indicator>
+            <p>Before speaking: Chooses own presentation or speaking guidelines based on past performances (e.g., ). Parlez fort! Utilisez des gestes! Regardez l’auditoire! Regardez votre partenaire! Prenez des pauses! Utilisez vos notes. Parlez avec enthousiasme!</p>
+          </indicator>
+          <indicator>
+            <p>Before speaking: Acquires new vocabulary with repeated use (e.g., maintenance and use of a personal dictionary, repetition of new words or phrases aloud, grouping of words or phrases together into themes).</p>
+          </indicator>
+          <outer_text>
+            <p>During speaking:</p>
+          </outer_text>
+          <indicator>
+            <p>During speaking: Participates in oral activities with partners, or small groups of students in structured situations.</p>
+          </indicator>
+          <indicator>
+            <p>During speaking: Relays a message using expressive techniques (e.g., changes in intonation, faster or slower speech, gestures, or facial expressions).</p>
+          </indicator>
+          <indicator>
+            <p>During speaking: Chooses memory aids to deliver a presentation (e.g., PowerPoint, visuals, posters, index cards, or notes).</p>
+          </indicator>
+          <indicator>
+            <p>During speaking: Integrates corrective feedback from others in speeches or presentations.</p>
+          </indicator>
+          <indicator>
+            <p>During speaking: Uses new words and phrases as they are encountered while working with supported pairs or small groups.</p>
+          </indicator>
+          <outer_text>
+            <p>After speaking:</p>
+          </outer_text>
+          <indicator>
+            <p>After speaking: Self-evaluates speaking, prepared dialogues, or presentations using feedback from others.</p>
+          </indicator>
+          <indicator>
+            <p>After speaking: Sets goals for the next speaking experience by selecting an item from presentation guidelines in a checklist or rubric.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>8.GL.3</identifier>
+        <outcome_text>Select reading strategies in structured situations. (see 8.GL.1 for strategies) [R] [W] [S]</outcome_text>
+        <indicators>
+          <outer_text>
+            <p>Before reading:</p>
+          </outer_text>
+          <indicator>
+            <p>Before reading: Predicts the content of the text with a familiar French sentence, such as Je pense que le texte va discuter d’athlètes célèbres.</p>
+          </indicator>
+          <indicator>
+            <p>Before reading: Names a purpose for reading from among several choices (e.g., ). Ce texte informe les gens; Ce texte amuse les gens; Ce texte raconte une histoire.</p>
+          </indicator>
+          <indicator>
+            <p>Before reading: Anticipates the information a text might contain by labeling possible content sentences with oui or non, such as: Les bénévoles travaillent seulement au Canada.OuiNonLes bénévoles contribuent leur temps et leur argent.OuiNon</p>
+          </indicator>
+          <indicator>
+            <p>Before reading: Establishes connections to a similar text previously shared in class with a French sentence such as, Cette histoire ressemble à l’histoire</p>
+          </indicator>
+          <indicator>
+            <p>Before reading: Asks questions about a text and possible context clues (e.g., ). Quel est le titre? Quel est le thème? Quels sont les mots-amis? Quels sont les mots importants?</p>
+          </indicator>
+          <indicator>
+            <p>Before reading: Makes connections to personal experiences (e.g., school subjects, sports, extra-curricular activities, preferences, out of school activities) using French sentences (e.g., ). Je fais des liens entre le basketball et le soccer. On utilise des ballons dans ces deux sports.</p>
+          </indicator>
+          <indicator>
+            <p>Before reading: Finds connections to a similar text read in class using a French sentence (e.g., ). Cette chanson ressemble à la chanson O Canada. Cette recette ressemble à la recette pour les crêpes. Il y a un joueur de football dans les deux histoires.</p>
+          </indicator>
+          <indicator>
+            <p>Before reading: Examines connections to the world around them (e.g., to friends, family, the media, other countries) using a French sentence such as ). La famille québécoise ressemble à ma famille avec deux parents et trois enfants.</p>
+          </indicator>
+          <outer_text>
+            <p>During reading:</p>
+          </outer_text>
+          <indicator>
+            <p>During reading: Examines root words, prefixes, and suffixes of words for better understanding of written text.</p>
+          </indicator>
+          <indicator>
+            <p>During reading: Repairs own comprehension of text when the sense of the text is lost (e.g., initial exclusion of an unknown word and later return at the end of the reading, search for context clues, identification of difficult words, dictionary searches, or questioning).</p>
+          </indicator>
+          <indicator>
+            <p>During reading: Identifies important textual elements (e.g., setting, time, characters, beginning, middle, or ending) using a story map.</p>
+          </indicator>
+          <indicator>
+            <p>During reading: Groups parts of a long sentence into manageable sections with teacher support.</p>
+          </indicator>
+          <indicator>
+            <p>During reading: Reads through the text the first time to get a sense of the general meaning before a more detailed reading.</p>
+          </indicator>
+          <outer_text>
+            <p>After reading:</p>
+          </outer_text>
+          <indicator>
+            <p>After reading: Contributes a personal response to the reading in a complete French sentence.</p>
+          </indicator>
+          <indicator>
+            <p>After reading: Verifies predictions of content made before reading.</p>
+          </indicator>
+          <indicator>
+            <p>After reading:Summarizes the main idea of the text usi ng several complete French sentences, such as . J’identifie l’idée principale: Jeanine et Luc préparent une recette pour le concours. Ils gagnent le concours</p>
+          </indicator>
+          <indicator>
+            <p>After reading: Records new vocabulary words discovered in reading, such as in a learning log.</p>
+          </indicator>
+          <indicator>
+            <p>After reading: Sorts new vocabulary words or phrases discovered in reading using multiple categories (e.g., parts of speech or theme-related groups).</p>
+          </indicator>
+          <indicator>
+            <p>After reading: Writes using new vocabulary.</p>
+          </indicator>
+          <indicator>
+            <p>After reading: Explains verification of anticipation sentences.</p>
+          </indicator>
+          <indicator>
+            <p>After reading: Answers a variety of familiar questions based on the text.</p>
+          </indicator>
+          <indicator>
+            <p>After reading: Writes about own reading strategy use in a learning log.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+      <outcome>
+        <identifier>8.GL.4</identifier>
+        <outcome_text>Implement stages of the writing process in semi-guided situations, including: idea generation, drafting, revising, editing, publishing. [W] [S] [R]</outcome_text>
+        <indicators>
+          <outer_text>
+            <p>Before writing:</p>
+          </outer_text>
+          <indicator>
+            <p>Before writing: Generates writing ideas in French (e.g., with a concept map, a list, or a web, or in collaboration with another student).</p>
+          </indicator>
+          <indicator>
+            <p>Before writing: Selects, with support, a graphic organizer for planning, based on the text type.</p>
+          </indicator>
+          <indicator>
+            <p>Before writing: Selects the audiences for which a text is intended (e.g., students in the class, other students in the school, other students outside the school, the teacher, other teachers, parents, or a general audience).</p>
+          </indicator>
+          <outer_text>
+            <p>During writing:</p>
+          </outer_text>
+          <indicator>
+            <p>During writing: Uses reference materials to help locate an equivalent word or expression (e.g., an English-French dictionary, a personal vocabulary list, or an illustrated dictionary).</p>
+          </indicator>
+          <indicator>
+            <p>During writing: Relies on several textual models as well as own ideas, to draft a 100 word, multi-paragraph expository, narrative or procedural text.</p>
+          </indicator>
+          <outer_text>
+            <p>After writing:</p>
+          </outer_text>
+          <indicator>
+            <p>After writing: Proofreads the text for accuracy and meaning with the use of reference materials and classroom guidelines for organization, spelling, grammar, and punctuation.</p>
+          </indicator>
+          <indicator>
+            <p>After writing: ) Implements changes to the text based on a conference with a partner or the teacher in order to produce a final copy.</p>
+          </indicator>
+          <indicator>
+            <p>After writing: ) Evaluates own written work based on the descriptors in a simplified French rubric or checklist.</p>
+          </indicator>
+          <indicator>
+            <p>After writing: Sets goals for the next writing experience.</p>
+          </indicator>
+          <indicator>
+            <p>After writing: Explains, with support, the rationale for inclusion of selected written texts in a traditional or digital portfolio.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Goal : Language Knowledge (LK)</goal_heading>
+      <outcome>
+        <identifier>8.LK.1</identifier>
+        <outcome_text>Demonstrate acquisition of French language concepts related to themes, including: numbers to 100 000 , fractional numbers , present tense regular –re verbs, singular and plural forms , present tense irregular –re verbs, singular and plural forms , reflexive verbs, singular and plural forms, present tense , passé composé of –er verbs with avoir , adverbs with –ment suffix , question types: intonation, inversion, interrogative pronouns , transportation prepositions , demonstrative adjectives. [S] [R] [W]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identifies individual numbers to 100 000.</p>
+          </indicator>
+          <indicator>
+            <p>Identifies fractions (e.g., ). la moitié, une demi-tasse, un quart, un tiers, or deux tiers</p>
+          </indicator>
+          <indicator>
+            <p>Interprets numbers from a map key, table, chart, graph, or text (e.g., population figures, distances, mountain heights, or area).</p>
+          </indicator>
+          <indicator>
+            <p>Meets thematic unit needs with regular –re verbs, singular and plural forms, in the present tense.</p>
+          </indicator>
+          <indicator>
+            <p>Meets thematic unit needs with irregular –re verbs, singular and plural forms, in the present tense.</p>
+          </indicator>
+          <indicator>
+            <p>Meets thematic needs with present tense reflexive verbs, singular and plural forms (e.g., ) Vas te laver les mains. Je me dépêche! Il s’habille en vêtements d’hiver.</p>
+          </indicator>
+          <indicator>
+            <p>Uses the tense with in a sentence. passé composéavoir</p>
+          </indicator>
+          <indicator>
+            <p>Uses adjectives that agree with gender and number in a sentence.</p>
+          </indicator>
+          <indicator>
+            <p>Uses adverbs ending in in a sentence. –ment</p>
+          </indicator>
+          <indicator>
+            <p>Uses various forms of question types, such as intonation, inversion, and interrogative pronouns (e.g., ). Tu viens avec moi? Viens-tu avec moi? Est-ce que tu viens avec moi?</p>
+          </indicator>
+          <indicator>
+            <p>Uses the correct preposition for modes of transportation, such as and , in a sentence. àen</p>
+          </indicator>
+          <indicator>
+            <p>Uses demonstrative adjectives such as and in a sentence. ce, cet, cette,ces</p>
+          </indicator>
+          <indicator>
+            <p>Uses key words and sentences related to 4 of the following themes:</p>
+            <ul>, Survival: Outdoor Excursions in Canada – Survivre en plein air au Canada , Top Chef Challenge – Le concours des meilleurs chefs , Celebrity Athlete Interviews – Connaître les athlètes célèbres , Volunteerism: Making a Difference – Le bénévolat : faire une différence , Canada Quiz Show – Le jeu questionnaire du Canada , Rock Band! – Le groupe rock!</ul>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Goal : Culture (C) Communication Skills (CS)</goal_heading>
+      <outcome>
+        <identifier>8.C.1</identifier>
+        <outcome_text>Compare contributions of current and past French, French Canadian, First Nations and Métis individuals and organizations to Canadian society. [S] [L] [V] [R] [RP] [W]</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Constructs a timeline of the exploits of past French, French Canadian, First Nations, and Métis contributors to Canadian society, such as Jacques Cartier (explorer, 1534), Samuel de Champlain (founder of Quebec colony, 1608), Marguerite Bourgeoys (teacher, co-founder of Montréal, 1680), Joseph Broussard (Acadian Resistance Leader 1755), Poundmaker (Cree Leader, 1876), Louis Riel (Métis Resistance Leader, 1885), Sir Wilfrid Laurier (Prime Minister, 1905), Pierre Elliot Trudeau (Prime Minister, 1968), René Lévesque (Premier of Québec, 1980), Jeanne Sauvé (Governor General, 1984), Elijah Harper (MP opposed to the Meech Lake Accord, 1990), Marc Garneau (astronaut, 1996), Romeo Dallaire (Peace Keeper, 1995, Senator, 2005), Michaëlle Jean (Governor General, 2005), Leona Aglukkaq (Inuit Cabinet Minister, 2009).</p>
+          </indicator>
+          <indicator>
+            <p>Describes Canadian stamps of famous women, French Canadians, First Nations and Métis peoples, and their background histories.</p>
+          </indicator>
+          <indicator>
+            <p>Describes Francophone and Métis flags that acknowledge the group and their participation in Canadian society (e.g., ). Le drapeau fransaskois est jaune avec une croix verte et une fleur de lys rouge.</p>
+          </indicator>
+          <indicator>
+            <p>Reports on the numbers of French Canadians, First Nations and Métis peoples in each province and territory of Canada.</p>
+          </indicator>
+          <indicator>
+            <p>Describes exploits of famous Canadians in a sentence, using the passé composé (e.g., ). Michäelle Jean a été la première Governeure-Générale du Canada de race noire. Elle a été la deuxième immigrante nommée à ce poste.</p>
+          </indicator>
+          <indicator>
+            <p>Explains the origins of the French version of O Canada in a sentence such as (Note: The song was originally commissioned by Théodore Robitaille, Lieutenant-Governor of Québec and was written as a French poem by Sir Adolphe-Basile Routhier. It was later set to music by Calixa Lavallée. The English version appeared in 1906 but is not a direct translation.). O Canada a été écrit en français en 1880 par Adolphe-Basile Routhier.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>
