@@ -11,6 +11,13 @@ $(document).ready(function () {
         DescCharacterLimit: 100,
         TitleLinkTarget: '_blank'
     });
+    //news feed links to external browser
+    $("#divRss").on('click', "a", function (e) {
+        e.preventDefault();
+        var targetURL = $(this).attr("href");
+        alert(targetURL)
+        window.open(targetURL, "_system");
+    });
     //submit user
     $("#login").submit(function (event) {
         
