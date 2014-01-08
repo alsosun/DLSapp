@@ -9,7 +9,7 @@ $(document).ready(function () {
         ShowDesc: true,
         ShowPubDate: true,
         DescCharacterLimit: 100,
-        TitleLinkTarget: '_blank'
+        TitleLinkTarget: '_system'
     });
     //submit user
     $("#login").submit(function (event) {
@@ -283,7 +283,7 @@ $(document).ready(function () {
         var currentrubric = localStorage.getItem("currentrubric");
         var rubrictbl = $("#rubric").html();
         localStorage.setItem(currentrubric + "bands", rubrictbl);
-        $("#popmessage").html("Saved! To use this rubric, select \n 'Use Rubric' in the main menu.");
+        $("#popmessage").html("Saved! To use this rubric, select \n 'Assessment' in the main menu.");
         $("#errorpop").popup("open");
         //$("#rubric").hide();
         //$("#grade_con").show();
