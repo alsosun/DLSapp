@@ -9,7 +9,7 @@ $(document).ready(function () {
         ShowDesc: true,
         ShowPubDate: true,
         DescCharacterLimit: 100,
-        TitleLinkTarget: '_system'
+        TitleLinkTarget: '_blank'
     });
     //submit user
     $("#login").submit(function (event) {
