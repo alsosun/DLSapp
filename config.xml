@@ -98,7 +98,7 @@
 
         Otherwise, you can specify specific domains:
     -->
-    <!--<access origin="*" />--> <!-- allow local pages -->
+    <access origin="*" /> <!-- allow local pages -->
 	<access origin="http://www.digitallearnersolutions.com" browserOnly="true" />
 	<access origin="http://dailyrubic.blogspot.ca" browserOnly="true" />
     <!--
