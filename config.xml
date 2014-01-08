@@ -55,7 +55,7 @@
         A list of available plugins are available at https://build.phonegap.com/docs/plugins
     -->
     <!--<gap:plugin name="nl.x-services.plugins.socialsharing" version="2.3" />-->
-    <gap:plugin name="org.apache.cordova.inappbrowser" version="0.1.0" />
+    
     
     
     <!-- Define app icon for each platform. -->
