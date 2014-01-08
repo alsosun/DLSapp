@@ -56,8 +56,8 @@
     -->
     <!--<gap:plugin name="nl.x-services.plugins.socialsharing" version="2.3" />-->
     <gap:plugin name="org.apache.cordova.inappbrowser" />
+    <gap:plugin name="com.verso.cordova.clipboard" />
     
-
     <!-- Define app icon for each platform. -->
     <icon src="assets/icon/icon.png" />
     <icon src="assets/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:density="ldpi" />
