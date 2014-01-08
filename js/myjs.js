@@ -16,7 +16,7 @@ $(document).ready(function () {
         e.preventDefault();
         var targetURL = $(this).attr("href");
         alert(targetURL)
-        window.open(targetURL, "_system");
+        window.open(targetURL, "_blank", "location=yes");
     });
     //submit user
     $("#login").submit(function (event) {
