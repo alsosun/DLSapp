@@ -818,6 +818,7 @@ $(document).ready(function () {
 
     $("#popupVideo-1").on({
         popupbeforeposition: function () {
+
             var size = scale(497, 298, 15, 1),
                 w = size.width,
                 h = size.height,
