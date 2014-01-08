@@ -12,10 +12,14 @@ $(document).ready(function () {
         TitleLinkTarget: '_blank'
     });
     //news feed links to external browser
-    $("#divRss").on('click', "a", function (e) {
+    $("#divRss").on("click", "a", function (e) {
         e.preventDefault();
         var targetURL = $(this).attr("href");
-        alert(targetURL)
+        window.open(targetURL, "_blank", "location=yes");
+    });
+    $(".extlk").on("click", function (e) {
+        e.preventDefault();
+        var targetURL = "http://www.digitallearnersolutions.com/sk/";
         window.open(targetURL, "_blank", "location=yes");
     });
     //submit user
