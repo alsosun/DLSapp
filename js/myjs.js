@@ -874,4 +874,9 @@ $(document).ready(function () {
             $("#popupVideo-3").html("<span></span>");
         }
     });
+    $("#extlink").on("click", function() {
+        alert()
+        url = encodeURI("http://www.digitallearnersolutions.com/sk");
+        window.open(url, '_system', 'location=yes');
+    });
 });
