@@ -43,6 +43,7 @@ $(document).ready(function () {
         $("#grade_con").hide();
         $("#rubric").html("");
         $("#next").hide();
+        $("#generic").hide();
     });
     //edit rurbic show
     $("#editrubriclink").on("click", function (event) {
@@ -55,6 +56,7 @@ $(document).ready(function () {
         $("#rubric").html("");
         $("#next").hide();
         $("#rubriclabel").html("");
+        $("#generic").hide();
     });
     //del rubric show
     $("#delrubriclink").on("click", function (event) {
@@ -67,6 +69,7 @@ $(document).ready(function () {
         $("#rubric").html("");
         $("#next").hide();
         $("#rubriclabel").html("");
+        $("#generic").hide();
     });
     //load rubrics
     $("#rubrics").on("pageshow", function () { onSaskReady() });
@@ -124,6 +127,7 @@ $(document).ready(function () {
                 $("#popmessage").html("Rubric successfully created. \n Now add curriculum outcomes.");
                 $("#errorpop").popup("open");
                 $("#newrubric").hide();
+                $("#generic").hide();
                 $("#rubric-select").selectmenu("refresh", true);
                 return;
             };
@@ -208,6 +212,7 @@ $(document).ready(function () {
             loadXMLout("resources/sask/xml/" + sb + "_education_" + gr + ".xml", sb, gr);
             $("#outtable").show();
             $("#addout").show();
+            $("#generic").hide();
       }
       function loadXMLout(url, sb, gr) {
           if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
@@ -275,6 +280,27 @@ $(document).ready(function () {
         $("#addout").hide();
         $("#grade_con").hide();
         $("#next").show();
+        $("#generic").hide();
+    });
+    //adds custom outcome
+    $("#addcustoutBtn").on("click", function () {
+        var i = $("#rubric table").size() + 1;
+        var code = "ctm " + i
+        var out = $("#outcome").val();
+        var txt = "<table id='band" + i + "' class='rubrictable' style='width:100%'><tr><th style='width:5%'>ID</th><th style='width:45%'>Outcome</th>\
+                        <th style='width:10%'>Level 1</th><th style='width:10%'>Level 2</th><th style='width:20%'>Level 3</th>\
+                        <th style='width:10%'>Level 4</th></tr><tr><td>" + code + "</td><td>" + out + "</td><td>Beginning</td>\
+                        <td>Progressing</td><td>Meeting</td><td>Established</td></tr></table>";
+
+        $("#rubric").append(txt).trigger("create");
+        rubricautosave();
+        $("#rubric").show();
+        $("#outtable").hide();
+        $("#addout").hide();
+        $("#grade_con").hide();
+        $("#next").show();
+        $("#generic").hide();
+        
     });
     //clear rubric
     $("#clearBtn").on("click", function () {
@@ -282,12 +308,14 @@ $(document).ready(function () {
         $("#rubric").hide();
         $("#grade_con").show();
         $("#next").hide();
+        $("#generic").hide();
     });
     //add more to rubric
     $("#addmoreBtn").on("click", function () {
         //$("#rubric").hide();
         $("#grade_con").show();
         $("#next").hide();
+        $("#generic").hide();
     });
     //save rubric
     $("#saveBtn").on("click", function () {
@@ -316,6 +344,7 @@ $(document).ready(function () {
         $("#next").show();
         $("#editrubric").hide();
         $("#delrubric").hide();
+        $("#generic").hide();
     });
     $("#rubric-select").change(function () {
         var rubricnm = "rubric" + $("#rubric-select").find(":selected").val();
@@ -339,6 +368,16 @@ $(document).ready(function () {
         var newTXT = $('#edittxt').val()       
         $(org).html(newTXT)
         rubricautosave();
+    });
+    $("#genericBtn").on("click", function () {
+        $("#generic").show();
+        $("#grade_con").hide();
+    });
+    $("#icans").on('click', 'a', function () {
+        var ican = $(this).text();
+        $("#outcome").val(ican);
+        $("#icancon").collapsible("collapse");
+        
     });
     //end of rubrics
     //classes page

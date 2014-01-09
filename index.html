@@ -124,9 +124,9 @@
                     <a href="#" id="delrubricBtn" data-role="button" data-icon="delete" data-theme="c" data-inline="true">delete</a>
                  </div>   <!-- /del --> 
                     <div id="grade_con" style="text-align:center">
-                        <p>Add curriculum outcomes</p>
+                        <p>Add Saskatchewan outcomes</p>
                     <form>
-                        <fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
+                        <fieldset data-role="controlgroup" data-type="horizontal">
                             <legend></legend>
                             <select name="gradedd" id="gradedd">
                                 <option value="#">Grade</option>
@@ -148,8 +148,41 @@
                                 <option value="#">Subject</option>       
                             </select>
                         </fieldset>
-                        </form>
+                        </form><!--//grade and subject select-->
+                        <div>
+                            <a href="#" id="genericBtn" data-role="button" data-icon="plus" data-theme="c" data-inline="true">or add custom outcomes</a>
+                        </div>
                       </div><!--grade con-->  
+                    <div id="generic" hidden="hidden">                       
+                        
+                            <div data-role="collapsible" id="icancon">  
+                              <h5>'I can' statements ...</h5>                      
+                                <ul data-role="listview"  id="icans">                                                        
+                                <li><a href="#">I can demonstrate</a></li>
+                                <li><a href="#">I can explain</a></li>
+                                <li><a href="#">I can use</a></li>
+                                <li><a href="#">I can create</a></li>
+                                <li><a href="#">I can analyze</a></li>
+                                <li><a href="#">I can reflect</a></li>
+                                <li><a href="#">I can determine</a></li>
+                                <li><a href="#">I can organize</a></li>
+                                <li><a href="#">I can read and respond</a></li>                           
+                                <li><a href="#">I can identify</a></li>
+                            </ul>
+                        
+                           </div>
+                           <div>
+                        <form>
+                            <label for="textarea-1">Outcome</label>
+                            <textarea name="outcome" id="outcome" placeholder="Type here or click a 'I Can' statment starter from above to write your outcome."></textarea>
+                        </form>
+                           </div>
+                       
+                        <div>
+                            <a href="#" id="addcustoutBtn" data-role="button" data-icon="plus" data-theme="c" data-inline="true">Add to rubric</a>
+                        </div>
+                        
+                    </div><!--//generic-->
                     <div id="outtable" style="text-align:left" hidden="hidden"></div>
                     <div id="addout" hidden="hidden">                       
                         <a href="#" id="addoutBtn" data-role="button" data-icon="plus" data-theme="c" data-inline="true">Add to rubric</a>
@@ -241,7 +274,7 @@
                         </ul>
                     </div><!-- pop up menu -->
            </div>     
-                <!--<div id="currentclasses" style="text-align:center">
+                <div id="currentclasses" style="text-align:center">
                     <h2>Current Classes</h2>
                     <form>
                     <fieldset data-role="controlgroup" data-type="horizontal">
@@ -256,7 +289,7 @@
                     </fieldset>
                     </form>
                 </div><!-- classes DD -->
-			   <div id="currentclasses" style="text-align:center">
+               <!--<div id="currentclasses" style="text-align:center">
                     <h2>Current Classes</h2>
                     <form>
                         <div data-role="fieldcontain">
