@@ -57,6 +57,8 @@ $(document).ready(function () {
         $("#next").hide();
         $("#rubriclabel").html("");
         $("#generic").hide();
+        var startrubric = $("#rubric-select").find(":selected").text()
+        $("#rubriclabel").html(startrubric);
     });
     //del rubric show
     $("#delrubriclink").on("click", function (event) {
@@ -70,6 +72,8 @@ $(document).ready(function () {
         $("#next").hide();
         $("#rubriclabel").html("");
         $("#generic").hide();
+        var startrubric = $("#rubric-select").find(":selected").text()
+        $("#rubriclabel").html(startrubric);
     });
     //load rubrics
     $("#rubrics").on("pageshow", function () { onSaskReady() });
@@ -86,6 +90,8 @@ $(document).ready(function () {
             };
         };//end for
         $("#rubric-select").selectmenu("refresh", true);
+        //$("#rubric-select").val($("#rubric-select option:first").val());
+        
     }
     //new rubric
     //limits length 
