@@ -849,13 +849,16 @@ $(document).ready(function () {
         $("#assess-st-select").selectmenu("refresh", true);
         return false;
     }
+    //$("#exportdataBtn").on("click", function () {
+    //    var body = $('#report').table2CSV({ delivery: 'value' });
+    //    body = encodeURIComponent(body)
+    //    var subject = "Daily Rubric Report: " + $("#reportlabel").html();        
+    //    window.location = "mailto:?subject=" + subject + "&body=" + body;      
+    //});
     $("#exportdataBtn").on("click", function () {
-        var body = $('#report').table2CSV({ delivery: 'value' });
-        body = encodeURIComponent(body)
-        var subject = "Daily Rubric Report: " + $("#reportlabel").html();        
-        window.location = "mailto:?subject=" + subject + "&body=" + body;      
+        $('#report').table2CSV();
     });
-    
+   
 
     //end of assess
     //planner
