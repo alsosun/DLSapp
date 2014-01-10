@@ -761,19 +761,36 @@ $(document).ready(function () {
         $("#sliders").html(txt).trigger("create");
     };
     //build report table
+    //function onRubric() {
+    //    var rep = "<table id='rubtbl' class='rubrictable' style='width:100%'><thead><tr><td>Student</td>";
+    //    //reads slider #
+    //    var i = 1
+    //    $.mobile.activePage.find('[type=number]')
+    //        .each(function () {
+    //            var self = this;
+    //            var code = $(self).attr("name");
+    //            rep = rep + "<td>" + code + "</td>";
+    //            i++;
+    //        });
+
+    //    rep = rep + "</tr></thead><tbody><tr><td colspan='" + i + "'></td></tr></tbody></table>"
+    //    var lable = $("#reportlabel").html()
+    //    $("#report").append(lable).trigger("create")
+    //    $("#report").append(rep).trigger("create")
+    //}
     function onRubric() {
-        var rep = "<table id='rubtbl' class='rubrictable' style='width:100%'><thead><tr><td>Student</td>";
+        var rep = "<table id='rubtbl' class='rubrictable' style='width:100%'><thead><tr><th>Student</th>";
         //reads slider #
         var i = 1
         $.mobile.activePage.find('[type=number]')
             .each(function () {
                 var self = this;
                 var code = $(self).attr("name");
-                rep = rep + "<td>" + code + "</td>";
+                rep = rep + "<th>" + code + "</th>";
                 i++;
             });
 
-        rep = rep + "</tr></thead><tbody><tr><td colspan='" + i + "'></td></tr></tbody></table>"
+        rep = rep + "</tr></thead><tbody></tbody></table>"
         var lable = $("#reportlabel").html()
         $("#report").append(lable).trigger("create")
         $("#report").append(rep).trigger("create")
@@ -821,6 +838,7 @@ $(document).ready(function () {
         var classnm = localStorage.getItem(assesssel + "class");
         $("#reportlabel").html(assesslabel);
         $("#temp").html(rubric);
+        //$("#reporttry").html(report);
         $("#report").html("");
         $("#report").html(report);
         onClassAssLoad(classnm);       
@@ -829,6 +847,7 @@ $(document).ready(function () {
         $("#loadassess").hide();
         $("#assessmentinput").show();
         $("#report-con").show();
+        dataTablecall()
         return false;                  
     });
     //set class when prior assessment is loaded
@@ -855,7 +874,10 @@ $(document).ready(function () {
         var subject = "Daily Rubric Report: " + $("#reportlabel").html();        
         window.location = "mailto:?subject=" + subject + "&body=" + body;      
     });
-    
+    function dataTablecall() {
+        $('#rubtbl').dataTable();
+        alert()
+    };
    
 
     //end of assess
