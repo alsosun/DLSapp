@@ -427,9 +427,11 @@ $(document).ready(function () {
                 var o = new Option(i, i);
                 $(o).html(classnm)
                 classdd.append(o);
+                
             };
         };//end for
         $("#classes-select").selectmenu("refresh", true);
+        onClassSelect();
     }
     //load classes on page show
     $("#classes").on("pageshow", function () { onClassesReady() });
@@ -467,8 +469,13 @@ $(document).ready(function () {
             if (window.localStorage.getItem("class" + i) === null) {
                 window.localStorage.setItem("class" + i, classnm);
                 onClassesReady();                
-                $("#popmessagecl").html("Class successfully added. \n Now add students it it.");
+                $("#popmessagecl").html("Class successfully added. \n Now add students to it.");
                 $("#errorpopcl").popup("open");
+                $("#addst").show();
+                $("#addclass").hide();
+                $("#classes-select option:contains("+classnm+")").prop('selected', true)
+                $("#classes-select").selectmenu("refresh", true);
+                onClassSelect();
                 return;
             };
         };
@@ -551,8 +558,16 @@ $(document).ready(function () {
             $("#errorpopcl").popup("open");
             return false;
         };
-        var classsel = "class" + $("#classes-select").val() + "st";
         var stnm = $("#new-st-name").val();
+        var name_length = stnm.length;
+        if (name_length < 1) {
+            $("#popmessagecl").html("Please enter a student name.")
+            $("#errorpopcl").popup("open");
+            event.preventDefault();
+            return false;
+        };
+        var classsel = "class" + $("#classes-select").val() + "st";
+        
         for (i = 1; i < 36; i++) {
             if (localStorage.getItem(classsel + i) === null) {
                 localStorage.setItem(classsel + i, stnm);
@@ -840,6 +855,8 @@ $(document).ready(function () {
         var subject = "Daily Rubric Report: " + $("#reportlabel").html();        
         window.location = "mailto:?subject=" + subject + "&body=" + body;      
     });
+    
+
     //end of assess
     //planner
     //scale videos
@@ -924,7 +941,6 @@ $(document).ready(function () {
                 markup = " <iframe src='http://www.youtube.com/embed/IUtff1owJZA?rel=0' width='" + w + "' height='" + h + "'  seamless></iframe>";
 
             $("#popupVideo-3").html(markup);
-
         },
         popupafterclose: function () {
             $("#popupVideo-3").html("<span></span>");
