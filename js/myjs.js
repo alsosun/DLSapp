@@ -879,7 +879,7 @@ $(document).ready(function () {
             "bPaginate": false,
             "sDom": 'T<"clear">lfrtip',
             "oTableTools": {
-                "sSwfPath": "media/swf/copy_csv_xls_pdf.swf"
+                "sSwfPath": "http://www.digitallearnersolutions.com/mobile/media/swf/copy_csv_xls_pdf.swf"
             }
            
         });
