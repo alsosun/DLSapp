@@ -876,6 +876,7 @@ $(document).ready(function () {
     //planner
     //scale videos
     function scale(width, height, padding, border) {
+        
         var scrWidth = $(window).width() - 30,
             scrHeight = $(window).height() - 30,
             ifrPadding = 2 * padding,
@@ -961,5 +962,4 @@ $(document).ready(function () {
             $("#popupVideo-3").html("<span></span>");
         }
     });
-    
 });
