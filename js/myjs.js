@@ -838,7 +838,7 @@ $(document).ready(function () {
         var classnm = localStorage.getItem(assesssel + "class");
         $("#reportlabel").html(assesslabel);
         $("#temp").html(rubric);
-        //$("#reporttry").html(report);
+        $("#reporttry").html(report);
         $("#report").html("");
         $("#report").html(report);
         onClassAssLoad(classnm);       
@@ -875,8 +875,15 @@ $(document).ready(function () {
         window.location = "mailto:?subject=" + subject + "&body=" + body;      
     });
     function dataTablecall() {
-        $('#rubtbl').dataTable();
-        alert()
+        $('#reporttry table').dataTable({
+            "bPaginate": false,
+            "sDom": 'T<"clear">lfrtip',
+            "oTableTools": {
+                "sSwfPath": "media/swf/copy_csv_xls_pdf.swf"
+            }
+           
+        });
+        
     };
    
 
