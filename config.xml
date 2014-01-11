@@ -86,6 +86,8 @@
     <gap:splash src="assests/icon/blackberry/screen-225.png"         gap:platform="blackberry" />
     <gap:splash src="assests/icon/ios/screen-iphone-portrait.png"    gap:platform="ios"     width="320" height="480" />
     <gap:splash src="assests/icon/ios/screen-iphone-portrait-2x.png" gap:platform="ios"     width="640" height="960" />
+    <gap:splash src="assests/icon/ios/screen-iphone-landscape-2x.png" gap:platform="ios"     width="960" height="640" />
+    <gap:splash src="assests/icon/ios/screen-iphone-landscape.png" gap:platform="ios"     width="480" height="320" />
     <gap:splash src="assests/icon/ios/screen-ipad-portrait.png"      gap:platform="ios"     width="768" height="1024" />
     <gap:splash src="assests/icon/ios/screen-ipad-landscape.png"     gap:platform="ios"     width="1024" height="768" />
     <gap:splash src="assests/icon/windows-phone/screen-portrait.jpg" gap:platform="winphone" /> 
@@ -98,11 +100,11 @@
 
         Otherwise, you can specify specific domains:
     -->
-    <access origin="*" />  <!-- allow local pages -->
-  <!--<access origin="http://www.youtube.com" />
+    <!--<access origin="*" />-->  <!-- allow local pages -->
+  <access origin="http://www.youtube.com" />
   <access origin="http://ajax.googleapis.com" />
   <access origin="http://www.digitallearnersolutions.com" browserOnly="true" />
-	<access origin="http://dailyrubic.blogspot.ca" browserOnly="true" />-->
+	<access origin="http://dailyrubic.blogspot.ca" browserOnly="true" />
     <!--
         <access origin="http://phonegap.com" />                    - allow any secure requests to http://phonegap.com/
         <access origin="http://phonegap.com" subdomains="true" />  - same as above, but including subdomains, such as http://build.phonegap.com/

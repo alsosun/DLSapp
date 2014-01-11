@@ -838,7 +838,7 @@ $(document).ready(function () {
         var classnm = localStorage.getItem(assesssel + "class");
         $("#reportlabel").html(assesslabel);
         $("#temp").html(rubric);
-        $("#reporttry").html(report);
+        //$("#reporttry").html(report);
         $("#report").html("");
         $("#report").html(report);
         onClassAssLoad(classnm);       
@@ -847,7 +847,7 @@ $(document).ready(function () {
         $("#loadassess").hide();
         $("#assessmentinput").show();
         $("#report-con").show();
-        dataTablecall()
+        //dataTablecall()
         return false;                  
     });
     //set class when prior assessment is loaded
@@ -874,17 +874,18 @@ $(document).ready(function () {
         var subject = "Daily Rubric Report: " + $("#reportlabel").html();        
         window.location = "mailto:?subject=" + subject + "&body=" + body;      
     });
-    function dataTablecall() {
-        $('#reporttry table').dataTable({
-            "bPaginate": false,
-            "sDom": 'T<"clear">lfrtip',
-            "oTableTools": {
-                "sSwfPath": "http://www.digitallearnersolutions.com/mobile/media/swf/copy_csv_xls_pdf.swf"
-            }
+    //tabletools for web version
+    //function dataTablecall() {
+    //    $('#reporttry table').dataTable({
+    //        "bPaginate": false,
+    //        "sDom": 'T<"clear">lfrtip',
+    //        "oTableTools": {
+    //            "sSwfPath": "mobile/media/swf/copy_csv_xls_pdf.swf"
+    //        }
            
-        });
+    //    });
         
-    };
+    //};
    
 
     //end of assess
