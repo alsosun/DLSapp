@@ -102,7 +102,7 @@
     -->
     <!--<access origin="*" />-->  <!-- allow local pages -->
   <access origin="http://www.youtube.com" subdomains="true" browserOnly="false" />
-  <access origin="http://ajax.googleapis.com" />
+  <!--<access origin="http://ajax.googleapis.com" />-->
   <access origin="http://www.digitallearnersolutions.com" browserOnly="true" />
 	<access origin="http://dailyrubic.blogspot.ca" browserOnly="true" />
     <!--
