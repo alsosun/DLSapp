@@ -911,7 +911,7 @@ $(document).ready(function () {
             var size = scale(497, 298, 15, 1),
                 w = size.width,
                 h = size.height,
-                markup = " <iframe src='http://www.youtube.com/embed/IUtff1owJZA' width='" + w + "' height='" + h + "'  seamless></iframe>";
+                markup = " <iframe src='www.youtube.com/embed/IUtff1owJZA' width='" + w + "' height='" + h + "'  seamless></iframe>";
 
             $("#popupVideo-1").html(markup);
             //$("#popupVideo-1 iframe")
