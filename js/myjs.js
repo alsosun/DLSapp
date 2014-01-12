@@ -3,18 +3,23 @@ $(document).ready(function () {
     //global
     var org;
     //news feed
-    $('#divRss').FeedEk({
-        FeedUrl: 'http://dailyrubic.blogspot.com/feeds/posts/default',
-        MaxCount: 5,
-        ShowDesc: true,
-        ShowPubDate: true,
-        DescCharacterLimit: 100,
-        TitleLinkTarget: '_blank'
-    });
-    //news feed links to external browser
-    $("#divRss").on("click", "a", function (e) {
+    //$('#divRss').FeedEk({
+    //    FeedUrl: 'http://dailyrubic.blogspot.com/feeds/posts/default',
+    //    MaxCount: 5,
+    //    ShowDesc: true,
+    //    ShowPubDate: true,
+    //    DescCharacterLimit: 100,
+    //    TitleLinkTarget: '_blank'
+    //});
+    ////news feed links to external browser
+    //$("#divRss").on("click", "a", function (e) {
+    //    e.preventDefault();
+    //    var targetURL = $(this).attr("href");
+    //    window.open(targetURL, "_blank", "location=yes");
+    //});
+    $(".blog").on("click", function (e) {
         e.preventDefault();
-        var targetURL = $(this).attr("href");
+        var targetURL = "http://dailyrubic.blogspot.com/feeds/posts/default";
         window.open(targetURL, "_blank", "location=yes");
     });
     $(".extlk").on("click", function (e) {
@@ -39,7 +44,7 @@ $(document).ready(function () {
     });
     //guest sign in
     $("#guestBtn").on("click", function (event) {
-        $.mobile.changePage("#home");
+        $.mobile.changePage("#home" , { transition: "slide"});
     });
     //rubric page
     //new rubric show
