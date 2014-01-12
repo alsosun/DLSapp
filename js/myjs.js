@@ -29,7 +29,7 @@ $(document).ready(function () {
     });
     $(".planner").on("click", function (e) {
         e.preventDefault();
-        var targetURL = "http://digitallearnersolutions.com/mobile/planner.html";
+        var targetURL = "http://www.youtube.com/watch?v=IUtff1owJZA";
         window.open(targetURL, "_blank", "location=yes");
     });
     //submit user
