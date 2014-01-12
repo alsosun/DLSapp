@@ -24,8 +24,7 @@ $(document).ready(function () {
     });
     $(".tut").on("click", function (e) {
         e.preventDefault();
-        var targetURL = "http://www.youtube.com";
-        //var targetURL = "http://digitallearnersolutions.com/mobile/tut.html";
+        var targetURL = "http://digitallearnersolutions.com/mobile/tut.html";
         window.open(targetURL, "_blank", "location=yes");
     });
     //submit user
