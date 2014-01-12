@@ -916,30 +916,30 @@ $(document).ready(function () {
             'height': h - (ifrPadding + ifrBorder)
         };
     };
-    //$("#popupVideo-1 iframe")
-    //    .attr("width", 0)
-    //    .attr("height", 0);
+    $("#popupVideo-1 iframe")
+        .attr("width", 0)
+        .attr("height", 0);
 
-    //$("#popupVideo-1").on({
-    //    popupbeforeposition: function () {
+    $("#popupVideo-1").on({
+        popupbeforeposition: function () {
 
-    //        var size = scale(497, 298, 15, 1),
-    //            w = size.width,
-    //            h = size.height,
-    //            markup = " <iframe src='www.youtube.com/embed/IUtff1owJZA' width='" + w + "' height='" + h + "'  seamless></iframe>";
+            var size = scale(497, 298, 15, 1),
+                w = size.width,
+                h = size.height,
+                markup = " <iframe src='http://www.youtube.com/embed/IUtff1owJZA' width='" + w + "' height='" + h + "'  seamless></iframe>";
 
-    //        $("#popupVideo-1").html(markup);
-    //        //$("#popupVideo-1 iframe")
-    //        //    .attr("width", w)
-    //        //    .attr("height", h);
-    //    },
-    //    popupafterclose: function () {
-    //        $("#popupVideo-1").html("<span></span>");
-    //        //$("#popupVideo iframe")
-    //        //    .attr("width", 0)
-    //        //    .attr("height", 0);
-    //    }
-    //});
+            $("#popupVideo-1").html(markup);
+            //$("#popupVideo-1 iframe")
+            //    .attr("width", w)
+            //    .attr("height", h);
+        },
+        popupafterclose: function () {
+            $("#popupVideo-1").html("<span></span>");
+            //$("#popupVideo iframe")
+            //    .attr("width", 0)
+            //    .attr("height", 0);
+        }
+    });
     ////vid 2
     ////$("#popupVideo-2 iframe")
     ////.attr("width", 0)
