@@ -3,38 +3,23 @@ $(document).ready(function () {
     //global
     var org;
     //news feed
-    //$('#divRss').FeedEk({
-    //    FeedUrl: 'http://dailyrubic.blogspot.com/feeds/posts/default',
-    //    MaxCount: 5,
-    //    ShowDesc: true,
-    //    ShowPubDate: true,
-    //    DescCharacterLimit: 100,
-    //    TitleLinkTarget: '_blank'
-    //});
-    ////news feed links to external browser
-    //$("#divRss").on("click", "a", function (e) {
-    //    e.preventDefault();
-    //    var targetURL = $(this).attr("href");
-    //    window.open(targetURL, "_blank", "location=yes");
-    //});
-    $(".blog").on("click", function (e) {
+    $('#divRss').FeedEk({
+        FeedUrl: 'http://dailyrubic.blogspot.com/feeds/posts/default',
+        MaxCount: 5,
+        ShowDesc: true,
+        ShowPubDate: true,
+        DescCharacterLimit: 100,
+        TitleLinkTarget: '_blank'
+    });
+    //news feed links to external browser
+    $("#divRss").on("click", "a", function (e) {
         e.preventDefault();
-        var targetURL = "http://dailyrubic.blogspot.com/";
+        var targetURL = $(this).attr("href");
         window.open(targetURL, "_blank", "location=yes");
     });
     $(".extlk").on("click", function (e) {
         e.preventDefault();
         var targetURL = "http://www.digitallearnersolutions.com/sk/";
-        window.open(targetURL, "_blank", "location=yes");
-    });
-    $(".tut").on("click", function (e) {
-        e.preventDefault();
-        var targetURL = "http://digitallearnersolutions.com/mobile/tut.html";
-        window.open(targetURL, "_blank", "location=yes");
-    });
-    $(".planner").on("click", function (e) {
-        e.preventDefault();
-        var targetURL = "http://www.youtube.com/watch?v=IUtff1owJZA";
         window.open(targetURL, "_blank", "location=yes");
     });
     //submit user

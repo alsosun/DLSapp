@@ -16,7 +16,7 @@
 	<script src="js/jquery.mobile-1.4.0.min.js"></script>
 	<script src="js/myjs.js"></script>
     <script src="js/table2CSV.js"></script>
-    <!--<script type="text/javascript" src="js/FeedEk.js"></script>-->
+    <script type="text/javascript" src="js/FeedEk.js"></script>
     <script src="phonegap.js"></script>
     <!--<script src="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/jquery.dataTables.min.js" ></script>
     <link rel="stylesheet" type="text/css" href="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/css/jquery.dataTables.css" />-->
@@ -553,7 +553,7 @@
     </div><!-- /header -->
     <div role="main" class="ui-content jqm-content jqm-fullwidth">
         <div class="container" style="padding: 0px; text-align:left">
-            <a href="#" data-role="button" data-inline="true" class="tut" data-icon="video" data-transition="slide">Tutorial</a>
+            <a href="popupVideo-2" data-role="button" data-rel="popup" data-inline="true" class="tut" data-icon="video" data-transition="slide">Tutorial</a>
 	    <h1>How to get started:</h1>
             
             <h2>1. Set up your classes</h2>
@@ -592,6 +592,9 @@
             <p>To learn more about Unit and Planner, <a href="#" class="extlk">visit us online.</a></p>           
         </div>
 	</div><!-- /panel -->
+        <div data-role="popup" id="popupVideo-2" data-overlay-theme="b" data-theme="b" data-tolerance="15,15" class="ui-content video-popup">
+					<iframe width="266" height="200" src="http://www.youtube.com/embed/IUtff1owJZA?rel=0"></iframe>
+				</div>
 </div><!-- /home page -->
     <div data-role="page" class="jqm-demos ui-responsive-panel" id="Tutorial" data-title="Tutorial"><!-- Tutorial page -->
     <div data-role="header" data-position="fixed">
@@ -742,8 +745,7 @@
     <div role="main" class="ui-content jqm-content jqm-fullwidth">
         <div class="container" style="padding: 0px; text-align:center">
 	        <div id="divRss">
-                <p><a href="#" data-role="button" class="blog" data-inline="true">News</a></p>
-                <p><a href="#" data-role="button" class="extlk" data-inline="true">Unit planner</a></p>
+
 
 	        </div>
         </div>
