@@ -22,6 +22,11 @@ $(document).ready(function () {
         var targetURL = "http://www.digitallearnersolutions.com/sk/";
         window.open(targetURL, "_blank", "location=yes");
     });
+    $(".tut").on("click", function (e) {
+        e.preventDefault();
+        var targetURL = "http://digitallearnersolutions.com/mobile/tut.html";
+        window.open(targetURL, "_blank", "location=yes");
+    });
     //submit user
     $("#login").submit(function (event) {
         
