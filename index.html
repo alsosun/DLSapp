@@ -39,7 +39,7 @@
             <button id="guestBtn" data-theme="b" data-icon="check" data-transition="slide">Get Started</button>          
         </div>           
             <div>
-                <p>News: If you also have Unit & Rubric Planner for PC, you will soon be able to link your rubrics to Daily Rubric--stay tuned!</p>
+                
                 <!--<form id="login">
                     <div style="padding:10px 10px; ">
                         <h3>DLS user can sign in</h3>
@@ -198,7 +198,18 @@
                         <a href="#" id="addmoreBtn" data-role="button" data-icon="plus" data-theme="c" data-inline="true">Add more outcomes</a>
                         <a href="#" id="clearBtn" data-role="button" data-icon="refresh" data-theme="c" data-inline="true">Start Over</a>
                         <a href="#" id="saveBtn" data-role="button" data-icon="check" data-theme="c" data-inline="true">Done</a>
-                    </div>
+                        <a href="#" id="openexport" data-role="button" data-icon="mail" data-theme="c" data-inline="true">Export</a>
+                     </div>
+                    <div id="exportcon" hidden="hidden">
+                    <form action="http://www.digitallearnersolutions.com/dailyrubric/export.php" method="post" id="rubricform" target="_system">
+                        <img src="css/themes/default/images/ajax-loader.gif" id="loader" hidden="hidden" />     
+                        <label for="email">enter your email</label>
+                             <input type="text" name="email" id="email"/>
+                             <div hidden="hidden"><textarea name="rubricname" id="rubricname" ></textarea></div>
+                             <div hidden="hidden"><textarea name="hiddenrubric" id="hiddenrubric" ></textarea></div>
+                             <div><button id="exportBtn" data-icon="mail">send</button></div>
+                    </form>
+                </div>
                 </div><!--rubric build-->
 
         <div style="text-align:left"><a href="#" data-transition="slide" data-rel="back" data-role="button" data-inline="true" class="ui-btn ui-shadow ui-corner-all ui-mini ui-btn-inline ui-icon-carat-l ui-btn-icon-left ui-alt-icon ui-nodisc-icon">Back</a></div>
@@ -478,7 +489,7 @@
             </div>
             <div id="report-con" hidden="hidden">
                 <a href="#" id="adddataBtn" data-role="button" data-inline="true" data-icon="plus" data-theme="c">Add result</a>
-                
+                <h2 id="reporttop"></h2>
                 <div id="report">
 
                 </div>
@@ -486,8 +497,18 @@
                     <a href="#" id="donedataBtn" data-role="button" data-inline="true" data-icon="check" data-theme="c">done</a>
                     <a href="#" id="exportdataBtn" data-role="button" data-inline="true" data-icon="action" data-theme="c">export / send</a>
                 </div>
-                <div id="reporttry">
-
+                <div id="reportexcon" hidden="hidden">
+                    <form action="http://www.digitallearnersolutions.com/dailyrubric/export.php" method="post" id="reportform" target="_system">
+                        <label for="email">enter your email</label>
+                        <input type="text" name="email" id="email1" />
+                        <div hidden="hidden">
+                            <textarea name="rubricname" id="reportname"></textarea>
+                        </div>
+                        <div hidden="hidden">
+                            <textarea name="hiddenrubric" id="reporttable"></textarea></div>
+                        <div>
+                            <button id="exportreportBtn" data-icon="mail">send</button></div>
+                    </form>
                 </div>
             </div>
         </div>
