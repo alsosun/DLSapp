@@ -13,13 +13,15 @@ $(document).ready(function () {
         $("#email1").val(current);
     };
     //news feed
-    $('#divRss').FeedEk({
-        FeedUrl: 'http://dailyrubic.blogspot.com/feeds/posts/default',
-        MaxCount: 5,
-        ShowDesc: true,
-        ShowPubDate: true,
-        DescCharacterLimit: 100,
-        TitleLinkTarget: '_blank'
+    $("#news").on("pageshow", function () {
+        $('#divRss').FeedEk({
+            FeedUrl: 'http://dailyrubic.blogspot.com/feeds/posts/default',
+            MaxCount: 5,
+            ShowDesc: true,
+            ShowPubDate: true,
+            DescCharacterLimit: 100,
+            TitleLinkTarget: '_blank'
+        });
     });
     //news feed links to external browser
     $("#divRss").on("click", "a", function (e) {
