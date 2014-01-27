@@ -1039,15 +1039,15 @@ $(document).ready(function () {
         
             $(':mobile-pagecontainer').pagecontainer('change', '#picpop', {
                 transition: 'flip',
-                changeHash: false,
+                //changeHash: true,
                 reverse: true,
+                //role: "dialog",
                 showLoadMsg: true
             });
             
     });
     $("#picpop").on('pagecreate', function () {
-        alert("viewport")
-        $.mobile.metaViewportContent = 'width=device-width';
+        
 
     });
 });

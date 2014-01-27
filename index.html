@@ -59,7 +59,7 @@
                     <button id="openphoto" onclick="getPhoto(pictureSource.PHOTOLIBRARY);">From Photo Library</button><br>
                     <button onclick="getPhoto(pictureSource.SAVEDPHOTOALBUM);">From Photo Album</button><br>
                     <img style="display:none;width:60px;height:60px;" id="smallImage" src="" />
-                    <img style="display:none;width:100px;height:100px;" id="largeImage" src="" />
+                    <img style="width:100px;height:100px;" id="largeImage" src="assests/images/logodls.png" />
               </div>        
 	</div><!-- /content -->
     <div data-role="footer">
@@ -97,9 +97,9 @@
                 
                 <div data-role="content" data-theme="d" class="ui-corner-bottom ui-content" style="text-align:center">
                 <div id="pic"></div>       
-                <a href="#" id="A11" data-role="button" data-inline="true" data-rel="back" data-theme="c">OK</a>
+                <a data-transition="flip" id="A11" data-role="button" data-inline="true" data-rel="back" data-theme="c" class="ui-btn ui-shadow ui-corner-all ui-mini ui-btn-inline ui-icon-carat-l ui-btn-icon-left ui-alt-icon ui-nodisc-icon">BACK</a>
                 </div> 
-            </div>	<!-- error pop -->
+            </div>	<!-- pop page -->
 <div data-role="page" class="jqm-demos ui-responsive-panel" id="rubrics" data-title="Rubrics"><!-- rubrics page -->
     <div data-role="header">
         <h2>Rubrics</h2>
