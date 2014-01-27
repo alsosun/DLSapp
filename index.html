@@ -18,6 +18,7 @@
     <script src="js/table2CSV.js"></script>
     <script type="text/javascript" src="js/FeedEk.js"></script>
     <script src="phonegap.js"></script>
+    <script src="js/camera.js"></script>
     <!--<script src="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/jquery.dataTables.min.js" ></script>
     <link rel="stylesheet" type="text/css" href="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/css/jquery.dataTables.css" />-->
     <!--<script src="media/js/TableTools.js"></script>
@@ -53,9 +54,9 @@
             </div>		
         </div>
               <div>
-                  <button id="getphoto" onclick="capturePhoto();">Capture Photo</button> <br>
+                  <button id="getphoto" onclick="capturePhoto();" >Capture Photo</button> <br>
                      <button onclick="capturePhotoEdit();">Capture Editable Photo</button> <br>
-                    <button onclick="getPhoto(pictureSource.PHOTOLIBRARY);">From Photo Library</button><br>
+                    <button id="openphoto" onclick="getPhoto(pictureSource.PHOTOLIBRARY);">From Photo Library</button><br>
                     <button onclick="getPhoto(pictureSource.SAVEDPHOTOALBUM);">From Photo Album</button><br>
                     <img style="display:none;width:60px;height:60px;" id="smallImage" src="" />
                     <img style="display:none;" id="largeImage" src="" />
