@@ -89,9 +89,5 @@ function getPhoto(source) {
 function onFail(message) {
     alert('Failed because: ' + message);
 }
-$(document).bind('mobileinit', function () {
-    
-    $.mobile.metaViewportContent = 'width=device-width';
-    
-});
+
 

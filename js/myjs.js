@@ -1026,16 +1026,28 @@ $(document).ready(function () {
         var largeImage = document.getElementById('largeImage');
         var imageURI = largeImage.src;
         alert(imageURI)
-        $("#picpop").on("popupbeforeposition", function () {
-            var size = scale(497, 298, 15, 1),
-                w = size.width,
+        //$("#picpop").on("popupbeforeposition", function () {
+           var size = scale(497, 298, 15, 1),
+               w = size.width,
                 h = size.height,
-                markup = "<img src='" + imageURI + "' width='" + w + "' height='" + h + "' />";
+               markup = "<img src='" + imageURI + "' width='" + w + "' height='" + h + "' />";
 
             $("#pic").html(markup)
-        });
+        //});
         
-        $("#picpop").popup("open");
+        //$("#picpop").popup("open");
+        
+            $(':mobile-pagecontainer').pagecontainer('change', '#picpop', {
+                transition: 'flip',
+                changeHash: false,
+                reverse: true,
+                showLoadMsg: true
+            });
+            
     });
-   
+    $("#picpop").on('pagecreate', function () {
+        alert("viewport")
+        $.mobile.metaViewportContent = 'width=device-width';
+
+    });
 });
