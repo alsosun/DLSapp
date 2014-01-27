@@ -10,7 +10,7 @@ document.addEventListener("deviceready", onDeviceReady, false);
 function onDeviceReady() {
     pictureSource = navigator.camera.PictureSourceType;
     destinationType = navigator.camera.DestinationType;
-    alert()
+   
 }
 
 // Called when a photo is successfully retrieved
@@ -37,7 +37,7 @@ function onPhotoDataSuccess(imageData) {
 //
 function onPhotoURISuccess(imageURI) {
     // Uncomment to view the image file URI
-    // console.log(imageURI);
+    alert(imageURI);
 
     // Get image handle
     //
@@ -89,3 +89,9 @@ function getPhoto(source) {
 function onFail(message) {
     alert('Failed because: ' + message);
 }
+$("#largeimage").on("click", function () {
+    var largeImage = document.getElementById('largeImage');
+    var imageURI = largeImage.src;
+    $("#pic").html("<img style='display:none;' src='" + imageURI + "' />")
+    $("#picpop").popup("open");
+});
