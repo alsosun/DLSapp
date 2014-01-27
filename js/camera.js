@@ -89,9 +89,3 @@ function getPhoto(source) {
 function onFail(message) {
     alert('Failed because: ' + message);
 }
-$("#largeImage").on("click", function () {
-    var largeImage = document.getElementById('largeImage');
-    var imageURI = largeImage.src;
-    $("#pic").html("<img style='display:none;' src='" + imageURI + "' />")
-    $("#picpop").popup("open");
-});

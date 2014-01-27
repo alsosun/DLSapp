@@ -1021,6 +1021,13 @@ $(document).ready(function () {
     //        $("#popupVideo-3").html("<span></span>");
     //    }
     //});
-
+    $("#largeImage").on("click", function () {
+        
+        var largeImage = document.getElementById('largeImage');
+        var imageURI = largeImage.src;
+        alert(imageURI)
+        $("#pic").html("<img src='" + imageURI + "' />")
+        $("#picpop").popup("open");
+    });
    
 });
