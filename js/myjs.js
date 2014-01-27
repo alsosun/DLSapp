@@ -1029,9 +1029,10 @@ $(document).ready(function () {
     onCameraReady()
     //
     function onCameraReady() {
-        alert()
-        pictureSource = navigator.camera.PictureSourceType;
-        destinationType = navigator.camera.DestinationType;
+        
+        //pictureSource = navigator.camera.PictureSourceType;
+        //destinationType = navigator.camera.DestinationType;
+        
     }
 
     // Called when a photo is successfully retrieved
@@ -1076,6 +1077,8 @@ $(document).ready(function () {
 
     // A button will call this function
     //
+    $("#getphoto").on("click", function () {capturePhoto() });
+
     function capturePhoto() {
         // Take picture using device camera and retrieve image as base64-encoded string
         alert()

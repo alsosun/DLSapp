@@ -21,10 +21,7 @@
         Enable individual API permissions here.
         The "device" permission is required for the 'deviceready' event.
     -->
-    <feature name="http://api.phonegap.com/1.0/device" />
-    <feature name="Camera">
-       <param name="android-package" value="org.apache.cordova.camera.CameraLauncher" />
-    </feature> 
+    <feature name="http://api.phonegap.com/1.0/device" /> 
      
      <gap:platform name="ios" />
      <gap:platform name="android" />
