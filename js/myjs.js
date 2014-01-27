@@ -1026,7 +1026,15 @@ $(document).ready(function () {
         var largeImage = document.getElementById('largeImage');
         var imageURI = largeImage.src;
         alert(imageURI)
-        $("#pic").html("<img src='" + imageURI + "' />")
+        $("#picpop").on("popupbeforeposition", function () {
+            var size = scale(497, 298, 15, 1),
+                w = size.width,
+                h = size.height,
+                markup = "<img src='" + imageURI + "' width='" + w + "' height='" + h + "' />";
+
+            $("#pic").html(markup)
+        });
+        
         $("#picpop").popup("open");
     });
    
