@@ -89,7 +89,7 @@ function getPhoto(source) {
 function onFail(message) {
     alert('Failed because: ' + message);
 }
-$("#largeimage").on("click", function () {
+$("#largeImage").on("click", function () {
     var largeImage = document.getElementById('largeImage');
     var imageURI = largeImage.src;
     $("#pic").html("<img style='display:none;' src='" + imageURI + "' />")
