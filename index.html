@@ -52,7 +52,14 @@
                 </form>-->
             </div>		
         </div>
-                      
+              <div>
+                  <button onclick="capturePhoto();">Capture Photo</button> <br>
+                     <button onclick="capturePhotoEdit();">Capture Editable Photo</button> <br>
+                    <button onclick="getPhoto(pictureSource.PHOTOLIBRARY);">From Photo Library</button><br>
+                    <button onclick="getPhoto(pictureSource.SAVEDPHOTOALBUM);">From Photo Album</button><br>
+                    <img style="display:none;width:60px;height:60px;" id="smallImage" src="" />
+                    <img style="display:none;" id="largeImage" src="" />
+              </div>        
 	</div><!-- /content -->
     <div data-role="footer">
 		<h6 class="footer-text">DLS Copyright 2013. All rights reserved</h6>
@@ -515,7 +522,7 @@
                      
 	</div><!-- /content -->
     <div data-role="footer">
-		<h6 class="footer-text">DLS Copyright 2013. All rights reserved</h6>
+		<a href="#" data-icon="camera" data-iconpos="notext">Photo</a>
 	</div><!-- /footer -->
     <div data-role="popup" id="assesspopup" data-overlay-theme="b" data-theme="b" data-dismissible="false" style="max-width:400px;" class="ui-corner-all">
                 <div data-role="header" data-theme="a" class="ui-corner-top">
