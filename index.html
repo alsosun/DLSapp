@@ -54,12 +54,11 @@
             </div>		
         </div>
               <div>
-                  <button id="getphoto" onclick="capturePhoto();" >Capture Photo</button> <br>
-                     <button onclick="capturePhotoEdit();">Capture Editable Photo</button> <br>
+                  
                     <button id="openphoto" onclick="getPhoto(pictureSource.PHOTOLIBRARY);">From Photo Library</button><br>
                     <button onclick="getPhoto(pictureSource.SAVEDPHOTOALBUM);">From Photo Album</button><br>
                     <img style="display:none;width:60px;height:60px;" id="smallImage" src="" />
-                    <img style="width:100px;height:100px;" id="largeImage" src="assests/images/logodls.png" />
+                    
               </div>        
 	</div><!-- /content -->
     <div data-role="footer">
@@ -92,13 +91,13 @@
 </div><!-- /log in page -->
     <div data-role="page" id="picpop" class="jqm-demos ui-responsive-panel"> <!--data-transition="pop" data-overlay-theme="b" data-theme="b" data-dismissible="false"  class="ui-corner-all">-->
                 <div data-role="header" data-theme="a" class="ui-corner-top">  
-                <h1>Image</h1>
-                </div>
-                
+                <h1 id="stdimage">Image</h1>
+                </div>            
                 <div data-role="content" data-theme="d" class="ui-corner-bottom ui-content" style="text-align:center">
-                <div id="pic"></div>       
+                <div id="pic"></div>
+                       
                 <a data-transition="flip" id="A11" data-role="button" data-inline="true" data-rel="back" data-theme="c" class="ui-btn ui-shadow ui-corner-all ui-mini ui-btn-inline ui-icon-carat-l ui-btn-icon-left ui-alt-icon ui-nodisc-icon">BACK</a>
-                </div> 
+                </div>
             </div>	<!-- pop page -->
 <div data-role="page" class="jqm-demos ui-responsive-panel" id="rubrics" data-title="Rubrics"><!-- rubrics page -->
     <div data-role="header">
@@ -448,7 +447,7 @@
     </div><!-- /header -->
     <div role="main" class="ui-content jqm-content jqm-fullwidth">
         <div class="container" style="padding: 0px; text-align:center">
-	        <div id="popassess" style="text-align:left">
+	        <!--<div id="popassess" style="text-align:left">
                 <a href="#popupAssessMenu"  data-rel="popup" data-role="button" data-inline="true" data-transition="slideup" data-icon="gear" data-theme="b">Assessment Menu</a>
                     <div data-role="popup" id="popupAssessMenu" data-theme="d">
                         <ul data-role="listview" data-inset="true" style="min-width:210px;" data-theme="d">
@@ -503,6 +502,7 @@
             <div id="assessmentinput" hidden="hidden">
                 <select id="assess-st-select" data-iconpos="left" data-icon="user"><option value="#"></option></select>
                 <div id="temp" hidden="hidden"></div>
+                
                 <div id="sliders"></div>
             </div>
             <div id="report-con" hidden="hidden">
@@ -513,7 +513,12 @@
                 </div>
                 <div>
                     <a href="#" id="donedataBtn" data-role="button" data-inline="true" data-icon="check" data-theme="c">done</a>
-                    <a href="#" id="exportdataBtn" data-role="button" data-inline="true" data-icon="action" data-theme="c">export / send</a>
+                    <a href="#" id="exportdataBtn" data-role="button" data-inline="true" data-icon="action" data-theme="c">export</a>
+                    
+                </div>
+                <div id="notes" hidden="hidden">
+                    <img style="width:150px;height:150px;" id="largeImage" src="" />
+                    <input type="text" id="anecdote" />
                 </div>
                 <div id="reportexcon" hidden="hidden">
                     <form action="http://www.digitallearnersolutions.com/dailyrubric/export.php" method="post" id="reportform" target="_system">
@@ -528,12 +533,17 @@
                             <button id="exportreportBtn" data-icon="mail">send</button></div>
                     </form>
                 </div>
-            </div>
-        </div>
-                     
+            </div>                   
 	</div><!-- /content -->
     <div data-role="footer">
-		<a href="#" data-icon="camera" data-iconpos="notext">Photo</a>
+		<div data-role="navbar" >
+            <ul>
+                <li><a href="#" id="loadassesslink" data-icon="grid">Open</a></li>
+                <li><a href="#" id="newassesslink" data-icon="plus">New</a></li>
+                <li><a href="#" id="openPicslink" data-icon="camera">Pics</a></li>
+                <li><a href="#" id="openNoteslink" data-icon="edit">Notes</a></li>
+            </ul>
+        </div><!-- /navbar -->
 	</div><!-- /footer -->
     <div data-role="popup" id="assesspopup" data-overlay-theme="b" data-theme="b" data-dismissible="false" style="max-width:400px;" class="ui-corner-all">
                 <div data-role="header" data-theme="a" class="ui-corner-top">

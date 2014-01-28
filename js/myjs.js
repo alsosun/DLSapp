@@ -1046,8 +1046,5 @@ $(document).ready(function () {
             });
             
     });
-    $("#picpop").on('pagecreate', function () {
-        
-
-    });
+    
 });
