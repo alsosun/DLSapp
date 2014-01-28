@@ -95,8 +95,11 @@
                 </div>            
                 <div data-role="content" data-theme="d" class="ui-corner-bottom ui-content" style="text-align:center">
                 <div id="pic"></div>
-                       
-                <a data-transition="flip" id="A11" data-role="button" data-inline="true" data-rel="back" data-theme="c" class="ui-btn ui-shadow ui-corner-all ui-mini ui-btn-inline ui-icon-carat-l ui-btn-icon-left ui-alt-icon ui-nodisc-icon">BACK</a>
+                <div id="notes">
+                    <img style="width:150px;height:150px;" id="largeImage" src="css/themes/default/images/icons-png/camera-black.png" />
+                    <textarea id="anecdote"></textarea>
+                </div>       
+                <a data-transition="flip" id="picpopDone" data-role="button" data-inline="true" data-rel="back" data-theme="c" class="ui-btn ui-shadow ui-corner-all ui-mini ui-btn-inline ui-icon-carat-l ui-btn-icon-left ui-alt-icon ui-nodisc-icon">Done</a>
                 </div>
             </div>	<!-- pop page -->
 <div data-role="page" class="jqm-demos ui-responsive-panel" id="rubrics" data-title="Rubrics"><!-- rubrics page -->
@@ -107,7 +110,7 @@
     </div><!-- /header -->
 
     <div role="main" class="ui-content jqm-content" style="text-align:center">
-        <div id="classmenu" style="text-align:left">
+        <!--<div id="classmenu" style="text-align:left">
                 <a href="#popupMenu" id="popmenu" data-rel="popup" data-role="button" data-inline="true" data-transition="slideup" data-icon="gear" data-theme="b">Rubric Menu</a>
                     <div data-role="popup" id="popupMenu" data-theme="c">
                         <ul data-role="listview" data-inset="true" style="min-width:210px;" data-theme="c">
@@ -117,7 +120,7 @@
                         <li><a href="#" id="delrubriclink" data-rel="back" >Delete Rubric</a></li>                       
                         </ul>
                     </div><!-- pop up -->    
-			</div><!-- menu -->
+			<!--</div>--><!-- menu -->
             <div id="start"><h3>Use menu to create, edit or delete rubrics</h3></div>        
             <div id="newrubric" hidden="hidden">
                 <div id="namerubric">
@@ -231,8 +234,14 @@
 
         <div style="text-align:left"><a href="#" data-transition="slide" data-rel="back" data-role="button" data-inline="true" class="ui-btn ui-shadow ui-corner-all ui-mini ui-btn-inline ui-icon-carat-l ui-btn-icon-left ui-alt-icon ui-nodisc-icon">Back</a></div>
     </div><!-- /content -->
-    <div data-role="footer">
-		<h6 class="footer-text">DLS Copyright 2013. All rights reserved</h6>
+    <div data-role="footer" data-position="fixed" >
+		<div data-role="navbar" >
+            <ul>
+                <li><a href="#" id="newrubriclink" data-icon="plus">New Rubric</a></li>
+                <li><a href="#" id="editrubriclink" data-icon="edit">Edit Rubric</a></li>
+                <li><a href="#" id="delrubriclink" data-icon="delete">Delete Rubric</a></li>
+            </ul>
+        </div><!-- /navbar -->
 	</div><!-- /footer -->
             <div data-role="popup" id="errorpop" data-overlay-theme="b" data-theme="b" data-dismissible="false" style="max-width:400px;" class="ui-corner-all">
                 <div data-role="header" data-theme="a" class="ui-corner-top">  
@@ -295,7 +304,7 @@
     </div><!-- /header -->
     <div role="main" class="ui-content jqm-content jqm-fullwidth">
         <div class="container" style="padding: 0px; text-align:center">
-	        <div id="Div1" style="text-align:left">
+	        <!--<div id="Div1" style="text-align:left">
                 <a href="#popupClassMenu"  data-rel="popup" data-role="button" data-inline="true" data-transition="slideup" data-icon="gear" data-theme="b">Classes Menu</a>
                     <div data-role="popup" id="popupClassMenu" data-theme="d">
                         <ul data-role="listview" data-inset="true" style="min-width:210px;" data-theme="d">
@@ -305,8 +314,8 @@
                         <li><a href="#" id="addstlink" data-rel="back" >Add Student</a></li>
                         <li><a href="#" id="delstlink" data-rel="back" >Delete Student</a></li>
                         </ul>
-                    </div><!-- pop up menu -->
-           </div>     
+                    </div>--><!-- pop up menu -->
+          <!-- </div> -->    
                 <div id="currentclasses" style="text-align:center">
                     <h2>Current Classes</h2>
                     <form>
@@ -379,8 +388,15 @@
 			</div>
         </div>                   
 	</div><!-- /content -->
-    <div data-role="footer">
-		<h6 class="footer-text">DLS Copyright 2013. All rights reserved</h6>
+    <div data-role="footer" data-position="fixed" >
+		<div data-role="navbar" >
+            <ul>
+                <li><a href="#" id="addclasslink" data-icon="plus">New Class</a></li>
+                <li><a href="#" id="delclasslink" data-icon="delete">Delete Class</a></li>
+                <li><a href="#" id="addstlink" data-icon="user">Add Student</a></li>
+                <li><a href="#" id="delstlink" data-icon="delete" >Delete Student</a></li>
+            </ul>
+        </div><!-- /navbar -->
 	</div><!-- /footer -->
     <div data-role="popup" id="errorpopcl" data-overlay-theme="b" data-theme="b" data-dismissible="false" style="max-width:400px;" class="ui-corner-all">
                 <div data-role="header" data-theme="a" class="ui-corner-top">
@@ -440,7 +456,7 @@
 	</div><!-- /panel -->
 </div><!-- /classes page -->
 <div data-role="page" class="jqm-demos ui-responsive-panel" id="assess" data-title="Assessment"><!-- assess page -->
-    <div data-role="header" data-position="fixed">
+    <div data-role="header" data-position="fixed" >
         <h1>Assessment</h1>
         <a href="#nav-assess" data-icon="bars" data-iconpos="notext">Menu</a>
         <a href="#right-assess" data-icon="info" data-iconpos="notext">Add</a>
@@ -462,9 +478,9 @@
                 <h2 id="reportlabel"></h2>
 	        </div>
             <div id="reportstart">               
-                <p>Use the Assessment menu to create new assessments and reports, or to load assessments still in progress.</p>
+                <h2>Use the Assessment menu to create new assessments and reports, or to open assessments still in progress.</h2>
             </div>
-            <div id="newassess" hidden="hidden">
+            <div id="newassess" hidden="hidden" style="text-align:center">
                 <h2>New Assessment</h2>
                 <p>Select a Class and a Rubric, and then use sliders to add assessment data for each student.</p>
                     <form>
@@ -490,7 +506,7 @@
                     </form>
                 <a href="#" id="newassessBtn" data-role="button" data-inline="true" data-theme="b">Start Assessment</a>
             </div>
-            <div id="loadassess" hidden="hidden">
+            <div id="loadassess" hidden="hidden" style="text-align:center">
                 <h2>Load or Delete Assessment</h2>
                 <p>Select an assessment to continue entering data or to delete it.</p>
                 <select id="assess-report-select" data-iconpos="left" data-icon="star">
@@ -505,21 +521,20 @@
                 
                 <div id="sliders"></div>
             </div>
-            <div id="report-con" hidden="hidden">
+            <div id="report-con" hidden="hidden" style="text-align:center">
                 <a href="#" id="adddataBtn" data-role="button" data-inline="true" data-icon="plus" data-theme="c">Add result</a>
+                <a href="#" id="openpicpop" data-role="button" data-inline="true" data-icon="camera" data-theme="c">Image</a>
+                <a href="#" id="opennotepop" data-role="button" data-inline="true" data-icon="edit" data-theme="c">Note</a>
                 <h2 id="reporttop"></h2>
                 <div id="report">
 
                 </div>
-                <div>
+                <div style="text-align:center">
                     <a href="#" id="donedataBtn" data-role="button" data-inline="true" data-icon="check" data-theme="c">done</a>
                     <a href="#" id="exportdataBtn" data-role="button" data-inline="true" data-icon="action" data-theme="c">export</a>
                     
-                </div>
-                <div id="notes" hidden="hidden">
-                    <img style="width:150px;height:150px;" id="largeImage" src="" />
-                    <input type="text" id="anecdote" />
-                </div>
+                </div><!--//reportcon-->
+                
                 <div id="reportexcon" hidden="hidden">
                     <form action="http://www.digitallearnersolutions.com/dailyrubric/export.php" method="post" id="reportform" target="_system">
                         <label for="email">enter your email</label>
@@ -535,13 +550,12 @@
                 </div>
             </div>                   
 	</div><!-- /content -->
-    <div data-role="footer">
+    <div data-role="footer" data-position="fixed" >
 		<div data-role="navbar" >
             <ul>
                 <li><a href="#" id="loadassesslink" data-icon="grid">Open</a></li>
                 <li><a href="#" id="newassesslink" data-icon="plus">New</a></li>
-                <li><a href="#" id="openPicslink" data-icon="camera">Pics</a></li>
-                <li><a href="#" id="openNoteslink" data-icon="edit">Notes</a></li>
+                <li><a href="#" id="delassesslink" data-icon="delete">Delete</a></li>
             </ul>
         </div><!-- /navbar -->
 	</div><!-- /footer -->

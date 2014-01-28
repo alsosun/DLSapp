@@ -847,7 +847,7 @@ $(document).ready(function () {
         var currentassessment = localStorage.getItem("currentassess")
         var currentreport = $("#report").html();
         localStorage.setItem(currentassessment + "report", currentreport);
-        $("#assesspopmessage").html("Assessment progress is saved. To continue at a later time, select 'Load Saved Assessment' from the menu above");
+        $("#assesspopmessage").html("Assessment progress is saved. To continue at a later time, select 'Open' from the menu below");
         $("#assesspopup").popup("open");
     });
     //save progress auto
@@ -1003,29 +1003,11 @@ $(document).ready(function () {
             $("#popupVideo-2").html("<span></span>");
         }
     });
-    ////vid 3
-    //$("#popupVideo-3 iframe")
-    //    .attr("width", 0)
-    //    .attr("height", 0);
-
-    //$("#popupVideo-3").on({
-    //    popupbeforeposition: function () {
-    //        var size = scale(497, 298, 15, 1),
-    //            w = size.width,
-    //            h = size.height,
-    //            markup = " <iframe src='http://www.youtube.com/embed/1cp2YgrU3ws?rel=0' width='" + w + "' height='" + h + "'  seamless></iframe>";
-
-    //        $("#popupVideo-3").html(markup);
-    //    },
-    //    popupafterclose: function () {
-    //        $("#popupVideo-3").html("<span></span>");
-    //    }
-    //});
-    $("#largeImage").on("click", function () {
+    //camera and notes
+    function getImage() {
         
         var largeImage = document.getElementById('largeImage');
-        var imageURI = largeImage.src;
-        alert(imageURI)
+        var imageURI = localStorage.getItem()
         //$("#picpop").on("popupbeforeposition", function () {
            var size = scale(497, 298, 15, 1),
                w = size.width,
@@ -1033,18 +1015,19 @@ $(document).ready(function () {
                markup = "<img src='" + imageURI + "' width='" + w + "' height='" + h + "' />";
 
             $("#pic").html(markup)
-        //});
-        
-        //$("#picpop").popup("open");
-        
-            $(':mobile-pagecontainer').pagecontainer('change', '#picpop', {
-                transition: 'flip',
-                //changeHash: true,
-                reverse: true,
-                //role: "dialog",
-                showLoadMsg: true
-            });
-            
-    });
-    
+        //});     
+    };
+    $("#openpicpop").on("click", function () { openPicNote() })
+    $("#opennotepop").on("click", function () { openPicNote() })
+
+    function openPicNote() {
+        //getimage()
+        $(':mobile-pagecontainer').pagecontainer('change', '#picpop', {
+            transition: 'flip',
+            //changeHash: true,
+            reverse: true,
+            //role: "dialog",
+            showLoadMsg: true
+        });
+    };
 });
