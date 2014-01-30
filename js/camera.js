@@ -37,8 +37,6 @@ function onPhotoDataSuccess(imageData) {
 //
 function onPhotoURISuccess(imageURI) {
     // Uncomment to view the image file URI
-    
-
     // Get image handle
     //
     //var largeImage = document.getElementById('largeImage');
@@ -61,6 +59,7 @@ function onPhotoURISuccess(imageURI) {
                markup = "<img src='" + imageURI + "' width='" + w + "' height='" + h + "' />";
 
     $("#pic").html(markup)
+    $("#pic").trigger("create")
 }
 
 // A button will call this function
