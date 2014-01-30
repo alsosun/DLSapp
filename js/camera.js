@@ -51,6 +51,10 @@ function onPhotoURISuccess(imageURI) {
     // The inline CSS rules are used to resize the image
     //
     largeImage.src = imageURI;
+    
+    //store pic to std value
+    var stvalue = $("#assess-st-select option:selected").val();
+    localStorage.setItem("currentassess" + "piclink" + stvalue, imageURI)
 }
 
 // A button will call this function

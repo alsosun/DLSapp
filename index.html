@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1", user-scalable=true">
+    <meta name="viewport" content="width=device-width, initial-scale=1", user-scalable="true">
     <title>Daily Rubric</title>
 	<link rel="shortcut icon" href="favicon.ico">
 	<!--<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.0/jquery.mobile-1.4.0.min.css" />-->
@@ -19,6 +19,7 @@
     <script type="text/javascript" src="js/FeedEk.js"></script>
     <script src="phonegap.js"></script>
     <script src="js/camera.js"></script>
+    <script src="js/db.js"></script>
     <!--<script src="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/jquery.dataTables.min.js" ></script>
     <link rel="stylesheet" type="text/css" href="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/css/jquery.dataTables.css" />-->
     <!--<script src="media/js/TableTools.js"></script>
@@ -55,9 +56,10 @@
         </div>
               <div>
                   
-                    <button id="openphoto" onclick="getPhoto(pictureSource.PHOTOLIBRARY);">From Photo Library</button><br>
+                    <!--<button id="openphoto" onclick="getPhoto(pictureSource.PHOTOLIBRARY);">From Photo Library</button><br>
                     <button onclick="getPhoto(pictureSource.SAVEDPHOTOALBUM);">From Photo Album</button><br>
-                    <img style="display:none;width:60px;height:60px;" id="smallImage" src="" />
+                    <img style="display:none;width:60px;height:60px;" id="smallImage" src="" />-->
+                  <!--<a href="#db" data-transition="slide"><img src="css\themes\default\images\icons-png\home-white.png" alt="home" class="ui-li-icon"/>bd</a>-->
                     
               </div>        
 	</div><!-- /content -->
@@ -89,19 +91,7 @@
         </div>
 	</div><!-- /panel --> 
 </div><!-- /log in page -->
-    <div data-role="page" id="picpop" class="jqm-demos ui-responsive-panel"> <!--data-transition="pop" data-overlay-theme="b" data-theme="b" data-dismissible="false"  class="ui-corner-all">-->
-                <div data-role="header" data-theme="a" class="ui-corner-top">  
-                <h1 id="stdimage">Image</h1>
-                </div>            
-                <div data-role="content" data-theme="d" class="ui-corner-bottom ui-content" style="text-align:center">
-                <div id="pic"></div>
-                <div id="notes">
-                    <img style="width:150px;height:150px;" id="largeImage" src="css/themes/default/images/icons-png/camera-black.png" />
-                    <textarea id="anecdote"></textarea>
-                </div>       
-                <a data-transition="flip" id="picpopDone" data-role="button" data-inline="true" data-rel="back" data-theme="c" class="ui-btn ui-shadow ui-corner-all ui-mini ui-btn-inline ui-icon-carat-l ui-btn-icon-left ui-alt-icon ui-nodisc-icon">Done</a>
-                </div>
-            </div>	<!-- pop page -->
+    
 <div data-role="page" class="jqm-demos ui-responsive-panel" id="rubrics" data-title="Rubrics"><!-- rubrics page -->
     <div data-role="header">
         <h2>Rubrics</h2>
@@ -462,7 +452,7 @@
         <a href="#right-assess" data-icon="info" data-iconpos="notext">Add</a>
     </div><!-- /header -->
     <div role="main" class="ui-content jqm-content jqm-fullwidth">
-        <div class="container" style="padding: 0px; text-align:center">
+        <!--<div class="container" style="padding: 0px; text-align:center">-->
 	        <!--<div id="popassess" style="text-align:left">
                 <a href="#popupAssessMenu"  data-rel="popup" data-role="button" data-inline="true" data-transition="slideup" data-icon="gear" data-theme="b">Assessment Menu</a>
                     <div data-role="popup" id="popupAssessMenu" data-theme="d">
@@ -473,7 +463,7 @@
                         <li><a href="#" id="delassesslink" data-rel="back" >Delete Assessment</a></li>
                         </ul>
                     </div><!-- pop up menu -->
-           </div>
+           <!--</div>-->
             <div>
                 <h2 id="reportlabel"></h2>
 	        </div>
@@ -843,5 +833,66 @@
         </div>
 	</div><!-- /panel -->
 </div><!-- /news page -->
+    <div data-role="page" class="jqm-demos ui-responsive-panel" id="db" data-title="DB"><!-- db page -->
+    <div data-role="header" data-position="fixed">
+        <h1>Daily Rubric</h1>
+        <a href="#nav-panel" data-icon="bars" data-iconpos="notext">Menu</a>
+        <a href="#add-form" data-icon="info" data-iconpos="notext">Add</a>
+    </div><!-- /header -->
+    <div role="main" class="ui-content jqm-content jqm-fullwidth">
+        <div class="container" style="padding: 0px; text-align:center">
+			<div>
+                <a href="#" id="dbBtn">build db</a>
+			</div>
+                
+            <div> 
+               
+            </div>		
+        </div>
+                      
+	</div><!-- /content -->
+    <div data-role="footer">
+		<h6 class="footer-text">DLS Copyright 2013. All rights reserved</h6>
+	</div><!-- /footer -->
+
+	<div data-role="panel" data-display="overlay" data-theme="b" id="Div2">                
+		        <ul data-role="listview" data-inset="false" data-theme="b">
+                <li><div style="text-align: center;"><h5 id="H4"><img src="assests/images/logo.png" /></h5></div></li>
+                <li data-icon="delete"><a href="#" data-rel="close">Close menu</a></li>
+                <li><a href="#home" data-transition="slide"><img src="css\themes\default\images\icons-png\home-white.png" alt="home" class="ui-li-icon"/>Home</a></li>                    
+                <li><a href="#rubrics" data-transition="slide" id="A11"><img src="css\themes\default\images\icons-png\bullets-white.png" alt="home" class="ui-li-icon"/>Make Rubrics</a></li>
+                <li><a href="#assess" data-transition="slide"><img src="css\themes\default\images\icons-png\edit-white.png" alt="home" class="ui-li-icon"/>Assessments</a></li>
+                <li><a href="#classes" data-transition="slide"><img src="css\themes\default\images\icons-png\user-white.png" alt="home" class="ui-li-icon"/>Manage Classes</a></li>
+                
+                <li><a href="#home" data-transition="slide"><img src="css\themes\default\images\icons-png\video-white.png" alt="home" class="ui-li-icon"/>Tutorial</a></li>
+                <li><a href="#planner" data-transition="slide"><img src="css\themes\default\images\icons-png\star-white.png" alt="home" class="ui-li-icon"/>Unit Planner</a></li>
+                <li><a href="#news" data-transition="slide"><img src="css\themes\default\images\icons-png\info-white.png" alt="home" class="ui-li-icon"/>News</a></li>
+                
+		</ul>
+	</div><!-- /panel -->
+	<div data-role="panel" data-position="right" data-display="reveal" data-theme="a" id="Div4">
+        <div id="Div7">
+        	<h2>Description</h2>
+            <p>Daily Rubric allows educators to quickly and consistently collect and share assessment that is directly connected to curriculum outcomes. Daily Rubric can be used as a companion to DLS Unit and Rubric Builder.</p> 
+            <p>Daily Rubric and Unit and Rubric Planner will soon be connected for PC to mobile usage--stay tuned!</p>
+            <p>To learn more about Unit and Planner, <a href="#" class="extlk">visit us online.</a></p>           
+        </div>
+	</div><!-- /panel --> 
+</div><!-- /log in page -->
+    <div data-role="page" id="picpop" class="jqm-demos ui-responsive-panel"> <!--picpop">-->
+                <div data-role="header" data-theme="a" class="ui-corner-top">  
+                <h1 id="stdimagename">Image</h1>
+                </div>            
+                <div data-role="content" data-theme="d" class="ui-corner-bottom ui-content" style="text-align:center">               
+                <div id="pic">
+                    
+                </div>
+                <div>
+                    <p>Assessment notes:</p>
+                    <textarea id="anecdote" placeholder="Enter notes here"></textarea>
+                </div>       
+                <a data-transition="flip" id="picpopdone" data-role="button" data-inline="true" data-rel="back" data-theme="c" class="ui-btn ui-shadow ui-corner-all ui-mini ui-btn-inline ui-icon-carat-l ui-btn-icon-left ui-alt-icon ui-nodisc-icon">Done</a>
+                </div>
+     </div>	<!-- pop page -->
 </body>
 </html>

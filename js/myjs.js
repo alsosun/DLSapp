@@ -789,6 +789,10 @@ $(document).ready(function () {
             localStorage.removeItem(selrep + "report");
             localStorage.removeItem(selrep + "rubric");
             localStorage.removeItem(selrep + "class");
+            for (i = 1; i < 36; i++) {
+                localStorage.removeItem(selrep + "note" + i)
+                localStorage.removeItem(selrep + "piclink" + i)
+            };
             onReportSelect();
         });
     $("#dialognoas").on("click", function () {
@@ -1005,9 +1009,21 @@ $(document).ready(function () {
     });
     //camera and notes
     function getImage() {
-        
+        var stname = $("#assess-st-select option:selected").text();
+        var stvalue = $("#assess-st-select option:selected").val();
+        //check if link to image exists and set up popup
+        var note = localStorage.getItem("currentassess" + "note" + stvalue)
+        var piclink = localStorage.getItem("currentassess" + "piclink" + stvalue)
+        $("#anecdote").val(note)
+        $("#stdimagename").html(stname)
+        var imageURI
+        if (piclink == null) {
+            imageURI = "assests/images/noimage.png"
+        } else {
+            imageURI = piclink
+        }
         var largeImage = document.getElementById('largeImage');
-        var imageURI = localStorage.getItem()
+        
         //$("#picpop").on("popupbeforeposition", function () {
            var size = scale(497, 298, 15, 1),
                w = size.width,
@@ -1017,11 +1033,17 @@ $(document).ready(function () {
             $("#pic").html(markup)
         //});     
     };
+    $("#picpopdone").on("click", function () {
+        var stvalue = $("#assess-st-select option:selected").val();
+        //check if link to image exists and set up popup
+        var note = $("#anecdote").val()
+        localStorage.setItem("currentassess" + "note" + stvalue, note)
+    })
     $("#openpicpop").on("click", function () { openPicNote() })
     $("#opennotepop").on("click", function () { openPicNote() })
 
     function openPicNote() {
-        //getimage()
+        getImage()
         $(':mobile-pagecontainer').pagecontainer('change', '#picpop', {
             transition: 'flip',
             //changeHash: true,
