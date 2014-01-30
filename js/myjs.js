@@ -1022,7 +1022,7 @@ $(document).ready(function () {
         } else {
             imageURI = piclink
         }
-        var largeImage = document.getElementById('largeImage');
+        
         
         //$("#picpop").on("popupbeforeposition", function () {
            var size = scale(497, 298, 15, 1),

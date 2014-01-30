@@ -37,24 +37,30 @@ function onPhotoDataSuccess(imageData) {
 //
 function onPhotoURISuccess(imageURI) {
     // Uncomment to view the image file URI
-    alert(imageURI);
+    
 
     // Get image handle
     //
-    var largeImage = document.getElementById('largeImage');
+    //var largeImage = document.getElementById('largeImage');
 
     // Unhide image elements
     //
-    largeImage.style.display = 'block';
+    //largeImage.style.display = 'block';
 
     // Show the captured photo
     // The inline CSS rules are used to resize the image
     //
-    largeImage.src = imageURI;
+    //largeImage.src = imageURI;
     
     //store pic to std value
     var stvalue = $("#assess-st-select option:selected").val();
     localStorage.setItem("currentassess" + "piclink" + stvalue, imageURI)
+    var size = scale(497, 298, 15, 1),
+               w = size.width,
+                h = size.height,
+               markup = "<img src='" + imageURI + "' width='" + w + "' height='" + h + "' />";
+
+    $("#pic").html(markup)
 }
 
 // A button will call this function
