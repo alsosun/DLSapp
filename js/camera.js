@@ -58,8 +58,8 @@ function onPhotoURISuccess(imageURI) {
                 h = size.height,
                markup = "<img src='" + imageURI + "' width='" + w + "' height='" + h + "' />";
 
-    $("#pic").html(markup)
-    $("#pic").trigger("create")
+    $("#pic").hide().html(markup).fadeIn("fast")
+   
 }
 
 // A button will call this function
