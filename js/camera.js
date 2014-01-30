@@ -52,7 +52,8 @@ function onPhotoURISuccess(imageURI) {
     
     //store pic to std value
     var stvalue = $("#assess-st-select option:selected").val();
-    localStorage.setItem("currentassess" + "piclink" + stvalue, imageURI)
+    var currentassessment = localStorage.getItem("currentassess")
+    localStorage.setItem(currentassessment + "piclink" + stvalue, imageURI)
     var size = scale(497, 298, 15, 1),
                w = size.width,
                 h = size.height,
