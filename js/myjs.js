@@ -784,7 +784,8 @@ $(document).ready(function () {
             $("#dialogas").popup("open");
         });
     $("#dialogyesas").on("click", function () {
-            var selrep = "reportnm" + $("#assess-report-select").find(":selected").val();
+        var selrep = "reportnm" + $("#assess-report-select").find(":selected").val();
+       
             localStorage.removeItem(selrep);
             localStorage.removeItem(selrep + "report");
             localStorage.removeItem(selrep + "rubric");
@@ -1011,9 +1012,10 @@ $(document).ready(function () {
     function getImage() {
         var stname = $("#assess-st-select option:selected").text();
         var stvalue = $("#assess-st-select option:selected").val();
+        var currentassessment = localStorage.getItem("currentassess")
         //check if link to image exists and set up popup
-        var note = localStorage.getItem("currentassess" + "note" + stvalue)
-        var piclink = localStorage.getItem("currentassess" + "piclink" + stvalue)
+        var note = localStorage.getItem(currentassessment + "note" + stvalue)
+        var piclink = localStorage.getItem(currentassessment + "piclink" + stvalue)
         $("#anecdote").val(note)
         $("#stdimagename").html(stname)
         var imageURI
@@ -1037,7 +1039,8 @@ $(document).ready(function () {
         var stvalue = $("#assess-st-select option:selected").val();
         //check if link to image exists and set up popup
         var note = $("#anecdote").val()
-        localStorage.setItem("currentassess" + "note" + stvalue, note)
+        var currentassessment = localStorage.getItem("currentassess")
+        localStorage.setItem(currentassessment + "note" + stvalue, note)
     })
     $("#openpicpop").on("click", function () { openPicNote() })
     $("#opennotepop").on("click", function () { openPicNote() })
@@ -1047,7 +1050,7 @@ $(document).ready(function () {
         $(':mobile-pagecontainer').pagecontainer('change', '#picpop', {
             transition: 'flip',
             //changeHash: true,
-            reverse: true,
+            //reverse: true,
             //role: "dialog",
             showLoadMsg: true
         });
