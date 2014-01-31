@@ -55,7 +55,7 @@ function onPhotoURISuccess(imageURI) {
     var stvalue = $("#assess-st-select option:selected").val();
     var currentassessment = localStorage.getItem("currentassess")
     localStorage.setItem(currentassessment + "piclink" + stvalue, imageURI)
-    var size = scale(497, 298, 15, 1),
+    var size = scale2(497, 298, 15, 1),
                w = size.width,
                 h = size.height,
                markup = "<img src='" + imageURI + "' width='" + w + "' height='" + h + "' />";
@@ -65,7 +65,32 @@ function onPhotoURISuccess(imageURI) {
     $("#pic").show()
    
 }
+function scale2(width, height, padding, border) {
 
+    var scrWidth = $(window).width() - 30,
+        scrHeight = $(window).height() - 30,
+        ifrPadding = 2 * padding,
+        ifrBorder = 2 * border,
+        ifrWidth = width + ifrPadding + ifrBorder,
+        ifrHeight = height + ifrPadding + ifrBorder,
+        h, w;
+
+    if (ifrWidth < scrWidth && ifrHeight < scrHeight) {
+        w = ifrWidth;
+        h = ifrHeight;
+    } else if ((ifrWidth / scrWidth) > (ifrHeight / scrHeight)) {
+        w = scrWidth;
+        h = (scrWidth / ifrWidth) * ifrHeight;
+    } else {
+        h = scrHeight;
+        w = (scrHeight / ifrHeight) * ifrWidth;
+    }
+
+    return {
+        'width': w - (ifrPadding + ifrBorder),
+        'height': h - (ifrPadding + ifrBorder)
+    };
+};
 // A button will call this function
 //
 function capturePhoto() {
