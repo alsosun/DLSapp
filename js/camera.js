@@ -51,6 +51,7 @@ function onPhotoURISuccess(imageURI) {
     //largeImage.src = imageURI;
     
     //store pic to std value
+    $("#pic").hide()
     var stvalue = $("#assess-st-select option:selected").val();
     var currentassessment = localStorage.getItem("currentassess")
     localStorage.setItem(currentassessment + "piclink" + stvalue, imageURI)
@@ -59,7 +60,7 @@ function onPhotoURISuccess(imageURI) {
                 h = size.height,
                markup = "<img src='" + imageURI + "' width='" + w + "' height='" + h + "' />";
 
-    $("#pic").hide()
+    
     $("#pic").html(markup)
     $("#pic").show()
    
