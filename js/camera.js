@@ -60,7 +60,7 @@ function onPhotoURISuccess(imageURI) {
                 h = size.height,
                markup = "<img src='" + imageURI + "' width='" + w + "' height='" + h + "' />";
 
-    
+    alert()
     $("#pic").html(markup)
     $("#pic").show()
    
