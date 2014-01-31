@@ -59,7 +59,9 @@ function onPhotoURISuccess(imageURI) {
                 h = size.height,
                markup = "<img src='" + imageURI + "' width='" + w + "' height='" + h + "' />";
 
-    $("#pic").hide().html(markup).fadeIn("fast")
+    $("#pic").hide()
+    $("#pic").html(markup)
+    $("#pic").show()
    
 }
 
