@@ -919,11 +919,31 @@ $(document).ready(function () {
         var exreportname = $('#reportlabel').html();
         var currentemail = $("#email1").val()
         localStorage.setItem('email', currentemail)
-
+        var notes = exportNotes()
+        $('#hiddennotes').val(notes);
         $('#reportname').val(exreportname);
         $('#reporttable').val(exreport);
         $("#reportform").submit();
     });
+    function exportNotes() {
+        //loop through stds and get notes to a <p></p>
+        var currentassessment = localStorage.getItem("currentassess")
+        var txt = "<h2>Assessment Notes</h2>"
+        for (i = 1; i < 36; i++) {
+            var note = localStorage.getItem(currentassessment + "note" + i)
+            if (localStorage.getItem(currentassessment + "note" + i) !== null) {
+            
+                note = localStorage.getItem(currentassessment + "note" + i)
+                var stname = $("#assess-st-select option[value='" + i + "']").text();
+                txt = txt + "<h3>" + stname + "</h3><p>" + note + "</p>"
+                
+            };
+            
+        }
+        
+        return txt;
+    };
+
     //tabletools for web version
     //function dataTablecall() {
     //    $('#reporttry table').dataTable({
