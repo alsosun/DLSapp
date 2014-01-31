@@ -59,8 +59,6 @@ function onPhotoURISuccess(imageURI) {
                w = size.width,
                 h = size.height,
                markup = "<img src='" + imageURI + "' width='" + w + "' height='" + h + "' />";
-
-    alert()
     $("#pic").html(markup)
     $("#pic").show()
    
@@ -125,7 +123,7 @@ function getPhoto(source) {
 // Called if something bad happens.
 //
 function onFail(message) {
-    alert('Failed because: ' + message);
+    alert('No Image selected because: ' + message);
 }
 
 
