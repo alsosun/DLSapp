@@ -924,7 +924,7 @@ $(document).ready(function () {
         $('#reportname').val(exreportname);
         $('#reporttable').val(exreport);
         $("#reportform").submit();
-        $('#loader').show()
+        $('#loader2').show()
     });
     function exportNotes() {
         //loop through stds and get notes to a <p></p>
@@ -1051,7 +1051,8 @@ $(document).ready(function () {
                 h = size.height,
                markup = "<img src='" + imageURI + "' width='" + w + "' height='" + h + "' />";
 
-            $("#pic").html(markup)
+           $("#pic").html(markup)
+        alert(imageURI)
         //});     
     };
     $("#picpopdone").on("click", function () {
