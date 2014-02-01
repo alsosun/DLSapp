@@ -19,7 +19,7 @@
     <script type="text/javascript" src="js/FeedEk.js"></script>
     <script src="phonegap.js"></script>
     <script src="js/camera.js"></script>
-    <script src="js/db.js"></script>
+    <!--<script src="js/db.js"></script>-->
     <!--<script src="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/jquery.dataTables.min.js" ></script>
     <link rel="stylesheet" type="text/css" href="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/css/jquery.dataTables.css" />-->
     <!--<script src="media/js/TableTools.js"></script>
@@ -85,8 +85,7 @@
 	<div data-role="panel" data-position="right" data-display="reveal" data-theme="a" id="add-form">
         <div id="rightpanel">
         	<h2>Description</h2>
-            <p>Daily Rubric allows educators to quickly and consistently collect and share assessment that is directly connected to curriculum outcomes. Daily Rubric can be used as a companion to DLS Unit and Rubric Builder.</p> 
-            <p>Daily Rubric and Unit and Rubric Planner will soon be connected for PC to mobile usage--stay tuned!</p>
+            <p>Daily Rubric allows educators to quickly and consistently collect and share assessment data that is directly connected to curriculum outcomes. Daily Rubric can be used as a companion to DLS Unit and Rubric Builder.</p> 
             <p>To learn more about Unit and Planner, <a href="#" class="extlk">visit us online.</a></p>           
         </div>
 	</div><!-- /panel --> 
@@ -111,7 +110,7 @@
                         </ul>
                     </div><!-- pop up -->    
 			<!--</div>--><!-- menu -->
-            <div id="start"><h3>Use menu to create, edit or delete rubrics</h3></div>        
+            <div id="start"><h3>Use the menu below to create, edit or delete rubrics</h3></div>        
             <div id="newrubric" hidden="hidden">
                 <div id="namerubric">
                     <h2>Create New Rubric</h2>
@@ -294,18 +293,7 @@
     </div><!-- /header -->
     <div role="main" class="ui-content jqm-content jqm-fullwidth">
         <div class="container" style="padding: 0px; text-align:center">
-	        <!--<div id="Div1" style="text-align:left">
-                <a href="#popupClassMenu"  data-rel="popup" data-role="button" data-inline="true" data-transition="slideup" data-icon="gear" data-theme="b">Classes Menu</a>
-                    <div data-role="popup" id="popupClassMenu" data-theme="d">
-                        <ul data-role="listview" data-inset="true" style="min-width:210px;" data-theme="d">
-                        <li data-role="divider" data-theme="b">Choose an action</li>
-                        <li><a href="#" id="addclasslink" data-rel="back">Add Class</a></li>
-                        <li><a href="#"id="delclasslink" data-rel="back" >Delete Class</a></li>
-                        <li><a href="#" id="addstlink" data-rel="back" >Add Student</a></li>
-                        <li><a href="#" id="delstlink" data-rel="back" >Delete Student</a></li>
-                        </ul>
-                    </div>--><!-- pop up menu -->
-          <!-- </div> -->    
+	           
                 <div id="currentclasses" style="text-align:center">
                     <h2>Current Classes</h2>
                     <form>
@@ -321,21 +309,7 @@
                     </fieldset>
                     </form>
                 </div><!-- classes DD -->
-               <!--<div id="currentclasses" style="text-align:center">
-                    <h2>Current Classes</h2>
-                    <form>
-                        <div data-role="fieldcontain">
-                            <label for="select-native-1">Classes</label>
-                                <select name="select-native-1" id="classes-select" data-iconpos="left" data-icon="edit" >
-                                    <option value="#">Class</option>
-                                </select>
-                            <label for="select-native-2">Students</label>
-                            <select name="select-native-2" id="students-select" data-iconpos="left" data-icon="user">
-                                <option value="#">Student</option>                           
-                            </select>
-                         </div>                                      
-                    </form>
-                </div><!-- classes DD -->
+               
             
             <div id="addclass" style="text-align:center" hidden="hidden">             	              
               <div><div style="text-align:center"><h2>Add Classes</h2></div>
@@ -452,18 +426,7 @@
         <a href="#right-assess" data-icon="info" data-iconpos="notext">Add</a>
     </div><!-- /header -->
     <div role="main" class="ui-content jqm-content jqm-fullwidth">
-        <!--<div class="container" style="padding: 0px; text-align:center">-->
-	        <!--<div id="popassess" style="text-align:left">
-                <a href="#popupAssessMenu"  data-rel="popup" data-role="button" data-inline="true" data-transition="slideup" data-icon="gear" data-theme="b">Assessment Menu</a>
-                    <div data-role="popup" id="popupAssessMenu" data-theme="d">
-                        <ul data-role="listview" data-inset="true" style="min-width:210px;" data-theme="d">
-                        <li data-role="divider" data-theme="b">Choose an action</li>
-                        <li><a href="#" id="newassesslink" data-rel="back">New Assessment</a></li>
-                        <li><a href="#" id="loadassesslink" data-rel="back" >Load Saved Assessment</a></li>
-                        <li><a href="#" id="delassesslink" data-rel="back" >Delete Assessment</a></li>
-                        </ul>
-                    </div><!-- pop up menu -->
-           <!--</div>-->
+        
             <div>
                 <h2 id="reportlabel"></h2>
 	        </div>

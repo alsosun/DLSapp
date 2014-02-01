@@ -1043,9 +1043,7 @@ $(document).ready(function () {
             imageURI = "assests/images/noimage.png"
         } else {
             imageURI = piclink
-        }
-        
-        
+        }   
         //$("#picpop").on("popupbeforeposition", function () {
            var size = scale(497, 298, 15, 1),
                w = size.width,
