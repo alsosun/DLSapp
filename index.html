@@ -96,6 +96,13 @@
         <h2>Rubrics</h2>
         <a href="#nav-rubric" data-icon="bars" data-iconpos="notext">Menu</a>
         <a href="#right-rubric" data-icon="info" data-iconpos="notext">Add</a>
+        <div data-role="navbar" >
+            <ul>
+                <li><a href="#" id="newrubriclink" data-icon="plus">New Rubric</a></li>
+                <li><a href="#" id="editrubriclink" data-icon="edit">Edit Rubric</a></li>
+                <li><a href="#" id="delrubriclink" data-icon="delete">Delete Rubric</a></li>
+            </ul>
+        </div><!-- /navbar -->
     </div><!-- /header -->
 
     <div role="main" class="ui-content jqm-content" style="text-align:center">
@@ -110,7 +117,7 @@
                         </ul>
                     </div><!-- pop up -->    
 			<!--</div>--><!-- menu -->
-            <div id="start"><h3>Use the menu below to create, edit or delete rubrics</h3></div>        
+            <div id="start"><h3>Use the menu above to create, edit or delete rubrics</h3></div>        
             <div id="newrubric" hidden="hidden">
                 <div id="namerubric">
                     <h2>Create New Rubric</h2>
@@ -224,13 +231,7 @@
         <div style="text-align:left"><a href="#" data-transition="slide" data-rel="back" data-role="button" data-inline="true" class="ui-btn ui-shadow ui-corner-all ui-mini ui-btn-inline ui-icon-carat-l ui-btn-icon-left ui-alt-icon ui-nodisc-icon">Back</a></div>
     </div><!-- /content -->
     <div data-role="footer" data-position="fixed" >
-		<div data-role="navbar" >
-            <ul>
-                <li><a href="#" id="newrubriclink" data-icon="plus">New Rubric</a></li>
-                <li><a href="#" id="editrubriclink" data-icon="edit">Edit Rubric</a></li>
-                <li><a href="#" id="delrubriclink" data-icon="delete">Delete Rubric</a></li>
-            </ul>
-        </div><!-- /navbar -->
+		
 	</div><!-- /footer -->
             <div data-role="popup" id="errorpop" data-overlay-theme="b" data-theme="b" data-dismissible="false" style="max-width:400px;" class="ui-corner-all">
                 <div data-role="header" data-theme="a" class="ui-corner-top">  
@@ -290,6 +291,14 @@
         <h1>Manage Classes</h1>
         <a href="#nav-classes" data-icon="bars" data-iconpos="notext">Menu</a>
         <a href="#right-classes" data-icon="info" data-iconpos="notext">Add</a>
+        <div data-role="navbar" >
+            <ul>
+                <li><a href="#" id="addclasslink" data-icon="plus">New Class</a></li>
+                <li><a href="#" id="delclasslink" data-icon="delete">Delete Class</a></li>
+                <li><a href="#" id="addstlink" data-icon="user">Add Student</a></li>
+                <li><a href="#" id="delstlink" data-icon="delete" >Delete Student</a></li>
+            </ul>
+        </div><!-- /navbar -->
     </div><!-- /header -->
     <div role="main" class="ui-content jqm-content jqm-fullwidth">
         <div class="container" style="padding: 0px; text-align:center">
@@ -353,14 +362,7 @@
         </div>                   
 	</div><!-- /content -->
     <div data-role="footer" data-position="fixed" >
-		<div data-role="navbar" >
-            <ul>
-                <li><a href="#" id="addclasslink" data-icon="plus">New Class</a></li>
-                <li><a href="#" id="delclasslink" data-icon="delete">Delete Class</a></li>
-                <li><a href="#" id="addstlink" data-icon="user">Add Student</a></li>
-                <li><a href="#" id="delstlink" data-icon="delete" >Delete Student</a></li>
-            </ul>
-        </div><!-- /navbar -->
+		
 	</div><!-- /footer -->
     <div data-role="popup" id="errorpopcl" data-overlay-theme="b" data-theme="b" data-dismissible="false" style="max-width:400px;" class="ui-corner-all">
                 <div data-role="header" data-theme="a" class="ui-corner-top">
@@ -424,6 +426,13 @@
         <h1>Assessment</h1>
         <a href="#nav-assess" data-icon="bars" data-iconpos="notext">Menu</a>
         <a href="#right-assess" data-icon="info" data-iconpos="notext">Add</a>
+        <div data-role="navbar" >
+            <ul>
+                <li><a href="#" id="loadassesslink" data-icon="grid">Open</a></li>
+                <li><a href="#" id="newassesslink" data-icon="plus">New</a></li>
+                <li><a href="#" id="delassesslink" data-icon="delete">Delete</a></li>
+            </ul>
+        </div><!-- /navbar -->
     </div><!-- /header -->
     <div role="main" class="ui-content jqm-content jqm-fullwidth">
         
@@ -501,19 +510,13 @@
                         <div hidden="hidden">
                             <textarea name="hiddennotes" id="hiddennotes"></textarea></div>
                         <div>
-                            <button id="exportreportBtn" data-icon="mail">send</button></div>
+                            <button id="exportreportBtn" data-icon="mail" class="show-page-loading-msg" data-textonly="false" data-textvisible="false">send</button></div>
                     </form>
                 </div>
             </div>                   
 	</div><!-- /content -->
     <div data-role="footer" data-position="fixed" >
-		<div data-role="navbar" >
-            <ul>
-                <li><a href="#" id="loadassesslink" data-icon="grid">Open</a></li>
-                <li><a href="#" id="newassesslink" data-icon="plus">New</a></li>
-                <li><a href="#" id="delassesslink" data-icon="delete">Delete</a></li>
-            </ul>
-        </div><!-- /navbar -->
+		
 	</div><!-- /footer -->
     <div data-role="popup" id="assesspopup" data-overlay-theme="b" data-theme="b" data-dismissible="false" style="max-width:400px;" class="ui-corner-all">
                 <div data-role="header" data-theme="a" class="ui-corner-top">
