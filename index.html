@@ -135,7 +135,7 @@
             <div id="buildrubric" hidden="hidden">
                 <h2 id="rubriclabel"></h2>
                 <div id="editrubric" hidden="hidden">
-                    <select id="rubric-select" data-icon="bullets" data-iconpos="left">
+                    <select id="rubric-select" data-icon="bullets" data-iconpos="left" data-native-menu="false">
                             <option>select rubric</option>
                     </select>                 
                    </div><!-- /edit --> 
@@ -150,7 +150,7 @@
                     <form>
                         <fieldset data-role="controlgroup" data-type="horizontal">
                             <legend></legend>
-                            <select name="gradedd" id="gradedd">
+                            <select name="gradedd" id="gradedd" >
                                 <option value="#">Grade</option>
                                 <option>k</option>
                                     <option>1</option>
@@ -166,7 +166,7 @@
                                     <option>20</option>
                                     <option>30</option>
                             </select>   
-                            <select name="subdd" id="subdd">
+                            <select name="subdd" id="subdd" >
                                 <option value="#">Subject</option>       
                             </select>
                         </fieldset>
@@ -859,7 +859,7 @@
                 </div>
                     <img style="display:none;width:60px;height:60px;" id="LargeImage" src="" />
                 <div>
-                    <button id="openphoto" onclick="getPhoto(pictureSource.PHOTOLIBRARY);" data-inline="true" data-icon="camera" >change picture</button>
+                    <button id="openphoto" onclick="getPhoto(pictureSource.SAVEDPHOTOALBUM);" data-inline="true" data-icon="camera" >change picture</button>
                     <p>Assessment notes:</p>
                     <textarea id="anecdote" placeholder="Enter notes here"></textarea>
                 </div>       
