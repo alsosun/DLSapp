@@ -96,7 +96,8 @@ function capturePhoto() {
     // Take picture using device camera and retrieve image as base64-encoded string
     navigator.camera.getPicture(onPhotoURISuccess, onFail, {
         quality: 50,
-        destinationType: destinationType.FILE_URI
+        destinationType: destinationType.FILE_URI,
+        saveToPhotoAlbum: true
     });
 }
 
@@ -118,7 +119,7 @@ function getPhoto(source) {
         quality: 50,
         destinationType: destinationType.FILE_URI,
         sourceType: source,
-        saveToPhotoAlbum: true
+        
     });
 }
 
