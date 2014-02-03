@@ -423,8 +423,8 @@ $(document).ready(function () {
 
         $('#rubricname').val(exrubricname);
         $('#hiddenrubric').val(exrubric);
-        $("#rubricform").submit();
         $('#loader').show();
+        $("#rubricform").submit();       
         return true;
     });
     //end of rubrics
@@ -923,8 +923,9 @@ $(document).ready(function () {
         $('#hiddennotes').val(notes);
         $('#reportname').val(exreportname);
         $('#reporttable').val(exreport);
-        $("#reportform").submit();
         $('#loader2').show()
+        $("#reportform").submit();
+        
     });
     function exportNotes() {
         //loop through stds and get notes to a <p></p>
