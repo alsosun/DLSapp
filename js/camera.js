@@ -10,8 +10,32 @@ document.addEventListener("deviceready", onDeviceReady, false);
 function onDeviceReady() {
     pictureSource = navigator.camera.PictureSourceType;
     destinationType = navigator.camera.DestinationType;
+    //for ios save to /documents
+    window.requestFileSystem = window.requestFileSystem || window.webkitRequestFileSystem;
+    window.requestFileSystem(LocalFileSystem.PERSISTENT, 0, gotFS, fail);
    
 }
+//for IOS save image
+function downloadImage(url, success, err) {
+    alert('download image ' + url);
+
+    var fileName = new Date().getTime() + ".jpg";
+    ft = new FileTransfer();
+    ft.download(
+	    url,
+	    window.appRootDir.fullPath + "/" + fileName,
+	    function (entry) {
+	        alert("download complete: " + entry.fullPath);
+	        success(entry.fullPath);
+	    },
+	    function (error) {
+	        alert("download error source " + error.source);
+	        
+	        err(error);
+	    }
+	);
+}
+
 
 // Called when a photo is successfully retrieved
 //
@@ -94,7 +118,8 @@ function scale2(width, height, padding, border) {
 //
 function capturePhoto() {
     // Take picture using device camera and retrieve image as base64-encoded string
-    navigator.camera.getPicture(onPhotoURISuccess, onFail, {
+    //navigator.camera.getPicture(onPhotoURISuccess, onFail, {
+        navigator.camera.getPicture(downloadImage, onFail, {
         quality: 50,
         destinationType: destinationType.FILE_URI,
         saveToPhotoAlbum: true
