@@ -16,24 +16,31 @@ function onDeviceReady() {
    
 }
 //for IOS save image
-function downloadImage(url, success, err) {
-    alert('download image ' + url);
+function fail() {
+    console.log("failed to get filesystem");
+}
 
-    var fileName = new Date().getTime() + ".jpg";
-    ft = new FileTransfer();
+function gotFS(fileSystem) {
+    alert("got filesystem");
+
+    // save the file system for later access
+    console.log(fileSystem.root.fullPath);
+    window.rootFS = fileSystem.root;
+}
+
+function downloadImage(url, fileName) {
+    var ft = new FileTransfer();
     ft.download(
-	    url,
-	    window.appRootDir.fullPath + "/" + fileName,
-	    function (entry) {
-	        alert("download complete: " + entry.fullPath);
-	        success(entry.fullPath);
-	    },
-	    function (error) {
-	        alert("download error source " + error.source);
-	        
-	        err(error);
-	    }
-	);
+        url,
+        window.rootFS.fullPath + "/" + fileName,
+        function (entry) {
+            alert("download complete: " + entry.fullPath);
+
+        },
+        function (error) {
+            alert("download error" + error.code);
+        }
+    );
 }
 
 

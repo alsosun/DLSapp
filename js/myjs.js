@@ -852,7 +852,7 @@ $(document).ready(function () {
         var currentassessment = localStorage.getItem("currentassess")
         var currentreport = $("#report").html();
         localStorage.setItem(currentassessment + "report", currentreport);
-        $("#assesspopmessage").html("Assessment progress is saved. To continue at a later time, select 'Open' from the menu below");
+        $("#assesspopmessage").html("Assessment progress is saved. To continue at a later time, select 'Open' from the menu above");
         $("#assesspopup").popup("open");
     });
     //save progress auto
@@ -1037,24 +1037,23 @@ $(document).ready(function () {
         var currentassessment = localStorage.getItem("currentassess")
         //check if link to image exists and set up popup
         var note = localStorage.getItem(currentassessment + "note" + stvalue)
-        var piclink = localStorage.getItem(currentassessment + "piclink" + stvalue)
+        //var piclink = localStorage.getItem(currentassessment + "piclink" + stvalue)
         $("#anecdote").val(note)
         $("#stdimagename").html(stname)
-        var imageURI
-        if (piclink == null) {
-            imageURI = "assests/images/noimage.png"
-        } else {
-            imageURI = piclink
-        }   
-        //$("#picpop").on("popupbeforeposition", function () {
-           var size = scale(497, 298, 15, 1),
-               w = size.width,
-                h = size.height,
-               markup = "<img src='" + imageURI + "' width='" + w + "' height='" + h + "' />";
+        //var imageURI
+        //if (piclink == null) {
+        //    imageURI = "assests/images/noimage.png"
+        //} else {
+        //    imageURI = piclink
+        //}   
+        
+           //var size = scale(497, 298, 15, 1),
+           //    w = size.width,
+           //     h = size.height,
+           //    markup = "<img src='" + imageURI + "' width='" + w + "' height='" + h + "' />";
 
-           $("#pic").html(markup)
-        alert(imageURI)
-        //});     
+           //$("#pic").html(markup)
+             
     };
     $("#picpopdone").on("click", function () {
         var stvalue = $("#assess-st-select option:selected").val();
