@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>Saskatchewan Ministry Of Education</pdf>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Treaty Relationships (TR)</goal_heading>
+      <outcome id="TR">
+        <identifier>TR</identifier>
+        <outcome_text>TR5: Examine the concepts of colonization and decolonization and analyze their effects. 
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Recognize the impact of colonization and assimilation policies of the Canadian government on First Nations and Métis societies.
+</p>
+            <p>Examine effects of racism on relationships among Saskatchewan people.
+</p>
+            <p>Investigate the current process of decolonization and the impact this has on all Canadian people.	</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Spirit and Intent of Treaties (SI)</goal_heading>
+      <outcome id="SI">
+        <identifier>SI</identifier>
+        <outcome_text>SI5: Analyze how symbols used by treaty signatories contributed to the treaty making process. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate how symbols were used throughout history to influence people (e.g., promote solidarity or intimidate and control people).</p>
+            <p>Compare the symbols associated with the Canadian judicial system (British Crown) and the symbols used by the First Nation peoples during treaty making.
+</p>
+            <p>Investigate and report on the significance of symbols that depict the peaceful and harmonious relations between two sovereign nations (e.g., pipe ceremony, feasts and festivals, doves, handshake, or gatherings).	
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Historical Context (HC)</goal_heading>
+      <outcome id="HC">
+        <identifier>HC</identifier>
+        <outcome_text>HC5: Analyze the concept of self-government as it applies to First Nation and Métis people. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe First Nations and Métis political organizations in Canada and Saskatchewan.
+</p>
+            <p>Identify First Nations and Métis leaders who were instrumental in the establishment of their political systems and structures.
+</p>
+            <p>Investigate challenges and opportunities facing First Nation and Métis political organizations today.
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Treaty Promises and Provisions (TPP)</goal_heading>
+      <outcome id="TPP">
+        <identifier>TPP</identifier>
+        <outcome_text>TPP5: Analyze the benefits of treaties for all people in Saskatchewan from a contemporary perspective. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify contemporary results of Saskatchewan Treaties (e.g., urban reserves, economic development, resource sharing).
+</p>
+            <p>Examine Tribal Councils or First Nation Bands who have urban land holdings and/or commercial enterprises and the resulting benefits to all Saskatchewan people.
+</p>
+            <p>Investigate contemporary negotiations that support treaties as living agreements.
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

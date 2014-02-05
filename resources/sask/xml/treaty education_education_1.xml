@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>Saskatchewan Ministry Of Education</pdf>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Treaty Relationships (TR)</goal_heading>
+      <outcome>
+        <identifier>TR</identifier>
+        <outcome_text>TR1: Examine how sharing contributes to treaty relationships.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe how sharing occurs in families, classrooms and communities.</p>
+			</indicator>
+			<indicator>
+            <p>Explore, using family and community members as a resource, the diverse views on what it means to share (e.g. the land and resources from the land on which we live).</p>
+			</indicator>
+			<indicator>
+            <p>Represent how sharing was of benefit in early contact between First Nation peoples andexplorers.</p>
+			</indicator>			
+          
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Spirit and Intent of Treaties (SI)</goal_heading>
+      <outcome id="SI">
+        <identifier>SI</identifier>
+        <outcome_text>SI1: Examine the connections between intentions and actions. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent how thoughts influence actions through personal examples (e.g., if I intend to be nice, I act in a particular way; or if I intend to help my mother or father, this just remains a nice idea, unless I take action and do something to help them).
+</p></indicator><indicator>
+            <p>Describe how some thoughts influence actions (e.g., being thankful and expressing gratitude by saying thank you establishes a pattern).</p></indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Historical Context (HC)</goal_heading>
+      <outcome id="HC">
+        <identifier>HC</identifier>
+        <outcome_text>HC1: Explore the many ways people meet their needs from nature and the land on which they live.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe various uses (e.g., food, clothing, shelter) of buffalo, elk, moose, and caribou, now and in the past.
+</p></indicator><indicator>
+            <p>Compare how people, past and present, live on the land (e.g., agriculture, ranching, trapping, fishing, dwellings, and modes of transportation).</p></indicator><indicator>
+            <p>Explain how people helped and continue to help each other live on this land.	</p></indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Treaty Promises and Provisions (TPP)</goal_heading>
+      <outcome id="TPP">
+        <identifier>TPP</identifier>
+        <outcome_text>TPP1: Explore what is meant by We are all Treaty People. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Recognize that treaties contain
+promises for all people.
+</p></indicator><indicator>
+            <p>Represent that all Saskatchewan people are treaty people from the time the treaties were signed, through to today, and into the future.
+</p></indicator><indicator>
+            <p>Describe what a promise is using student’s personal
+experiences.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

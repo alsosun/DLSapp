@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>Saskatchewan Ministry Of Education</pdf>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Treaty Relationships (TR)</goal_heading>
+      <outcome id="TR">
+        <identifier>TR</identifier>
+        <outcome_text>TR8: Analyze the impact of treaty on the Métis people. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research and assess the role of the Métis in the treaty negotiation process.
+</p>
+            <p>Examine the role of interpreter in the treaty process (e.g. importance of language).
+</p>
+            <p>Examine the concept of Scrip, as opposed to being signatories of treaties, and explore the importance of having a land base from which to generate a livelihood.
+</p>
+            <p>Investigate how Métis peoples’ identity was impacted with their inclusion in Treaty 10.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Spirit and Intent of Treaties (SI)</goal_heading>
+      <outcome id="SI">
+        <identifier>SI</identifier>
+        <outcome_text>SI8: Assess the impact residential schools have on First Nations communities. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Compare stories of First Nations people who attended residential schools to the experiences students have had in their own schools.
+</p>
+            <p>Investigate how First Nations people were forced to learn languages and cultures other than their own.
+</p>
+            <p>Represent the effects of residential schools on First Nations’ languages and cultures.
+</p>
+            <p>Examine how First Nations and communities continue to deal with and heal from the abuses experienced by First Nation peoples in residential schools.
+</p>
+            <p>Assess the importance of the official apology offered by the Canadian government as recommended by the Royal Commission on Aboriginal Peoples for the tragic outcomes of the Residential School Era.	</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Historical Context (HC)</goal_heading>
+      <outcome id="HC">
+        <identifier>HC</identifier>
+        <outcome_text>HC8: Examine how Provincial, Territorial, and Aboriginal governments, who have not negotiated treaty, work to respect each other’s interests. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research and compare the experiences of British Columbia First Nations with the experience of people from Saskatchewan who have negotiated Treaties.
+</p>
+            <p>Analyze how respective world views influence the interests of each party who desire to enter into treaty.
+</p>
+            <p>Explore how each province and territory in Canada has worked towards developing a relationship with First Nations.	</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Treaty Promises and Provisions (TPP)</goal_heading>
+      <outcome id="TPP">
+        <identifier>TPP</identifier>
+        <outcome_text>TPP8: Assess whether the terms of treaty have been honoured and to what extent the treaty obligations have been fulfilled. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent an understanding of the concepts “Medicine Chest” and “Education”, as intended in the Treaties.
+</p>
+            <p>Relate various quality of life measures from the perspectives of First Nations and non First Nations people based on the fulfillment of treaties.
+</p>
+            <p>Propose options that may address any inequities discovered.
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

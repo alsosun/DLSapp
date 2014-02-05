@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>Saskatchewan Ministry Of Education</pdf>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Treaty Relationships (TR)</goal_heading>
+      <outcome id="TR">
+        <identifier>TR</identifier>
+        <outcome_text>TR2: Examine how the Treaties are the basis for harmonious relationships in which land and resources are shared.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine the concepts of peace and harmony and provide examples of how these concepts are expressed in people’s lives and discuss why these concepts are important.
+</p>
+            <p>Discuss the First Nations concepts of sharing (e.g., traditional community ownership vs. individual ownership) and consider what sharing the land and its resources might mean.
+</p>
+            <p>Represent examples of peaceful and harmonious relationships between First Nations and others.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Spirit and Intent of Treaties (SI)</goal_heading>
+      <outcome id="SI">
+        <identifier>SI</identifier>
+        <outcome_text>SI2: Recognize the importance of honesty when examining one’s intentions.
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Share examples of honesty.
+</p>
+            <p>Discuss the role of honesty in written or verbal expressions of intention.
+</p>
+            <p>Explore and express what may happen if honesty is separated from one’s actions (e.g., promising to do something and not doing it).	
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Historical Context (HC)</goal_heading>
+      <outcome id="HC">
+        <identifier>HC</identifier>
+        <outcome_text>HC2: Analyze the traditional forms of leadership that were in practice prior to European contact and in First Nations communities.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explore the traditional leadership practices of First Nations (e.g., matriarchal, consensus approach, spiritual).
+</p>
+            <p>Describe the concept of consensus from student’s own experience (e.g., deciding what restaurant to go to, what game to play at recess).
+</p>
+            <p>Research how decisions were made by First Nations.
+</p>
+            <p>Compare past and present ways of selecting First Nations leaders.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Treaty Promises and Provisions (TPP)</goal_heading>
+      <outcome id="TPP">
+        <identifier>TPP</identifier>
+        <outcome_text>TPP2: Develop an understanding of Treaties as sacred promises that exist between the British Crown (i.e., government) and First Nations. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Explore First Nations beliefs that treaties are special promises sealed by sacred ceremonies (e.g. pipe ceremony).
+</p>
+            <p>Recognize that the treaty suits, medals, and flags are symbols used by the British Crown to signify its commitment to uphold the promises made in the treaties.
+</p>
+            <p>Represent understanding of the concept that treaties will last for as long as the sun shines,
+grasses grow, and rivers flow.
+</p>
+            <p>Identify the Saskatchewan Numbered Treaty Territory in which they live (e.g., Treaties 2, 4, 5, 6, 8, 10).
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

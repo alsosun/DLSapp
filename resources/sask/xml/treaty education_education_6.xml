@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>Saskatchewan Ministry Of Education</pdf>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Treaty Relationships (TR)</goal_heading>
+      <outcome id="TR">
+        <identifier>TR</identifier>
+        <outcome_text>TR6: Analyze the concepts, structures and processes which have been developed for the purpose of treaty implementation.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research the various structures and processes that have been created in an effort to honour treaties.
+</p>
+            <p>Describe how the full implementation of the treaties is expected to bring positive economic implications for all people of Saskatchewan.
+</p>
+            <p>Explore the concept of sovereignty as related to First Nation peoples.
+</p>
+            <p>Explore the concept of sovereignty as related to Métis peoples.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Spirit and Intent of Treaties (SI)</goal_heading>
+      <outcome id="SI">
+        <identifier>SI</identifier>
+        <outcome_text>SI6: Analyze the importance of the preservation and promotion of First Nations and Métis languages.
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Express how one’s cultural identity is influenced by language.
+</p>
+            <p>Explore initiatives in Canada that contribute to the preservation and restoration of First Nations languages.
+</p>
+            <p>Describe how the loss of language impacts cultural identity (e.g., importance of ceremony, song, dance, storytelling).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Historical Context (HC)</goal_heading>
+      <outcome id="HC">
+        <identifier>HC</identifier>
+        <outcome_text>HC6:  Analyze how the movement towards the fulfillment of treaty obligations has positively affected all people in Saskatchewan.
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine the impact of urban reserves on livelihood (e.g., economic, social, cultural, environmental).</p>
+            <p>Examine how the Federation of Saskatchewan Indian Nations (FSIN) and other organizations supports the fulfillment of Treaties.
+</p>
+            <p> Investigate how parties to treaty are utilizing the land for economic development opportunities.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Treaty Promises and Provisions (TPP)</goal_heading>
+      <outcome id="TPP">
+        <identifier>TPP</identifier>
+        <outcome_text>TPP6: Investigate the role of the Treaty Table and the role of the Office of the Treaty
+Commissioner (OTC) in promoting good relations between signatories.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe the role that Treaty Commissioners play in facilitating the fulfillment of treaty.
+</p>
+            <p>Investigate and report on the goals and achievements of the Treaty Table and the OTC.
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

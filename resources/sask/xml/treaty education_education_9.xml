@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>Saskatchewan Ministry Of Education</pdf>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Treaty Relationships (TR)</goal_heading>
+      <outcome id="TR">
+        <identifier>TR</identifier>
+        <outcome_text>TR9: Investigate the treaty experiences of Indigenous people around the world. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Apply knowledge of Treaties in Canada to the experiences of Indigenous peoples in other countries.
+</p>
+            <p>Investigate the Canadian government’s response to the UN Declaration of the Rights for Indigenous Peoples.
+</p>
+            <p>Analyze the motives and actions of countries whose governments honour and support treaty relationships.
+</p>
+            <p>Analyze the motives and actions of countries whose governments oppress indigenous peoples.
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Spirit and Intent of Treaties (SI)</goal_heading>
+      <outcome id="SI">
+        <identifier>SI</identifier>
+        <outcome_text>SI9: Apply understanding of treaties and treaty making with world indigenous peoples. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research and compare the treaties and treaty making processes within Saskatchewan and various countries (e.g. New Zealand, Ethiopia, Brazil, Japan).
+</p>
+            <p>Analyze the purpose of symbols used in treaty making from Canada to other countries.
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Historical Context (HC)</goal_heading>
+      <outcome id="HC">
+        <identifier>HC</identifier>
+        <outcome_text>HC9: Analyze how treaty making recognizes peoples’ rights and responsibilities. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine treaties involving Indigenous people from countries other than Canada (e.g., Treaty of Waitangi).</p>
+            <p>Investigate relationships between governments and Indigenous peoples and document the instances of peaceful resolution.
+</p>
+            <p>Compare the peaceful nature which Canada employed in the treaty making with the processes in other countries.
+</p>
+            <p>Relate Canada’s treaty making process to their peace keeping role in international affairs.	</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Treaty Promises and Provisions (TPP)</goal_heading>
+      <outcome id="TPP">
+        <identifier>TPP</identifier>
+        <outcome_text>TPP9: Examine the effectiveness of treaty making in addressing the circumstances of Indigenous peoples.
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate treaties with Indigenous peoples in other countries.
+</p>
+            <p>Describe the circumstances that have prompted the negotiation of treaties in other countries.
+</p>
+            <p>Analyze the challenges Indigenous peoples face when negotiating treaties.
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

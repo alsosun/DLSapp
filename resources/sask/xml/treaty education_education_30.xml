@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>Saskatchewan Ministry Of Education</pdf>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Treaty Relationships (TR)</goal_heading>
+      <outcome id="TR">
+        <identifier>TR</identifier>
+        <outcome_text>TR12: Examine one’s position regarding the importance of the treaty relationship for the social, cultural and economic prosperity of all Saskatchewan and Canadian people.
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze data from multiple sources (e.g., oral tradition, National Council on Welfare, Assembly of First Nations, Statistics Canada, Indian and Northern Affairs Canada) to inform personal beliefs regarding the effectiveness of treaties in addressing social, cultural and economic inequities.
+</p>
+            <p>Analyze how the media currently depicts the treaty relationship and determine the effects this has on public perception.
+</p>
+            <p>Analyze what you believe about treaty relationships, why you believe it, and how you came to believe it.	</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Spirit and Intent of Treaties (SI)</goal_heading>
+      <outcome id="SI">
+        <identifier>SI</identifier>
+        <outcome_text>SI12: Investigate the values and beliefs of self, family, community, and society in relation to the importance of honouring the Spirit and Intent of treaties. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Interview family, friends and community members to determine values and beliefs in relation to treaties.
+</p>
+            <p>Describe ways people could demonstrate the spirit and intent of treaties and treaty principles (e.g., honour, respect, honesty, fairness, ethical space).
+</p>
+            <p>Reflect on and discuss personal experiences in honouring treaty principles.	</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Historical Context (HC)</goal_heading>
+      <outcome id="HC">
+        <identifier>HC</identifier>
+        <outcome_text>HC12: Examine how treaties within contemporary society impact on individual’s lives. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Describe the principles of treaty and understand the importance those principles play.
+</p>
+            <p>Evaluate one’s actions according to personal beliefs nurtured through their understanding of treaty making.
+</p>
+            <p>Analyze responses to treaties in current federal and provincial government policies.
+</p>
+            <p>Synthesize knowledge and appreciation of treaties.	</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Treaty Promises and Provisions (TPP)</goal_heading>
+      <outcome id="TPP">
+        <identifier>TPP</identifier>
+        <outcome_text>TPP12: Represent personal understanding of the concept, We Are All Treaty People. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine the benefits of treaties as a way of defining and honouring relationships between nations.
+</p>
+            <p>Describe various worldviews represented by the signing of treaty.
+</p>
+            <p>Examine the importance of decolonization as a process that supports the understanding that
+We Are All Treaty People.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>Saskatchewan Ministry Of Education</pdf>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Treaty Relationships (TR)</goal_heading>
+      <outcome id="TR">
+        <identifier>TR</identifier>
+        <outcome_text>TR3: Examine the relationships between First Nation peoples and the land, before and after the
+signing of treaties.</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine the impact of
+geography (e.g., grasslands, boreal forest or woodland, grain belt, lakeland regions) on the relationship between First Nations people and the land.
+</p>
+            <p>Describe the lifestyle changes of First Nations, prior to and after placement on reserves.
+</p>
+            <p>Discuss the worldviews associated with ownership of the land and consider the impact those views have on a person’s relationship to the land.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Spirit and Intent of Treaties (SI)</goal_heading>
+      <outcome id="SI">
+        <identifier>SI</identifier>
+        <outcome_text>SI3: Examine how various teachings people have about the natural world guide behaviour and actions.
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Interview family members to learn the stories and teachings they hold related to nature and Mother Earth, and explore the intended meaning found in those stories and teachings.
+</p>
+            <p>Analyze how First Nation peoples’ beliefs guide relationships with the land and natural world.
+</p>
+            <p>Compare the First Nations and British Crown view of the treaties with respect to land and ownership.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Historical Context (HC)</goal_heading>
+      <outcome id="HC">
+        <identifier>HC</identifier>
+        <outcome_text>HC3: Explore the benefits that each of the parties to treaty enjoy.
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Recognize how all Saskatchewan people are beneficiaries of treaty (e.g., sharing of natural resources, access to vast tracts of land, peaceful means of living with one another).</p>
+            <p>Recognize that treaty benefits flow equally to all peoples in Saskatchewan living in Treaty 4,
+5, 6, 8, and 10 areas.
+</p>
+            <p>Discuss what the benefits of treaties are for First Nations (e.g., education, health).
+</p>
+            <p>Discuss what the benefits of treaties are for non-First Nations (e.g., access to land for farming).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Treaty Promises and Provisions (TPP)</goal_heading>
+      <outcome id="TPP">
+        <identifier>TPP</identifier>
+        <outcome_text>TPP3: Explore how the use of different languages in treaty making presented challenges
+and how those challenges impact people today. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research various languages spoken during treaty making in the treaty territory in which students live.
+</p>
+            <p>Express challenges faced by all people when their first language is not spoken in the
+communities where they live.
+</p>
+            <p>Investigate how language used in the treaty making process limited mutual understandings of differing worldviews.
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

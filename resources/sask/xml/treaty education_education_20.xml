@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>Saskatchewan Ministry Of Education</pdf>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Treaty Relationships (TR)</goal_heading>
+      <outcome id="TR">
+        <identifier>TR</identifier>
+        <outcome_text>TR11: Examine how Canada’s process of treaty making could be applied to situations in other parts of the world where Indigenous people have struggled to have rights recognized.
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Apply the principles of Canadian treaty making as a means for resolving conflict and represent it (e.g. dramatization, visual, dance, oral representation, multi media presentation).</p>
+            <p>Investigate how the United Nations addresses issues regarding the self- determination of Indigenous peoples.	</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Spirit and Intent of Treaties (SI)</goal_heading>
+      <outcome id="SI">
+        <identifier>SI</identifier>
+        <outcome_text>SI11: Analyze how the unfulfilled aspects of treaties, with international indigenous people, have resulted in inequities.
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Analyze international examples of treaties involving indigenous peoples that have resulted in inequities.
+</p>
+            <p>Research how the Indian Act and its implementation differ in practice from First Nation governance structures.
+</p>
+            <p>Explore legal, political, ethical, and social impacts within Canada where Treaties do not exist.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Historical Context (HC)</goal_heading>
+      <outcome id="HC">
+        <identifier>HC</identifier>
+        <outcome_text>HC11: Evaluate specific treaties that have been, or currently are, in place globally to determine their effectiveness.
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Conduct an inventory of the various treaties that currently exist.
+</p>
+            <p>Assess the various motives for entering into treaty.
+</p>
+            <p>Construct a recommendation as to the effectiveness of treaty as a means for addressing conflict
+(e.g., a motion, passing of a law).</p>
+            <p>Research UN resolutions and initiatives in relation to self-determination of indigenous peoples.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Treaty Promises and Provisions (TPP)</goal_heading>
+      <outcome id="TPP">
+        <identifier>TPP</identifier>
+        <outcome_text>TPP11: Analyze the impact Canadian treaties could have on resolving global conflict. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Assess Canadian treaty making processes and compare to treaty processes from around the world.
+</p>
+            <p>Assess the leadership role Canada plays internationally in treaty making.
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

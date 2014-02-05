@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>Saskatchewan Ministry Of Education</pdf>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Treaty Promises and Provisions (TPP)</goal_heading>
+      <outcome id="TPP">
+        <identifier>TPP</identifier>
+        <outcome_text>TPP4: Examine the objectives of the First Nations and British Crown’s representatives in negotiating treaty. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine the benefits each signatory hoped to achieve.
+</p>
+            <p>Analyze the challenges and opportunities associated with negotiating treaties (e.g., communication among groups, transportation, participation, preservation of language and cultural practices).
+</p>
+            <p>Identify how each of the signatories to treaty recorded the events.
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Spirit and Intent of Treaties (SI)</goal_heading>
+      <outcome id="SI">
+        <identifier>SI</identifier>
+        <outcome_text>SI4: Examine the intent of treaty in relation to education. 
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Discuss why First Nations signatories believed there was a benefit to both European education and traditional ways of learning.
+</p>
+            <p>Research the forms of education that First Nations people have experienced since the treaties were signed.
+</p>
+            <p>Discuss why some First Nations peoples refer to “education is our new buffalo” (i.e., the means
+to survive in the new world with the newcomers).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Historical Context (HC)</goal_heading>
+      <outcome id="HC">
+        <identifier>HC</identifier>
+        <outcome_text>HC4: Explore the historical reasons why people entered into treaty.
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine how the disappearance of the buffalo and the loss of traditional hunting and trapping territories created a need for First Nations to enter into treaties.</p>
+            <p>Explore how people used the land before the community students are living in was formed.
+</p>
+            <p>Recognize that treaties provided opportunity for newcomers to live on and share the land of what is now Saskatchewan.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Treaty Relationships (TR)</goal_heading>
+      <outcome id="TR">
+        <identifier>TR</identifier>
+        <outcome_text>TR4: Analyze how relationships are affected when treaty promises are kept or broken. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent examples of promises experienced in their families, classrooms and communities.
+</p>
+            <p>Discuss the impact on relationships when promises are kept or broken.
+</p>
+            <p>Identify treaty promises from the local treaty territory and the extent to which those treaty promises have been fulfilled
+</p>
+            <p>Discuss the effect of unfulfilled treaty promises on relationships.
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

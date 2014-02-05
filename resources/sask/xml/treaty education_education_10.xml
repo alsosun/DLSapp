@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>Saskatchewan Ministry Of Education</pdf>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Treaty Relationships (TR)</goal_heading>
+      <outcome id="TR">
+        <identifier>TR</identifier>
+        <outcome_text>TR10: Examine contemporary economic implications of Treaties for all the people of
+Saskatchewan and other Canadian jurisdictions. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Investigate the economic impact that First Nations have on the provincial and territorial economies and the resulting benefits for all people (e.g. natural resources; hunting, fishing and gathering; tourism; hospitality; gaming).
+</p>
+            <p>Evaluate the impact that First Nations have on local economies.
+</p>
+            <p>Investigate the cost of fulfilling treaties within Saskatchewan and other Canadian jurisdictions.
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Spirit and Intent of Treaties (SI)</goal_heading>
+      <outcome id="SI">
+        <identifier>SI</identifier>
+        <outcome_text>SI10: Analyze the spirit and intent of Treaties and investigate the extent to which they have been fulfilled.
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify spirit and intent of the terms of treaty.
+</p>
+            <p>Imagine and describe what our society would look like today if all treaty obligations had been completely fulfilled and what it could look like into the future (e.g., Maori influence on New Zealand institutions).	</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Historical Context (HC)</goal_heading>
+      <outcome id="HC">
+        <identifier>HC</identifier>
+        <outcome_text>HC10: Investigate opportunities and challenges faced by First Nations and the Government of Canada in relation to governance issues.
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Examine the impact of federal, provincial, and municipal government policies on the fulfillment of Treaties.
+</p>
+            <p>Research public policy as it relates to self-government.
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Treaty Promises and Provisions (TPP)</goal_heading>
+      <outcome id="TPP">
+        <identifier>TPP</identifier>
+        <outcome_text>TPP10: Investigate issues related to resource development and Treaties.
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research crown and private corporations that are involved in resource development to investigate the relationship they have with First Nations.
+</p>
+            <p>Investigate court rulings that have set the stage for resource development in Saskatchewan.
+</p>
+            <p>Examine the positions of First Nations and Government agencies responsible for the
+stewardship and management of resources (e.g., duty to consult process).
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>

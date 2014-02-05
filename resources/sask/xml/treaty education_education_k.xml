@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+<pdf>Sask Ministry of Education</pdf>
+<outcomes>
+  <goal_section>
+    <goal_heading>Treaty Relationships (TR)</goal_heading>
+    <outcome id="TR">
+      <identifier>TR</identifier>
+      <outcome_text>Examine the diversity of First Nations peoples living in Saskatchewan starting with the classrooms and communities in which they live. </outcome_text>
+      <indicators>
+        <indicator>
+          <p>Share, in a variety of ways, the languages and traditions that exist within their families, classrooms and communities. </p>
+          <p>Recognize that people come from a variety of cultures with commonalities and differences. </p>
+          <p>Describe the diversity of First Nations cultures that exist within communities (e.g. Dakota/Lakota, Nakota, Anishinabe, nehiyawak, Dene).</p>
+          <p>Recognize that children born with both First Nation and European ancestry are now called “Métis.”</p>
+          <p>Compare similarities across and among First Nations and other cultures.</p>
+        </indicator>
+      </indicators>
+    </outcome>
+  </goal_section>
+  <goal_section>
+    <goal_heading>Spirit and Intent of Treaties (SI)</goal_heading>
+    <outcome id="SI">
+      <identifier>SI</identifier>
+      <outcome_text>Express personal connectedness to nature and one another (e.g., Circle of Life, seasons, elements, weather, families, and relatives). </outcome_text>
+      <indicators>
+        <indicator>
+          <p>Recognize that all people are connected to each other and to nature.</p>
+          <p>Recognize that according to First Nation traditional beliefs children are sacred gifts to the world. </p>
+          <p>Represent how we are part of an interconnected web (e.g., a family member, a community member, a human interconnected to all life).</p>
+          <p>Share examples of how we experience nature in our lives (e.g., day and night, wood grain, scales on a fish, heartbeats).</p>
+        </indicator>
+      </indicators>
+    </outcome>
+  </goal_section>
+  <goal_section>
+    <goal_heading>Historical Context (HC)</goal_heading>
+    <outcome id="HC">
+      <identifier>HC</identifier>
+      <outcome_text>Explore the connection all people have to the land as expressed through stories, traditions, and ceremonies. </outcome_text>
+      <indicators>
+        <indicator>
+          <p>Discuss stories and traditions that show personal connection to the land. </p>
+          <p>Describe how people use resources from nature, now and in the past.</p>
+          <p>Discuss how First Nations respect and honour living things through stories, traditions and ceremonies.</p>
+        </indicator>
+      </indicators>
+    </outcome>
+  </goal_section>
+  <goal_section>
+    <goal_heading>Treaty Promises and Provisions (TPP)</goal_heading>
+    <outcome id="TPP">
+      <identifier>TPP</identifier>
+      <outcome_text>Examine the intent of different kinds of promises. </outcome_text>
+      <indicators>
+        <indicator>
+          <p>Describe own beliefs related to the meaning and importance of keeping promises.</p>
+          <p>Represent understanding of different kinds of promises.</p>
+          <p>Explore the ways and symbols used to express the making and keeping of a promise (e.g., a handshake, a ceremony, writing it down, or telling someone).	</p>
+        </indicator>
+      </indicators>
+    </outcome>
+  </goal_section>
+ </outcomes>
+</curriculum>

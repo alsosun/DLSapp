@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curriculum>
+  <pdf>Saskatchewan Ministry Of Education</pdf>
+  <outcomes>
+    <goal_section>
+      <goal_heading>Treaty Relationships (TR)</goal_heading>
+      <outcome id="TR">
+        <identifier>TR</identifier>
+        <outcome_text>
+TR7: Analyze to what extent each of the signatories to treaty meets their respective obligations.
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Compare the meanings of “commitments” and “obligations” from the different world views.
+</p>
+            <p>Examine how the federal government addresses the commitments made in the treaties.
+</p>
+            <p>Examine how the obligations of First Nations have been met.
+</p>
+            <p>Research the repatriation of the Canadian Constitution (1982).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Spirit and Intent of Treaties (SI)</goal_heading>
+      <outcome id="SI">
+        <identifier>SI</identifier>
+        <outcome_text>SI7: Examine Oral Tradition as a valid way of preserving accounts of what transpired and what was intended by entering into treaty. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Represent the ways oral tradition is used by diverse cultures, starting with First Nations.
+</p>
+            <p>Explain how written and oral accounts might differ from one another.
+</p>
+            <p>Examine the role of ceremony, traditions and story in transferring knowledge from generation to generation.
+</p>
+            <p>Compare the recorded accounts of treaty from the perspectives of the Crown and the First Nations.
+</p>
+            <p>Research oral accounts of treaty as passed on to each generation by Elders.
+</p>
+            <p>Research visual representations that supported the oral tradition of treaty (e.g., Chief Pasqua’s pictograph, wampum belts).</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Historical Context (HC)</goal_heading>
+      <outcome id="HC">
+        <identifier>HC</identifier>
+        <outcome_text>HC7: Examine the Indian Act, including its amendments, and explore the effects it has on the lives of First Nations.
+</outcome_text>
+        <indicators>
+          <indicator>
+            <p>Identify the elements/big ideas of the Indian Act, including its amendments.
+</p>
+            <p>Examine the effects of the Indian Act on the lives of First Nations.</p>
+            <p>Investigate how the treatment of Aboriginal veterans differed from non-Aboriginal veterans.
+</p>
+            <p>Investigate the process whereby First Nation peoples acquired the full rights of Canadian citizenship including the right to vote.</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+    <goal_section>
+      <goal_heading>Treaty Promises and Provisions (TPP)</goal_heading>
+      <outcome id="TPP">
+        <identifier>TPP</identifier>
+        <outcome_text>TPP7: Investigate the impact of Bill C31 on the equality of genders under the Indian Act. </outcome_text>
+        <indicators>
+          <indicator>
+            <p>Research the concept of “Status Indian” and determine the implications of this concept on the government’s fulfillment of treaty.
+</p>
+            <p>Investigate traditional kinship patterns and explain how First Nations would have traditionally determined their membership.
+</p>
+          </indicator>
+        </indicators>
+      </outcome>
+    </goal_section>
+  </outcomes>
+</curriculum>
